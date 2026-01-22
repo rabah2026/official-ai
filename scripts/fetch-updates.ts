@@ -31,51 +31,115 @@ async function fetchUpdates() {
     // Extraction function for consistency
     async function enrichItem(item: UpdateItem, companyName: string) {
         try {
-            await new Promise(r => setTimeout(r, 300)); // small delay
+            await new Promise(r => setTimeout(r, 1500)); // Increased delay to avoid rate limits
             const pageRes = await fetch(item.url, {
-                headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36' }
+                headers: {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+                    'Accept-Language': 'en-US,en;q=0.9',
+                    'Cache-Control': 'no-cache',
+                    'Pragma': 'no-cache',
+                    'Sec-Ch-Ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+                    'Sec-Ch-Ua-Mobile': '?0',
+                    'Sec-Ch-Ua-Platform': '"Windows"',
+                    'Sec-Fetch-Dest': 'document',
+                    'Sec-Fetch-Mode': 'navigate',
+                    'Sec-Fetch-Site': 'none',
+                    'Sec-Fetch-User': '?1',
+                    'Upgrade-Insecure-Requests': '1'
+                }
             });
+
             if (pageRes.ok) {
                 const pageHtml = await pageRes.text();
                 const page$ = cheerio.load(pageHtml);
 
                 // Clean Title: Prefer og:title or h1
-                const ogTitle = page$('meta[property="og:title"]').attr('content');
+                const ogTitle = page$('meta[property="og:title"]').attr('content') || page$('meta[name="og:title"]').attr('content');
                 const h1Title = page$('h1').first().text().trim();
 
                 if (ogTitle && ogTitle.length > 5) {
                     // Remove site suffix
-                    item.title = ogTitle.replace(new RegExp(`\\s*[|\\\\-–—]\\s*(${companyName}|Official).*$`, 'i'), '').trim();
+                    item.title = ogTitle.replace(new RegExp(`\\s*[|\\\\-–—]\\s*(${companyName}|Official|Meta AI|Meta).*$`, 'i'), '').trim();
                 } else if (h1Title && h1Title.length > 5) {
                     item.title = h1Title;
                 }
 
-                // Clean Date: Look for time element or meta date
-                const timeEl = page$('time[datetime]').first().attr('datetime');
-                const metaDate = page$('meta[property="article:published_time"]').attr('content');
-                const dateMatch = pageHtml.match(/(\d{4}-\d{2}-\d{2})/); // ISO date pattern
+                // Clean Date: Multiple extraction strategies
+                let extractedDate: Date | null = null;
 
-                if (timeEl) {
-                    item.date = new Date(timeEl).toISOString();
-                } else if (metaDate) {
-                    item.date = new Date(metaDate).toISOString();
-                } else if (dateMatch) {
-                    item.date = new Date(dateMatch[1]).toISOString();
+                // Strategy 1: JSON-LD Schema (most reliable for modern sites)
+                const jsonLdScript = page$('script[type="application/ld+json"]').text();
+                if (jsonLdScript) {
+                    try {
+                        const jsonLd = JSON.parse(jsonLdScript);
+                        const datePublished = jsonLd.datePublished || jsonLd['@graph']?.[0]?.datePublished;
+                        if (datePublished) extractedDate = new Date(datePublished);
+                    } catch { /* ignore parse errors */ }
                 }
 
-                // Summary: Meta description
+                // Strategy 2: time element with datetime
+                if (!extractedDate) {
+                    const timeEl = page$('time[datetime]').first().attr('datetime');
+                    if (timeEl) extractedDate = new Date(timeEl);
+                }
+
+                // Strategy 3: meta article:published_time
+                if (!extractedDate) {
+                    const metaDate = page$('meta[property="article:published_time"]').attr('content') || page$('meta[name="article:published_time"]').attr('content');
+                    if (metaDate) extractedDate = new Date(metaDate);
+                }
+
+                // Strategy 4: ISO date pattern in HTML (YYYY-MM-DD)
+                if (!extractedDate) {
+                    const isoMatch = pageHtml.match(/(\d{4}-\d{2}-\d{2})/);
+                    if (isoMatch) extractedDate = new Date(isoMatch[1]);
+                }
+
+                // Strategy 5: Human-readable date (e.g., "January 22, 2026")
+                if (!extractedDate) {
+                    const humanDateMatch = pageHtml.match(/(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+\d{4}/i);
+                    if (humanDateMatch) extractedDate = new Date(humanDateMatch[0]);
+                }
+
+                // Debug logging for Meta AI to understand failure
+                if (item.url.includes('ai.meta.com')) {
+                    console.log(`[Meta Debug] Enriched ${item.url}`);
+                    console.log(`  - Title found: ${item.title}`);
+                    console.log(`  - Date extracted: ${extractedDate}`);
+                    if (!extractedDate) {
+                        console.log(`  - HTML Preview: ${pageHtml.substring(0, 500).replace(/\n/g, ' ')}...`);
+                        if (pageHtml.includes('challenge') || pageHtml.includes('captcha') || pageHtml.includes('Cloudflare')) {
+                            console.log(`  - BLOCK DETECTED!`);
+                        }
+                    }
+                }
+
+                // Only update if we found a valid date (not NaN)
+                if (extractedDate && !isNaN(extractedDate.getTime())) {
+                    // Check if it's way in the future (e.g. parsed wrong year) - allow 1 year slack
+                    if (extractedDate.getFullYear() <= new Date().getFullYear() + 1) {
+                        item.date = extractedDate.toISOString();
+                    }
+                }
+
+                // Summary: Meta description or og:description
                 let summary = page$('meta[name="description"]').attr('content') || '';
-                if (!summary) summary = page$('meta[property="og:description"]').attr('content') || '';
+                if (!summary) summary = page$('meta[property="og:description"]').attr('content') || page$('meta[name="og:description"]').attr('content') || '';
+
                 if (!summary) {
-                    const firstP = page$('article p, main p, .content p').first().text().trim();
+                    // Try first paragraph in article or main content
+                    const firstP = page$('article p, main p, .content p, [class*="blog"] p, p').first().text().trim();
                     if (firstP.length > 50) summary = firstP;
                 }
 
                 if (summary && summary.length > 160) summary = summary.substring(0, 157) + '...';
                 item.summary = summary;
+            } else {
+                console.log(`  -> Failed to fetch URL ${item.url}: ${pageRes.status}`);
             }
         } catch (e) {
-            // Ignore fetch errors for individual pages
+            console.log(`  -> Exception in enrichItem for ${item.url}:`, e);
         }
     }
 
@@ -162,7 +226,7 @@ async function fetchUpdates() {
                             'Accept-Language': 'en-US,en;q=0.9',
                             'Cache-Control': 'no-cache',
                             'Pragma': 'no-cache',
-                            'Sec-Ch-Ua': '"Chromium";v="122", "Not(A:Brand)";v="24", "Google Chrome";v="122"',
+                            'Sec-Ch-Ua': '"Chromium";v="122", "Not(A:Brand);v="24", "Google Chrome";v="122"',
                             'Sec-Ch-Ua-Mobile': '?0',
                             'Sec-Ch-Ua-Platform': '"Windows"',
                             'Sec-Fetch-Dest': 'document',
@@ -179,15 +243,34 @@ async function fetchUpdates() {
 
                     const scrapedItems: UpdateItem[] = [];
 
+                    // Common navigation/footer text to exclude
+                    const excludedTitles = ['the latest', 'featured', 'about', 'careers', 'research',
+                        'resources', 'blog', 'newsletter', 'subscribe', 'sign up', 'explore',
+                        'privacy policy', 'terms', 'cookies', 'get llama', 'try meta ai',
+                        'get meta ai', 'ai studio', 'meta ai', 'foundational models', 'our approach',
+                        'latest news', 'demos', 'infrastructure', 'people', 'llama'];
+
                     $('a').each((_: any, el: any) => {
                         const $el = $(el);
                         const href = $el.attr('href');
                         const title = $el.text().trim();
 
-                        if (!href || !title || title.length < 5) return;
+                        if (!href || !title || title.length < 10) return;
 
-                        const isContent = href.includes('/index/') || href.includes('/news/') || href.includes('/research/') || href.includes('/blog/');
+                        // Exclude navigation links
+                        if (excludedTitles.includes(title.toLowerCase())) return;
+
+                        // Must be an article-like path
+                        const isContent = href.includes('/index/') || href.includes('/news/') ||
+                            href.includes('/research/') || href.includes('/blog/');
                         if (!isContent) return;
+
+                        // For Meta AI specifically, the path should have a slug after /blog/
+                        // e.g., /blog/sam-audio/ is valid, but /blog/ alone is not
+                        if (href.includes('/blog/')) {
+                            const blogSlug = href.split('/blog/')[1];
+                            if (!blogSlug || blogSlug.length < 3 || blogSlug === '/') return;
+                        }
 
                         const fullUrl = href.startsWith('http') ? href : new URL(href, feedConfig.url).toString();
                         if (scrapedItems.find(i => i.url === fullUrl)) return;
@@ -196,7 +279,7 @@ async function fetchUpdates() {
                             id: fullUrl,
                             company: company.name,
                             title: title,
-                            date: new Date().toISOString(),
+                            date: new Date().toISOString(), // Will be enriched
                             url: fullUrl,
                             tag: deduceTag(title, fullUrl),
                             summary: ''
