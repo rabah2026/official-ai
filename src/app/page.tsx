@@ -1,65 +1,142 @@
-import Image from "next/image";
 
-export default function Home() {
+import { promises as fs } from 'fs';
+import path from 'path';
+import Link from 'next/link';
+import { UpdateCard } from '@/components/UpdateCard';
+import { FeaturedCard } from '@/components/FeaturedCard';
+import { UpdateItem, Tag } from '@/lib/types';
+
+export const revalidate = 60;
+
+async function getUpdates(): Promise<UpdateItem[]> {
+  const filePath = path.join(process.cwd(), 'data', 'updates.json');
+  try {
+    const fileContents = await fs.readFile(filePath, 'utf8');
+    return JSON.parse(fileContents);
+  } catch (error) {
+    console.warn("Could not read data/updates.json", error);
+    return [];
+  }
+}
+
+type Props = {
+  searchParams: Promise<{ tag?: string }>;
+};
+
+export default async function Home({ searchParams }: Props) {
+  const { tag } = await searchParams;
+  const updates = await getUpdates();
+
+  // Find actual model releases by looking for key terms in title
+  const modelKeywords = ['GPT', 'Claude', 'Gemini', 'Llama', 'Mistral', 'Sora', 'introducing', 'launch', 'announcing', 'new model', 'release'];
+  const featured = updates
+    .filter(u => {
+      const titleLower = u.title.toLowerCase();
+      return modelKeywords.some(kw => titleLower.includes(kw.toLowerCase())) && u.tag === 'Release';
+    })
+    .slice(0, 3);
+
+  // Filter updates by tag if selected
+  const filteredUpdates = tag ? updates.filter(u => u.tag === tag) : updates;
+
+  // Exclude featured from feed
+  const featuredIds = new Set(featured.map(f => f.id));
+  const feedUpdates = filteredUpdates.filter(u => !featuredIds.has(u.id)).slice(0, 25);
+
+  const tags: Tag[] = ['Release', 'Pricing', 'Policy', 'Security', 'Docs'];
+
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
+    <>
+      {/* Hero Section */}
+      <section className="hero-section">
+        <div className="container-max">
+          <h1 className="hero-title">
+            The Signal<br />in the Noise
           </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+          <p className="hero-subtitle">
+            <span className="hero-accent">Official.ai</span> aggregates only verified announcements from the world's leading AI labs. No rumors. No opinions. Just the facts.
           </p>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+      </section>
+
+      {/* Featured Section - Top 3 Releases */}
+      {!tag && featured.length > 0 && (
+        <section className="container-max" style={{ paddingTop: '2rem' }}>
+          <div className="section-header">
+            <h2>Featured Releases</h2>
+          </div>
+          <div className="featured-grid">
+            {featured.map((item) => (
+              <FeaturedCard key={item.id} item={item} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* All Updates Feed */}
+      <section className="container-max" style={{ paddingTop: '2rem', paddingBottom: '4rem' }}>
+        {/* Filter Tabs */}
+        <div style={{
+          display: 'flex',
+          gap: '0.75rem',
+          marginBottom: '1.5rem',
+          flexWrap: 'wrap',
+          borderBottom: '2px solid #1a1a1a',
+          paddingBottom: '1rem'
+        }}>
+          <Link
+            href="/"
+            style={{
+              padding: '0.5rem 1rem',
+              fontSize: '0.75rem',
+              fontWeight: 700,
+              textTransform: 'uppercase',
+              letterSpacing: '0.1em',
+              textDecoration: 'none',
+              background: !tag ? '#1a1a1a' : 'transparent',
+              color: !tag ? '#fff' : '#737373',
+              border: '1px solid #1a1a1a'
+            }}
           >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+            All ({updates.length})
+          </Link>
+          {tags.map(t => {
+            const count = updates.filter(u => u.tag === t).length;
+            if (count === 0) return null;
+            return (
+              <Link
+                key={t}
+                href={`/?tag=${t}`}
+                style={{
+                  padding: '0.5rem 1rem',
+                  fontSize: '0.75rem',
+                  fontWeight: 700,
+                  textTransform: 'uppercase',
+                  letterSpacing: '0.1em',
+                  textDecoration: 'none',
+                  background: tag === t ? '#1a1a1a' : 'transparent',
+                  color: tag === t ? '#fff' : '#737373',
+                  border: '1px solid #e5e4e2'
+                }}
+              >
+                {t} ({count})
+              </Link>
+            );
+          })}
         </div>
-      </main>
-    </div>
+
+        {feedUpdates.length === 0 ? (
+          <div style={{ padding: '4rem 0', textAlign: 'center', color: '#737373' }}>
+            <p>No updates found. System initializing...</p>
+          </div>
+        ) : (
+          <div className="updates-list">
+            {feedUpdates.map((item) => (
+              <UpdateCard key={item.id} item={item} />
+            ))}
+          </div>
+        )}
+      </section>
+    </>
   );
 }

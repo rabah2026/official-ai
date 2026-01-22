@@ -1,0 +1,15 @@
+Subject: Official AI Updates — Week 4
+
+Hugging Face
+- AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality (Release) https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face
+- Differential Transformer V2 (Release) https://huggingface.co/blog/microsoft/diff-attn-v2
+- Introducing Waypoint-1: Real-time interactive video diffusion from Overworld (Release) https://huggingface.co/blog/waypoint-1
+- Open Responses: What you need to know (Release) https://huggingface.co/blog/open-responses
+
+NVIDIA
+- How to Train an AI Agent for Command-Line Tasks with Synthetic Data and Reinforcement Learning (Release) https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning/
+- How to Write High-Performance Matrix Multiply in NVIDIA CUDA Tile (Release) https://developer.nvidia.com/blog/how-to-write-high-performance-matrix-multiply-in-nvidia-cuda-tile/
+
+--
+Official.ai
+Signal over noise.
