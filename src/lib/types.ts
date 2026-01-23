@@ -34,6 +34,8 @@ export interface UpdateItem {
     url: string;
     tag: Tag;
     summary?: string; // Optional one-line summary
+    title_ar?: string; // Optional Arabic title
+    summary_ar?: string; // Optional Arabic summary
 }
 
 export interface CompanyConfig {

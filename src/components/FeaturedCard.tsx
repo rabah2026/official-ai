@@ -28,7 +28,7 @@ function CategoryLabel({ tag }: { tag: Tag }) {
 }
 
 export function FeaturedCard({ item }: { item: UpdateItem }) {
-    const { t } = useLanguage();
+    const { t, isRTL } = useLanguage();
     const formattedDate = (() => {
         try {
             return format(parseISO(item.date), 'MMM d, yyyy');
@@ -37,13 +37,16 @@ export function FeaturedCard({ item }: { item: UpdateItem }) {
         }
     })();
 
+    const displayTitle = (isRTL && item.title_ar) ? item.title_ar : item.title;
+    const displaySummary = (isRTL && item.summary_ar) ? item.summary_ar : item.summary;
+
     return (
-        <article className="featured-card">
+        <article className="featured-card" dir={isRTL ? 'rtl' : 'ltr'}>
             <CategoryLabel tag={item.tag} />
 
-            <h2 className="featured-title">
+            <h2 className="featured-title" style={{ fontFamily: isRTL ? 'Amiri, serif' : undefined }}>
                 <a href={item.url} target="_blank" rel="noopener noreferrer">
-                    {item.title}
+                    {displayTitle}
                 </a>
             </h2>
 
@@ -53,9 +56,9 @@ export function FeaturedCard({ item }: { item: UpdateItem }) {
                 <time dateTime={item.date}>{formattedDate}</time>
             </div>
 
-            {item.summary && (
-                <p className="featured-summary">
-                    {item.summary}
+            {displaySummary && (
+                <p className="featured-summary" style={{ fontFamily: isRTL ? 'Noto Sans Arabic, sans-serif' : undefined }}>
+                    {displaySummary}
                 </p>
             )}
         </article>

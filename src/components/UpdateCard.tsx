@@ -28,7 +28,7 @@ function CategoryLabel({ tag }: { tag: Tag }) {
 }
 
 export function UpdateCard({ item }: { item: UpdateItem }) {
-    const { t } = useLanguage();
+    const { t, isRTL } = useLanguage();
     const formattedDate = (() => {
         try {
             return format(parseISO(item.date), 'MMM d, yyyy');
@@ -37,13 +37,16 @@ export function UpdateCard({ item }: { item: UpdateItem }) {
         }
     })();
 
+    const displayTitle = (isRTL && item.title_ar) ? item.title_ar : item.title;
+    const displaySummary = (isRTL && item.summary_ar) ? item.summary_ar : item.summary;
+
     return (
-        <article className="update-item">
+        <article className="update-item" dir={isRTL ? 'rtl' : 'ltr'}>
             <CategoryLabel tag={item.tag} />
 
-            <h2 className="update-title">
+            <h2 className="update-title" style={{ fontFamily: isRTL ? 'Amiri, serif' : undefined }}>
                 <a href={item.url} target="_blank" rel="noopener noreferrer">
-                    {item.title}
+                    {displayTitle}
                 </a>
             </h2>
 
@@ -53,9 +56,9 @@ export function UpdateCard({ item }: { item: UpdateItem }) {
                 <time dateTime={item.date}>{formattedDate}</time>
             </div>
 
-            {item.summary && (
-                <p className="update-summary">
-                    {item.summary}
+            {displaySummary && (
+                <p className="update-summary" style={{ fontFamily: isRTL ? 'Noto Sans Arabic, sans-serif' : undefined }}>
+                    {displaySummary}
                 </p>
             )}
         </article>

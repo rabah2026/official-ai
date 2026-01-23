@@ -33,17 +33,19 @@ function CategoryLabel({ tag }: { tag: Tag }) {
 
 export function GroupedUpdateCard({ group }: { group: UpdateGroup }) {
     const latest = group.items[0];
-    const { t } = useLanguage();
+    const { t, isRTL } = useLanguage();
+
+    const displayGroupTitle = (isRTL && latest.title_ar) ? latest.title_ar : group.title;
 
     return (
-        <div className="update-card group-card">
+        <div className="update-card group-card" dir={isRTL ? 'rtl' : 'ltr'}>
             <div className="card-header">
                 <CategoryLabel tag={group.tag} />
                 <span className="group-badge">{group.items.length} {t('updates_badge')}</span>
             </div>
 
-            <h3 className="update-title">
-                <Link href={latest.url} target="_blank">{group.title}</Link>
+            <h3 className="update-title" style={{ fontFamily: isRTL ? 'Amiri, serif' : undefined }}>
+                <Link href={latest.url} target="_blank">{displayGroupTitle}</Link>
             </h3>
 
             <div className="update-meta">
@@ -53,12 +55,20 @@ export function GroupedUpdateCard({ group }: { group: UpdateGroup }) {
             </div>
 
             <div className="group-list">
-                {group.items.slice(0, 5).map((item, i) => (
-                    <a key={item.id} href={item.url} target="_blank" className="group-item" title={item.title}>
-                        <span className="group-item-title">{item.title.replace(group.title, '').trim() || item.title}</span>
-                        <span className="group-item-date">{format(parseISO(item.date), 'MMM d')}</span>
-                    </a>
-                ))}
+                {group.items.slice(0, 5).map((item, i) => {
+                    const displayItemTitle = (isRTL && item.title_ar)
+                        ? (item.title_ar.replace(displayGroupTitle, '').trim() || item.title_ar)
+                        : (item.title.replace(group.title, '').trim() || item.title);
+
+                    return (
+                        <a key={item.id} href={item.url} target="_blank" className="group-item" title={item.title}>
+                            <span className="group-item-title" style={{ fontFamily: isRTL ? 'Noto Sans Arabic, sans-serif' : undefined }}>
+                                {displayItemTitle}
+                            </span>
+                            <span className="group-item-date">{format(parseISO(item.date), 'MMM d')}</span>
+                        </a>
+                    );
+                })}
                 {group.items.length > 5 && (
                     <div className="group-more">
                         + {group.items.length - 5} {t('more')}
