@@ -21,6 +21,9 @@ async function getMetadata() {
   }
 }
 
+import { Providers } from "@/components/Providers";
+import { ThemeToggle } from "@/components/ThemeToggle";
+
 export default async function RootLayout({
   children,
 }: Readonly<{
@@ -36,46 +39,49 @@ export default async function RootLayout({
   });
 
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body>
-        {/* Header */}
-        <header className="site-header">
-          <div className="header-inner">
-            <div style={{ display: 'flex', flexDirection: 'column' }}>
-              <Link href="/" className="site-logo">
-                Official.ai
-              </Link>
-              <span style={{
-                fontSize: '0.65rem',
-                color: '#737373',
-                textTransform: 'uppercase',
-                letterSpacing: '0.05em',
-                marginTop: '0.25rem'
-              }}>
-                Last Updated: {lastUpdated}
-              </span>
+        <Providers>
+          {/* Header */}
+          <header className="site-header">
+            <div className="header-inner">
+              <div style={{ display: 'flex', flexDirection: 'column' }}>
+                <Link href="/" className="site-logo">
+                  Official.ai
+                </Link>
+                <span style={{
+                  fontSize: '0.65rem',
+                  color: '#737373',
+                  textTransform: 'uppercase',
+                  letterSpacing: '0.05em',
+                  marginTop: '0.25rem'
+                }}>
+                  Last Updated: {lastUpdated}
+                </span>
+              </div>
+              <nav className="site-nav" style={{ alignItems: 'center' }}>
+                <Link href="/companies">Companies</Link>
+                <Link href="/digest">Weekly Digest</Link>
+                <ThemeToggle />
+              </nav>
             </div>
-            <nav className="site-nav">
-              <Link href="/companies">Companies</Link>
-              <Link href="/digest">Weekly Digest</Link>
-            </nav>
-          </div>
-        </header>
+          </header>
 
-        <main>
-          {children}
-        </main>
+          <main>
+            {children}
+          </main>
 
-        {/* Footer */}
-        <footer className="site-footer">
-          <div className="container-max footer-content">
-            <p className="footer-tagline">Signal over noise</p>
-            <div className="footer-links">
-              <Link href="/companies">All Companies</Link>
-              <Link href="/digest">Subscribe</Link>
+          {/* Footer */}
+          <footer className="site-footer">
+            <div className="container-max footer-content">
+              <p className="footer-tagline">Signal over noise</p>
+              <div className="footer-links">
+                <Link href="/companies">All Companies</Link>
+                <Link href="/digest">Subscribe</Link>
+              </div>
             </div>
-          </div>
-        </footer>
+          </footer>
+        </Providers>
       </body>
     </html>
   );
