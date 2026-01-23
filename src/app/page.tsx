@@ -60,10 +60,10 @@ export default async function Home({ searchParams }: Props) {
       </section>
 
       {/* Featured Section - Top 3 Releases */}
-      {!tag && featured.length > 0 && (
+      {featured.length > 0 && (
         <section className="container-max" style={{ paddingTop: '2rem' }}>
           <div className="section-header">
-            <h2>Featured Products</h2>
+            <h2>Featured Releases</h2>
           </div>
           <div className="featured-grid">
             {featured.map((item) => (
@@ -103,6 +103,8 @@ export default async function Home({ searchParams }: Props) {
           {tags.map(t => {
             const count = updates.filter(u => u.tag === t).length;
             if (count === 0) return null;
+            // Display "Releases" for "Product" tag to match user expectations
+            const label = t === 'Product' ? 'Releases' : t;
             return (
               <Link
                 key={t}
@@ -119,7 +121,7 @@ export default async function Home({ searchParams }: Props) {
                   border: '1px solid #e5e4e2'
                 }}
               >
-                {t} ({count})
+                {label} ({count})
               </Link>
             );
           })}

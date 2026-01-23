@@ -18,7 +18,7 @@ function CategoryLabel({ tag }: { tag: Tag }) {
 
     return (
         <span className={clsx('category-label', tagClasses[tag])}>
-            {tag}
+            {tag === 'Product' ? 'Release' : tag}
         </span>
     );
 }
