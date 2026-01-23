@@ -88,6 +88,7 @@ export default async function Home({ searchParams }: Props) {
         }}>
           <Link
             href="/"
+            scroll={false}
             style={{
               padding: '0.5rem 1rem',
               fontSize: '0.75rem',
@@ -109,6 +110,7 @@ export default async function Home({ searchParams }: Props) {
               <Link
                 key={t}
                 href={`/?tag=${t}`}
+                scroll={false}
                 style={{
                   padding: '0.5rem 1rem',
                   fontSize: '0.75rem',

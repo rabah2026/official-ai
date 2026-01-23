@@ -72,6 +72,7 @@ export default async function CompanyPage({ params, searchParams }: Props) {
                 }}>
                     <Link
                         href={`/companies/${companyId}`}
+                        scroll={false}
                         style={{
                             padding: '0.5rem 1rem',
                             fontSize: '0.75rem',
@@ -93,6 +94,7 @@ export default async function CompanyPage({ params, searchParams }: Props) {
                             <Link
                                 key={t}
                                 href={`/companies/${companyId}?tag=${t}`}
+                                scroll={false}
                                 style={{
                                     padding: '0.5rem 1rem',
                                     fontSize: '0.75rem',

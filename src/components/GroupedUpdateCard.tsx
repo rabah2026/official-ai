@@ -36,13 +36,13 @@ export function GroupedUpdateCard({ group }: { group: UpdateGroup }) {
                 <span className="group-badge">{group.items.length} Updates</span>
             </div>
 
-            <h3 className="card-title">
-                {group.title}
+            <h3 className="update-title">
+                <Link href={latest.url} target="_blank">{group.title}</Link>
             </h3>
 
-            <div className="card-meta">
-                <span className="company-name">{group.company}</span>
-                <span className="bullet">•</span>
+            <div className="update-meta">
+                <span className="company">{group.company}</span>
+                <span className="divider"></span>
                 <span className="date">{format(parseISO(latest.date), 'MMM d, yyyy')}</span>
             </div>
 

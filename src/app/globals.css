@@ -404,18 +404,25 @@ body {
 }
 
 /* Group Card Styling */
+/* Group Card Styling */
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
 .group-badge {
   font-size: 0.65rem;
   font-weight: 700;
   text-transform: uppercase;
-  color: #a3a3a3;
+  color: var(--color-muted-foreground);
   letter-spacing: 0.05em;
-  margin-left: auto;
 }
 
 .group-list {
   margin-top: 1rem;
-  border-top: 1px solid #262626;
+  border-top: 1px solid var(--color-border);
   padding-top: 0.5rem;
   display: flex;
   flex-direction: column;
@@ -426,20 +433,20 @@ body {
   display: flex;
   justify-content: space-between;
   font-size: 0.85rem;
-  color: #d4d4d4;
+  color: var(--color-foreground);
   text-decoration: none;
   padding: 0.25rem 0;
   transition: color 0.2s;
 }
 
 .group-item:hover {
-  color: #fff;
+  color: var(--color-accent);
   text-decoration: underline;
 }
 
 .group-item-date {
   font-size: 0.75rem;
-  color: #737373;
+  color: var(--color-muted-foreground);
   font-variant-numeric: tabular-nums;
 }
 
