@@ -32,61 +32,61 @@ export default function DigestPage() {
                     }}>
                         <div style={{ textAlign: 'center' }}>
                             <div style={{
-                                width: '48px',
-                                height: '48px',
-                                background: '#1a1a1a',
-                                color: '#fff',
+                                width: '64px',
+                                height: '64px',
+                                border: '1px solid var(--color-border)',
+                                background: 'transparent',
                                 display: 'flex',
                                 alignItems: 'center',
                                 justifyContent: 'center',
-                                fontSize: '1.25rem',
-                                margin: '0 auto 0.75rem'
+                                fontSize: '1.5rem',
+                                margin: '0 auto 1rem',
+                                borderRadius: '4px'
                             }}>📧</div>
                             <div style={{
-                                fontFamily: "'Instrument Serif', Georgia, serif",
-                                fontSize: '1rem',
-                                fontWeight: 400,
-                                color: '#1a1a1a'
+                                fontFamily: "var(--font-display)",
+                                fontSize: '1.25rem',
+                                color: 'var(--color-foreground)'
                             }}>Weekly</div>
                         </div>
 
                         <div style={{ textAlign: 'center' }}>
                             <div style={{
-                                width: '48px',
-                                height: '48px',
-                                background: '#1a1a1a',
-                                color: '#fff',
+                                width: '64px',
+                                height: '64px',
+                                border: '1px solid var(--color-border)',
+                                background: 'transparent',
                                 display: 'flex',
                                 alignItems: 'center',
                                 justifyContent: 'center',
-                                fontSize: '1.25rem',
-                                margin: '0 auto 0.75rem'
+                                fontSize: '1.5rem',
+                                margin: '0 auto 1rem',
+                                borderRadius: '4px'
                             }}>🎯</div>
                             <div style={{
-                                fontFamily: "'Instrument Serif', Georgia, serif",
-                                fontSize: '1rem',
-                                fontWeight: 400,
-                                color: '#1a1a1a'
+                                fontFamily: "var(--font-display)",
+                                fontSize: '1.25rem',
+                                color: 'var(--color-foreground)'
                             }}>Signal Only</div>
                         </div>
 
                         <div style={{ textAlign: 'center' }}>
                             <div style={{
-                                width: '48px',
-                                height: '48px',
-                                background: '#1a1a1a',
-                                color: '#fff',
+                                width: '64px',
+                                height: '64px',
+                                border: '1px solid var(--color-border)',
+                                background: 'transparent',
                                 display: 'flex',
                                 alignItems: 'center',
                                 justifyContent: 'center',
-                                fontSize: '1.25rem',
-                                margin: '0 auto 0.75rem'
+                                fontSize: '1.5rem',
+                                margin: '0 auto 1rem',
+                                borderRadius: '4px'
                             }}>🔒</div>
                             <div style={{
-                                fontFamily: "'Instrument Serif', Georgia, serif",
-                                fontSize: '1rem',
-                                fontWeight: 400,
-                                color: '#1a1a1a'
+                                fontFamily: "var(--font-display)",
+                                fontSize: '1.25rem',
+                                color: 'var(--color-foreground)'
                             }}>No Spam</div>
                         </div>
                     </div>
@@ -94,7 +94,7 @@ export default function DigestPage() {
                     {/* Signup Form */}
                     <form
                         onSubmit={(e) => e.preventDefault()}
-                        style={{ marginBottom: '1rem' }}
+                        style={{ marginBottom: '1.5rem' }}
                     >
                         <input
                             type="email"
@@ -104,8 +104,9 @@ export default function DigestPage() {
                                 width: '100%',
                                 padding: '1rem',
                                 fontSize: '1rem',
-                                border: '2px solid #1a1a1a',
-                                background: '#fff',
+                                border: '2px solid var(--color-foreground)',
+                                background: 'var(--color-surface)',
+                                color: 'var(--color-foreground)',
                                 outline: 'none',
                                 marginBottom: '0.75rem',
                                 textAlign: 'center'
@@ -115,22 +116,23 @@ export default function DigestPage() {
                             type="submit"
                             style={{
                                 width: '100%',
-                                padding: '1rem 2rem',
+                                padding: '1.25rem 2rem',
                                 fontSize: '0.875rem',
                                 fontWeight: 700,
                                 textTransform: 'uppercase',
-                                letterSpacing: '0.1em',
-                                background: '#ff4f00',
+                                letterSpacing: '0.15em',
+                                background: 'var(--color-accent)',
                                 color: '#fff',
                                 border: 'none',
-                                cursor: 'pointer'
+                                cursor: 'pointer',
+                                transition: 'background 0.2s ease'
                             }}
                         >
                             Subscribe to Weekly Digest
                         </button>
                     </form>
 
-                    <p style={{ fontSize: '0.8rem', color: '#737373' }}>
+                    <p style={{ fontSize: '0.875rem', color: 'var(--color-muted-foreground)' }}>
                         Join 2,000+ AI professionals. Unsubscribe anytime.
                     </p>
                 </div>
