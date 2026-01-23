@@ -1,4 +1,5 @@
 import { format, parseISO } from 'date-fns';
+import { arSA, enUS } from 'date-fns/locale';
 import { UpdateItem, Tag } from '@/lib/types';
 import clsx from 'clsx';
 import { useLanguage } from './LanguageContext';
@@ -31,7 +32,9 @@ export function UpdateCard({ item }: { item: UpdateItem }) {
     const { t, isRTL } = useLanguage();
     const formattedDate = (() => {
         try {
-            return format(parseISO(item.date), 'MMM d, yyyy');
+            return format(parseISO(item.date), 'd MMM yyyy', {
+                locale: isRTL ? arSA : enUS
+            });
         } catch {
             return t('recent');
         }

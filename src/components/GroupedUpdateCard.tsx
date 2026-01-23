@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { format, parseISO } from 'date-fns';
+import { arSA, enUS } from 'date-fns/locale';
 import { Tag } from '@/lib/types';
 import { UpdateGroup } from '@/lib/grouping';
 import clsx from 'clsx';
@@ -34,6 +35,7 @@ function CategoryLabel({ tag }: { tag: Tag }) {
 export function GroupedUpdateCard({ group }: { group: UpdateGroup }) {
     const latest = group.items[0];
     const { t, isRTL } = useLanguage();
+    const dateLocale = isRTL ? arSA : enUS;
 
     const displayGroupTitle = (isRTL && latest.title_ar) ? latest.title_ar : group.title;
 
@@ -51,7 +53,7 @@ export function GroupedUpdateCard({ group }: { group: UpdateGroup }) {
             <div className="update-meta">
                 <span className="company">{group.company}</span>
                 <span className="divider"></span>
-                <span className="date">{format(parseISO(latest.date), 'MMM d, yyyy')}</span>
+                <span className="date">{format(parseISO(latest.date), 'd MMM yyyy', { locale: dateLocale })}</span>
             </div>
 
             <div className="group-list">
@@ -65,7 +67,7 @@ export function GroupedUpdateCard({ group }: { group: UpdateGroup }) {
                             <span className="group-item-title" style={{ fontFamily: isRTL ? 'Noto Sans Arabic, sans-serif' : undefined }}>
                                 {displayItemTitle}
                             </span>
-                            <span className="group-item-date">{format(parseISO(item.date), 'MMM d')}</span>
+                            <span className="group-item-date">{format(parseISO(item.date), 'd MMM', { locale: dateLocale })}</span>
                         </a>
                     );
                 })}
