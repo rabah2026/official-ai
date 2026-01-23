@@ -4,7 +4,9 @@ import path from 'path';
 import Link from 'next/link';
 import { UpdateCard } from '@/components/UpdateCard';
 import { FeaturedCard } from '@/components/FeaturedCard';
+import { GroupedUpdateCard } from '@/components/GroupedUpdateCard';
 import { UpdateItem, Tag } from '@/lib/types';
+import { groupUpdates } from '@/lib/grouping';
 
 export const revalidate = 60;
 
@@ -131,9 +133,12 @@ export default async function Home({ searchParams }: Props) {
           </div>
         ) : (
           <div className="updates-list">
-            {feedUpdates.map((item) => (
-              <UpdateCard key={item.id} item={item} />
-            ))}
+            {groupUpdates(feedUpdates).map((item) => {
+              if ('type' in item && item.type === 'group') {
+                return <GroupedUpdateCard key={item.id} group={item} />;
+              }
+              return <UpdateCard key={item.id} item={item as UpdateItem} />;
+            })}
           </div>
         )}
       </section>

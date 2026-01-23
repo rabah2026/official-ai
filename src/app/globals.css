@@ -403,6 +403,46 @@ body {
   /* Pink-600 */
 }
 
+/* Group Card Styling */
+.group-badge {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #a3a3a3;
+  letter-spacing: 0.05em;
+  margin-left: auto;
+}
+
+.group-list {
+  margin-top: 1rem;
+  border-top: 1px solid #262626;
+  padding-top: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.group-item {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  color: #d4d4d4;
+  text-decoration: none;
+  padding: 0.25rem 0;
+  transition: color 0.2s;
+}
+
+.group-item:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.group-item-date {
+  font-size: 0.75rem;
+  color: #737373;
+  font-variant-numeric: tabular-nums;
+}
+
 .category-label.corporate {
   background: #1e3a8a;
   /* Blue-900 */

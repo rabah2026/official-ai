@@ -48,4 +48,5 @@ export interface FeedConfig {
     url: string;
     type: 'rss' | 'html';
     tagDefault?: Tag;
+    titlePrefix?: string; // Optional prefix for feeds with short titles (e.g. "v1.0")
 }

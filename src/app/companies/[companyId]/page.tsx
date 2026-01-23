@@ -6,6 +6,8 @@ import Link from 'next/link';
 import { COMPANIES } from '@/lib/config';
 import { UpdateItem, Tag } from '@/lib/types';
 import { UpdateCard } from '@/components/UpdateCard';
+import { GroupedUpdateCard } from '@/components/GroupedUpdateCard';
+import { groupUpdates } from '@/lib/grouping';
 
 export const revalidate = 60;
 
@@ -116,9 +118,12 @@ export default async function CompanyPage({ params, searchParams }: Props) {
                             No updates found for this filter.
                         </div>
                     ) : (
-                        filteredUpdates.map(item => (
-                            <UpdateCard key={item.id} item={item} />
-                        ))
+                        groupUpdates(filteredUpdates).map(item => {
+                            if ('type' in item && item.type === 'group') {
+                                return <GroupedUpdateCard key={item.id} group={item} />;
+                            }
+                            return <UpdateCard key={item.id} item={item as UpdateItem} />;
+                        })
                     )}
                 </div>
             </section>

@@ -187,13 +187,17 @@ async function fetchUpdates() {
                     const items = feed.items.map(item => {
                         if (!item.title || !item.link) return null;
 
+                        const title = feedConfig.titlePrefix && !item.title.startsWith(feedConfig.titlePrefix)
+                            ? `${feedConfig.titlePrefix} ${item.title}`
+                            : item.title;
+
                         const update: UpdateItem = {
                             id: item.guid || item.link,
                             company: company.name,
-                            title: item.title,
+                            title: title,
                             date: item.isoDate || new Date().toISOString(),
                             url: item.link,
-                            tag: deduceTag(item.title, item.link),
+                            tag: deduceTag(title, item.link),
                             summary: item.contentSnippet?.slice(0, 150)
                         };
                         return update;
