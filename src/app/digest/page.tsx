@@ -1,22 +1,35 @@
 'use client';
 
+import { useLanguage } from '@/components/LanguageContext';
+
 export default function DigestPage() {
+    const { t, isRTL } = useLanguage();
+
     return (
         <>
             {/* Hero Section */}
-            <section className="hero-section">
+            <section className="hero-section" dir={isRTL ? 'rtl' : 'ltr'}>
                 <div className="container-max" style={{ textAlign: 'center' }}>
-                    <h1 className="hero-title" style={{ marginLeft: 'auto', marginRight: 'auto' }}>
-                        Weekly<br />Digest
+                    <h1 className="hero-title" style={{
+                        marginLeft: 'auto',
+                        marginRight: 'auto',
+                        fontFamily: isRTL ? 'Amiri, serif' : undefined
+                    }}>
+                        {t('waitlist_title')}
                     </h1>
-                    <p className="hero-subtitle" style={{ marginLeft: 'auto', marginRight: 'auto', maxWidth: '480px' }}>
-                        A curated summary of the week's most important AI announcements, delivered to your inbox every Monday.
+                    <p className="hero-subtitle" style={{
+                        marginLeft: 'auto',
+                        marginRight: 'auto',
+                        maxWidth: '480px',
+                        fontFamily: isRTL ? 'Noto Sans Arabic, sans-serif' : undefined
+                    }}>
+                        {t('waitlist_subtitle')}
                     </p>
                 </div>
             </section>
 
             {/* Signup Section - Centered */}
-            <section className="container-max" style={{ paddingTop: '2rem', paddingBottom: '4rem' }}>
+            <section className="container-max" style={{ paddingTop: '2rem', paddingBottom: '4rem' }} dir={isRTL ? 'rtl' : 'ltr'}>
                 <div style={{
                     maxWidth: '500px',
                     margin: '0 auto',
@@ -42,12 +55,12 @@ export default function DigestPage() {
                                 fontSize: '1.5rem',
                                 margin: '0 auto 1rem',
                                 borderRadius: '4px'
-                            }}>📧</div>
+                            }}>⭐</div>
                             <div style={{
-                                fontFamily: "var(--font-display)",
+                                fontFamily: isRTL ? 'Noto Sans Arabic, sans-serif' : "var(--font-display)",
                                 fontSize: '1.25rem',
                                 color: 'var(--color-foreground)'
-                            }}>Weekly</div>
+                            }}>{t('waitlist_priority')}</div>
                         </div>
 
                         <div style={{ textAlign: 'center' }}>
@@ -62,12 +75,12 @@ export default function DigestPage() {
                                 fontSize: '1.5rem',
                                 margin: '0 auto 1rem',
                                 borderRadius: '4px'
-                            }}>🎯</div>
+                            }}>💎</div>
                             <div style={{
-                                fontFamily: "var(--font-display)",
+                                fontFamily: isRTL ? 'Noto Sans Arabic, sans-serif' : "var(--font-display)",
                                 fontSize: '1.25rem',
                                 color: 'var(--color-foreground)'
-                            }}>Signal Only</div>
+                            }}>{t('waitlist_insider')}</div>
                         </div>
 
                         <div style={{ textAlign: 'center' }}>
@@ -82,12 +95,12 @@ export default function DigestPage() {
                                 fontSize: '1.5rem',
                                 margin: '0 auto 1rem',
                                 borderRadius: '4px'
-                            }}>🔒</div>
+                            }}>🛡️</div>
                             <div style={{
-                                fontFamily: "var(--font-display)",
+                                fontFamily: isRTL ? 'Noto Sans Arabic, sans-serif' : "var(--font-display)",
                                 fontSize: '1.25rem',
                                 color: 'var(--color-foreground)'
-                            }}>No Spam</div>
+                            }}>{t('waitlist_secure')}</div>
                         </div>
                     </div>
 
@@ -98,18 +111,19 @@ export default function DigestPage() {
                     >
                         <input
                             type="email"
-                            placeholder="you@company.com"
+                            placeholder={isRTL ? "بريدك الإلكتروني" : "you@company.com"}
                             required
                             style={{
                                 width: '100%',
-                                padding: '1rem',
-                                fontSize: '1rem',
+                                padding: '1.1rem',
+                                fontSize: '1.1rem',
                                 border: '2px solid var(--color-foreground)',
                                 background: 'var(--color-surface)',
                                 color: 'var(--color-foreground)',
                                 outline: 'none',
                                 marginBottom: '0.75rem',
-                                textAlign: 'center'
+                                textAlign: 'center',
+                                fontFamily: isRTL ? 'Noto Sans Arabic, sans-serif' : undefined
                             }}
                         />
                         <button
@@ -117,7 +131,7 @@ export default function DigestPage() {
                             style={{
                                 width: '100%',
                                 padding: '1.25rem 2rem',
-                                fontSize: '0.875rem',
+                                fontSize: '0.95rem',
                                 fontWeight: 700,
                                 textTransform: 'uppercase',
                                 letterSpacing: '0.15em',
@@ -125,18 +139,16 @@ export default function DigestPage() {
                                 color: '#fff',
                                 border: 'none',
                                 cursor: 'pointer',
-                                transition: 'background 0.2s ease'
+                                transition: 'all 0.2s ease',
+                                fontFamily: isRTL ? 'Amiri, serif' : undefined
                             }}
                         >
-                            Subscribe to Weekly Digest
+                            {t('waitlist_button')}
                         </button>
                     </form>
-
-                    <p style={{ fontSize: '0.875rem', color: 'var(--color-muted-foreground)' }}>
-                        Join 2,000+ AI professionals. Unsubscribe anytime.
-                    </p>
                 </div>
             </section>
         </>
     );
 }
+
