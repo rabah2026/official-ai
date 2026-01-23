@@ -1,6 +1,7 @@
 
 export type Tag =
-    | 'Product'      // Actual launches, new features, model releases
+    | 'Release'      // STRICT: Actual software/model launches, new features
+    | 'News'         // General announcements, business updates, "product news"
     | 'Research'     // Papers, studies, benchmarks
     | 'Engineering'  // Technical blogs, infrastructure
     | 'Case Study'   // Customer stories, use cases

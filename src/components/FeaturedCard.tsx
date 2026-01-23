@@ -5,7 +5,8 @@ import clsx from 'clsx';
 
 function CategoryLabel({ tag }: { tag: Tag }) {
     const tagClasses: Record<Tag, string> = {
-        Product: 'product',
+        Release: 'release',
+        News: 'news',
         Research: 'research',
         Engineering: 'engineering',
         'Case Study': 'case-study',
@@ -18,7 +19,7 @@ function CategoryLabel({ tag }: { tag: Tag }) {
 
     return (
         <span className={clsx('category-label', tagClasses[tag])}>
-            {tag === 'Product' ? 'Release' : tag}
+            {tag}
         </span>
     );
 }

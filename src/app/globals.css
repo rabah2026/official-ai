@@ -378,9 +378,14 @@ body {
   background: #2563eb;
 }
 
-.category-label.product {
+.category-label.release {
   background: #7c3aed;
   /* Violet-600 */
+}
+
+.category-label.news {
+  background: #52525b;
+  /* Zinc-600 */
 }
 
 .category-label.research {

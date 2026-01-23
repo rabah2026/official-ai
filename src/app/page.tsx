@@ -32,7 +32,7 @@ export default async function Home({ searchParams }: Props) {
   const featured = updates
     .filter(u => {
       const titleLower = u.title.toLowerCase();
-      return modelKeywords.some(kw => titleLower.includes(kw.toLowerCase())) && u.tag === 'Product';
+      return modelKeywords.some(kw => titleLower.includes(kw.toLowerCase())) && u.tag === 'Release';
     })
     .slice(0, 3);
 
@@ -43,7 +43,7 @@ export default async function Home({ searchParams }: Props) {
   const featuredIds = new Set(featured.map(f => f.id));
   const feedUpdates = filteredUpdates.filter(u => !featuredIds.has(u.id)).slice(0, 25);
 
-  const tags: Tag[] = ['Product', 'Research', 'Engineering', 'Case Study', 'Corporate', 'Pricing', 'Policy', 'Security', 'Docs'];
+  const tags: Tag[] = ['Release', 'News', 'Research', 'Engineering', 'Case Study', 'Corporate', 'Pricing', 'Policy', 'Security', 'Docs'];
 
   return (
     <>
@@ -103,8 +103,6 @@ export default async function Home({ searchParams }: Props) {
           {tags.map(t => {
             const count = updates.filter(u => u.tag === t).length;
             if (count === 0) return null;
-            // Display "Releases" for "Product" tag to match user expectations
-            const label = t === 'Product' ? 'Releases' : t;
             return (
               <Link
                 key={t}
@@ -121,7 +119,7 @@ export default async function Home({ searchParams }: Props) {
                   border: '1px solid #e5e4e2'
                 }}
               >
-                {label} ({count})
+                {t} ({count})
               </Link>
             );
           })}

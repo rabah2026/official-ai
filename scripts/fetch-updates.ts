@@ -40,12 +40,17 @@ function deduceTag(title: string, link: string, summary?: string): Tag {
     if (/managing director|chief|ceo|cto|director|executive|trust|board/.test(text)) return 'Corporate';
     if (/\b(acquisition|merger|funding|valuation|investment)\b/.test(text)) return 'Corporate';
 
-    // Product launches - actual releases and announcements
-    if (/\b(introducing|launches|launching|announcing|now available|new feature|available today)\b/.test(text)) return 'Product';
-    if (/\b(gpt-|claude|gemini|llama|mistral|opus|sonnet|haiku)\b/.test(text) && /\b(release|new|version|update)\b/.test(text)) return 'Product';
+    // Product launches vs News
+    // STRICT RELEASE: "Available now", "Inserting", "Launches"
+    if (/\b(now available|available today|launching|launches|released|release|rolling out)\b/.test(text)) return 'Release';
+    if (/\b(introducing|announcing)\b/.test(text) && /\b(new model|gpt-|claude|gemini|feature|api)\b/.test(text)) return 'Release';
+    if (/\b(v\d+\.\d+|version \d+)\b/.test(text)) return 'Release';
 
-    // Default fallback - 'Product' for general news
-    return 'Product';
+    // NEWS: General product news, "approach to", "update on"
+    if (/\b(introducing|announcing|update|approach to|future of|expanding|bringing)\b/.test(text)) return 'News';
+
+    // Default fallback
+    return 'News';
 }
 
 

@@ -82,7 +82,7 @@ export const COMPANIES: CompanyConfig[] = [
         logo: '/logos/microsoft.svg',
         feeds: [
             { url: 'https://blogs.microsoft.com/ai/feed/', type: 'rss' },
-            { url: 'https://azure.microsoft.com/en-us/blog/feed/', type: 'rss', tagDefault: 'Product' }
+            { url: 'https://azure.microsoft.com/en-us/blog/feed/', type: 'rss', tagDefault: 'News' }
         ]
     },
     {
