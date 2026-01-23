@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans+Arabic:wght@400;500;600;700&family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700&display=swap');
 @import "tailwindcss";
 
 /* 
@@ -18,10 +18,20 @@
   --color-border: #e5e4e2;
   --color-accent: #ff4f00;
   --color-accent-dark: #cc3f00;
-  --font-display: 'Instrument Serif', Georgia, serif;
-  --font-body: 'DM Sans', -apple-system, system-ui, sans-serif;
+  --font-display: 'Instrument Serif', 'Amiri', Georgia, serif;
+  --font-body: 'DM Sans', 'Noto Sans Arabic', -apple-system, system-ui, sans-serif;
   --shadow-premium: 0 8px 24px rgba(0, 0, 0, 0.08);
   --shadow-premium-dark: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+[dir="rtl"] {
+  font-family: 'Noto Sans Arabic', var(--font-body);
+}
+
+[dir="rtl"] .hero-title,
+[dir="rtl"] .featured-title,
+[dir="rtl"] .update-title {
+  font-family: 'Amiri', var(--font-display);
 }
 
 .dark {
@@ -725,11 +735,25 @@ body {
   transition: background 0.2s ease;
 }
 
-.signup-button:hover {
-  background: var(--color-accent);
+@media (max-width: 768px) {
+  .header-inner {
+    padding: 1rem;
+  }
+
+  .site-nav {
+    gap: 1rem;
+  }
+
+  /* Ensure dark mode colors are applied correctly on mobile */
+  .update-item,
+  .featured-card,
+  .company-card {
+    background: var(--color-surface);
+    border-color: var(--color-border);
+  }
 }
 
-.signup-note {
-  font-size: 0.875rem;
-  color: var(--color-muted-foreground);
+/* Ensure no hardcoded light backgrounds remain in components */
+.updates-list>div[style*="background: #1a1a1a"] {
+  background: var(--color-foreground) !important;
 }

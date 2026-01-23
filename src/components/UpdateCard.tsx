@@ -1,9 +1,10 @@
-
 import { format, parseISO } from 'date-fns';
 import { UpdateItem, Tag } from '@/lib/types';
 import clsx from 'clsx';
+import { useLanguage } from './LanguageContext';
 
 function CategoryLabel({ tag }: { tag: Tag }) {
+    const { t } = useLanguage();
     const tagClasses: Record<Tag, string> = {
         Release: 'release',
         News: 'news',
@@ -17,19 +18,22 @@ function CategoryLabel({ tag }: { tag: Tag }) {
         Docs: 'docs',
     };
 
+    const translationKey = `tag_${tag.replace(' ', '_')}`;
+
     return (
         <span className={clsx('category-label', tagClasses[tag])}>
-            {tag}
+            {t(translationKey)}
         </span>
     );
 }
 
 export function UpdateCard({ item }: { item: UpdateItem }) {
+    const { t } = useLanguage();
     const formattedDate = (() => {
         try {
             return format(parseISO(item.date), 'MMM d, yyyy');
         } catch {
-            return 'Recent';
+            return t('recent');
         }
     })();
 

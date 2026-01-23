@@ -1,11 +1,14 @@
+'use client';
 
 import Link from 'next/link';
 import { format, parseISO } from 'date-fns';
 import { Tag } from '@/lib/types';
 import { UpdateGroup } from '@/lib/grouping';
 import clsx from 'clsx';
+import { useLanguage } from './LanguageContext';
 
 function CategoryLabel({ tag }: { tag: Tag }) {
+    const { t } = useLanguage();
     const tagClasses: Record<Tag, string> = {
         Release: 'release',
         News: 'news',
@@ -19,21 +22,24 @@ function CategoryLabel({ tag }: { tag: Tag }) {
         Docs: 'docs',
     };
 
+    const translationKey = `tag_${tag.replace(' ', '_')}`;
+
     return (
         <span className={clsx('category-label', tagClasses[tag])}>
-            {tag}
+            {t(translationKey)}
         </span>
     );
 }
 
 export function GroupedUpdateCard({ group }: { group: UpdateGroup }) {
     const latest = group.items[0];
+    const { t } = useLanguage();
 
     return (
         <div className="update-card group-card">
             <div className="card-header">
                 <CategoryLabel tag={group.tag} />
-                <span className="group-badge">{group.items.length} Updates</span>
+                <span className="group-badge">{group.items.length} {t('updates_badge')}</span>
             </div>
 
             <h3 className="update-title">
@@ -55,7 +61,7 @@ export function GroupedUpdateCard({ group }: { group: UpdateGroup }) {
                 ))}
                 {group.items.length > 5 && (
                     <div className="group-more">
-                        + {group.items.length - 5} more
+                        + {group.items.length - 5} {t('more')}
                     </div>
                 )}
             </div>

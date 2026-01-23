@@ -22,7 +22,8 @@ async function getMetadata() {
 }
 
 import { Providers } from "@/components/Providers";
-import { ThemeToggle } from "@/components/ThemeToggle";
+import { LanguageProvider } from "@/components/LanguageContext";
+import { MainLayout } from "@/components/MainLayout";
 
 export default async function RootLayout({
   children,
@@ -42,45 +43,11 @@ export default async function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <body>
         <Providers>
-          {/* Header */}
-          <header className="site-header">
-            <div className="header-inner">
-              <div style={{ display: 'flex', flexDirection: 'column' }}>
-                <Link href="/" className="site-logo">
-                  Official.ai
-                </Link>
-                <span style={{
-                  fontSize: '0.65rem',
-                  color: '#737373',
-                  textTransform: 'uppercase',
-                  letterSpacing: '0.05em',
-                  marginTop: '0.25rem'
-                }}>
-                  Last Updated: {lastUpdated}
-                </span>
-              </div>
-              <nav className="site-nav" style={{ alignItems: 'center' }}>
-                <Link href="/companies">Companies</Link>
-                <Link href="/digest">Weekly Digest</Link>
-                <ThemeToggle />
-              </nav>
-            </div>
-          </header>
-
-          <main>
-            {children}
-          </main>
-
-          {/* Footer */}
-          <footer className="site-footer">
-            <div className="container-max footer-content">
-              <p className="footer-tagline">Signal over noise</p>
-              <div className="footer-links">
-                <Link href="/companies">All Companies</Link>
-                <Link href="/digest">Subscribe</Link>
-              </div>
-            </div>
-          </footer>
+          <LanguageProvider>
+            <MainLayout lastUpdated={lastUpdated}>
+              {children}
+            </MainLayout>
+          </LanguageProvider>
         </Providers>
       </body>
     </html>
