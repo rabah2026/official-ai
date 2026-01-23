@@ -250,7 +250,7 @@
     "tag": "Release",
     "summary": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more aff",
     "title_ar": "تقديم ChatGPT Go، متاح الآن في جميع أنحاء العالم",
-    "summary_ar": "ChatGPT Go متوفر الآن عالمياً، ويوفر وصولاً موسعاً لـ GPT-5.2 Instant، وحدود استخدام أعلى، وذاكرة أطول - مما يجعل الذكاء الاصطناعي المتقدم أكثر سهولة."
+    "summary_ar": "خدمة ChatGPT Go متوفرة الآن عالمياً، وتوفر وصولاً موسعاً لـ GPT-5.2 Instant، وحدود استخدام أعلى، وذاكرة أطول."
   },
   {
     "id": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
@@ -866,7 +866,7 @@
     "tag": "Release",
     "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity ca",
     "title_ar": "نُقدم لكم GPT-5.2-Codex",
-    "summary_ar": "GPT-5.2-Codex is OpenAI’s most advanced coding نموذج, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity ca"
+    "summary_ar": "نموذج GPT-5.2-Codex هو أكثر نماذج OpenAI تقدماً، حيث يوفر استدلالاً طويل الأمد، وبرمجة، وتوليد كود على نطاق واسع."
   },
   {
     "id": "https://openai.com/index/introducing-gpt-5-2-codex",
@@ -877,7 +877,7 @@
     "tag": "Release",
     "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity ca",
     "title_ar": "نُقدم لكم GPT-5.2-Codex",
-    "summary_ar": "GPT-5.2-Codex is OpenAI’s most advanced coding نموذج, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity ca"
+    "summary_ar": "نموذج GPT-5.2-Codex هو أكثر نماذج OpenAI تقدماً، حيث يوفر استدلالاً طويل الأمد، وبرمجة، وتوليد كود على نطاق واسع."
   },
   {
     "id": "https://openai.com/index/gpt-5-2-codex-system-card",
@@ -887,8 +887,8 @@
     "url": "https://openai.com/index/gpt-5-2-codex-system-card",
     "tag": "News",
     "summary": "This system card outlines the comprehensive safety measures implemented for GPT‑5.2-Codex. It details both model-level mitigations, such as specialize",
-    "title_ar": "Addendum to GPT-5.2 نظام Card: GPT-5.2-Codex",
-    "summary_ar": "This نظام card outlines the comprehensive سلامة measures implemented for GPT‑5.2-Codex. It details both نموذج-level mitigations, such as specialize"
+    "title_ar": "نُقدم لكم GPT-5.2-Codex",
+    "summary_ar": "نموذج GPT-5.2-Codex هو أكثر نماذج OpenAI تقدماً، حيث يوفر استدلالاً طويل الأمد، وبرمجة، وتوليد كود على نطاق واسع."
   },
   {
     "id": "https://developer.nvidia.com/blog/real-time-decoding-algorithmic-gpu-decoders-and-ai-inference-enhancements-in-nvidia-cuda-q-qec/",
