@@ -43,49 +43,28 @@ export default async function CompaniesPage() {
                     <h2>All Companies</h2>
                 </div>
 
-                <div style={{
-                    display: 'grid',
-                    gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
-                    gap: '1.5rem',
-                    padding: '1.5rem 0'
-                }}>
+                <div className="updates-grid">
                     {COMPANIES.map((company) => {
                         const articleCount = companyCounts[company.name] || 0;
                         return (
                             <Link
                                 key={company.id}
                                 href={`/companies/${company.id}`}
-                                style={{
-                                    display: 'block',
-                                    background: '#fff',
-                                    border: '1px solid #e5e4e2',
-                                    padding: '1.5rem',
-                                    textDecoration: 'none',
-                                    color: 'inherit',
-                                    transition: 'all 0.2s ease',
-                                    position: 'relative'
-                                }}
+                                className="group relative block rounded-lg border border-[var(--color-border)] bg-[var(--color-surface)] p-6 transition-all hover:border-[var(--color-accent)]"
                             >
-                                <div style={{
-                                    position: 'absolute',
-                                    top: 0,
-                                    left: 0,
-                                    right: 0,
-                                    height: '4px',
-                                    background: '#ff4f00'
-                                }} />
+                                <div className="absolute top-0 left-0 right-0 h-1 bg-[var(--color-accent)] opacity-0 transition-opacity group-hover:opacity-100" />
                                 <h3 style={{
                                     fontFamily: "'Instrument Serif', Georgia, serif",
                                     fontSize: '1.5rem',
                                     fontWeight: 400,
                                     margin: '0 0 0.5rem',
-                                    color: '#1a1a1a'
+                                    color: 'var(--color-foreground)'
                                 }}>
                                     {company.name}
                                 </h3>
                                 <p style={{
                                     fontSize: '0.85rem',
-                                    color: '#737373',
+                                    color: 'var(--color-muted-foreground)',
                                     margin: '0 0 0.75rem'
                                 }}>
                                     {company.url.replace('https://', '').replace('www.', '')}
@@ -94,7 +73,7 @@ export default async function CompaniesPage() {
                                     fontSize: '0.7rem',
                                     textTransform: 'uppercase',
                                     letterSpacing: '0.1em',
-                                    color: '#ff4f00',
+                                    color: 'var(--color-accent)',
                                     fontWeight: 600
                                 }}>
                                     {articleCount} article{articleCount !== 1 ? 's' : ''}

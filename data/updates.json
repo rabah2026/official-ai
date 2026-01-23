@@ -18,8 +18,8 @@
     "url": "https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/",
     "tag": "Engineering",
     "summary": "In 2025, NVIDIA partnered with Black Forest Labs (BFL) to optimize the FLUX.1 text-to-image model series, unlocking FP4 image generation performance o",
-    "title_ar": "توسيع نطاق NVFP4 Inference for FLUX.2 on NVIDIA Blackwell Data Center GPUs",
-    "summary_ar": "In 2025, NVIDIA partnered with Black Forest Labs (BFL) to optimize the FLUX.1 text-to-image نموذج series, unlocking FP4 image generation أداء o"
+    "title_ar": "توسيع نطاق استنتاج NVFP4 لنموذج FLUX.2 على وحدات معالجة الرسوميات بمراكز بيانات نفيديا بلاكويل",
+    "summary_ar": "في عام 2025، دخلت نفيديا في شراكة مع Black Forest Labs لتحسين سلسلة نماذج تحويل النص إلى صورة FLUX.1، مما أطلق العنان لأداء توليد الصور بدقة FP4."
   },
   {
     "id": "https://openai.com/index/scaling-postgresql",
