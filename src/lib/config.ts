@@ -14,7 +14,7 @@ export const COMPANIES: CompanyConfig[] = [
             // Official News RSS Feed (primary source for announcements)
             { url: 'https://openai.com/news/rss.xml', type: 'rss' },
             // Official Python SDK Releases (technical updates)
-            { url: 'https://github.com/openai/openai-python/releases.atom', type: 'rss', tagDefault: 'Release' }
+            { url: 'https://github.com/openai/openai-python/releases.atom', type: 'rss', tagDefault: 'Engineering' }
         ]
     },
     {
@@ -82,7 +82,7 @@ export const COMPANIES: CompanyConfig[] = [
         logo: '/logos/microsoft.svg',
         feeds: [
             { url: 'https://blogs.microsoft.com/ai/feed/', type: 'rss' },
-            { url: 'https://azure.microsoft.com/en-us/blog/feed/', type: 'rss', tagDefault: 'Release' }
+            { url: 'https://azure.microsoft.com/en-us/blog/feed/', type: 'rss', tagDefault: 'Product' }
         ]
     },
     {

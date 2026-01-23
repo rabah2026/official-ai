@@ -32,7 +32,7 @@ export default async function Home({ searchParams }: Props) {
   const featured = updates
     .filter(u => {
       const titleLower = u.title.toLowerCase();
-      return modelKeywords.some(kw => titleLower.includes(kw.toLowerCase())) && u.tag === 'Release';
+      return modelKeywords.some(kw => titleLower.includes(kw.toLowerCase())) && u.tag === 'Product';
     })
     .slice(0, 3);
 
@@ -43,7 +43,7 @@ export default async function Home({ searchParams }: Props) {
   const featuredIds = new Set(featured.map(f => f.id));
   const feedUpdates = filteredUpdates.filter(u => !featuredIds.has(u.id)).slice(0, 25);
 
-  const tags: Tag[] = ['Release', 'Pricing', 'Policy', 'Security', 'Docs'];
+  const tags: Tag[] = ['Product', 'Research', 'Engineering', 'Case Study', 'Corporate', 'Pricing', 'Policy', 'Security', 'Docs'];
 
   return (
     <>
@@ -63,7 +63,7 @@ export default async function Home({ searchParams }: Props) {
       {!tag && featured.length > 0 && (
         <section className="container-max" style={{ paddingTop: '2rem' }}>
           <div className="section-header">
-            <h2>Featured Releases</h2>
+            <h2>Featured Products</h2>
           </div>
           <div className="featured-grid">
             {featured.map((item) => (

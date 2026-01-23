@@ -34,7 +34,7 @@ export default async function CompanyPage({ params, searchParams }: Props) {
 
     const updates = await getUpdates(companyConfig.name);
     const filteredUpdates = tag ? updates.filter(u => u.tag === tag) : updates;
-    const tags: Tag[] = ['Release', 'Pricing', 'Policy', 'Security', 'Docs'];
+    const tags: Tag[] = ['Product', 'Research', 'Engineering', 'Case Study', 'Corporate', 'Pricing', 'Policy', 'Security', 'Docs'];
 
     return (
         <>

@@ -10,18 +10,44 @@ import { subMonths, isBefore } from 'date-fns';
 const parser = new Parser();
 const DATA_FILE = path.join(process.cwd(), 'data', 'updates.json');
 
-// Simple keyword mapper for tags
-function deduceTag(title: string, link: string): Tag {
-    const text = (title + ' ' + link).toLowerCase();
+// Smart keyword mapper for tags - analyzes title, URL, and summary
+function deduceTag(title: string, link: string, summary?: string): Tag {
+    const text = (title + ' ' + link + ' ' + (summary || '')).toLowerCase();
 
-    // Use word boundaries to avoid false positives (e.g. "pic" in "anthropic" matching "pricing")
+    // High-priority specific matches (keep existing)
     if (/\b(pricing|price|cost|billing|tiers|subscription)\b/.test(text)) return 'Pricing';
-    if (/\b(security|cve|vulnerability|vulnerabilities|exploit|patch|breach|threat|safety)\b/.test(text)) return 'Security';
+    if (/\b(security|cve|vulnerability|exploit|patch|breach|threat)\b/.test(text)) return 'Security';
     if (/\b(policy|terms|privacy|compliance|legal|tos|dpa|governance)\b/.test(text)) return 'Policy';
-    if (/\b(doc|docs|documentation|api|sdk|reference|guide|tutorial|examples|manual)\b/.test(text)) return 'Docs';
+    if (/\b(doc|docs|documentation|api reference|sdk|guide|tutorial|manual)\b/.test(text)) return 'Docs';
 
-    return 'Release'; // Default to Release as it's the most common "news"
+    // Research / Papers - scientific and academic content
+    if (/\b(research|paper|arxiv|study|benchmark|evaluation|dataset|training method)\b/.test(text)) return 'Research';
+    if (/teaching ai|advancing|new method|novel approach|state-of-the-art/.test(text)) return 'Research';
+    if (/\b(diffusion|transformer|neural|model architecture|fine-tuning)\b/.test(text)) return 'Research';
+
+    // Engineering / Technical blogs - infrastructure and performance
+    if (/\b(scaling|how we|infrastructure|architecture|performance|optimize|latency)\b/.test(text)) return 'Engineering';
+    if (/developer\.nvidia\.com|engineering\.|how to train|building|implementing/.test(link)) return 'Engineering';
+    if (/\b(gpu|cuda|inference|deployment|system design)\b/.test(text)) return 'Engineering';
+
+    // Case Studies / Customer stories
+    if (/\bpowers\b|\bwith openai\b|\bwith anthropic\b|\bwith google\b/.test(text)) return 'Case Study';
+    if (/inside .+'s|how .+ uses|customer story|use case/.test(text)) return 'Case Study';
+    if (/\bredefine\b|\btransform\b.*\bwith\b/.test(text)) return 'Case Study';
+
+    // Corporate news - appointments, partnerships, investments
+    if (/\b(appoints|appointed|appointment|partnership|investing in|joins|hires|hired)\b/.test(text)) return 'Corporate';
+    if (/managing director|chief|ceo|cto|director|executive|trust|board/.test(text)) return 'Corporate';
+    if (/\b(acquisition|merger|funding|valuation|investment)\b/.test(text)) return 'Corporate';
+
+    // Product launches - actual releases and announcements
+    if (/\b(introducing|launches|launching|announcing|now available|new feature|available today)\b/.test(text)) return 'Product';
+    if (/\b(gpt-|claude|gemini|llama|mistral|opus|sonnet|haiku)\b/.test(text) && /\b(release|new|version|update)\b/.test(text)) return 'Product';
+
+    // Default fallback - 'Product' for general news
+    return 'Product';
 }
+
 
 async function fetchUpdates() {
     console.log('Starting official content fetch...');
@@ -135,6 +161,9 @@ async function fetchUpdates() {
 
                 if (summary && summary.length > 160) summary = summary.substring(0, 157) + '...';
                 item.summary = summary;
+
+                // Re-tag with summary for better classification
+                item.tag = deduceTag(item.title, item.url, item.summary);
             } else {
                 console.log(`  -> Failed to fetch URL ${item.url}: ${pageRes.status}`);
             }

@@ -5,7 +5,11 @@ import clsx from 'clsx';
 
 function CategoryLabel({ tag }: { tag: Tag }) {
     const tagClasses: Record<Tag, string> = {
-        Release: '',
+        Product: 'product',
+        Research: 'research',
+        Engineering: 'engineering',
+        'Case Study': 'case-study',
+        Corporate: 'corporate',
         Pricing: 'pricing',
         Policy: 'policy',
         Security: 'security',

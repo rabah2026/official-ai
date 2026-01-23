@@ -1,5 +1,15 @@
 
-export type Tag = 'Release' | 'Pricing' | 'Policy' | 'Security' | 'Docs';
+export type Tag =
+    | 'Product'      // Actual launches, new features, model releases
+    | 'Research'     // Papers, studies, benchmarks
+    | 'Engineering'  // Technical blogs, infrastructure
+    | 'Case Study'   // Customer stories, use cases
+    | 'Corporate'    // Appointments, partnerships, investments
+    | 'Pricing'
+    | 'Policy'
+    | 'Security'
+    | 'Docs';
+
 
 export type Company =
     | 'OpenAI'

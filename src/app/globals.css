@@ -378,6 +378,31 @@ body {
   background: #2563eb;
 }
 
+.category-label.product {
+  background: #7c3aed;
+  /* Violet-600 */
+}
+
+.category-label.research {
+  background: #4f46e5;
+  /* Indigo-600 */
+}
+
+.category-label.engineering {
+  background: #475569;
+  /* Slate-600 */
+}
+
+.category-label.case-study {
+  background: #db2777;
+  /* Pink-600 */
+}
+
+.category-label.corporate {
+  background: #1e3a8a;
+  /* Blue-900 */
+}
+
 /* Article Title */
 .update-title {
   font-family: var(--font-display);
