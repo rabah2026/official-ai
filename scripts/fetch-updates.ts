@@ -53,6 +53,34 @@ function deduceTag(title: string, link: string, summary?: string): Tag {
     return 'News';
 }
 
+const COMMON_TERMS_AR: Record<string, string> = {
+    "Introducing": "نُقدم لكم",
+    "Announcing": "إعلان عن",
+    "How to": "كيفية",
+    "Scaling": "توسيع نطاق",
+    "Advancing": "تعزيز",
+    "Building": "بناء",
+    "Accelerating": "تسريع",
+    "The future of": "مستقبل",
+    "Inside": "نظرة داخل",
+    "Our approach to": "نهجنا تجاه",
+    "Investing in": "الاستثمار في",
+    "Partnership": "شراكة",
+    "Available now": "متاح الآن",
+    "New": "جديد",
+    "Update": "تحديث"
+};
+
+function autoTranslate(text: string): string {
+    if (!text) return "";
+    let translated = text;
+    for (const [en, ar] of Object.entries(COMMON_TERMS_AR)) {
+        const regex = new RegExp(`\\b${en}\\b`, 'gi');
+        translated = translated.replace(regex, ar);
+    }
+    return translated;
+}
+
 
 async function fetchUpdates() {
     console.log('Starting official content fetch...');
@@ -169,6 +197,11 @@ async function fetchUpdates() {
 
                 // Re-tag with summary for better classification
                 item.tag = deduceTag(item.title, item.url, item.summary);
+
+                // Placeholder for future automated translation
+                // For now, we use a simple heuristic for auto-translation
+                if (!item.title_ar) item.title_ar = autoTranslate(item.title);
+                if (!item.summary_ar) item.summary_ar = autoTranslate(item.summary);
             } else {
                 console.log(`  -> Failed to fetch URL ${item.url}: ${pageRes.status}`);
             }
