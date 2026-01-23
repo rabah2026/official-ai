@@ -68,16 +68,65 @@ const COMMON_TERMS_AR: Record<string, string> = {
     "Partnership": "شراكة",
     "Available now": "متاح الآن",
     "New": "جديد",
-    "Update": "تحديث"
+    "Update": "تحديث",
+    "Research": "أبحاث",
+    "Engineering": "هندسة",
+    "Model": "نموذج",
+    "System": "نظام",
+    "Tool": "أداة",
+    "Library": "مكتبة",
+    "Agent": "وكيل",
+    "Human": "بشري",
+    "Intelligence": "ذكاء",
+    "Artificial": "اصطناعي",
+    "Global": "عالمي",
+    "Network": "شبكة",
+    "Infrastructure": "بنية تحتية",
+    "Training": "تدريب",
+    "Inference": "استنتاج",
+    "Cloud": "سحابة",
+    "Safety": "سلامة",
+    "Policy": "سياسة",
+    "Security": "أمن",
+    "Case Study": "دراسة حالة",
+    "Performance": "أداء",
+    "Compute": "حوسبة",
+    "Memory": "ذاكرة",
+    "Storage": "تخزين",
+    "Platform": "منصة",
+    "Language": "لغة",
+    "Video": "فيديو",
+    "Audio": "صوت",
+    "Vision": "رؤية",
+    "Multimodal": "متعدد الأنماط",
+    "Open Source": "مصدر مفتوح",
+    "Release": "إصدار",
+    "Beta": "تجريبي",
+    "Preview": "معاينة",
+    "Enterprise": "مؤسسات",
+    "Developer": "مطور",
+    "Toolkit": "مجموعة أدوات"
 };
 
 function autoTranslate(text: string): string {
     if (!text) return "";
     let translated = text;
-    for (const [en, ar] of Object.entries(COMMON_TERMS_AR)) {
+
+    // Sort keys by length descending to match longest phrases first
+    const sortedKeys = Object.keys(COMMON_TERMS_AR).sort((a, b) => b.length - a.length);
+
+    for (const en of sortedKeys) {
+        const ar = COMMON_TERMS_AR[en];
         const regex = new RegExp(`\\b${en}\\b`, 'gi');
         translated = translated.replace(regex, ar);
     }
+
+    // Fallback if still mostly English
+    if (translated === text || !/[\u0600-\u06FF]/.test(translated)) {
+        if (text.toLowerCase().includes('report')) return "تقرير جديد حول " + text;
+        return "تحديث رسمي: " + text;
+    }
+
     return translated;
 }
 
