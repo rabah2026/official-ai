@@ -32,6 +32,7 @@ export function MainLayout({ children, lastUpdated }: MainLayoutProps) {
                             {t('app_title')}
                         </Link>
                         <span
+                            className="hide-mobile"
                             suppressHydrationWarning
                             style={{
                                 fontSize: '0.65rem',
