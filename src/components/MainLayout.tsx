@@ -46,7 +46,6 @@ export function MainLayout({ children, lastUpdated }: MainLayoutProps) {
                     </div>
                     <nav className="site-nav" style={{ alignItems: 'center' }}>
                         <Link href="/companies">{t('companies')}</Link>
-                        <Link href="/digest">{t('digest')}</Link>
                         <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', marginLeft: isRTL ? '0' : '0.5rem', marginRight: isRTL ? '0.5rem' : '0' }}>
                             <ThemeToggle />
                             <LanguageToggle />
@@ -65,7 +64,6 @@ export function MainLayout({ children, lastUpdated }: MainLayoutProps) {
                     <p className="footer-tagline">{t('tagline')}</p>
                     <div className="footer-links">
                         <Link href="/companies">{t('all_companies')}</Link>
-                        <Link href="/digest">{t('subscribe')}</Link>
                     </div>
                 </div>
             </footer>
