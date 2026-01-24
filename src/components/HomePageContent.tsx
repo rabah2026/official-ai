@@ -40,9 +40,10 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
     // Filter updates by tag if selected
     const filteredUpdates = tag ? updates.filter(u => u.tag === tag) : updates;
 
-    // Exclude featured from feed
-    const featuredIds = new Set(featured.map(f => f.id));
-    const feedUpdates = filteredUpdates.filter(u => !featuredIds.has(u.id)).slice(0, 25);
+    // Include featured items in the feed (User Request)
+    // const featuredIds = new Set(featured.map(f => f.id));
+    // const feedUpdates = filteredUpdates.filter(u => !featuredIds.has(u.id)).slice(0, 25);
+    const feedUpdates = filteredUpdates.slice(0, 25);
 
     const tags: Tag[] = ['Release', 'News', 'Research', 'Engineering', 'Case Study', 'Corporate', 'Pricing', 'Policy', 'Security', 'Docs'];
 
