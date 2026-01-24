@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://claude.com/claude-in-excel",
+    "company": "Anthropic",
+    "title": "Claude in Excel",
+    "date": "2026-01-24T12:00:00.000Z",
+    "url": "https://claude.com/claude-in-excel",
+    "tag": "Release",
+    "summary": "Claude in Excel helps you navigate complex models, test scenarios without breaking formulas, and debug errors. It works within your existing compliance framework.",
+    "title_ar": "Claude في Excel",
+    "summary_ar": "تحديث رسمي: يساعدك Claude في Excel على التنقل في النماذج المعقدة، واختبار السيناريوهات دون كسر الصيغ، وتصحيح الأخطاء."
+  },
+  {
     "id": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
     "company": "Hugging Face",
     "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
