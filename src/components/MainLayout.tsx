@@ -48,7 +48,7 @@ export function MainLayout({ children, lastUpdated }: MainLayoutProps) {
                         <Link href="/companies">{t('companies')}</Link>
                         <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', marginLeft: isRTL ? '0' : '0.5rem', marginRight: isRTL ? '0.5rem' : '0' }}>
                             <ThemeToggle />
-                            <LanguageToggle />
+                            {/* <LanguageToggle /> Hidden per user request */}
                         </div>
                     </nav>
                 </div>
