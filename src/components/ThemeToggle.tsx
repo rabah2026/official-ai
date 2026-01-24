@@ -33,7 +33,7 @@ export function ThemeToggle() {
             title={`Switch to ${theme === 'dark' ? 'light' : 'dark'} mode`}
             className="theme-toggle"
         >
-            {theme === 'dark' ? <Moon size={18} /> : <Sun size={18} />}
+            {theme === 'dark' ? <Sun size={18} /> : <Moon size={18} />}
         </button>
     );
 }

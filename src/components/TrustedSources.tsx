@@ -16,7 +16,8 @@ export function TrustedSources() {
         <section className="w-full border-y border-[var(--color-border)] bg-[var(--color-surface)] py-6 overflow-hidden relative group">
             <div className="container-max flex items-center gap-8 overflow-hidden">
                 <div className="whitespace-nowrap text-xs font-bold uppercase tracking-widest text-[var(--color-muted-foreground)] shrink-0 z-10 bg-[var(--color-surface)] pr-4 shadow-[10px_0_10px_-5px_var(--color-surface)]">
-                    {t('official_announcements')}
+                    <span className="hidden md:inline">{t('official_announcements')}</span>
+                    <span className="md:hidden">{t('official_announcements_short')}</span>
                 </div>
 
                 <div className="flex overflow-hidden w-full mask-linear-gradient">
