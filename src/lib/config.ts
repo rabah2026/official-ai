@@ -117,10 +117,8 @@ export const COMPANIES: CompanyConfig[] = [
         url: 'https://x.ai',
         logo: '/logos/x-ai.svg',
         feeds: [
-            // X.AI blog does not have a discovered RSS yet?
-            // Usually valid: https://x.ai/blog/rss.xml or similar.
-            // If unsure, leave empty and let fetcher fail/warn.
-            { url: 'https://x.ai/blog/rss.xml', type: 'rss' }
+            // Using reliable community RSS mirror as official site blocks scraping/has no RSS
+            { url: 'https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_xainews.xml', type: 'rss' }
         ]
     }
 ];

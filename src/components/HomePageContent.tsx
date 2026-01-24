@@ -7,6 +7,8 @@ import { GroupedUpdateCard } from '@/components/GroupedUpdateCard';
 import { UpdateItem, Tag } from '@/lib/types';
 import { groupUpdates } from '@/lib/grouping';
 import { UpdateCard } from '@/components/UpdateCard';
+import { TrustedSources } from '@/components/TrustedSources';
+import { FeatureGrid } from '@/components/FeatureGrid';
 
 interface HomePageContentProps {
     updates: UpdateItem[];
@@ -39,10 +41,6 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
 
     // Filter updates by tag if selected
     const filteredUpdates = tag ? updates.filter(u => u.tag === tag) : updates;
-
-    // Include featured items in the feed (User Request)
-    // const featuredIds = new Set(featured.map(f => f.id));
-    // const feedUpdates = filteredUpdates.filter(u => !featuredIds.has(u.id)).slice(0, 25);
     const feedUpdates = filteredUpdates.slice(0, 25);
 
     const tags: Tag[] = ['Release', 'News', 'Research', 'Engineering', 'Case Study', 'Corporate', 'Pricing', 'Policy', 'Security', 'Docs'];
@@ -50,85 +48,87 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
     return (
         <>
             {/* Hero Section */}
-            <section className="hero-section">
-                <div className="container-max">
-                    <h1 className="hero-title" dangerouslySetInnerHTML={{ __html: `${t('hero_line1')}<br />${t('hero_line2')}` }} />
-                    <p className="hero-subtitle">
-                        <span className="hero-accent">{t('app_title')}</span> {t('aggregates_note')}
+            <section className="hero-section text-center relative overflow-hidden">
+                <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-[var(--color-primary)]/10 via-[var(--color-background)] to-[var(--color-background)] opacity-50 pointer-events-none" />
+
+                <div className="container-max relative z-10 pt-10 pb-16">
+                    <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-[var(--color-border)] bg-[var(--color-surface)] mb-8 animate-fade-in-up">
+                        <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
+                        <span className="text-xs font-mono uppercase tracking-widest text-[var(--color-muted-foreground)]">
+                            {t('signal_over_noise')}
+                        </span>
+                    </div>
+
+                    <h1 className="hero-title mb-6" dangerouslySetInnerHTML={{ __html: `${t('hero_line1')}<br />${t('hero_line2')}` }} />
+
+                    <p className="hero-subtitle text-lg md:text-xl text-[var(--color-muted-foreground)] max-w-2xl mx-auto mb-10 leading-relaxed">
+                        <span className="text-[var(--color-foreground)] font-medium">{t('app_title')}</span> {t('aggregates_note')}
                     </p>
+
+                    <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+                        <Link href="#updates" className="px-8 py-3 rounded-lg border border-[var(--color-border)] hover:bg-[var(--color-surface)] transition-colors">
+                            {t('more')}
+                        </Link>
+                    </div>
                 </div>
             </section>
 
+            <TrustedSources />
+
+            {/* Core Value Links (Features) */}
+            <FeatureGrid />
+
             {/* Featured Section - Top 3 Releases */}
             {featured.length > 0 && (
-                <section className="container-max" style={{ paddingTop: '2rem' }}>
-                    <div className="section-header">
-                        <h2>{t('featured_releases')}</h2>
-                    </div>
-                    <div className="featured-grid">
-                        {featured.map((item) => (
-                            <FeaturedCard key={item.id} item={item} />
-                        ))}
+                <section className="bg-[var(--color-surface)]/30 border-y border-[var(--color-border)]">
+                    <div className="container-max py-16">
+                        <div className="section-header mb-10">
+                            <h2>{t('featured_releases')}</h2>
+                        </div>
+                        <div className="featured-grid">
+                            {featured.map((item) => (
+                                <FeaturedCard key={item.id} item={item} />
+                            ))}
+                        </div>
                     </div>
                 </section>
             )}
 
             {/* All Updates Feed */}
-            <section className="container-max" style={{ paddingTop: '2rem', paddingBottom: '4rem' }}>
-                {/* Filter Tabs */}
-                <div style={{
-                    display: 'flex',
-                    gap: '0.75rem',
-                    marginBottom: '1.5rem',
-                    flexWrap: 'wrap',
-                    borderBottom: '2px solid var(--color-foreground)',
-                    paddingBottom: '1rem'
-                }}>
-                    <Link
-                        href="/"
-                        scroll={false}
-                        style={{
-                            padding: '0.5rem 1rem',
-                            fontSize: '0.75rem',
-                            fontWeight: 700,
-                            textTransform: 'uppercase',
-                            letterSpacing: '0.1em',
-                            textDecoration: 'none',
-                            background: !tag ? 'var(--color-foreground)' : 'transparent',
-                            color: !tag ? 'var(--color-background)' : 'var(--color-muted-foreground)',
-                            border: '1px solid var(--color-foreground)'
-                        }}
-                    >
-                        {t('all_count')} ({updates.length})
-                    </Link>
-                    {tags.map(tab => {
-                        const count = updates.filter(u => u.tag === tab).length;
-                        if (count === 0) return null;
-                        return (
-                            <Link
-                                key={tab}
-                                href={`/?tag=${tab}`}
-                                scroll={false}
-                                style={{
-                                    padding: '0.5rem 1rem',
-                                    fontSize: '0.75rem',
-                                    fontWeight: 700,
-                                    textTransform: 'uppercase',
-                                    letterSpacing: '0.1em',
-                                    textDecoration: 'none',
-                                    background: tag === tab ? 'var(--color-foreground)' : 'transparent',
-                                    color: tag === tab ? 'var(--color-background)' : 'var(--color-muted-foreground)',
-                                    border: '1px solid var(--color-border)'
-                                }}
-                            >
-                                {tab} ({count})
-                            </Link>
-                        );
-                    })}
+            <section id="updates" className="container-max py-16">
+                <div className="flex flex-col md:flex-row md:items-end justify-between mb-10 gap-6">
+                    <div className="section-header !mb-0">
+                        <h2>{t('updates_badge')}</h2>
+                    </div>
+
+                    {/* Filter Tabs */}
+                    <div className="flex flex-wrap gap-2">
+                        <Link
+                            href="/"
+                            scroll={false}
+                            className={`filter-btn ${!tag ? 'active' : ''}`}
+                        >
+                            {t('all_count')}
+                        </Link>
+                        {tags.map(tab => {
+                            const count = updates.filter(u => u.tag === tab).length;
+                            if (count === 0) return null;
+                            return (
+                                <Link
+                                    key={tab}
+                                    href={`/?tag=${tab}`}
+                                    scroll={false}
+                                    className={`filter-btn ${tag === tab ? 'active' : ''}`}
+                                >
+                                    {tab}
+                                </Link>
+                            );
+                        })}
+                    </div>
                 </div>
 
                 {feedUpdates.length === 0 ? (
-                    <div style={{ padding: '4rem 0', textAlign: 'center', color: '#737373' }}>
+                    <div className="py-20 text-center text-[var(--color-muted-foreground)] border border-dashed border-[var(--color-border)] rounded-xl">
                         <p>{t('no_updates')}</p>
                     </div>
                 ) : (
@@ -145,3 +145,5 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
         </>
     );
 }
+
+

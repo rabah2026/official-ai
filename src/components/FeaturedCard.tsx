@@ -3,36 +3,26 @@ import { arSA, enUS } from 'date-fns/locale';
 import { UpdateItem, Tag } from '@/lib/types';
 import clsx from 'clsx';
 import { useLanguage } from './LanguageContext';
+import { Rocket, Newspaper, FlaskConical, Wrench, Briefcase, Shield, FileText, Tag as TagIcon, Zap } from 'lucide-react';
 
-function CategoryLabel({ tag }: { tag: Tag }) {
-    const { t } = useLanguage();
-    const tagClasses: Record<Tag, string> = {
-        Release: 'release',
-        News: 'news',
-        Research: 'research',
-        Engineering: 'engineering',
-        'Case Study': 'case-study',
-        Corporate: 'corporate',
-        Pricing: 'pricing',
-        Policy: 'policy',
-        Security: 'security',
-        Docs: 'docs',
-    };
-
-    const translationKey = `tag_${tag.replace(' ', '_')}`;
-
-    return (
-        <span className={clsx('category-label', tagClasses[tag])}>
-            {t(translationKey)}
-        </span>
-    );
-}
+const TagIcons: Record<Tag, React.ElementType> = {
+    Release: Rocket,
+    News: Newspaper,
+    Research: FlaskConical,
+    Engineering: Wrench,
+    'Case Study': Briefcase,
+    Corporate: Briefcase,
+    Pricing: TagIcon,
+    Policy: FileText,
+    Security: Shield,
+    Docs: FileText,
+};
 
 export function FeaturedCard({ item }: { item: UpdateItem }) {
     const { t, isRTL } = useLanguage();
     const formattedDate = (() => {
         try {
-            return format(parseISO(item.date), 'd MMM yyyy', {
+            return format(parseISO(item.date), 'MMM d, yyyy', {
                 locale: isRTL ? arSA : enUS
             });
         } catch {
@@ -42,26 +32,28 @@ export function FeaturedCard({ item }: { item: UpdateItem }) {
 
     const displayTitle = (isRTL && item.title_ar) ? item.title_ar : item.title;
     const displaySummary = (isRTL && item.summary_ar) ? item.summary_ar : item.summary;
-
+    const Icon = TagIcons[item.tag] || Zap;
 
     return (
         <article className="featured-card" dir={isRTL ? 'rtl' : 'ltr'}>
-            <CategoryLabel tag={item.tag} />
+            <div className="featured-icon-wrapper">
+                <Icon size={20} />
+            </div>
 
-            <h2 className="featured-title" style={{ fontFamily: isRTL ? 'Amiri, serif' : undefined }}>
+            <div className="featured-meta">
+                <span className="company">{item.company}</span>
+                <span style={{ margin: '0 0.5rem', opacity: 0.5 }}>/</span>
+                <time dateTime={item.date}>{formattedDate}</time>
+            </div>
+
+            <h2 className="featured-title">
                 <a href={item.url} target="_blank" rel="noopener noreferrer">
                     {displayTitle}
                 </a>
             </h2>
 
-            <div className="featured-meta">
-                <span className="company">{item.company}</span>
-                <span className="divider">·</span>
-                <time dateTime={item.date}>{formattedDate}</time>
-            </div>
-
             {displaySummary && (
-                <p className="featured-summary" style={{ fontFamily: isRTL ? 'Noto Sans Arabic, sans-serif' : undefined }}>
+                <p className="featured-summary">
                     {displaySummary}
                 </p>
             )}
