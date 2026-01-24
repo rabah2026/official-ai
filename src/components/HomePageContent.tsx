@@ -16,14 +16,26 @@ interface HomePageContentProps {
 export function HomePageContent({ updates, tag }: HomePageContentProps) {
     const { t, isRTL } = useLanguage();
 
+    // Filter for featured items (Model releases)
     // Find actual model releases by looking for key terms in title
     const modelKeywords = ['GPT', 'Claude', 'Gemini', 'Llama', 'Mistral', 'Sora', 'introducing', 'launch', 'announcing', 'new model', 'release'];
-    const featured = updates
-        .filter(u => {
-            const titleLower = u.title.toLowerCase();
-            return modelKeywords.some(kw => titleLower.includes(kw.toLowerCase())) && u.tag === 'Release';
-        })
-        .slice(0, 3);
+
+    // First get all candidates
+    const candidates = updates.filter(u => {
+        const titleLower = u.title.toLowerCase();
+        return modelKeywords.some(kw => titleLower.includes(kw.toLowerCase())) && u.tag === 'Release';
+    });
+
+    // Deduplicate by title (ignoring case/whitespace)
+    const uniqueFeatured = new Map();
+    candidates.forEach(item => {
+        const key = item.title.trim().toLowerCase();
+        if (!uniqueFeatured.has(key)) {
+            uniqueFeatured.set(key, item);
+        }
+    });
+
+    const featured = Array.from(uniqueFeatured.values()).slice(0, 3);
 
     // Filter updates by tag if selected
     const filteredUpdates = tag ? updates.filter(u => u.tag === tag) : updates;
