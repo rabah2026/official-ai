@@ -15,7 +15,11 @@ async function getUpdates(): Promise<UpdateItem[]> {
   const filePath = path.join(process.cwd(), 'data', 'updates.json');
   try {
     const fileContents = await fs.readFile(filePath, 'utf8');
-    return JSON.parse(fileContents);
+    const updates = JSON.parse(fileContents);
+    // Sort by date desc
+    return updates.sort((a: UpdateItem, b: UpdateItem) =>
+      new Date(b.date).getTime() - new Date(a.date).getTime()
+    );
   } catch (error) {
     console.warn("Could not read data/updates.json", error);
     return [];

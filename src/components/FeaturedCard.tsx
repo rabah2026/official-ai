@@ -43,6 +43,7 @@ export function FeaturedCard({ item }: { item: UpdateItem }) {
     const displayTitle = (isRTL && item.title_ar) ? item.title_ar : item.title;
     const displaySummary = (isRTL && item.summary_ar) ? item.summary_ar : item.summary;
 
+
     return (
         <article className="featured-card" dir={isRTL ? 'rtl' : 'ltr'}>
             <CategoryLabel tag={item.tag} />
