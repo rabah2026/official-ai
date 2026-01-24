@@ -5,13 +5,22 @@ import { useLanguage } from "./LanguageContext";
 import { ThemeToggle } from "./ThemeToggle";
 import { LanguageToggle } from "./LanguageToggle";
 
+import { format } from 'date-fns';
+import { enUS, arSA } from 'date-fns/locale';
+
 interface MainLayoutProps {
     children: React.ReactNode;
-    lastUpdated: string;
+    lastUpdated: string; // ISO string
 }
 
 export function MainLayout({ children, lastUpdated }: MainLayoutProps) {
     const { t, isRTL } = useLanguage();
+
+    // Format date based on current language
+    const dateObj = new Date(lastUpdated);
+    const locale = isRTL ? arSA : enUS;
+
+    const formattedDate = format(dateObj, 'PP p', { locale });
 
     return (
         <div dir={isRTL ? 'rtl' : 'ltr'}>
@@ -22,14 +31,16 @@ export function MainLayout({ children, lastUpdated }: MainLayoutProps) {
                         <Link href="/" className="site-logo">
                             {t('app_title')}
                         </Link>
-                        <span style={{
-                            fontSize: '0.65rem',
-                            color: '#737373',
-                            textTransform: 'uppercase',
-                            letterSpacing: '0.05em',
-                            marginTop: '0.25rem'
-                        }}>
-                            {t('last_updated')}: {lastUpdated}
+                        <span
+                            suppressHydrationWarning
+                            style={{
+                                fontSize: '0.65rem',
+                                color: '#737373',
+                                textTransform: 'uppercase',
+                                letterSpacing: '0.05em',
+                                marginTop: '0.25rem'
+                            }}>
+                            {t('last_updated')}: {formattedDate}
                         </span>
                     </div>
                     <nav className="site-nav" style={{ alignItems: 'center' }}>

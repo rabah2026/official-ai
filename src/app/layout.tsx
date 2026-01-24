@@ -31,13 +31,7 @@ export default async function RootLayout({
   children: React.ReactNode;
 }>) {
   const meta = await getMetadata();
-  const lastUpdated = new Date(meta.lastUpdated).toLocaleString('en-US', {
-    month: 'short',
-    day: 'numeric',
-    hour: 'numeric',
-    minute: '2-digit',
-    hour12: true
-  });
+  const lastUpdated = meta.lastUpdated;
 
   return (
     <html lang="en" suppressHydrationWarning>
