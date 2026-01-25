@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 export default function LegalPage() {
     return (
-        <div className="container-max py-16 animate-fade-in-up">
+        <div className="container-max py-32 animate-fade-in-up">
             <h1 className="text-3xl font-display font-medium mb-10 text-[var(--color-foreground)]">Legal Information</h1>
 
             <div className="prose dark:prose-invert max-w-none text-[var(--color-muted-foreground)]">

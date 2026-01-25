@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 export default function QAPage() {
     return (
-        <div className="container-max py-16 animate-fade-in-up">
+        <div className="container-max py-32 animate-fade-in-up">
             <h1 className="text-3xl font-display font-medium mb-12 text-[var(--color-foreground)]">Frequently Asked Questions</h1>
 
             <div className="space-y-8 max-w-3xl">
