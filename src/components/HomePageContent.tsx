@@ -96,8 +96,8 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
 
             {/* All Updates Feed */}
             <section id="updates" className="container-max py-16">
-                <div className="flex flex-col md:flex-row md:items-center justify-between mb-10 gap-6">
-                    <div className="section-header !mb-0 shrink-0 !py-2 flex items-center gap-3">
+                <div className="flex flex-col gap-6 mb-10">
+                    <div className="section-header !mb-0 flex items-center gap-3">
                         <span className="w-2 h-2 rounded-full bg-[var(--color-primary)] shadow-[0_0_10px_var(--color-primary)]"></span>
                         <h2>{t('updates_badge')}</h2>
                     </div>
@@ -146,5 +146,3 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
         </>
     );
 }
-
-

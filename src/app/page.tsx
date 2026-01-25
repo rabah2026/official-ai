@@ -9,7 +9,7 @@ import { UpdateItem, Tag } from '@/lib/types';
 import { groupUpdates } from '@/lib/grouping';
 import { HomePageContent } from '@/components/HomePageContent';
 
-export const revalidate = 60;
+export const revalidate = 3600;
 
 async function getUpdates(): Promise<UpdateItem[]> {
   const filePath = path.join(process.cwd(), 'data', 'updates.json');
