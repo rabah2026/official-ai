@@ -425,21 +425,23 @@ body {
 .filter-btn {
   background: transparent;
   border: 1px solid var(--color-border);
-  color: var(--color-muted);
-  padding: 0.5rem 1rem;
-  border-radius: 6px;
+  color: var(--color-muted-foreground);
+  padding: 0.5rem 1.25rem;
+  border-radius: 9999px;
   font-size: 0.75rem;
-  font-weight: 600;
+  font-weight: 700;
   text-transform: uppercase;
+  letter-spacing: 0.05em;
   transition: all 0.2s;
 }
 
 .filter-btn.active,
 .filter-btn:hover {
   border-color: var(--color-primary);
-  color: #fff;
-  background: rgba(14, 165, 233, 0.1);
-  box-shadow: 0 0 10px rgba(14, 165, 233, 0.1);
+  background: var(--color-primary);
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(14, 165, 233, 0.25);
+  transform: translateY(-1px);
 }
 
 
@@ -458,6 +460,7 @@ body {
   --color-accent: #0f172a;
   /* Use dark accent for minimal look */
   --color-accent-dark: #cc3f00;
+  --color-primary: #0ea5e9;
   --font-display: 'Instrument Serif', 'Amiri', Georgia, serif;
   --font-body: 'DM Sans', 'Noto Sans Arabic', -apple-system, system-ui, sans-serif;
   --shadow-premium: 0 8px 24px rgba(0, 0, 0, 0.08);
@@ -1293,9 +1296,18 @@ body {
 /* Ensure no hardcoded light backgrounds remain in components */
 .updates-list>div[style*="background: #1a1a1a"] {
   background: var(--color-foreground) !important;
-}@keyframes fadeInUp {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .animate-fade-in-up {
@@ -1303,8 +1315,13 @@ body {
 }
 
 @keyframes scroll {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
 }
 
 .animate-scroll {

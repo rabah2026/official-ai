@@ -96,8 +96,8 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
 
             {/* All Updates Feed */}
             <section id="updates" className="container-max py-16">
-                <div className="flex flex-col md:flex-row md:items-end justify-between mb-10 gap-6">
-                    <div className="section-header !mb-0">
+                <div className="flex flex-col md:flex-row md:items-center justify-between mb-10 gap-6">
+                    <div className="section-header !mb-0 shrink-0">
                         <h2>{t('updates_badge')}</h2>
                     </div>
 

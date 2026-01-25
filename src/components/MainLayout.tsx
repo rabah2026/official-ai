@@ -62,8 +62,26 @@ export function MainLayout({ children, lastUpdated }: MainLayoutProps) {
             <footer className="site-footer">
                 <div className="container-max footer-content">
                     <p className="footer-tagline">{t('tagline')}</p>
-                    <div className="footer-links">
-                        <Link href="/companies">{t('all_companies')}</Link>
+                    <div className="footer-links" style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem', alignItems: 'center' }}>
+                        <div style={{ display: 'flex', gap: '2rem', flexWrap: 'wrap', justifyContent: 'center' }}>
+                            <Link href="/companies">{t('all_companies')}</Link>
+                            <Link href="/about">{t('footer_about')}</Link>
+                            <Link href="/qa">{t('footer_qa')}</Link>
+                            <Link href="/legal">{t('footer_legal')}</Link>
+                        </div>
+
+                        <div style={{ fontSize: '0.8rem', color: 'var(--color-muted-foreground)', marginTop: '1rem', display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
+                            <span>{t('footer_made_by')}</span>
+                            <a
+                                href="https://github.com/rabah2026"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="hover:text-[var(--color-primary)] transition-colors font-medium"
+                                style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem' }}
+                            >
+                                {t('footer_rabah')}
+                            </a>
+                        </div>
                     </div>
                 </div>
             </footer>

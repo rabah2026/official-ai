@@ -47,7 +47,12 @@ const translations: Record<Language, Translations> = {
         tag_Pricing: 'Pricing',
         tag_Policy: 'Policy',
         tag_Security: 'Security',
-        tag_Docs: 'Docs'
+        tag_Docs: 'Docs',
+        footer_qa: 'Q&A',
+        footer_legal: 'Legal',
+        footer_about: 'About',
+        footer_made_by: 'Made with love by',
+        footer_rabah: 'Rabah Madani'
     },
     ar: {
         app_title: 'أوفيشال',
@@ -89,7 +94,12 @@ const translations: Record<Language, Translations> = {
         tag_Pricing: 'الأسعار',
         tag_Policy: 'سياسة',
         tag_Security: 'أمن',
-        tag_Docs: 'وثائق'
+        tag_Docs: 'وثائق',
+        footer_qa: 'أسئلة وأجوبة',
+        footer_legal: 'قانوني',
+        footer_about: 'عن الموقع',
+        footer_made_by: 'صنع بحب من قبل',
+        footer_rabah: 'رابح مدني'
     }
 };
 
