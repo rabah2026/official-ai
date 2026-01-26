@@ -10,6 +10,9 @@ export const metadata: Metadata = {
 import { promises as fs } from "fs";
 import path from "path";
 
+// Force dynamic rendering to ensure we always read the latest metadata from disk
+export const dynamic = 'force-dynamic';
+
 // Function to get last updated metadata
 async function getMetadata() {
   const filePath = path.join(process.cwd(), 'data', 'metadata.json');
