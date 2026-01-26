@@ -138,84 +138,84 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
             {/* All Updates Feed */}
             <section id="updates" className="container-max py-16">
                 <div className="flex flex-col gap-6 mb-10">
-                    <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
-                        <div className="flex items-center gap-3 mb-0">
+                    <div className="!mb-0 flex-1 border-b-2 border-[var(--color-foreground)] pb-4 flex items-center gap-4 min-w-[200px]">
+                        <div className="flex items-center gap-3">
                             <span className="w-2 h-2 rounded-full bg-red-500 shadow-[0_0_10px_rgba(239,68,68,0.8)] animate-pulse"></span>
-                            <h2 className="font-mono text-sm font-semibold uppercase tracking-widest text-[var(--color-primary)]">
+                            <h2 className="!m-0 text-[var(--color-foreground)] tracking-[0.12em] font-bold text-xs md:text-sm uppercase">
                                 {t('updates_badge')}
                             </h2>
-                            <span className="text-sm font-normal text-[var(--color-muted-foreground)] ml-2 border border-[var(--color-border)] px-2 py-0.5 rounded-full">
-                                {filteredUpdates.length}
-                            </span>
+                        </div>
+                        <span className="text-sm font-normal text-[var(--color-muted-foreground)] border border-[var(--color-border)] px-2 py-0.5 rounded-full">
+                            {filteredUpdates.length}
+                        </span>
+                    </div>
+
+                    {/* Search & Company Filter Controls */}
+                    <div className="flex flex-col md:flex-row gap-4 w-full md:w-auto items-stretch md:items-center">
+
+                        {/* Company Filter */}
+                        <div className="relative group">
+                            <div className="absolute inset-y-0 left-3 flex items-center pointer-events-none">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--color-muted-foreground)]"><rect width="20" height="14" x="2" y="7" rx="2" ry="2" /><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16" /></svg>
+                            </div>
+                            <select
+                                className="h-11 pl-10 pr-8 rounded-xl border border-[var(--color-border)] bg-[var(--color-background)] text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]/20 min-w-[200px] appearance-none cursor-pointer hover:border-[var(--color-primary)]/50 transition-colors w-full"
+                                value={selectedCompany}
+                                onChange={(e) => {
+                                    setSelectedCompany(e.target.value);
+                                    setVisibleCount(25);
+                                }}
+                            >
+                                <option value="All">{t('all') ? `${t('all')} Companies` : 'All Companies'}</option>
+                                {companies.map(c => (
+                                    <option key={c} value={c}>{c}</option>
+                                ))}
+                            </select>
+                            <div className="absolute inset-y-0 right-3 flex items-center pointer-events-none">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--color-muted-foreground)] opacity-50"><path d="m6 9 6 6 6-6" /></svg>
+                            </div>
                         </div>
 
-                        {/* Search & Company Filter Controls */}
-                        <div className="flex flex-col md:flex-row gap-4 w-full md:w-auto items-stretch md:items-center">
-
-                            {/* Company Filter */}
-                            <div className="relative group">
-                                <div className="absolute inset-y-0 left-3 flex items-center pointer-events-none">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--color-muted-foreground)]"><rect width="20" height="14" x="2" y="7" rx="2" ry="2" /><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16" /></svg>
-                                </div>
-                                <select
-                                    className="h-11 pl-10 pr-8 rounded-xl border border-[var(--color-border)] bg-[var(--color-background)] text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]/20 min-w-[200px] appearance-none cursor-pointer hover:border-[var(--color-primary)]/50 transition-colors w-full"
-                                    value={selectedCompany}
-                                    onChange={(e) => {
-                                        setSelectedCompany(e.target.value);
-                                        setVisibleCount(25);
-                                    }}
-                                >
-                                    <option value="All">{t('all') ? `${t('all')} Companies` : 'All Companies'}</option>
-                                    {companies.map(c => (
-                                        <option key={c} value={c}>{c}</option>
-                                    ))}
-                                </select>
-                                <div className="absolute inset-y-0 right-3 flex items-center pointer-events-none">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--color-muted-foreground)] opacity-50"><path d="m6 9 6 6 6-6" /></svg>
-                                </div>
+                        {/* Category/Tag Filter */}
+                        <div className="relative group">
+                            <div className="absolute inset-y-0 left-3 flex items-center pointer-events-none">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--color-muted-foreground)]"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20" /></svg>
                             </div>
-
-                            {/* Category/Tag Filter */}
-                            <div className="relative group">
-                                <div className="absolute inset-y-0 left-3 flex items-center pointer-events-none">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--color-muted-foreground)]"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20" /></svg>
-                                </div>
-                                <select
-                                    className="h-11 pl-10 pr-8 rounded-xl border border-[var(--color-border)] bg-[var(--color-background)] text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]/20 min-w-[200px] appearance-none cursor-pointer hover:border-[var(--color-primary)]/50 transition-colors w-full"
-                                    value={tag || ''}
-                                    onChange={(e) => {
-                                        const val = e.target.value;
-                                        if (val) router.push(`/?tag=${val}`, { scroll: false });
-                                        else router.push('/', { scroll: false });
-                                        setVisibleCount(25);
-                                    }}
-                                >
-                                    <option value="">{t('all_count') ? `${t('all_count')} Categories` : 'All Categories'}</option>
-                                    {tags.map(t => (
-                                        <option key={t} value={t}>{t}</option>
-                                    ))}
-                                </select>
-                                <div className="absolute inset-y-0 right-3 flex items-center pointer-events-none">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--color-muted-foreground)] opacity-50"><path d="m6 9 6 6 6-6" /></svg>
-                                </div>
+                            <select
+                                className="h-11 pl-10 pr-8 rounded-xl border border-[var(--color-border)] bg-[var(--color-background)] text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]/20 min-w-[200px] appearance-none cursor-pointer hover:border-[var(--color-primary)]/50 transition-colors w-full"
+                                value={tag || ''}
+                                onChange={(e) => {
+                                    const val = e.target.value;
+                                    if (val) router.push(`/?tag=${val}`, { scroll: false });
+                                    else router.push('/', { scroll: false });
+                                    setVisibleCount(25);
+                                }}
+                            >
+                                <option value="">{t('all_count') ? `${t('all_count')} Categories` : 'All Categories'}</option>
+                                {tags.map(t => (
+                                    <option key={t} value={t}>{t}</option>
+                                ))}
+                            </select>
+                            <div className="absolute inset-y-0 right-3 flex items-center pointer-events-none">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--color-muted-foreground)] opacity-50"><path d="m6 9 6 6 6-6" /></svg>
                             </div>
+                        </div>
 
-                            {/* Search Input */}
-                            <div className="relative w-full md:w-auto min-w-[240px]">
-                                <div className="absolute inset-y-0 left-3 flex items-center pointer-events-none">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--color-muted-foreground)]"><circle cx="11" cy="11" r="8" /><path d="m21 21-4.3-4.3" /></svg>
-                                </div>
-                                <input
-                                    type="text"
-                                    placeholder={isRTL ? "بحث في التحديثات..." : "Search updates..."}
-                                    className="h-11 w-full pl-10 pr-4 rounded-xl border border-[var(--color-border)] bg-[var(--color-background)] text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]/20 placeholder:text-[var(--color-muted-foreground)] hover:border-[var(--color-primary)]/50 transition-colors"
-                                    value={searchQuery}
-                                    onChange={(e) => {
-                                        setSearchQuery(e.target.value);
-                                        setVisibleCount(25); // Reset pagination
-                                    }}
-                                />
+                        {/* Search Input */}
+                        <div className="relative w-full md:w-auto min-w-[240px]">
+                            <div className="absolute inset-y-0 left-3 flex items-center pointer-events-none">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--color-muted-foreground)]"><circle cx="11" cy="11" r="8" /><path d="m21 21-4.3-4.3" /></svg>
                             </div>
+                            <input
+                                type="text"
+                                placeholder={isRTL ? "بحث في التحديثات..." : "Search updates..."}
+                                className="h-11 w-full pl-10 pr-4 rounded-xl border border-[var(--color-border)] bg-[var(--color-background)] text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]/20 placeholder:text-[var(--color-muted-foreground)] hover:border-[var(--color-primary)]/50 transition-colors"
+                                value={searchQuery}
+                                onChange={(e) => {
+                                    setSearchQuery(e.target.value);
+                                    setVisibleCount(25); // Reset pagination
+                                }}
+                            />
                         </div>
                     </div>
                 </div>
@@ -263,7 +263,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                         )}
                     </>
                 )}
-            </section>
+            </section >
         </>
     );
 }
