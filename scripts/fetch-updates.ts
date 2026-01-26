@@ -139,8 +139,12 @@ async function fetchUpdates() {
     // Extraction function for consistency
     async function enrichItem(item: UpdateItem, companyName: string) {
         try {
-            await new Promise(r => setTimeout(r, 1500)); // Increased delay to avoid rate limits
+            await new Promise(r => setTimeout(r, 1000));
+            const controller = new AbortController();
+            const timeoutId = setTimeout(() => controller.abort(), 8000);
+
             const pageRes = await fetch(item.url, {
+                signal: controller.signal,
                 headers: {
                     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
                     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
@@ -156,7 +160,7 @@ async function fetchUpdates() {
                     'Sec-Fetch-User': '?1',
                     'Upgrade-Insecure-Requests': '1'
                 }
-            });
+            }).finally(() => clearTimeout(timeoutId));
 
             if (pageRes.ok) {
                 const pageHtml = await pageRes.text();
@@ -440,4 +444,18 @@ async function fetchUpdates() {
     console.log('Saved to data/updates.json and data/metadata.json');
 }
 
-fetchUpdates().catch(console.error);
+fetchUpdates().catch(async (err) => {
+    console.error('Fatal Error in fetchUpdates:', err);
+    // Still try to update metadata to show we tried
+    try {
+        const metadata = {
+            lastUpdated: new Date().toISOString(),
+            status: 'failed',
+            error: err.message
+        };
+        await fs.writeFile(path.join(process.cwd(), 'data', 'metadata.json'), JSON.stringify(metadata, null, 2));
+    } catch (e) {
+        console.error('Could not write metadata after error', e);
+    }
+    process.exit(1);
+});
