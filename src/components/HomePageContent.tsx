@@ -112,8 +112,10 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
 
             <TrustedSources />
 
-            {/* Core Value Links (Features) */}
-            <FeatureGrid />
+            {/* Core Value Links (Features) - Hidden on Mobile */}
+            <div className="hidden md:block">
+                <FeatureGrid />
+            </div>
 
             {/* Featured Section - Top 3 Releases */}
             {
@@ -137,9 +139,11 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
             <section id="updates" className="container-max py-16">
                 <div className="flex flex-col gap-6 mb-10">
                     <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
-                        <div className="section-header !mb-0 flex items-center gap-3">
-                            <span className="w-2 h-2 rounded-full bg-[var(--color-primary)] shadow-[0_0_10px_var(--color-primary)]"></span>
-                            <h2>{t('updates_badge')}</h2>
+                        <div className="flex items-center gap-3 mb-0">
+                            <span className="w-2 h-2 rounded-full bg-red-500 shadow-[0_0_10px_rgba(239,68,68,0.8)] animate-pulse"></span>
+                            <h2 className="font-mono text-sm font-semibold uppercase tracking-widest text-[var(--color-primary)]">
+                                {t('updates_badge')}
+                            </h2>
                             <span className="text-sm font-normal text-[var(--color-muted-foreground)] ml-2 border border-[var(--color-border)] px-2 py-0.5 rounded-full">
                                 {filteredUpdates.length}
                             </span>
