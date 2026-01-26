@@ -2,12 +2,14 @@ name: Fetch Official Updates
 
 on:
   schedule:
-    - cron: '0 * * * *' # Run every hour
+    - cron: '*/10 * * * *' # Run every 10 minutes
   workflow_dispatch: # Allow manual trigger
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       
@@ -18,7 +20,7 @@ jobs:
           cache: 'npm'
           
       - name: Install dependencies
-        run: npm install
+        run: npm ci
         
       - name: Run fetch script
         run: npx tsx scripts/fetch-updates.ts
