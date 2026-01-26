@@ -110,26 +110,51 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                 </div>
             </section>
 
+            {/* Latest Update Banner */}
+            {
+                updates.length > 0 && (
+                    <div className="container-max -mt-8 relative z-20 mb-12">
+                        <Link href={updates[0].url} target="_blank" className="block group">
+                            <div className="bg-[var(--color-surface)] border border-[var(--color-border)] rounded-xl p-1 flex items-center gap-4 hover:border-[var(--color-primary)]/50 transition-colors shadow-lg">
+                                <div className="bg-[var(--color-primary)]/10 text-[var(--color-primary)] px-3 py-1.5 rounded-lg text-xs font-bold uppercase tracking-wider whitespace-nowrap">
+                                    {t('latest') || 'Latest'}
+                                </div>
+                                <div className="flex-1 min-w-0 py-2">
+                                    <h3 className="text-sm md:text-base font-medium truncate pr-4 group-hover:text-[var(--color-primary)] transition-colors">
+                                        {isRTL && updates[0].title_ar ? updates[0].title_ar : updates[0].title}
+                                    </h3>
+                                </div>
+                                <div className="pr-4 text-[var(--color-muted-foreground)] text-xs whitespace-nowrap hidden sm:block">
+                                    {updates[0].company} &bull; {new Date(updates[0].date).toLocaleDateString()}
+                                </div>
+                            </div>
+                        </Link>
+                    </div>
+                )
+            }
+
             <TrustedSources />
 
             {/* Core Value Links (Features) */}
             <FeatureGrid />
 
             {/* Featured Section - Top 3 Releases */}
-            {featured.length > 0 && !searchQuery && selectedCompany === 'All' && !tag && (
-                <section className="bg-[var(--color-surface)]/30 border-y border-[var(--color-border)]">
-                    <div className="container-max py-16">
-                        <div className="section-header mb-10">
-                            <h2>{t('featured_releases')}</h2>
+            {
+                featured.length > 0 && !searchQuery && selectedCompany === 'All' && !tag && (
+                    <section className="bg-[var(--color-surface)]/30 border-y border-[var(--color-border)]">
+                        <div className="container-max py-16">
+                            <div className="section-header mb-10">
+                                <h2>{t('featured_releases')}</h2>
+                            </div>
+                            <div className="featured-grid">
+                                {featured.map((item) => (
+                                    <FeaturedCard key={item.id} item={item} />
+                                ))}
+                            </div>
                         </div>
-                        <div className="featured-grid">
-                            {featured.map((item) => (
-                                <FeaturedCard key={item.id} item={item} />
-                            ))}
-                        </div>
-                    </div>
-                </section>
-            )}
+                    </section>
+                )
+            }
 
             {/* All Updates Feed */}
             <section id="updates" className="container-max py-16">
