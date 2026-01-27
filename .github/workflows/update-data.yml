@@ -42,3 +42,10 @@ jobs:
           git add data/updates.json data/metadata.json
           git commit -m "chore: automated data update [skip ci]"
           git push
+
+      - name: Trigger Vercel Deployment
+        if: steps.git-check.outputs.changes == 'true' && env.VERCEL_DEPLOY_HOOK != ''
+        run: |
+          curl -X POST "$VERCEL_DEPLOY_HOOK"
+        env:
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
