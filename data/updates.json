@@ -975,15 +975,6 @@
     "summary": "Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling "
   },
   {
-    "id": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
-    "company": "NVIDIA",
-    "title": "Using AI Physics for Technology Computer-Aided Design Simulations",
-    "date": "2025-12-17T16:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
-    "tag": "Engineering",
-    "summary": "Technology Computer-Aided Design (TCAD) simulations, encompassing both process and device simulations, are crucial for modern semiconductor manufactur"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
     "company": "NVIDIA",
     "title": "Simulate an Accurate Radio Environment Using NVIDIA Aerial Omniverse Digital Twin",
@@ -991,6 +982,15 @@
     "url": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
     "tag": "Engineering",
     "summary": "The development of 5G and 6G requires high-fidelity radio channel modeling, but the ecosystem is highly fragmented. Link-level simulators, network-lev"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
+    "company": "NVIDIA",
+    "title": "Using AI Physics for Technology Computer-Aided Design Simulations",
+    "date": "2025-12-17T16:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
+    "tag": "Engineering",
+    "summary": "Technology Computer-Aided Design (TCAD) simulations, encompassing both process and device simulations, are crucial for modern semiconductor manufactur"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
