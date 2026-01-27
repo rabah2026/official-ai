@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://github.com/openai/openai-python/releases/tag/v2.16.0",
+    "company": "OpenAI",
+    "title": "OpenAI Python Library v2.16.0",
+    "date": "2026-01-27T23:27:23.000Z",
+    "url": "https://github.com/openai/openai-python/releases/tag/v2.16.0",
+    "tag": "Release",
+    "summary": "2.16.0 (2026-01-27)\nFull Changelog: v2.15.0...v2.16.0\nFeatures\napi: api update (b97f9f2)\napi: api updates (9debcc0)\nclient: add support for binary req"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/accelerating-diffusion-models-with-an-open-plug-and-play-offering/",
     "company": "NVIDIA",
     "title": "Accelerating Diffusion Models with an Open, Plug-and-Play Offering",
@@ -47,6 +56,17 @@
     "url": "https://openai.com/index/introducing-prism",
     "tag": "News",
     "summary": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place."
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-personas-singapore",
+    "company": "Hugging Face",
+    "title": "Nemotron-Personas-Singapore: Co-Designed Data for Sovereign AI",
+    "date": "2026-01-27T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-singapore",
+    "tag": "Policy",
+    "summary": "Singapore has established itself as a leader in building AI systems that are both innovative and responsibly governed. Through interoperable governance frame...",
+    "title_ar": "تحديث رسمي: Nemotron-Personas-Singapore: Co-Designed Data for Sovereign AI",
+    "summary_ar": "Singapore has established itself as a leader in بناء AI systems that are both innovative and responsibly governed. Through interoperable governance frame..."
   },
   {
     "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
@@ -107,17 +127,6 @@
     "summary": "Anthropic has been selected by the UK's Department for Science, Innovation and Technology (DSIT) to help build and pilot a dedicated AI-powered assistant for...",
     "title_ar": "تحديث رسمي: Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
     "summary_ar": "تحديث رسمي: Anthropic has been selected by the UK's Department for Science, Innovation and Technology (DSIT) to help build and pilot a dedicated AI-powered assistant for..."
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/earth-2-open-models",
-    "company": "Hugging Face",
-    "title": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
-    "date": "2026-01-26T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/nvidia/earth-2-open-models",
-    "tag": "News",
-    "summary": "NVIDIA Earth-2 comprises a set of accelerated tools and models which enables developers to bring together typically disparate weather and climate AI capabili...",
-    "title_ar": "تحديث رسمي: **NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
-    "summary_ar": "تحديث رسمي: NVIDIA Earth-2 comprises a set of accelerated tools and models which enables developers to bring together typically disparate weather and climate AI capabili..."
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
@@ -505,7 +514,11 @@
     "summary": "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures."
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49212",
+    "id": {
+      "$": {
+        "isPermaLink": "false"
+      }
+    },
     "company": "Microsoft",
     "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
     "date": "2026-01-11T22:00:00.000Z",
@@ -975,15 +988,6 @@
     "summary": "Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling "
   },
   {
-    "id": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
-    "company": "NVIDIA",
-    "title": "Simulate an Accurate Radio Environment Using NVIDIA Aerial Omniverse Digital Twin",
-    "date": "2025-12-17T16:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
-    "tag": "Engineering",
-    "summary": "The development of 5G and 6G requires high-fidelity radio channel modeling, but the ecosystem is highly fragmented. Link-level simulators, network-lev"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
     "company": "NVIDIA",
     "title": "Using AI Physics for Technology Computer-Aided Design Simulations",
@@ -991,6 +995,15 @@
     "url": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
     "tag": "Engineering",
     "summary": "Technology Computer-Aided Design (TCAD) simulations, encompassing both process and device simulations, are crucial for modern semiconductor manufactur"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
+    "company": "NVIDIA",
+    "title": "Simulate an Accurate Radio Environment Using NVIDIA Aerial Omniverse Digital Twin",
+    "date": "2025-12-17T16:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
+    "tag": "Engineering",
+    "summary": "The development of 5G and 6G requires high-fidelity radio channel modeling, but the ecosystem is highly fragmented. Link-level simulators, network-lev"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
@@ -2533,15 +2546,6 @@
     "url": "https://developer.nvidia.com/blog/how-to-achieve-4x-faster-inference-for-math-problem-solving/",
     "tag": "Engineering",
     "summary": "Large language models can solve challenging math problems. However, making them work efficiently at scale requires more than a strong checkpoint. You "
-  },
-  {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.7.2",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.7.2",
-    "date": "2025-11-10T16:41:53.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.7.2",
-    "tag": "Release",
-    "summary": "2.7.2 (2025-11-10)\nFull Changelog: v2.7.1...v2.7.2\nBug Fixes\ncompat with Python 3.14 (15a7ec8)\nChores\npackage: drop Python 3.8 support (afc14f2)"
   },
   {
     "id": "https://developer.nvidia.com/blog/streamline-complex-ai-inference-on-kubernetes-with-nvidia-grove/",
