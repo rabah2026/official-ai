@@ -140,7 +140,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                 <div className="section-header justify-between mb-10">
                     <div className="flex items-center gap-3">
                         <span className="w-2 h-2 rounded-full bg-red-500 shadow-[0_0_10px_rgba(239,68,68,0.8)] animate-pulse"></span>
-                        <h2 className="!m-0 text-[var(--color-foreground)] tracking-[0.12em] font-bold text-xs md:text-sm uppercase before:hidden">
+                        <h2 className="!m-0 text-[var(--color-foreground)] tracking-[0.12em] font-bold text-xs md:text-sm uppercase before:!hidden">
                             {t('updates_badge')}
                         </h2>
                         <span className="text-sm font-normal text-[var(--color-muted-foreground)] border border-[var(--color-border)] px-2 py-0.5 rounded-full ml-2">
