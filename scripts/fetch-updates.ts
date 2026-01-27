@@ -141,7 +141,7 @@ async function fetchUpdates() {
         try {
             await new Promise(r => setTimeout(r, 1000));
             const controller = new AbortController();
-            const timeoutId = setTimeout(() => controller.abort(), 8000);
+            const timeoutId = setTimeout(() => controller.abort(), 15000);
 
             const pageRes = await fetch(item.url, {
                 signal: controller.signal,
@@ -239,14 +239,50 @@ async function fetchUpdates() {
                 let summary = page$('meta[name="description"]').attr('content') || '';
                 if (!summary) summary = page$('meta[property="og:description"]').attr('content') || page$('meta[name="og:description"]').attr('content') || '';
 
-                if (!summary) {
+                // Handle generic meta descriptions (Hugging Face, Anthropic)
+                const genericSummaries = [
+                    "We’re on a journey to advance and democratize artificial intelligence",
+                    "Anthropic is an AI safety and research company",
+                    "A Blog post by",
+                    "Read more about this post on",
+                    "Mistral AI is a research lab building the best open source models"
+                ];
+
+                const isGeneric = genericSummaries.some(s => summary.includes(s));
+
+                if (!summary || isGeneric) {
                     // Try first paragraph in article or main content
-                    const firstP = page$('article p, main p, .content p, [class*="blog"] p, p').first().text().trim();
-                    if (firstP.length > 50) summary = firstP;
+                    // Enhanced selectors for specific blogs
+                    const contentSelectors = [
+                        '.prose > p', // Generic prose
+                        'article .content > p', // Generic article content
+                        'main p', // Main tag
+                        'div[class*="content"] > p', // Content divs
+                        '.blog-post-content p', // Common blog class
+                        'p' // Fallback to any paragraph (risky but better than empty)
+                    ];
+
+                    for (const selector of contentSelectors) {
+                        page$(selector).each((i, el) => {
+                            const text = page$(el).text().trim();
+                            // Skip empty, short, or cookie/newsletter warnings
+                            if (text.length > 50 && !text.includes('cookie') && !text.includes('newsletter') && !text.includes('Subscribe')) {
+                                if (!summary || isGeneric) { // Only override if still empty or generic
+                                    summary = text;
+                                    return false; // Break loop
+                                }
+                            }
+                        });
+                        if (summary && !genericSummaries.some(s => summary.includes(s))) break;
+                    }
                 }
 
                 if (summary && summary.length > 160) summary = summary.substring(0, 157) + '...';
-                item.summary = summary;
+
+                // If we found a better summary, use it. Otherwise keep existing RSS summary if available.
+                if (summary && summary.length > 10 && summary !== item.summary) {
+                    item.summary = summary;
+                }
 
                 // Re-tag with summary for better classification
                 item.tag = deduceTag(item.title, item.url, item.summary);
