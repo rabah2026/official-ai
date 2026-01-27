@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+    "company": "Hugging Face",
+    "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+    "date": "2026-01-27T02:26:51.000Z",
+    "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+    "tag": "News",
+    "summary": "A Blog post by LinkedIn on Hugging Face",
+    "title_ar": "Unlocking Agentic RL تدريب for GPT-OSS: A Practical Retrospective",
+    "summary_ar": "تحديث رسمي: A Blog post by LinkedIn on Hugging Face"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/adaptive-inference-in-nvidia-tensorrt-for-rtx-enables-automatic-optimization/",
     "company": "NVIDIA",
     "title": "Adaptive Inference in NVIDIA TensorRT for RTX Enables Automatic Optimization",
@@ -65,6 +76,15 @@
     "url": "https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/",
     "tag": "Engineering",
     "summary": "In 2025, NVIDIA partnered with Black Forest Labs (BFL) to optimize the FLUX.1 text-to-image model series, unlocking FP4 image generation performance o"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49261",
+    "company": "Microsoft",
+    "title": "Beyond boundaries: The future of Azure Storage in 2026",
+    "date": "2026-01-22T17:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
+    "tag": "News",
+    "summary": "2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.\nThe post Beyon"
   },
   {
     "id": "https://openai.com/index/scaling-postgresql",
@@ -737,17 +757,6 @@
     "summary": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companie"
   },
   {
-    "id": "https://huggingface.co/blog/tokenizers",
-    "company": "Hugging Face",
-    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
-    "date": "2025-12-20T17:11:34.000Z",
-    "url": "https://huggingface.co/blog/tokenizers",
-    "tag": "News",
-    "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-    "title_ar": "تحديث رسمي: Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
-    "summary_ar": "We’re on a journey to advance and democratize اصطناعي ذكاء through مصدر مفتوح and open science."
-  },
-  {
     "id": "https://developer.nvidia.com/blog/accelerating-ai-powered-chemistry-and-materials-science-simulations-with-nvidia-alchemi-toolkit-ops/",
     "company": "NVIDIA",
     "title": "Accelerating AI-Powered Chemistry and Materials Science Simulations with NVIDIA ALCHEMI Toolkit-Ops",
@@ -849,6 +858,14 @@
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
+  },
+  {
+    "id": "https://huggingface.co/blog/tokenizers",
+    "company": "Hugging Face",
+    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
+    "date": "2025-12-18T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/tokenizers",
+    "tag": "News"
   },
   {
     "id": "https://developer.nvidia.com/blog/real-time-decoding-algorithmic-gpu-decoders-and-ai-inference-enhancements-in-nvidia-cuda-q-qec/",
@@ -1409,15 +1426,6 @@
     "url": "https://openai.com/index/scout24",
     "tag": "News",
     "summary": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, a"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=48755",
-    "company": "Microsoft",
-    "title": "Microsoft’s commitment to supporting cloud infrastructure demand in the United States",
-    "date": "2025-12-09T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/",
-    "tag": "Engineering",
-    "summary": "Today, we are sharing progress on our infrastructure expansions across the United States that are supporting the tremendous growth in customer demand "
   },
   {
     "id": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
