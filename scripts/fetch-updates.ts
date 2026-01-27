@@ -290,7 +290,7 @@ async function fetchUpdates() {
                 // Placeholder for future automated translation
                 // For now, we use a simple heuristic for auto-translation
                 if (!item.title_ar) item.title_ar = autoTranslate(item.title);
-                if (!item.summary_ar) item.summary_ar = autoTranslate(item.summary);
+                if (!item.summary_ar) item.summary_ar = autoTranslate(item.summary || '');
             } else {
                 console.log(`  -> Failed to fetch URL ${item.url}: ${pageRes.status}`);
             }
