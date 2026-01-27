@@ -137,15 +137,13 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
 
             {/* All Updates Feed */}
             <section id="updates" className="container-max py-16">
-                <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-6 mb-10">
-                    <div className="!mb-0 border-b-2 md:border-b-0 border-[var(--color-foreground)] pb-2 md:pb-0 flex items-center gap-4 md:h-11">
-                        <div className="flex items-center gap-3">
-                            <span className="w-2 h-2 rounded-full bg-red-500 shadow-[0_0_10px_rgba(239,68,68,0.8)] animate-pulse"></span>
-                            <h2 className="!m-0 text-[var(--color-foreground)] tracking-[0.12em] font-bold text-xs md:text-sm uppercase">
-                                {t('updates_badge')}
-                            </h2>
-                        </div>
-                        <span className="text-sm font-normal text-[var(--color-muted-foreground)] border border-[var(--color-border)] px-2 py-0.5 rounded-full">
+                <div className="section-header justify-between mb-10">
+                    <div className="flex items-center gap-3">
+                        <span className="w-2 h-2 rounded-full bg-red-500 shadow-[0_0_10px_rgba(239,68,68,0.8)] animate-pulse"></span>
+                        <h2 className="!m-0 text-[var(--color-foreground)] tracking-[0.12em] font-bold text-xs md:text-sm uppercase before:hidden">
+                            {t('updates_badge')}
+                        </h2>
+                        <span className="text-sm font-normal text-[var(--color-muted-foreground)] border border-[var(--color-border)] px-2 py-0.5 rounded-full ml-2">
                             {filteredUpdates.length}
                         </span>
                     </div>
