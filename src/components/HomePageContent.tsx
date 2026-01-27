@@ -137,22 +137,24 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
 
             {/* All Updates Feed */}
             <section id="updates" className="container-max py-16">
-                <div className="section-header justify-between mb-10">
-                    <div className="flex items-center gap-3">
-                        <span className="w-2 h-2 rounded-full bg-red-500 shadow-[0_0_10px_rgba(239,68,68,0.8)] animate-pulse"></span>
-                        <h2 className="!m-0 text-[var(--color-foreground)] tracking-[0.12em] font-bold text-xs md:text-sm uppercase before:!hidden">
-                            {t('updates_badge')}
-                        </h2>
-                        <span className="text-sm font-normal text-[var(--color-muted-foreground)] border border-[var(--color-border)] px-2 py-0.5 rounded-full ml-2">
+                <div className="section-header flex-col md:flex-row items-stretch md:items-center justify-between mb-8 md:mb-10 gap-4 md:gap-0">
+                    <div className="flex items-center justify-between md:justify-start gap-3 w-full md:w-auto">
+                        <div className="flex items-center gap-3">
+                            <span className="w-2 h-2 rounded-full bg-red-500 shadow-[0_0_10px_rgba(239,68,68,0.8)] animate-pulse"></span>
+                            <h2 className="!m-0 text-[var(--color-foreground)] tracking-[0.12em] font-bold text-xs md:text-sm uppercase before:!hidden">
+                                {t('updates_badge')}
+                            </h2>
+                        </div>
+                        <span className="text-sm font-normal text-[var(--color-muted-foreground)] border border-[var(--color-border)] px-2 py-0.5 rounded-full">
                             {filteredUpdates.length}
                         </span>
                     </div>
 
                     {/* Search & Company Filter Controls */}
-                    <div className="flex flex-wrap md:flex-nowrap gap-4 items-center">
+                    <div className="flex flex-col md:flex-row gap-3 w-full md:w-auto">
 
                         {/* Company Filter */}
-                        <div className="relative group">
+                        <div className="relative group w-full md:w-auto">
                             <div className="absolute inset-y-0 left-3 flex items-center pointer-events-none">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--color-muted-foreground)]"><rect width="20" height="14" x="2" y="7" rx="2" ry="2" /><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16" /></svg>
                             </div>
@@ -175,7 +177,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                         </div>
 
                         {/* Category/Tag Filter */}
-                        <div className="relative group">
+                        <div className="relative group w-full md:w-auto">
                             <div className="absolute inset-y-0 left-3 flex items-center pointer-events-none">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--color-muted-foreground)]"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20" /></svg>
                             </div>
