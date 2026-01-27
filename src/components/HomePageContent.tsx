@@ -151,7 +151,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                     </div>
 
                     {/* Search & Company Filter Controls */}
-                    <div className="flex flex-col md:flex-row gap-4 w-full md:w-auto items-stretch md:items-center">
+                    <div className="flex flex-wrap md:flex-nowrap gap-4 w-full justify-center items-center">
 
                         {/* Company Filter */}
                         <div className="relative group">
