@@ -38,6 +38,17 @@
     "summary": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers."
   },
   {
+    "id": "https://www.anthropic.com/news/gov-UK-partnership",
+    "company": "Anthropic",
+    "title": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
+    "date": "2026-01-26T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/gov-UK-partnership",
+    "tag": "Research",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title_ar": "تحديث رسمي: Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
+    "summary_ar": "Anthropic is an AI سلامة and أبحاث company that's working to build reliable, interpretable, and steerable AI systems."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/earth-2-open-models",
     "company": "Hugging Face",
     "title": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
@@ -76,15 +87,6 @@
     "url": "https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/",
     "tag": "Engineering",
     "summary": "In 2025, NVIDIA partnered with Black Forest Labs (BFL) to optimize the FLUX.1 text-to-image model series, unlocking FP4 image generation performance o"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49261",
-    "company": "Microsoft",
-    "title": "Beyond boundaries: The future of Azure Storage in 2026",
-    "date": "2026-01-22T17:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
-    "tag": "News",
-    "summary": "2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.\nThe post Beyon"
   },
   {
     "id": "https://openai.com/index/scaling-postgresql",
@@ -349,17 +351,6 @@
     "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
     "tag": "News",
     "summary": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure."
-  },
-  {
-    "id": "https://www.anthropic.com/news/accelerating-scientific-research",
-    "company": "Anthropic",
-    "title": "How scientists are using Claude to accelerate research and discovery",
-    "date": "2026-01-15T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/accelerating-scientific-research",
-    "tag": "Research",
-    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-    "title_ar": "How scientists are using Claude to accelerate أبحاث and discovery",
-    "summary_ar": "Anthropic is an AI سلامة and أبحاث company that's working to build reliable, interpretable, and steerable AI systems."
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-write-high-performance-matrix-multiply-in-nvidia-cuda-tile/",
@@ -1426,6 +1417,15 @@
     "url": "https://openai.com/index/scout24",
     "tag": "News",
     "summary": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, a"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=48755",
+    "company": "Microsoft",
+    "title": "Microsoft’s commitment to supporting cloud infrastructure demand in the United States",
+    "date": "2025-12-09T16:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/",
+    "tag": "Engineering",
+    "summary": "Today, we are sharing progress on our infrastructure expansions across the United States that are supporting the tremendous growth in customer demand "
   },
   {
     "id": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
