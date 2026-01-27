@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://mistral.ai/news/mistral-vibe-2-0",
+    "company": "Mistral AI",
+    "title": "Terminally online Mistral Vibe.",
+    "date": "2026-01-27T16:00:00.000Z",
+    "url": "https://mistral.ai/news/mistral-vibe-2-0",
+    "tag": "News",
+    "summary": "",
+    "title_ar": "تحديث رسمي: Terminally online Mistral Vibe.",
+    "summary_ar": ""
+  },
+  {
     "id": "https://openai.com/index/pvh-future-of-fashion",
     "company": "OpenAI",
     "title": "PVH reimagines the future of fashion with OpenAI",
@@ -107,6 +118,15 @@
     "url": "https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/",
     "tag": "Engineering",
     "summary": "In 2025, NVIDIA partnered with Black Forest Labs (BFL) to optimize the FLUX.1 text-to-image model series, unlocking FP4 image generation performance o"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49261",
+    "company": "Microsoft",
+    "title": "Beyond boundaries: The future of Azure Storage in 2026",
+    "date": "2026-01-22T17:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
+    "tag": "News",
+    "summary": "2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.\nThe post Beyon"
   },
   {
     "id": "https://openai.com/index/scaling-postgresql",
@@ -313,6 +333,17 @@
     "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
     "tag": "News",
     "summary": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, tr"
+  },
+  {
+    "id": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
+    "company": "Anthropic",
+    "title": "Anthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru office opening",
+    "date": "2026-01-16T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
+    "tag": "Research",
+    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "title_ar": "تحديث رسمي: Anthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru office opening",
+    "summary_ar": "Anthropic is an AI سلامة and أبحاث company that's working to build reliable, interpretable, and steerable AI systems."
   },
   {
     "id": "https://huggingface.co/blog/open-responses",
@@ -928,17 +959,6 @@
     "summary": "The development of 5G and 6G requires high-fidelity radio channel modeling, but the ecosystem is highly fragmented. Link-level simulators, network-lev"
   },
   {
-    "id": "https://mistral.ai/news/mistral-ocr-3",
-    "company": "Mistral AI",
-    "title": "Introducing Mistral OCR 3",
-    "date": "2025-12-17T15:00:00.000Z",
-    "url": "https://mistral.ai/news/mistral-ocr-3",
-    "tag": "News",
-    "summary": "Achieving a new frontier for both accuracy and efficiency in document processing.",
-    "title_ar": "نُقدم لكم Mistral OCR 3",
-    "summary_ar": "Achieving a جديد frontier for both accuracy and efficiency in document processing."
-  },
-  {
     "id": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
     "company": "Hugging Face",
     "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
@@ -1423,15 +1443,6 @@
     "url": "https://openai.com/index/scout24",
     "tag": "News",
     "summary": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, a"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=48755",
-    "company": "Microsoft",
-    "title": "Microsoft’s commitment to supporting cloud infrastructure demand in the United States",
-    "date": "2025-12-09T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/",
-    "tag": "Engineering",
-    "summary": "Today, we are sharing progress on our infrastructure expansions across the United States that are supporting the tremendous growth in customer demand "
   },
   {
     "id": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
