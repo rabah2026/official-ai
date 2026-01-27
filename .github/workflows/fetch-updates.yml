@@ -30,5 +30,12 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/*.json
-          git commit -m "chore: automated update of official data" || echo "No changes to commit"
+          git diff --cached --quiet || git commit -m "chore: automated update of official data"
           git push
+          
+      - name: Trigger Vercel Deployment
+        if: success()
+        run: |
+          curl -X POST "$VERCEL_DEPLOY_HOOK" || true
+        env:
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
