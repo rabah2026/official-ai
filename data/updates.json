@@ -3,7 +3,7 @@
     "id": "https://mistral.ai/news/mistral-vibe-2-0",
     "company": "Mistral AI",
     "title": "Terminally online Mistral Vibe.",
-    "date": "2026-01-27T13:00:00.000Z",
+    "date": "2026-01-27T16:00:00.000Z",
     "url": "https://mistral.ai/news/mistral-vibe-2-0",
     "tag": "Research",
     "summary": "Today, we're releasing Mistral Vibe 2.0—a major upgrade to our terminal-native coding agent, powered by the state-of-the-art Devstral 2 model family. Build c...",
@@ -23,7 +23,7 @@
     "id": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
     "company": "Hugging Face",
     "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
-    "date": "2026-01-26T23:26:51.000Z",
+    "date": "2026-01-27T02:26:51.000Z",
     "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
     "tag": "News",
     "summary": "LinkedIn is an AI-first company that's built agents to help professionals be more successful. In this setting, models must reason over incomplete information...",
@@ -31,10 +31,21 @@
     "summary_ar": "تحديث رسمي: LinkedIn is an AI-first company that's built agents to help professionals be more successful. In this setting, models must reason over incomplete information..."
   },
   {
+    "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+    "company": "Hugging Face",
+    "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+    "date": "2026-01-27T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+    "tag": "News",
+    "summary": "In this second piece we turn our focus from models to the architectural and hardware choices Chinese companies have made as openness becomes the norm.",
+    "title_ar": "Architectural Choices in China's Open-Source AI Ecosystem: بناء Beyond DeepSeek",
+    "summary_ar": "تحديث رسمي: In this second piece we turn our focus from models to the architectural and hardware choices Chinese companies have made as openness becomes the norm."
+  },
+  {
     "id": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
     "company": "Hugging Face",
     "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
-    "date": "2026-01-26T21:00:00.000Z",
+    "date": "2026-01-27T00:00:00.000Z",
     "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
     "tag": "Research",
     "summary": "Arabic is one of the most widely spoken languages in the world, with hundreds of millions of speakers across more than twenty countries. Despite this global ...",
@@ -49,6 +60,15 @@
     "url": "https://developer.nvidia.com/blog/adaptive-inference-in-nvidia-tensorrt-for-rtx-enables-automatic-optimization/",
     "tag": "Engineering",
     "summary": "Deploying AI applications across diverse consumer hardware has traditionally forced a trade-off. You can optimize for specific GPU configurations and "
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49341",
+    "company": "Microsoft",
+    "title": "Maia 200: The AI accelerator built for inference",
+    "date": "2026-01-26T16:12:24.000Z",
+    "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+    "tag": "Engineering",
+    "summary": "Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation"
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-unlock-local-detail-in-coarse-climate-projections-with-nvidia-earth-2/",
@@ -83,7 +103,7 @@
     "id": "https://huggingface.co/blog/nvidia/earth-2-open-models",
     "company": "Hugging Face",
     "title": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
-    "date": "2026-01-25T21:00:00.000Z",
+    "date": "2026-01-26T00:00:00.000Z",
     "url": "https://huggingface.co/blog/nvidia/earth-2-open-models",
     "tag": "News",
     "summary": "NVIDIA Earth-2 comprises a set of accelerated tools and models which enables developers to bring together typically disparate weather and climate AI capabili...",
@@ -94,7 +114,7 @@
     "id": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
     "company": "Hugging Face",
     "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
-    "date": "2026-01-24T07:30:51.000Z",
+    "date": "2026-01-24T10:30:51.000Z",
     "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
     "tag": "Research",
     "summary": "While existing AI benchmarks excel at isolated tasks such as coding or web navigation, they often fail to capture the complexity of real-world industrial ope...",
@@ -118,6 +138,15 @@
     "url": "https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/",
     "tag": "Engineering",
     "summary": "In 2025, NVIDIA partnered with Black Forest Labs (BFL) to optimize the FLUX.1 text-to-image model series, unlocking FP4 image generation performance o"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49261",
+    "company": "Microsoft",
+    "title": "Beyond boundaries: The future of Azure Storage in 2026",
+    "date": "2026-01-22T17:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
+    "tag": "News",
+    "summary": "2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.\nThe post Beyon"
   },
   {
     "id": "https://openai.com/index/scaling-postgresql",
@@ -156,6 +185,17 @@
     "summary": "The C++ template library CUB is a go-to for high-performance GPU primitive algorithms, but its traditional \"two-phase\" API, which separates memory est"
   },
   {
+    "id": "https://huggingface.co/blog/waypoint-1",
+    "company": "Hugging Face",
+    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+    "date": "2026-01-21T10:11:48.000Z",
+    "url": "https://huggingface.co/blog/waypoint-1",
+    "tag": "Research",
+    "summary": "Waypoint-1 is Overworld’s real-time-interactive video diffusion model, controllable and prompted via text, mouse, and keyboard. You can give the model some f...",
+    "title_ar": "نُقدم لكم Waypoint-1: Real-time interactive فيديو diffusion from Overworld",
+    "summary_ar": "Waypoint-1 is Overworld’s real-time-interactive فيديو diffusion نموذج, controllable and prompted via text, mouse, and keyboard. You can give the نموذج some f..."
+  },
+  {
     "id": "https://openai.com/index/higgsfield",
     "company": "OpenAI",
     "title": "How Higgsfield turns simple ideas into cinematic social videos",
@@ -163,17 +203,6 @@
     "url": "https://openai.com/index/higgsfield",
     "tag": "News",
     "summary": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2."
-  },
-  {
-    "id": "https://huggingface.co/blog/waypoint-1",
-    "company": "Hugging Face",
-    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
-    "date": "2026-01-21T07:11:48.000Z",
-    "url": "https://huggingface.co/blog/waypoint-1",
-    "tag": "Research",
-    "summary": "Waypoint-1 is Overworld’s real-time-interactive video diffusion model, controllable and prompted via text, mouse, and keyboard. You can give the model some f...",
-    "title_ar": "نُقدم لكم Waypoint-1: Real-time interactive فيديو diffusion from Overworld",
-    "summary_ar": "Waypoint-1 is Overworld’s real-time-interactive فيديو diffusion نموذج, controllable and prompted via text, mouse, and keyboard. You can give the نموذج some f..."
   },
   {
     "id": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
@@ -212,6 +241,28 @@
     "summary": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs,"
   },
   {
+    "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+    "company": "Hugging Face",
+    "title": "One Year Since the “DeepSeek Moment”",
+    "date": "2026-01-20T15:52:58.000Z",
+    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+    "tag": "News",
+    "summary": "The first blog addresses strategic changes and the explosion of new open models and open source players. The second will cover architectural and hardware cho...",
+    "title_ar": "تحديث رسمي: One Year Since the “DeepSeek Moment”",
+    "summary_ar": "The first blog addresses strategic changes and the explosion of جديد open models and مصدر مفتوح players. The second will cover architectural and hardware cho..."
+  },
+  {
+    "id": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+    "company": "Hugging Face",
+    "title": "Differential Transformer V2",
+    "date": "2026-01-20T12:11:14.000Z",
+    "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+    "tag": "Research",
+    "summary": "(For simplicity, we omit the batch dimension and assume that both the input and output of the following flash_attn_func are three-dimensional tensors (tokens...",
+    "title_ar": "تحديث رسمي: Differential Transformer V2",
+    "summary_ar": "تحديث رسمي: (For simplicity, we omit the batch dimension and assume that both the input and output of the following flash_attn_func are three-dimensional tensors (tokens..."
+  },
+  {
     "id": "https://openai.com/index/cisco",
     "company": "OpenAI",
     "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
@@ -219,17 +270,6 @@
     "url": "https://openai.com/index/cisco",
     "tag": "Case Study",
     "summary": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and en"
-  },
-  {
-    "id": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-    "company": "Hugging Face",
-    "title": "Differential Transformer V2",
-    "date": "2026-01-20T09:11:14.000Z",
-    "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-    "tag": "Research",
-    "summary": "(For simplicity, we omit the batch dimension and assume that both the input and output of the following flash_attn_func are three-dimensional tensors (tokens...",
-    "title_ar": "تحديث رسمي: Differential Transformer V2",
-    "summary_ar": "تحديث رسمي: (For simplicity, we omit the batch dimension and assume that both the input and output of the following flash_attn_func are three-dimensional tensors (tokens..."
   },
   {
     "id": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
@@ -340,7 +380,7 @@
     "id": "https://huggingface.co/blog/open-responses",
     "company": "Hugging Face",
     "title": "Open Responses: What you need to know",
-    "date": "2026-01-15T18:00:29.000Z",
+    "date": "2026-01-15T21:00:29.000Z",
     "url": "https://huggingface.co/blog/open-responses",
     "tag": "Engineering",
     "summary": "The era of the chatbot is long gone, and agents dominate inference workloads. Developers are shifting toward autonomous systems that reason, plan, and act ov...",
@@ -456,11 +496,7 @@
     "summary": "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures."
   },
   {
-    "id": {
-      "$": {
-        "isPermaLink": "false"
-      }
-    },
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49212",
     "company": "Microsoft",
     "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
     "date": "2026-01-11T22:00:00.000Z",
@@ -595,17 +631,6 @@
     "summary": "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalitie"
   },
   {
-    "id": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-    "company": "Hugging Face",
-    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
-    "date": "2026-01-07T05:55:56.000Z",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-    "tag": "Engineering",
-    "summary": "The journey of building world-class Arabic language models has been one of continuous learning and iteration. Today, we're excited to announce Falcon-H1-Arab...",
-    "title_ar": "نُقدم لكم Falcon-H1-Arabic: Pushing the Boundaries of Arabic لغة AI with Hybrid Architecture",
-    "summary_ar": "The journey of بناء world-class Arabic لغة models has been one of continuous learning and iteration. Today, we're excited to announce Falcon-H1-Arab..."
-  },
-  {
     "id": "https://openai.com/index/introducing-chatgpt-health",
     "company": "OpenAI",
     "title": "Introducing ChatGPT Health ",
@@ -613,17 +638,6 @@
     "url": "https://openai.com/index/introducing-chatgpt-health",
     "tag": "News",
     "summary": "ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design."
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia-reachy-mini",
-    "company": "Hugging Face",
-    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-    "date": "2026-01-06T18:57:18.000Z",
-    "url": "https://huggingface.co/blog/nvidia-reachy-mini",
-    "tag": "Release",
-    "summary": "Today at CES 2026, NVIDIA unveiled a world of new open models to enable the future of agents, online and in the real world. From the recently released NVIDIA...",
-    "title_ar": "تحديث رسمي: NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-    "summary_ar": "Today at CES 2026, NVIDIA unveiled a world of جديد open models to enable مستقبل agents, online and in the real world. From the recently released NVIDIA..."
   },
   {
     "id": "https://developer.nvidia.com/blog/introducing-nvidia-bluefield-4-powered-inference-context-memory-storage-platform-for-the-next-frontier-of-ai/",
@@ -647,7 +661,7 @@
     "id": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
     "company": "Hugging Face",
     "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
-    "date": "2026-01-06T07:27:54.000Z",
+    "date": "2026-01-06T10:27:54.000Z",
     "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
     "tag": "Release",
     "summary": "NVIDIA today released Cosmos Reason 2, the latest advancement in open, reasoning vision language models for physical AI. Cosmos Reason 2 surpasses its previo...",
@@ -725,6 +739,22 @@
     "url": "https://developer.nvidia.com/blog/building-autonomous-vehicles-that-reason-with-nvidia-alpamayo/",
     "tag": "Engineering",
     "summary": "Autonomous vehicle (AV) research is undergoing a rapid shift. The field is being reshaped by the emergence of reasoning-based vision–language–action ("
+  },
+  {
+    "id": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+    "company": "Hugging Face",
+    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+    "date": "2026-01-05T09:16:51.000Z",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+    "tag": "Engineering"
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia-reachy-mini",
+    "company": "Hugging Face",
+    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+    "date": "2026-01-05T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/nvidia-reachy-mini",
+    "tag": "News"
   },
   {
     "id": "https://openai.com/index/openai-grove",
@@ -861,6 +891,28 @@
     "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity ca"
   },
   {
+    "id": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
+    "company": "Meta AI",
+    "title": "How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
+    "date": "2025-12-18T00:00:00.000Z",
+    "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
+    "tag": "News",
+    "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
+    "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
+    "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
+  },
+  {
+    "id": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
+    "company": "Meta AI",
+    "title": "The Universities Space Research Association Applies Segment Anything Model for Responding to Flood Emergencies",
+    "date": "2025-12-18T00:00:00.000Z",
+    "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
+    "tag": "Research",
+    "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
+    "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
+    "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
+  },
+  {
     "id": "https://huggingface.co/blog/tokenizers",
     "company": "Hugging Face",
     "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
@@ -876,28 +928,6 @@
     "url": "https://developer.nvidia.com/blog/real-time-decoding-algorithmic-gpu-decoders-and-ai-inference-enhancements-in-nvidia-cuda-q-qec/",
     "tag": "Engineering",
     "summary": "Real-time decoding is crucial to fault-tolerant quantum computers. By enabling decoders to operate with low latency concurrently with a quantum proces"
-  },
-  {
-    "id": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
-    "company": "Meta AI",
-    "title": "How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
-    "date": "2025-12-17T21:00:00.000Z",
-    "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
-    "tag": "News",
-    "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
-    "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
-  },
-  {
-    "id": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
-    "company": "Meta AI",
-    "title": "The Universities Space Research Association Applies Segment Anything Model for Responding to Flood Emergencies",
-    "date": "2025-12-17T21:00:00.000Z",
-    "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
-    "tag": "Research",
-    "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
-    "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
   {
     "id": "https://developer.nvidia.com/blog/migrate-apache-spark-workloads-to-gpus-at-scale-on-amazon-emr-with-project-aether/",
@@ -1082,7 +1112,7 @@
     "id": "https://ai.meta.com/blog/sam-audio/",
     "company": "Meta AI",
     "title": "Introducing SAM Audio: The First Unified Multimodal Model for Audio Separation",
-    "date": "2025-12-15T21:00:00.000Z",
+    "date": "2025-12-16T00:00:00.000Z",
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
@@ -1377,15 +1407,6 @@
     "summary": "CUDA C++ is standard C++ with extensions that enable functions to run on many parallel threads on a GPU. It has facilitated widespread adoption while "
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=48809",
-    "company": "Microsoft",
-    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
-    "date": "2025-12-10T17:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
-    "tag": "News",
-    "summary": "Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the "
-  },
-  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.10.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.10.0",
@@ -1438,15 +1459,6 @@
     "url": "https://openai.com/index/scout24",
     "tag": "News",
     "summary": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, a"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=48755",
-    "company": "Microsoft",
-    "title": "Microsoft’s commitment to supporting cloud infrastructure demand in the United States",
-    "date": "2025-12-09T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/",
-    "tag": "Engineering",
-    "summary": "Today, we are sharing progress on our infrastructure expansions across the United States that are supporting the tremendous growth in customer demand "
   },
   {
     "id": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
@@ -1959,12 +1971,23 @@
     "id": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "company": "Meta AI",
     "title": "How Conservation X Labs Is Using Segment Anything Model 3 for Endangered Wildlife Monitoring",
-    "date": "2025-11-23T21:00:00.000Z",
+    "date": "2025-11-24T00:00:00.000Z",
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
+  },
+  {
+    "id": "https://ai.meta.com/blog/executorch-reality-labs-on-device-ai/",
+    "company": "Meta AI",
+    "title": "ExecuTorch Adoption in Reality Labs: Powering On-Device AI Acros",
+    "date": "2025-11-21T00:00:00.000Z",
+    "url": "https://ai.meta.com/blog/executorch-reality-labs-on-device-ai/",
+    "tag": "Engineering",
+    "summary": "ExecuTorch, Meta’s open source, lightweight, and efficient inference engine, has been instrumental in enabling on-device AI capabilities across Meta’s...",
+    "title_ar": "تحديث رسمي: ExecuTorch Adoption in Reality Labs: Powering On-Device AI Acros",
+    "summary_ar": "ExecuTorch, Meta’s مصدر مفتوح, lightweight, and efficient استنتاج engine, has been instrumental in enabling on-device AI capabilities across Meta’s..."
   },
   {
     "id": "https://huggingface.co/blog/rapidfireai",
@@ -1981,17 +2004,6 @@
     "date": "2025-11-21T00:00:00.000Z",
     "url": "https://huggingface.co/blog/open-asr-leaderboard",
     "tag": "Corporate"
-  },
-  {
-    "id": "https://ai.meta.com/blog/executorch-reality-labs-on-device-ai/",
-    "company": "Meta AI",
-    "title": "ExecuTorch Adoption in Reality Labs: Powering On-Device AI Acros",
-    "date": "2025-11-20T21:00:00.000Z",
-    "url": "https://ai.meta.com/blog/executorch-reality-labs-on-device-ai/",
-    "tag": "Engineering",
-    "summary": "ExecuTorch, Meta’s open source, lightweight, and efficient inference engine, has been instrumental in enabling on-device AI capabilities across Meta’s...",
-    "title_ar": "تحديث رسمي: ExecuTorch Adoption in Reality Labs: Powering On-Device AI Acros",
-    "summary_ar": "ExecuTorch, Meta’s مصدر مفتوح, lightweight, and efficient استنتاج engine, has been instrumental in enabling on-device AI capabilities across Meta’s..."
   },
   {
     "id": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
