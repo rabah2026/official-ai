@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/",
+    "company": "NVIDIA",
+    "title": "Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare",
+    "date": "2026-01-28T17:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/",
+    "tag": "Engineering",
+    "summary": "NVIDIA Run:ai v2.24 introduces time-based fairshare, a new scheduling mode that brings fair-share scheduling with time awareness for over-quota resour"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/speeding-up-variable-length-training-with-dynamic-context-parallelism-and-nvidia-megatron-core/",
+    "company": "NVIDIA",
+    "title": "Speeding Up Variable-Length Training with Dynamic Context Parallelism and NVIDIA Megatron Core",
+    "date": "2026-01-28T16:28:06.000Z",
+    "url": "https://developer.nvidia.com/blog/speeding-up-variable-length-training-with-dynamic-context-parallelism-and-nvidia-megatron-core/",
+    "tag": "Engineering",
+    "summary": "This post introduces Dynamic Context Parallelism (Dynamic-CP), a scheduling approach in NVIDIA Megatron Core used for LLM post-training or DiT pre-tra"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/updating-classifier-evasion-for-vision-language-models/",
+    "company": "NVIDIA",
+    "title": "Updating Classifier Evasion for Vision Language Models",
+    "date": "2026-01-28T16:19:12.000Z",
+    "url": "https://developer.nvidia.com/blog/updating-classifier-evasion-for-vision-language-models/",
+    "tag": "Engineering",
+    "summary": "Advances in AI architectures have unlocked multimodal functionality, enabling transformer models to process multiple forms of data in the same context"
+  },
+  {
     "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
     "company": "Hugging Face",
     "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
@@ -127,6 +154,15 @@
     "summary": "Deploying AI applications across diverse consumer hardware has traditionally forced a trade-off. You can optimize for specific GPU configurations and "
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49341",
+    "company": "Microsoft",
+    "title": "Maia 200: The AI accelerator built for inference",
+    "date": "2026-01-26T16:12:24.000Z",
+    "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+    "tag": "Engineering",
+    "summary": "Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/how-to-unlock-local-detail-in-coarse-climate-projections-with-nvidia-earth-2/",
     "company": "NVIDIA",
     "title": "How to Unlock Local Detail in Coarse Climate Projections with NVIDIA Earth-2",
@@ -183,6 +219,15 @@
     "url": "https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/",
     "tag": "Engineering",
     "summary": "In 2025, NVIDIA partnered with Black Forest Labs (BFL) to optimize the FLUX.1 text-to-image model series, unlocking FP4 image generation performance o"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49261",
+    "company": "Microsoft",
+    "title": "Beyond boundaries: The future of Azure Storage in 2026",
+    "date": "2026-01-22T17:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
+    "tag": "News",
+    "summary": "2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.\nThe post Beyon"
   },
   {
     "id": "https://openai.com/index/scaling-postgresql",
@@ -1233,17 +1278,6 @@
     "summary": "Fast Fourier Transforms (FFTs) are widely used across scientific computing, from molecular dynamics and signal processing to computational fluid dynam"
   },
   {
-    "id": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
-    "company": "Google DeepMind",
-    "title": "Improved Gemini audio models for powerful voice experiences",
-    "date": "2025-12-12T17:50:50.000Z",
-    "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
-    "tag": "News",
-    "summary": "",
-    "title_ar": "Improved Gemini صوت models for powerful voice experiences",
-    "summary_ar": ""
-  },
-  {
     "id": "https://developer.nvidia.com/blog/r2d2-improving-robot-manipulation-with-simulation-and-language-models/",
     "company": "NVIDIA",
     "title": "R²D²: Improving Robot Manipulation with Simulation and Language Models",
@@ -1287,6 +1321,17 @@
     "url": "https://openai.com/index/bbva-collaboration-expansion",
     "tag": "News",
     "summary": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Togeth"
+  },
+  {
+    "id": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
+    "company": "Google DeepMind",
+    "title": "Improved Gemini audio models for powerful voice interactions",
+    "date": "2025-12-12T00:00:00.000Z",
+    "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
+    "tag": "News",
+    "summary": "An upgraded Gemini 2.5 Native Audio model across Google products and live speech translation in the Google Translate app.",
+    "title_ar": "Improved Gemini صوت models for powerful voice interactions",
+    "summary_ar": "An upgraded Gemini 2.5 Native صوت نموذج across Google products and live speech translation in the Google Translate app."
   },
   {
     "id": "https://developer.nvidia.com/blog/nvidia-blackwell-enables-3x-faster-training-and-nearly-2x-training-performance-per-dollar-than-previous-gen-architecture/",
@@ -1440,15 +1485,6 @@
     "summary": "CUDA C++ is standard C++ with extensions that enable functions to run on many parallel threads on a GPU. It has facilitated widespread adoption while "
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=48809",
-    "company": "Microsoft",
-    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
-    "date": "2025-12-10T17:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
-    "tag": "News",
-    "summary": "Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the "
-  },
-  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.10.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.10.0",
@@ -1501,15 +1537,6 @@
     "url": "https://openai.com/index/scout24",
     "tag": "News",
     "summary": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, a"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=48755",
-    "company": "Microsoft",
-    "title": "Microsoft’s commitment to supporting cloud infrastructure demand in the United States",
-    "date": "2025-12-09T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/",
-    "tag": "Engineering",
-    "summary": "Today, we are sharing progress on our infrastructure expansions across the United States that are supporting the tremendous growth in customer demand "
   },
   {
     "id": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
@@ -2060,34 +2087,23 @@
     "id": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
     "company": "Google DeepMind",
     "title": "How we’re bringing AI image verification to the Gemini app",
-    "date": "2025-11-20T15:13:19.000Z",
+    "date": "2025-11-20T15:00:00.000Z",
     "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
     "tag": "Engineering",
-    "summary": "",
+    "summary": "Our new Gemini app feature allows you to verify Google AI images and determine whether content was created or edited by AI.",
     "title_ar": "تحديث رسمي: How we’re bringing AI image verification to the Gemini app",
-    "summary_ar": ""
+    "summary_ar": "Our جديد Gemini app feature allows you to verify Google AI images and determine whether content was created or edited by AI."
   },
   {
     "id": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
     "company": "Google DeepMind",
     "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
-    "date": "2025-11-20T15:11:14.000Z",
+    "date": "2025-11-20T15:00:00.000Z",
     "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
     "tag": "News",
-    "summary": "",
+    "summary": "Nano Banana Pro, or Gemini 3 Pro Image, is our most advanced image generation and editing model.",
     "title_ar": "Build with Nano Banana Pro, our Gemini 3 Pro Image نموذج",
-    "summary_ar": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/introducing-nano-banana-pro/",
-    "company": "Google DeepMind",
-    "title": "Introducing Nano Banana Pro",
-    "date": "2025-11-20T15:05:02.000Z",
-    "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
-    "tag": "News",
-    "summary": "",
-    "title_ar": "نُقدم لكم Nano Banana Pro",
-    "summary_ar": ""
+    "summary_ar": "Nano Banana Pro, or Gemini 3 Pro Image, is our most advanced image generation and editing نموذج."
   },
   {
     "id": "https://openai.com/index/openai-and-foxconn-collaborate",
@@ -2115,6 +2131,17 @@
     "url": "https://openai.com/index/accelerating-science-gpt-5",
     "tag": "News",
     "summary": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Expl"
+  },
+  {
+    "id": "https://deepmind.google/blog/introducing-nano-banana-pro/",
+    "company": "Google DeepMind",
+    "title": "Introducing Nano Banana Pro",
+    "date": "2025-11-20T00:00:00.000Z",
+    "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
+    "tag": "News",
+    "summary": "Nano Banana Pro is our new image generation and editing model from Google DeepMind.",
+    "title_ar": "نُقدم لكم Nano Banana Pro",
+    "summary_ar": "Nano Banana Pro is our جديد image generation and editing نموذج from Google DeepMind."
   },
   {
     "id": "https://huggingface.co/blog/anylanguagemodel",
@@ -2232,17 +2259,6 @@
     "summary": "At Microsoft Ignite 2025, the vision for an AI-ready enterprise database becomes a reality with the announcement of Microsoft SQL Server 2025, giving "
   },
   {
-    "id": "https://deepmind.google/blog/start-building-with-gemini-3/",
-    "company": "Google DeepMind",
-    "title": "Start building with Gemini 3",
-    "date": "2025-11-18T17:49:13.000Z",
-    "url": "https://deepmind.google/blog/start-building-with-gemini-3/",
-    "tag": "Engineering",
-    "summary": "",
-    "title_ar": "Start بناء with Gemini 3",
-    "summary_ar": ""
-  },
-  {
     "id": "https://deepmind.google/blog/were-expanding-our-presence-in-singapore-to-advance-ai-in-the-asia-pacific-region/",
     "company": "Google DeepMind",
     "title": "We’re expanding our presence in Singapore to advance AI in the Asia-Pacific region",
@@ -2261,26 +2277,15 @@
     "summary": "Almost all manufactured products are enabled by chemistry and materials science. However, new discoveries are costly and time-consuming and often hind"
   },
   {
-    "id": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
-    "company": "Google DeepMind",
-    "title": "A new era of intelligence with Gemini 3",
-    "date": "2025-11-18T16:06:41.000Z",
-    "url": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
-    "tag": "News",
-    "summary": "",
-    "title_ar": "A جديد era of ذكاء with Gemini 3",
-    "summary_ar": ""
-  },
-  {
     "id": "https://deepmind.google/blog/introducing-google-antigravity/",
     "company": "Google DeepMind",
-    "title": "Introducing Google Antigravity",
+    "title": "Google Antigravity",
     "date": "2025-11-18T16:06:32.000Z",
     "url": "https://deepmind.google/blog/introducing-google-antigravity/",
     "tag": "News",
-    "summary": "",
-    "title_ar": "نُقدم لكم Google Antigravity",
-    "summary_ar": ""
+    "summary": "Google Antigravity - Build the new way",
+    "title_ar": "تحديث رسمي: Google Antigravity",
+    "summary_ar": "Google Antigravity - Build the جديد way"
   },
   {
     "id": "https://openai.com/index/intuit-partnership",
@@ -2290,6 +2295,28 @@
     "url": "https://openai.com/index/intuit-partnership",
     "tag": "Corporate",
     "summary": "OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit app experiences in ChatGPT and expand Intuit’s use of OpenAI’s frontie"
+  },
+  {
+    "id": "https://deepmind.google/blog/start-building-with-gemini-3/",
+    "company": "Google DeepMind",
+    "title": "Start building with Gemini 3",
+    "date": "2025-11-18T00:00:00.000Z",
+    "url": "https://deepmind.google/blog/start-building-with-gemini-3/",
+    "tag": "Engineering",
+    "summary": "Gemini 3 is introducing advanced agentic coding capabilities, plus Google Antigravity, a new agentic development platform.",
+    "title_ar": "Start بناء with Gemini 3",
+    "summary_ar": "Gemini 3 is نُقدم لكم advanced agentic coding capabilities, plus Google Antigravity, a جديد agentic development منصة."
+  },
+  {
+    "id": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
+    "company": "Google DeepMind",
+    "title": "A new era of intelligence with Gemini 3",
+    "date": "2025-11-18T00:00:00.000Z",
+    "url": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
+    "tag": "News",
+    "summary": "Today we’re releasing Gemini 3 – our most intelligent model that helps you bring any idea to life.",
+    "title_ar": "A جديد era of ذكاء with Gemini 3",
+    "summary_ar": "Today we’re releasing Gemini 3 – our most intelligent نموذج that helps you bring any idea to life."
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.8.1",
@@ -2730,15 +2757,6 @@
     "summary": "​​For decades, one of biology’s deepest mysteries was how a string of amino acids folds itself into the intricate architecture of life. Researchers bu"
   },
   {
-    "id": "https://developer.nvidia.com/blog/r2d2-perception-guided-task-amp-motion-planning-for-long-horizon-manipulation/",
-    "company": "NVIDIA",
-    "title": "R²D²: Perception-Guided Task & Motion Planning for Long-Horizon Manipulation",
-    "date": "2025-11-04T17:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/r2d2-perception-guided-task-amp-motion-planning-for-long-horizon-manipulation/",
-    "tag": "Engineering",
-    "summary": "Traditional task and motion planning (TAMP) systems for robot manipulation use cases operate on static models that often fail in new environments. Int"
-  },
-  {
     "id": "https://openai.com/global-affairs/brazil-ai-moment-is-here",
     "company": "OpenAI",
     "title": "Brazil’s AI moment is here",
@@ -2755,24 +2773,6 @@
     "url": "https://openai.com/index/introducing-indqa",
     "tag": "News",
     "summary": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding "
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/make-sense-of-video-analytics-by-integrating-nvidia-ai-blueprints/",
-    "company": "NVIDIA",
-    "title": "Make Sense of Video Analytics by Integrating NVIDIA AI Blueprints",
-    "date": "2025-11-03T21:48:11.000Z",
-    "url": "https://developer.nvidia.com/blog/make-sense-of-video-analytics-by-integrating-nvidia-ai-blueprints/",
-    "tag": "Engineering",
-    "summary": "Organizations are increasingly seeking ways to extract insights from video, audio, and other complex data sources. Retrieval-augmented generation (RAG"
-  },
-  {
-    "id": "https://luma.com/9n27uem4",
-    "company": "NVIDIA",
-    "title": "Join Us for the Blackwell NVFP4 Kernel Hackathon with NVIDIA and GPU MODE",
-    "date": "2025-11-03T20:00:00.000Z",
-    "url": "https://luma.com/9n27uem4",
-    "tag": "Engineering",
-    "summary": "Join the Developer Kernel Hackathon, a four-part performance challenge hosted by NVIDIA in collaboration with GPU MODE and support from Dell and Seste"
   },
   {
     "id": "https://openai.com/index/aws-and-openai-partnership",
