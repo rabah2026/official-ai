@@ -65,6 +65,17 @@
     "summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards."
   },
   {
+    "id": "https://www.anthropic.com/news/servicenow-anthropic-claude",
+    "company": "Anthropic",
+    "title": "ServiceNow chooses Claude to power customer apps and increase internal productivity",
+    "date": "2026-01-28T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/servicenow-anthropic-claude",
+    "tag": "Security",
+    "summary": "As enterprises move beyond experimenting with AI and start putting it into production across their core business operations, scale and security matters just ...",
+    "title_ar": "تحديث رسمي: ServiceNow chooses Claude to power customer apps and increase internal productivity",
+    "summary_ar": "As enterprises move beyond experimenting with AI and start putting it into production across their core business operations, scale and أمن matters just ..."
+  },
+  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.16.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.16.0",
@@ -188,17 +199,6 @@
     "url": "https://openai.com/index/indeed-maggie-hulce",
     "tag": "Case Study",
     "summary": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers."
-  },
-  {
-    "id": "https://www.anthropic.com/news/gov-UK-partnership",
-    "company": "Anthropic",
-    "title": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
-    "date": "2026-01-26T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/gov-UK-partnership",
-    "tag": "Corporate",
-    "summary": "Anthropic has been selected by the UK's Department for Science, Innovation and Technology (DSIT) to help build and pilot a dedicated AI-powered assistant for...",
-    "title_ar": "تحديث رسمي: Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
-    "summary_ar": "تحديث رسمي: Anthropic has been selected by the UK's Department for Science, Innovation and Technology (DSIT) to help build and pilot a dedicated AI-powered assistant for..."
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
@@ -454,17 +454,6 @@
     "url": "https://openai.com/index/introducing-chatgpt-go",
     "tag": "Release",
     "summary": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more aff"
-  },
-  {
-    "id": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
-    "company": "Anthropic",
-    "title": "Anthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru office opening",
-    "date": "2026-01-16T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
-    "tag": "Corporate",
-    "summary": "Irina Ghose is joining Anthropic as Managing Director of India as we prepare to open our first office in the country.",
-    "title_ar": "تحديث رسمي: Anthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru office opening",
-    "summary_ar": "تحديث رسمي: Irina Ghose is joining Anthropic as Managing Director of India as we prepare to open our first office in the country."
   },
   {
     "id": "https://huggingface.co/blog/open-responses",
@@ -3417,17 +3406,6 @@
     "summary": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American"
   },
   {
-    "id": "https://www.anthropic.com/news/claude-haiku-4-5",
-    "company": "Anthropic",
-    "title": "Introducing Claude Haiku 4.5",
-    "date": "2025-10-14T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/claude-haiku-4-5",
-    "tag": "Release",
-    "summary": "Claude Haiku 4.5, our latest small model, is available today to all users.",
-    "title_ar": "نُقدم لكم Claude Haiku 4.5",
-    "summary_ar": "Claude Haiku 4.5, our latest small نموذج, is available today to all users."
-  },
-  {
     "id": "https://huggingface.co/blog/nvidia/nemotron-personas-india",
     "company": "Hugging Face",
     "title": "Nemotron-Personas-India: Synthesized Data for Sovereign AI",
@@ -4189,17 +4167,6 @@
     "url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
     "tag": "Engineering",
     "summary": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in "
-  },
-  {
-    "id": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
-    "company": "Anthropic",
-    "title": "Anthropic raises $13B Series F at $183B post-money valuation",
-    "date": "2025-09-02T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
-    "tag": "Corporate",
-    "summary": "Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, t...",
-    "title_ar": "تحديث رسمي: Anthropic raises $13B Series F at $183B post-money valuation",
-    "summary_ar": "تحديث رسمي: Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, t..."
   },
   {
     "id": "https://huggingface.co/blog/zerogpu-aoti",
