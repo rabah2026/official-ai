@@ -109,6 +109,15 @@
     "summary": "Deploying AI applications across diverse consumer hardware has traditionally forced a trade-off. You can optimize for specific GPU configurations and "
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49341",
+    "company": "Microsoft",
+    "title": "Maia 200: The AI accelerator built for inference",
+    "date": "2026-01-26T16:12:24.000Z",
+    "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+    "tag": "Engineering",
+    "summary": "Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/how-to-unlock-local-detail-in-coarse-climate-projections-with-nvidia-earth-2/",
     "company": "NVIDIA",
     "title": "How to Unlock Local Detail in Coarse Climate Projections with NVIDIA Earth-2",
@@ -165,6 +174,15 @@
     "url": "https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/",
     "tag": "Engineering",
     "summary": "In 2025, NVIDIA partnered with Black Forest Labs (BFL) to optimize the FLUX.1 text-to-image model series, unlocking FP4 image generation performance o"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49261",
+    "company": "Microsoft",
+    "title": "Beyond boundaries: The future of Azure Storage in 2026",
+    "date": "2026-01-22T17:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
+    "tag": "News",
+    "summary": "2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.\nThe post Beyon"
   },
   {
     "id": "https://openai.com/index/scaling-postgresql",
@@ -415,6 +433,15 @@
     "summary": "What if your computer-use agent could learn a new Command Line Interface (CLI)—and operate it safely without ever writing files or free-typing shell c"
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49203",
+    "company": "Microsoft",
+    "title": "Chart your AI and agent strategy with Microsoft Marketplace",
+    "date": "2026-01-15T16:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/",
+    "tag": "News",
+    "summary": "A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unloc"
+  },
+  {
     "id": "https://openai.com/index/investing-in-merge-labs",
     "company": "OpenAI",
     "title": "Investing in Merge Labs",
@@ -440,6 +467,15 @@
     "url": "https://developer.nvidia.com/blog/how-to-write-high-performance-matrix-multiply-in-nvidia-cuda-tile/",
     "tag": "Engineering",
     "summary": "This blog post is part of a series designed to help developers learn NVIDIA CUDA Tile programming for building high-performance GPU kernels, using mat"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49245",
+    "company": "Microsoft",
+    "title": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms",
+    "date": "2026-01-14T17:00:00.000Z",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/",
+    "tag": "Security",
+    "summary": "Microsoft is honored to be named a Leader in the 2025–2026 IDC MarketScape for Unified AI Governance Platforms, highlighting our commitment to making "
   },
   {
     "id": "https://openai.com/index/cerebras-partnership",
@@ -494,6 +530,15 @@
     "url": "https://openai.com/index/openai-raising-concerns-policy",
     "tag": "Policy",
     "summary": "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures."
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49212",
+    "company": "Microsoft",
+    "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
+    "date": "2026-01-11T22:00:00.000Z",
+    "url": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
+    "tag": "News",
+    "summary": "We’re excited to announce that Anthropic has added new tools, connectors, and skills that allow Claude in Microsoft Foundry to bring advanced reasonin"
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.15.0",
@@ -667,6 +712,15 @@
     "url": "https://developer.nvidia.com/blog/open-source-ai-tool-upgrades-speed-up-llm-and-diffusion-models-on-nvidia-rtx-pcs/",
     "tag": "Research",
     "summary": "AI developer activity on PCs is exploding, driven by the rising quality of small language models (SLMs) and diffusion models, such as FLUX.2, GPT-OSS-"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49137",
+    "company": "Microsoft",
+    "title": "Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments",
+    "date": "2026-01-05T23:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
+    "tag": "News",
+    "summary": "CES 2026 showcases the arrival of the NVIDIA Rubin Platform, along with Azure’s proven readiness for deployment.\nThe post Microsoft’s strategic AI dat"
   },
   {
     "id": "https://developer.nvidia.com/blog/new-software-and-model-optimizations-supercharge-nvidia-dgx-spark/",
@@ -921,6 +975,15 @@
     "summary": "Data is the fuel of modern business, but relying on older CPU-based Apache Spark pipelines introduces a heavy toll. They’re inherently slow, require l"
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=48959",
+    "company": "Microsoft",
+    "title": "Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms",
+    "date": "2025-12-17T19:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/",
+    "tag": "News",
+    "summary": "We believe this recognition shows our commitment to pioneering agent frameworks, orchestration, and enterprise-grade governance.\nThe post Microsoft na"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/solving-large-scale-linear-sparse-problems-with-nvidia-cudss/",
     "company": "NVIDIA",
     "title": "Solving Large-Scale Linear Sparse Problems with NVIDIA cuDSS",
@@ -1008,6 +1071,15 @@
     "url": "https://developer.nvidia.com/blog/accelerating-long-context-inference-with-skip-softmax-in-nvidia-tensorrt-llm/",
     "tag": "Engineering",
     "summary": "For machine learning engineers deploying LLMs at scale, the equation is familiar and unforgiving: as context length increases, attention computation c"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49034",
+    "company": "Microsoft",
+    "title": "Azure updates for partners: December 2025",
+    "date": "2025-12-16T18:23:05.000Z",
+    "url": "https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
+    "tag": "News",
+    "summary": "Organizations leading in AI make it foundational. They rethink processes and integrate new technologies from the start to improve efficiency.\nThe post"
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.13.0",
@@ -1247,6 +1319,15 @@
     "summary": "2.11.0 (2025-12-11)\nFull Changelog: v2.10.0...v2.11.0\nFeatures\napi: gpt 5.2 (dd9b8e8)"
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=48942",
+    "company": "Microsoft",
+    "title": "Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI",
+    "date": "2025-12-11T18:18:05.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/",
+    "tag": "Release",
+    "summary": "Discover GPT‑5.2 in Microsoft Foundry—the next standard for enterprise AI. Learn how advanced reasoning, agentic execution, and compliance-ready featu"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/",
     "company": "NVIDIA",
     "title": "Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics",
@@ -1254,6 +1335,15 @@
     "url": "https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/",
     "tag": "Engineering",
     "summary": "Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and aut"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=48707",
+    "company": "Microsoft",
+    "title": "Azure Storage innovations: Unlocking the future of data",
+    "date": "2025-12-11T16:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/",
+    "tag": "News",
+    "summary": "Whether you are improving the resilience of mission-critical workloads or modernizing legacy systems; Azure Storage has a solution for you.\nThe post A"
   },
   {
     "id": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
