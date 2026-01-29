@@ -9,6 +9,15 @@
     "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds."
   },
   {
+    "id": "https://openai.com/index/inside-our-in-house-data-agent",
+    "company": "OpenAI",
+    "title": "Inside OpenAI’s in-house data agent",
+    "date": "2026-01-29T10:00:00.000Z",
+    "url": "https://openai.com/index/inside-our-in-house-data-agent",
+    "tag": "News",
+    "summary": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes"
+  },
+  {
     "id": "https://huggingface.co/blog/upskill",
     "company": "Hugging Face",
     "title": "We Got Claude to Build CUDA Kernels and teach open models!",
@@ -69,15 +78,6 @@
     "summary_ar": "تحديث رسمي: In this second piece we turn our focus from models to the architectural and hardware choices Chinese companies have made as openness becomes the norm."
   },
   {
-    "id": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
-    "company": "OpenAI",
-    "title": "The next chapter for AI in the EU",
-    "date": "2026-01-28T01:00:00.000Z",
-    "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
-    "tag": "News",
-    "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe"
-  },
-  {
     "id": "https://openai.com/index/emea-youth-and-wellbeing-grant",
     "company": "OpenAI",
     "title": "EMEA Youth & Wellbeing Grant",
@@ -85,6 +85,15 @@
     "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
     "tag": "News",
     "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI."
+  },
+  {
+    "id": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+    "company": "OpenAI",
+    "title": "The next chapter for AI in the EU",
+    "date": "2026-01-28T01:00:00.000Z",
+    "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+    "tag": "News",
+    "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe"
   },
   {
     "id": "https://openai.com/index/ai-agent-link-safety",
@@ -487,17 +496,6 @@
     "summary": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more aff"
   },
   {
-    "id": "https://huggingface.co/blog/open-responses",
-    "company": "Hugging Face",
-    "title": "Open Responses: What you need to know",
-    "date": "2026-01-15T21:00:29.000Z",
-    "url": "https://huggingface.co/blog/open-responses",
-    "tag": "Engineering",
-    "summary": "The era of the chatbot is long gone, and agents dominate inference workloads. Developers are shifting toward autonomous systems that reason, plan, and act ov...",
-    "title_ar": "تحديث رسمي: Open Responses: What you need to know",
-    "summary_ar": "The era of the chatbot is long gone, and agents dominate استنتاج workloads. Developers are shifting toward autonomous systems that reason, plan, and act ov..."
-  },
-  {
     "id": "https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning/",
     "company": "NVIDIA",
     "title": "How to Train an AI Agent for Command-Line Tasks with Synthetic Data and Reinforcement Learning",
@@ -532,6 +530,14 @@
     "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
     "tag": "News",
     "summary": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure."
+  },
+  {
+    "id": "https://huggingface.co/blog/open-responses",
+    "company": "Hugging Face",
+    "title": "Open Responses: What you need to know",
+    "date": "2026-01-15T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/open-responses",
+    "tag": "News"
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-write-high-performance-matrix-multiply-in-nvidia-cuda-tile/",
@@ -944,13 +950,13 @@
     "summary": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findin"
   },
   {
-    "id": "https://openai.com/index/updating-model-spec-with-teen-protections",
+    "id": "https://openai.com/index/us-department-of-energy-collaboration",
     "company": "OpenAI",
-    "title": "Updating our Model Spec with teen protections",
+    "title": "Deepening our collaboration with the U.S. Department of Energy",
     "date": "2025-12-18T11:00:00.000Z",
-    "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
+    "url": "https://openai.com/index/us-department-of-energy-collaboration",
     "tag": "News",
-    "summary": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance ground"
+    "summary": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of "
   },
   {
     "id": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
@@ -962,13 +968,13 @@
     "summary": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vet"
   },
   {
-    "id": "https://openai.com/index/us-department-of-energy-collaboration",
+    "id": "https://openai.com/index/updating-model-spec-with-teen-protections",
     "company": "OpenAI",
-    "title": "Deepening our collaboration with the U.S. Department of Energy",
+    "title": "Updating our Model Spec with teen protections",
     "date": "2025-12-18T11:00:00.000Z",
-    "url": "https://openai.com/index/us-department-of-energy-collaboration",
+    "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
     "tag": "News",
-    "summary": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of "
+    "summary": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance ground"
   },
   {
     "id": "https://openai.com/index/introducing-gpt-5-2-codex",
@@ -1307,6 +1313,17 @@
     "summary": "Fast Fourier Transforms (FFTs) are widely used across scientific computing, from molecular dynamics and signal processing to computational fluid dynam"
   },
   {
+    "id": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
+    "company": "Google DeepMind",
+    "title": "Improved Gemini audio models for powerful voice experiences",
+    "date": "2025-12-12T17:50:50.000Z",
+    "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
+    "tag": "News",
+    "summary": "",
+    "title_ar": "Improved Gemini صوت models for powerful voice experiences",
+    "summary_ar": ""
+  },
+  {
     "id": "https://developer.nvidia.com/blog/r2d2-improving-robot-manipulation-with-simulation-and-language-models/",
     "company": "NVIDIA",
     "title": "R²D²: Improving Robot Manipulation with Simulation and Language Models",
@@ -1323,15 +1340,6 @@
     "url": "https://developer.nvidia.com/blog/how-to-build-privacy-preserving-evaluation-benchmarks-with-synthetic-data/",
     "tag": "Policy",
     "summary": "Validating AI systems requires benchmarks—datasets and evaluation workflows that mimic real-world conditions—to measure accuracy, reliability, and saf"
-  },
-  {
-    "id": "https://openai.com/index/shipping-sora-for-android-with-codex",
-    "company": "OpenAI",
-    "title": "How We Used Codex to Ship Sora for Android in 28 Days",
-    "date": "2025-12-12T00:00:00.000Z",
-    "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
-    "tag": "Engineering",
-    "summary": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver "
   },
   {
     "id": "https://openai.com/index/bny",
@@ -1352,15 +1360,13 @@
     "summary": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Togeth"
   },
   {
-    "id": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
-    "company": "Google DeepMind",
-    "title": "Improved Gemini audio models for powerful voice interactions",
+    "id": "https://openai.com/index/shipping-sora-for-android-with-codex",
+    "company": "OpenAI",
+    "title": "How We Used Codex to Ship Sora for Android in 28 Days",
     "date": "2025-12-12T00:00:00.000Z",
-    "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
-    "tag": "News",
-    "summary": "An upgraded Gemini 2.5 Native Audio model across Google products and live speech translation in the Google Translate app.",
-    "title_ar": "Improved Gemini صوت models for powerful voice interactions",
-    "summary_ar": "An upgraded Gemini 2.5 Native صوت نموذج across Google products and live speech translation in the Google Translate app."
+    "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
+    "tag": "Engineering",
+    "summary": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver "
   },
   {
     "id": "https://developer.nvidia.com/blog/nvidia-blackwell-enables-3x-faster-training-and-nearly-2x-training-performance-per-dollar-than-previous-gen-architecture/",
@@ -1443,13 +1449,13 @@
     "summary": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research"
   },
   {
-    "id": "https://openai.com/index/disney-sora-agreement",
+    "id": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
     "company": "OpenAI",
-    "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+    "title": "Update to GPT-5 System Card: GPT-5.2",
     "date": "2025-12-11T00:00:00.000Z",
-    "url": "https://openai.com/index/disney-sora-agreement",
+    "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
     "tag": "News",
-    "summary": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short video"
+    "summary": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that desc"
   },
   {
     "id": "https://openai.com/index/ten-years",
@@ -1470,15 +1476,6 @@
     "summary": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and v"
   },
   {
-    "id": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
-    "company": "OpenAI",
-    "title": "Update to GPT-5 System Card: GPT-5.2",
-    "date": "2025-12-11T00:00:00.000Z",
-    "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
-    "tag": "News",
-    "summary": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that desc"
-  },
-  {
     "id": "https://openai.com/index/podium",
     "company": "OpenAI",
     "title": "Increasing revenue 300% by bringing AI to SMBs",
@@ -1486,6 +1483,15 @@
     "url": "https://openai.com/index/podium",
     "tag": "News",
     "summary": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve custome"
+  },
+  {
+    "id": "https://openai.com/index/disney-sora-agreement",
+    "company": "OpenAI",
+    "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+    "date": "2025-12-11T00:00:00.000Z",
+    "url": "https://openai.com/index/disney-sora-agreement",
+    "tag": "News",
+    "summary": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short video"
   },
   {
     "id": "https://huggingface.co/blog/hf-skills-training-codex",
@@ -1781,15 +1787,6 @@
     "summary": "Building truly photorealistic 3D environments for simulation is challenging. Even with advanced neural reconstruction methods such as 3D Gaussian Spla"
   },
   {
-    "id": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
-    "company": "OpenAI",
-    "title": "How confessions can keep language models honest",
-    "date": "2025-12-03T10:00:00.000Z",
-    "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
-    "tag": "News",
-    "summary": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI hone"
-  },
-  {
     "id": "https://openai.com/index/openai-to-acquire-neptune",
     "company": "OpenAI",
     "title": "OpenAI to acquire Neptune",
@@ -1797,6 +1794,15 @@
     "url": "https://openai.com/index/openai-to-acquire-neptune",
     "tag": "News",
     "summary": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor trainin"
+  },
+  {
+    "id": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+    "company": "OpenAI",
+    "title": "How confessions can keep language models honest",
+    "date": "2025-12-03T10:00:00.000Z",
+    "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+    "tag": "News",
+    "summary": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI hone"
   },
   {
     "id": "https://openai.com/index/people-first-ai-fund-grantees",
@@ -1889,15 +1895,6 @@
     "summary": "OpenAI and NORAD are bringing new magic to “NORAD Tracks Santa” with three ChatGPT holiday tools that let families create festive elves, toy coloring "
   },
   {
-    "id": "https://openai.com/index/accenture-partnership",
-    "company": "OpenAI",
-    "title": "Accenture and OpenAI accelerate enterprise AI success",
-    "date": "2025-12-01T05:00:00.000Z",
-    "url": "https://openai.com/index/accenture-partnership",
-    "tag": "Corporate",
-    "summary": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of grow"
-  },
-  {
     "id": "https://openai.com/index/thrive-holdings",
     "company": "OpenAI",
     "title": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption",
@@ -1905,6 +1902,15 @@
     "url": "https://openai.com/index/thrive-holdings",
     "tag": "News",
     "summary": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption, embedding frontier research and engineering directly into acc"
+  },
+  {
+    "id": "https://openai.com/index/accenture-partnership",
+    "company": "OpenAI",
+    "title": "Accenture and OpenAI accelerate enterprise AI success",
+    "date": "2025-12-01T05:00:00.000Z",
+    "url": "https://openai.com/index/accenture-partnership",
+    "tag": "Corporate",
+    "summary": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of grow"
   },
   {
     "id": "https://huggingface.co/blog/transformers-v5",
@@ -2046,15 +2052,6 @@
     "summary": "Google DeepMind and the DOE partner on Genesis, a new effort to accelerate science with AI."
   },
   {
-    "id": "https://openai.com/index/chatgpt-shopping-research",
-    "company": "OpenAI",
-    "title": "Introducing shopping research in ChatGPT",
-    "date": "2025-11-24T00:00:00.000Z",
-    "url": "https://openai.com/index/chatgpt-shopping-research",
-    "tag": "Research",
-    "summary": "Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making"
-  },
-  {
     "id": "https://openai.com/index/gpt-5-mathematical-discovery",
     "company": "OpenAI",
     "title": "GPT-5 and the future of mathematical discovery",
@@ -2062,6 +2059,15 @@
     "url": "https://openai.com/index/gpt-5-mathematical-discovery",
     "tag": "News",
     "summary": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery."
+  },
+  {
+    "id": "https://openai.com/index/chatgpt-shopping-research",
+    "company": "OpenAI",
+    "title": "Introducing shopping research in ChatGPT",
+    "date": "2025-11-24T00:00:00.000Z",
+    "url": "https://openai.com/index/chatgpt-shopping-research",
+    "tag": "Research",
+    "summary": "Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making"
   },
   {
     "id": "https://www.anthropic.com/news/claude-opus-4-5",
@@ -2116,23 +2122,34 @@
     "id": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
     "company": "Google DeepMind",
     "title": "How we’re bringing AI image verification to the Gemini app",
-    "date": "2025-11-20T15:00:00.000Z",
+    "date": "2025-11-20T15:13:19.000Z",
     "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
     "tag": "Engineering",
-    "summary": "Our new Gemini app feature allows you to verify Google AI images and determine whether content was created or edited by AI.",
+    "summary": "",
     "title_ar": "تحديث رسمي: How we’re bringing AI image verification to the Gemini app",
-    "summary_ar": "Our جديد Gemini app feature allows you to verify Google AI images and determine whether content was created or edited by AI."
+    "summary_ar": ""
   },
   {
     "id": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
     "company": "Google DeepMind",
     "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
-    "date": "2025-11-20T15:00:00.000Z",
+    "date": "2025-11-20T15:11:14.000Z",
     "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
     "tag": "News",
-    "summary": "Nano Banana Pro, or Gemini 3 Pro Image, is our most advanced image generation and editing model.",
+    "summary": "",
     "title_ar": "Build with Nano Banana Pro, our Gemini 3 Pro Image نموذج",
-    "summary_ar": "Nano Banana Pro, or Gemini 3 Pro Image, is our most advanced image generation and editing نموذج."
+    "summary_ar": ""
+  },
+  {
+    "id": "https://deepmind.google/blog/introducing-nano-banana-pro/",
+    "company": "Google DeepMind",
+    "title": "Introducing Nano Banana Pro",
+    "date": "2025-11-20T15:05:02.000Z",
+    "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
+    "tag": "News",
+    "summary": "",
+    "title_ar": "نُقدم لكم Nano Banana Pro",
+    "summary_ar": ""
   },
   {
     "id": "https://openai.com/index/openai-and-foxconn-collaborate",
@@ -2160,17 +2177,6 @@
     "url": "https://openai.com/index/accelerating-science-gpt-5",
     "tag": "News",
     "summary": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Expl"
-  },
-  {
-    "id": "https://deepmind.google/blog/introducing-nano-banana-pro/",
-    "company": "Google DeepMind",
-    "title": "Introducing Nano Banana Pro",
-    "date": "2025-11-20T00:00:00.000Z",
-    "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
-    "tag": "News",
-    "summary": "Nano Banana Pro is our new image generation and editing model from Google DeepMind.",
-    "title_ar": "نُقدم لكم Nano Banana Pro",
-    "summary_ar": "Nano Banana Pro is our جديد image generation and editing نموذج from Google DeepMind."
   },
   {
     "id": "https://huggingface.co/blog/anylanguagemodel",
@@ -2252,13 +2258,13 @@
     "summary": "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work w"
   },
   {
-    "id": "https://openai.com/index/scania",
+    "id": "https://openai.com/index/gpt-5-1-codex-max-system-card",
     "company": "OpenAI",
-    "title": "How Scania is accelerating work with AI across its global workforce",
+    "title": "GPT-5.1-Codex-Max System Card",
     "date": "2025-11-19T00:00:00.000Z",
-    "url": "https://openai.com/index/scania",
+    "url": "https://openai.com/index/gpt-5-1-codex-max-system-card",
     "tag": "News",
-    "summary": "Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting produc"
+    "summary": "This system card outlines the comprehensive safety measures implemented for GPT‑5.1-CodexMax. It details both model-level mitigations, such as special"
   },
   {
     "id": "https://openai.com/index/chatgpt-for-teachers",
@@ -2270,13 +2276,13 @@
     "summary": "ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027."
   },
   {
-    "id": "https://openai.com/index/gpt-5-1-codex-max-system-card",
+    "id": "https://openai.com/index/scania",
     "company": "OpenAI",
-    "title": "GPT-5.1-Codex-Max System Card",
+    "title": "How Scania is accelerating work with AI across its global workforce",
     "date": "2025-11-19T00:00:00.000Z",
-    "url": "https://openai.com/index/gpt-5-1-codex-max-system-card",
+    "url": "https://openai.com/index/scania",
     "tag": "News",
-    "summary": "This system card outlines the comprehensive safety measures implemented for GPT‑5.1-CodexMax. It details both model-level mitigations, such as special"
+    "summary": "Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting produc"
   },
   {
     "id": "https://developer.nvidia.com/blog/building-scalable-ai-on-enterprise-data-with-nvidia-nemotron-rag-and-microsoft-sql-server-2025/",
@@ -2286,6 +2292,17 @@
     "url": "https://developer.nvidia.com/blog/building-scalable-ai-on-enterprise-data-with-nvidia-nemotron-rag-and-microsoft-sql-server-2025/",
     "tag": "Engineering",
     "summary": "At Microsoft Ignite 2025, the vision for an AI-ready enterprise database becomes a reality with the announcement of Microsoft SQL Server 2025, giving "
+  },
+  {
+    "id": "https://deepmind.google/blog/start-building-with-gemini-3/",
+    "company": "Google DeepMind",
+    "title": "Start building with Gemini 3",
+    "date": "2025-11-18T17:49:13.000Z",
+    "url": "https://deepmind.google/blog/start-building-with-gemini-3/",
+    "tag": "Engineering",
+    "summary": "",
+    "title_ar": "Start بناء with Gemini 3",
+    "summary_ar": ""
   },
   {
     "id": "https://deepmind.google/blog/were-expanding-our-presence-in-singapore-to-advance-ai-in-the-asia-pacific-region/",
@@ -2306,15 +2323,26 @@
     "summary": "Almost all manufactured products are enabled by chemistry and materials science. However, new discoveries are costly and time-consuming and often hind"
   },
   {
+    "id": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
+    "company": "Google DeepMind",
+    "title": "A new era of intelligence with Gemini 3",
+    "date": "2025-11-18T16:06:41.000Z",
+    "url": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
+    "tag": "News",
+    "summary": "",
+    "title_ar": "A جديد era of ذكاء with Gemini 3",
+    "summary_ar": ""
+  },
+  {
     "id": "https://deepmind.google/blog/introducing-google-antigravity/",
     "company": "Google DeepMind",
-    "title": "Google Antigravity",
+    "title": "Introducing Google Antigravity",
     "date": "2025-11-18T16:06:32.000Z",
     "url": "https://deepmind.google/blog/introducing-google-antigravity/",
     "tag": "News",
-    "summary": "Google Antigravity - Build the new way",
-    "title_ar": "تحديث رسمي: Google Antigravity",
-    "summary_ar": "Google Antigravity - Build the جديد way"
+    "summary": "",
+    "title_ar": "نُقدم لكم Google Antigravity",
+    "summary_ar": ""
   },
   {
     "id": "https://openai.com/index/intuit-partnership",
@@ -2324,28 +2352,6 @@
     "url": "https://openai.com/index/intuit-partnership",
     "tag": "Corporate",
     "summary": "OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit app experiences in ChatGPT and expand Intuit’s use of OpenAI’s frontie"
-  },
-  {
-    "id": "https://deepmind.google/blog/start-building-with-gemini-3/",
-    "company": "Google DeepMind",
-    "title": "Start building with Gemini 3",
-    "date": "2025-11-18T00:00:00.000Z",
-    "url": "https://deepmind.google/blog/start-building-with-gemini-3/",
-    "tag": "Engineering",
-    "summary": "Gemini 3 is introducing advanced agentic coding capabilities, plus Google Antigravity, a new agentic development platform.",
-    "title_ar": "Start بناء with Gemini 3",
-    "summary_ar": "Gemini 3 is نُقدم لكم advanced agentic coding capabilities, plus Google Antigravity, a جديد agentic development منصة."
-  },
-  {
-    "id": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
-    "company": "Google DeepMind",
-    "title": "A new era of intelligence with Gemini 3",
-    "date": "2025-11-18T00:00:00.000Z",
-    "url": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
-    "tag": "News",
-    "summary": "Today we’re releasing Gemini 3 – our most intelligent model that helps you bring any idea to life.",
-    "title_ar": "A جديد era of ذكاء with Gemini 3",
-    "summary_ar": "Today we’re releasing Gemini 3 – our most intelligent نموذج that helps you bring any idea to life."
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.8.1",
@@ -2481,13 +2487,13 @@
     "summary": "Build high-performance GPU simulations using Warp, with enhancements across JAX, Tile programming, and Arm support.\nBuild high-performance GPU simulat"
   },
   {
-    "id": "https://openai.com/index/group-chats-in-chatgpt",
+    "id": "https://openai.com/index/philips",
     "company": "OpenAI",
-    "title": "Introducing group chats in ChatGPT",
+    "title": "How Philips is scaling AI literacy across 70,000 employees",
     "date": "2025-11-13T00:00:00.000Z",
-    "url": "https://openai.com/index/group-chats-in-chatgpt",
-    "tag": "News",
-    "summary": "We’re piloting group chats in ChatGPT to make collaboration simple. Bring others—and ChatGPT—into one shared conversation to plan, brainstorm, and cre"
+    "url": "https://openai.com/index/philips",
+    "tag": "Engineering",
+    "summary": "Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI responsibly and improve healthcare outcomes worldwide."
   },
   {
     "id": "https://openai.com/index/gpt-5-1-for-developers",
@@ -2499,13 +2505,13 @@
     "summary": "GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and"
   },
   {
-    "id": "https://openai.com/index/philips",
+    "id": "https://openai.com/index/group-chats-in-chatgpt",
     "company": "OpenAI",
-    "title": "How Philips is scaling AI literacy across 70,000 employees",
+    "title": "Introducing group chats in ChatGPT",
     "date": "2025-11-13T00:00:00.000Z",
-    "url": "https://openai.com/index/philips",
-    "tag": "Engineering",
-    "summary": "Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI responsibly and improve healthcare outcomes worldwide."
+    "url": "https://openai.com/index/group-chats-in-chatgpt",
+    "tag": "News",
+    "summary": "We’re piloting group chats in ChatGPT to make collaboration simple. Bring others—and ChatGPT—into one shared conversation to plan, brainstorm, and cre"
   },
   {
     "id": "https://huggingface.co/blog/google-cloud",
@@ -2534,15 +2540,6 @@
     "summary": "OpenAI is fighting the New York Times’ demand for 20 million private ChatGPT conversations and accelerating new security and privacy protections to pr"
   },
   {
-    "id": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1",
-    "company": "OpenAI",
-    "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
-    "date": "2025-11-12T00:00:00.000Z",
-    "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1",
-    "tag": "News",
-    "summary": "This GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emot"
-  },
-  {
     "id": "https://openai.com/index/gpt-5-1",
     "company": "OpenAI",
     "title": "GPT-5.1: A smarter, more conversational ChatGPT",
@@ -2550,6 +2547,15 @@
     "url": "https://openai.com/index/gpt-5-1",
     "tag": "News",
     "summary": "We’re upgrading the GPT-5 series with warmer, more capable models and new ways to customize ChatGPT’s tone and style. GPT-5.1 starts rolling out today"
+  },
+  {
+    "id": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1",
+    "company": "OpenAI",
+    "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
+    "date": "2025-11-12T00:00:00.000Z",
+    "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1",
+    "tag": "News",
+    "summary": "This GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emot"
   },
   {
     "id": "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do/",
@@ -2714,15 +2720,6 @@
     "summary": "BBVA is reimagining how employees work with ChatGPT Enterprise, embedding AI into everyday operations. The bank has saved hours per week per employee,"
   },
   {
-    "id": "https://openai.com/index/introducing-the-teen-safety-blueprint",
-    "company": "OpenAI",
-    "title": "Introducing the Teen Safety Blueprint",
-    "date": "2025-11-06T00:00:00.000Z",
-    "url": "https://openai.com/index/introducing-the-teen-safety-blueprint",
-    "tag": "News",
-    "summary": "Discover OpenAI’s Teen Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect an"
-  },
-  {
     "id": "https://openai.com/index/ai-progress-and-recommendations",
     "company": "OpenAI",
     "title": "AI progress and recommendations",
@@ -2730,6 +2727,15 @@
     "url": "https://openai.com/index/ai-progress-and-recommendations",
     "tag": "News",
     "summary": "AI is advancing fast. We have the chance to shape its progress—toward discovery, safety, and a better future for everyone."
+  },
+  {
+    "id": "https://openai.com/index/introducing-the-teen-safety-blueprint",
+    "company": "OpenAI",
+    "title": "Introducing the Teen Safety Blueprint",
+    "date": "2025-11-06T00:00:00.000Z",
+    "url": "https://openai.com/index/introducing-the-teen-safety-blueprint",
+    "tag": "News",
+    "summary": "Discover OpenAI’s Teen Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect an"
   },
   {
     "id": "https://openai.com/index/cred-swamy-seetharaman",
@@ -2874,15 +2880,6 @@
     "tag": "News"
   },
   {
-    "id": "https://openai.com/index/introducing-gpt-oss-safeguard",
-    "company": "OpenAI",
-    "title": "Introducing gpt-oss-safeguard",
-    "date": "2025-10-29T00:00:00.000Z",
-    "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
-    "tag": "Release",
-    "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies."
-  },
-  {
     "id": "https://openai.com/index/gpt-oss-safeguard-technical-report",
     "company": "OpenAI",
     "title": "gpt-oss-safeguard technical report",
@@ -2890,6 +2887,15 @@
     "url": "https://openai.com/index/gpt-oss-safeguard-technical-report",
     "tag": "News",
     "summary": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from "
+  },
+  {
+    "id": "https://openai.com/index/introducing-gpt-oss-safeguard",
+    "company": "OpenAI",
+    "title": "Introducing gpt-oss-safeguard",
+    "date": "2025-10-29T00:00:00.000Z",
+    "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
+    "tag": "Release",
+    "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies."
   },
   {
     "id": "https://huggingface.co/blog/lerobotxnvidia-healthcare",
@@ -2934,15 +2940,6 @@
     "summary": "Discover how Doppel uses OpenAI’s GPT-5 and reinforcement fine-tuning (RFT) to stop deepfake and impersonation attacks before they spread, cutting ana"
   },
   {
-    "id": "https://openai.com/index/built-to-benefit-everyone",
-    "company": "OpenAI",
-    "title": "Built to benefit everyone",
-    "date": "2025-10-28T06:00:00.000Z",
-    "url": "https://openai.com/index/built-to-benefit-everyone",
-    "tag": "News",
-    "summary": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation respon"
-  },
-  {
     "id": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership",
     "company": "OpenAI",
     "title": "The next chapter of the Microsoft–OpenAI partnership",
@@ -2950,6 +2947,15 @@
     "url": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership",
     "tag": "Corporate",
     "summary": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress."
+  },
+  {
+    "id": "https://openai.com/index/built-to-benefit-everyone",
+    "company": "OpenAI",
+    "title": "Built to benefit everyone",
+    "date": "2025-10-28T06:00:00.000Z",
+    "url": "https://openai.com/index/built-to-benefit-everyone",
+    "tag": "News",
+    "summary": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation respon"
   },
   {
     "id": "https://huggingface.co/blog/voice-consent-gate",
@@ -2969,15 +2975,6 @@
     "summary": "Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House det"
   },
   {
-    "id": "https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations",
-    "company": "OpenAI",
-    "title": "Strengthening ChatGPT’s responses in sensitive conversations",
-    "date": "2025-10-27T10:00:00.000Z",
-    "url": "https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations",
-    "tag": "News",
-    "summary": "OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward"
-  },
-  {
     "id": "https://openai.com/index/gpt-5-system-card-sensitive-conversations",
     "company": "OpenAI",
     "title": "Addendum to GPT-5 System Card: Sensitive conversations",
@@ -2985,6 +2982,15 @@
     "url": "https://openai.com/index/gpt-5-system-card-sensitive-conversations",
     "tag": "News",
     "summary": "This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and"
+  },
+  {
+    "id": "https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations",
+    "company": "OpenAI",
+    "title": "Strengthening ChatGPT’s responses in sensitive conversations",
+    "date": "2025-10-27T10:00:00.000Z",
+    "url": "https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations",
+    "tag": "News",
+    "summary": "OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward"
   },
   {
     "id": "https://openai.com/index/steuerrecht",
@@ -3292,15 +3298,6 @@
     "summary": "Consensus uses GPT-5 and OpenAI’s Responses API to power a multi-agent research assistant that reads, analyzes, and synthesizes evidence in minutes—he"
   },
   {
-    "id": "https://openai.com/index/south-korea-economic-blueprint",
-    "company": "OpenAI",
-    "title": "AI in South Korea—OpenAI’s Economic Blueprint",
-    "date": "2025-10-23T00:00:00.000Z",
-    "url": "https://openai.com/index/south-korea-economic-blueprint",
-    "tag": "News",
-    "summary": "OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through sovereign capabilities and strategic partnerships to drive gro"
-  },
-  {
     "id": "https://openai.com/index/introducing-company-knowledge",
     "company": "OpenAI",
     "title": "Work smarter with your company knowledge in ChatGPT",
@@ -3308,6 +3305,15 @@
     "url": "https://openai.com/index/introducing-company-knowledge",
     "tag": "News",
     "summary": "Company knowledge brings context from your apps into ChatGPT for answers specific to your business, with clear citations, security, privacy, and admin"
+  },
+  {
+    "id": "https://openai.com/index/south-korea-economic-blueprint",
+    "company": "OpenAI",
+    "title": "AI in South Korea—OpenAI’s Economic Blueprint",
+    "date": "2025-10-23T00:00:00.000Z",
+    "url": "https://openai.com/index/south-korea-economic-blueprint",
+    "tag": "News",
+    "summary": "OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through sovereign capabilities and strategic partnerships to drive gro"
   },
   {
     "id": "https://huggingface.co/blog/openenv",
@@ -3623,6 +3629,15 @@
     "summary": "Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue "
   },
   {
+    "id": "https://openai.com/index/sora-2-system-card",
+    "company": "OpenAI",
+    "title": "Sora 2 System Card",
+    "date": "2025-09-30T00:00:00.000Z",
+    "url": "https://openai.com/index/sora-2-system-card",
+    "tag": "News",
+    "summary": "Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that h"
+  },
+  {
     "id": "https://openai.com/index/launching-sora-responsibly",
     "company": "OpenAI",
     "title": "Launching Sora responsibly",
@@ -3632,13 +3647,13 @@
     "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the S"
   },
   {
-    "id": "https://openai.com/index/sora-2-system-card",
+    "id": "https://openai.com/index/openai-contract-data-agent",
     "company": "OpenAI",
-    "title": "Sora 2 System Card",
-    "date": "2025-09-30T00:00:00.000Z",
-    "url": "https://openai.com/index/sora-2-system-card",
+    "title": "Turning contracts into searchable data at OpenAI",
+    "date": "2025-09-29T13:30:00.000Z",
+    "url": "https://openai.com/index/openai-contract-data-agent",
     "tag": "News",
-    "summary": "Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that h"
+    "summary": "OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need."
   },
   {
     "id": "https://openai.com/index/openai-inbound-sales-assistant",
@@ -3659,6 +3674,15 @@
     "summary": "Learn how OpenAI boosts sales productivity by automating prep, centralizing knowledge, and scaling top-selling practices."
   },
   {
+    "id": "https://openai.com/index/openai-support-model",
+    "company": "OpenAI",
+    "title": "Improving support with every interaction at OpenAI",
+    "date": "2025-09-29T13:30:00.000Z",
+    "url": "https://openai.com/index/openai-support-model",
+    "tag": "News",
+    "summary": "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth."
+  },
+  {
     "id": "https://openai.com/index/building-openai-with-openai",
     "company": "OpenAI",
     "title": "Building OpenAI with OpenAI",
@@ -3677,22 +3701,13 @@
     "summary": "OpenAI’s research assistant helps teams analyze millions of support tickets, surface insights faster, and scale curiosity across the company."
   },
   {
-    "id": "https://openai.com/index/openai-support-model",
+    "id": "https://openai.com/index/combating-online-child-sexual-exploitation-abuse",
     "company": "OpenAI",
-    "title": "Improving support with every interaction at OpenAI",
-    "date": "2025-09-29T13:30:00.000Z",
-    "url": "https://openai.com/index/openai-support-model",
+    "title": "Combating online child sexual exploitation & abuse",
+    "date": "2025-09-29T03:00:00.000Z",
+    "url": "https://openai.com/index/combating-online-child-sexual-exploitation-abuse",
     "tag": "News",
-    "summary": "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth."
-  },
-  {
-    "id": "https://openai.com/index/openai-contract-data-agent",
-    "company": "OpenAI",
-    "title": "Turning contracts into searchable data at OpenAI",
-    "date": "2025-09-29T13:30:00.000Z",
-    "url": "https://openai.com/index/openai-contract-data-agent",
-    "tag": "News",
-    "summary": "OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need."
+    "summary": "Discover how OpenAI combats online child sexual exploitation and abuse with strict usage policies, advanced detection tools, and industry collaboratio"
   },
   {
     "id": "https://openai.com/index/introducing-parental-controls",
@@ -3702,15 +3717,6 @@
     "url": "https://openai.com/index/introducing-parental-controls",
     "tag": "News",
     "summary": "We’re rolling out parental controls and a new parent resource page to help families guide how ChatGPT works in their homes."
-  },
-  {
-    "id": "https://openai.com/index/combating-online-child-sexual-exploitation-abuse",
-    "company": "OpenAI",
-    "title": "Combating online child sexual exploitation & abuse",
-    "date": "2025-09-29T03:00:00.000Z",
-    "url": "https://openai.com/index/combating-online-child-sexual-exploitation-abuse",
-    "tag": "News",
-    "summary": "Discover how OpenAI combats online child sexual exploitation and abuse with strict usage policies, advanced detection tools, and industry collaboratio"
   },
   {
     "id": "https://openai.com/index/buy-it-in-chatgpt",
@@ -4053,15 +4059,6 @@
     "tag": "News"
   },
   {
-    "id": "https://openai.com/index/statement-on-openai-nonprofit-and-pbc",
-    "company": "OpenAI",
-    "title": "Statement on OpenAI’s Nonprofit and PBC",
-    "date": "2025-09-11T14:00:00.000Z",
-    "url": "https://openai.com/index/statement-on-openai-nonprofit-and-pbc",
-    "tag": "News",
-    "summary": "OpenAI reaffirms its nonprofit leadership with a new structure granting equity in its PBC, enabling over $100B in resources to advance safe, beneficia"
-  },
-  {
     "id": "https://openai.com/index/joint-statement-from-openai-and-microsoft",
     "company": "OpenAI",
     "title": "A joint statement from OpenAI and Microsoft",
@@ -4069,6 +4066,15 @@
     "url": "https://openai.com/index/joint-statement-from-openai-and-microsoft",
     "tag": "News",
     "summary": "OpenAI and Microsoft sign a new MOU, reinforcing their partnership and shared commitment to AI safety and innovation."
+  },
+  {
+    "id": "https://openai.com/index/statement-on-openai-nonprofit-and-pbc",
+    "company": "OpenAI",
+    "title": "Statement on OpenAI’s Nonprofit and PBC",
+    "date": "2025-09-11T14:00:00.000Z",
+    "url": "https://openai.com/index/statement-on-openai-nonprofit-and-pbc",
+    "tag": "News",
+    "summary": "OpenAI reaffirms its nonprofit leadership with a new structure granting equity in its PBC, enabling over $100B in resources to advance safe, beneficia"
   },
   {
     "id": "https://huggingface.co/blog/faster-transformers",
@@ -4433,15 +4439,6 @@
     "tag": "Docs"
   },
   {
-    "id": "https://openai.com/index/introducing-gpt-5-for-developers",
-    "company": "OpenAI",
-    "title": "Introducing GPT-5 for developers",
-    "date": "2025-08-07T10:00:00.000Z",
-    "url": "https://openai.com/index/introducing-gpt-5-for-developers",
-    "tag": "Release",
-    "summary": "Introducing GPT-5 in our API platform—offering high reasoning performance, new controls for devs, and best-in-class results on real coding tasks."
-  },
-  {
     "id": "https://openai.com/index/gpt-5-new-era-of-work",
     "company": "OpenAI",
     "title": "GPT-5 and the new era of work",
@@ -4449,6 +4446,15 @@
     "url": "https://openai.com/index/gpt-5-new-era-of-work",
     "tag": "News",
     "summary": "GPT-5 is OpenAI’s most advanced model—transforming enterprise AI, automation, and workforce productivity in the new era of intelligent work."
+  },
+  {
+    "id": "https://openai.com/index/introducing-gpt-5-for-developers",
+    "company": "OpenAI",
+    "title": "Introducing GPT-5 for developers",
+    "date": "2025-08-07T10:00:00.000Z",
+    "url": "https://openai.com/index/introducing-gpt-5-for-developers",
+    "tag": "Release",
+    "summary": "Introducing GPT-5 in our API platform—offering high reasoning performance, new controls for devs, and best-in-class results on real coding tasks."
   },
   {
     "id": "https://openai.com/index/gpt-5-coding-design",
@@ -4478,31 +4484,13 @@
     "summary": "Learn how GPT-5 is used for medical research."
   },
   {
-    "id": "https://openai.com/index/gpt-5-cursor",
+    "id": "https://openai.com/index/introducing-gpt-5",
     "company": "OpenAI",
-    "title": "How Cursor uses GPT-5",
+    "title": "Introducing GPT-5",
     "date": "2025-08-07T00:00:00.000Z",
-    "url": "https://openai.com/index/gpt-5-cursor",
-    "tag": "Case Study",
-    "summary": "Learn how Cursor uses GPT-5."
-  },
-  {
-    "id": "https://openai.com/index/gpt-5-first-look",
-    "company": "OpenAI",
-    "title": "First look at GPT-5",
-    "date": "2025-08-07T00:00:00.000Z",
-    "url": "https://openai.com/index/gpt-5-first-look",
-    "tag": "News",
-    "summary": "See how a group of leading developers use GPT-5 for the first time."
-  },
-  {
-    "id": "https://openai.com/index/gpt-5-safe-completions",
-    "company": "OpenAI",
-    "title": "From hard refusals to safe-completions: toward output-centric safety training",
-    "date": "2025-08-07T00:00:00.000Z",
-    "url": "https://openai.com/index/gpt-5-safe-completions",
-    "tag": "News",
-    "summary": "Discover how OpenAI's new safe-completions approach in GPT-5 improves both safety and helpfulness in AI responses—moving beyond hard refusals to nuanc"
+    "url": "https://openai.com/index/introducing-gpt-5",
+    "tag": "Release",
+    "summary": "We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence over all our previous models, featuring state-of-the-art"
   },
   {
     "id": "https://openai.com/index/gpt-5-amgen",
@@ -4523,13 +4511,31 @@
     "summary": "This GPT-5 system card explains how a unified model routing system powers fast and smart responses using gpt-5-main, gpt-5-thinking, and lightweight v"
   },
   {
-    "id": "https://openai.com/index/introducing-gpt-5",
+    "id": "https://openai.com/index/gpt-5-safe-completions",
     "company": "OpenAI",
-    "title": "Introducing GPT-5",
+    "title": "From hard refusals to safe-completions: toward output-centric safety training",
     "date": "2025-08-07T00:00:00.000Z",
-    "url": "https://openai.com/index/introducing-gpt-5",
-    "tag": "Release",
-    "summary": "We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence over all our previous models, featuring state-of-the-art"
+    "url": "https://openai.com/index/gpt-5-safe-completions",
+    "tag": "News",
+    "summary": "Discover how OpenAI's new safe-completions approach in GPT-5 improves both safety and helpfulness in AI responses—moving beyond hard refusals to nuanc"
+  },
+  {
+    "id": "https://openai.com/index/gpt-5-cursor",
+    "company": "OpenAI",
+    "title": "How Cursor uses GPT-5",
+    "date": "2025-08-07T00:00:00.000Z",
+    "url": "https://openai.com/index/gpt-5-cursor",
+    "tag": "Case Study",
+    "summary": "Learn how Cursor uses GPT-5."
+  },
+  {
+    "id": "https://openai.com/index/gpt-5-first-look",
+    "company": "OpenAI",
+    "title": "First look at GPT-5",
+    "date": "2025-08-07T00:00:00.000Z",
+    "url": "https://openai.com/index/gpt-5-first-look",
+    "tag": "News",
+    "summary": "See how a group of leading developers use GPT-5 for the first time."
   },
   {
     "id": "https://huggingface.co/blog/trl-vlm-alignment",
@@ -4558,22 +4564,13 @@
     "summary": "Today we’re introducing Stability AI Solutions, a new offering designed to \r\nhelp enterprises scale creative production with generative AI."
   },
   {
-    "id": "https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms",
+    "id": "https://openai.com/global-affairs/open-weights-and-ai-for-all",
     "company": "OpenAI",
-    "title": "Estimating worst case frontier risks of open weight LLMs",
+    "title": "Open Weights and AI for All",
     "date": "2025-08-05T00:00:00.000Z",
-    "url": "https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms",
+    "url": "https://openai.com/global-affairs/open-weights-and-ai-for-all",
     "tag": "News",
-    "summary": "In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maxim"
-  },
-  {
-    "id": "https://openai.com/index/gpt-oss-model-card",
-    "company": "OpenAI",
-    "title": "gpt-oss-120b & gpt-oss-20b Model Card",
-    "date": "2025-08-05T00:00:00.000Z",
-    "url": "https://openai.com/index/gpt-oss-model-card",
-    "tag": "News",
-    "summary": "We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the Apache 2.0 license and our gpt-oss usage policy."
+    "summary": "AI’s next frontier isn’t just about capability—it’s about who gets to use it. Our mission to put AI in the hands of as many people as possible is what"
   },
   {
     "id": "https://openai.com/index/introducing-gpt-oss",
@@ -4585,13 +4582,22 @@
     "summary": "We’re releasing gpt-oss-120b and gpt-oss-20b—two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. "
   },
   {
-    "id": "https://openai.com/global-affairs/open-weights-and-ai-for-all",
+    "id": "https://openai.com/index/gpt-oss-model-card",
     "company": "OpenAI",
-    "title": "Open Weights and AI for All",
+    "title": "gpt-oss-120b & gpt-oss-20b Model Card",
     "date": "2025-08-05T00:00:00.000Z",
-    "url": "https://openai.com/global-affairs/open-weights-and-ai-for-all",
+    "url": "https://openai.com/index/gpt-oss-model-card",
     "tag": "News",
-    "summary": "AI’s next frontier isn’t just about capability—it’s about who gets to use it. Our mission to put AI in the hands of as many people as possible is what"
+    "summary": "We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the Apache 2.0 license and our gpt-oss usage policy."
+  },
+  {
+    "id": "https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms",
+    "company": "OpenAI",
+    "title": "Estimating worst case frontier risks of open weight LLMs",
+    "date": "2025-08-05T00:00:00.000Z",
+    "url": "https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms",
+    "tag": "News",
+    "summary": "In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maxim"
   },
   {
     "id": "https://huggingface.co/blog/welcome-openai-gpt-oss",
@@ -4644,6 +4650,17 @@
     "url": "https://openai.com/index/introducing-stargate-norway",
     "tag": "News",
     "summary": "We’re launching Stargate Norway—OpenAI’s first AI data center initiative in Europe under our OpenAI for Countries program. Stargate is OpenAI’s overar"
+  },
+  {
+    "id": "https://huggingface.co/blog/daggr",
+    "company": "Hugging Face",
+    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+    "date": "2025-07-31T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/daggr",
+    "tag": "Release",
+    "summary": "If you've built AI applications that combine multiple models or processing steps, you know the pain: chaining API calls, debugging pipelines, and losing trac...",
+    "title_ar": "نُقدم لكم Daggr: Chain apps programmatically, inspect visually",
+    "summary_ar": "تحديث رسمي: If you've built AI applications that combine multiple models or processing steps, you know the pain: chaining API calls, debugging pipelines, and losing trac..."
   },
   {
     "id": "https://huggingface.co/blog/gradio-vton-mcp",
