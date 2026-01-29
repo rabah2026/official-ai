@@ -4665,13 +4665,5 @@
     "url": "https://openai.com/index/chatgpt-study-mode",
     "tag": "Research",
     "summary": "Introducing study mode in ChatGPT, a new learning experience that helps you work through problems step by step, guiding students with questions, scaff"
-  },
-  {
-    "id": "https://huggingface.co/blog/trackio",
-    "company": "Hugging Face",
-    "title": "Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face",
-    "date": "2025-07-29T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/trackio",
-    "tag": "News"
   }
 ]
