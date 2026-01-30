@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/",
+    "company": "NVIDIA",
+    "title": "Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton",
+    "date": "2026-01-30T20:01:47.000Z",
+    "url": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/",
+    "tag": "Research",
+    "summary": "NVIDIA CUDA Tile is a GPU-based programming model that targets portability for NVIDIA Tensor Cores, unlocking peak GPU performance. One of the great t"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/establishing-a-scalable-sparse-ecosystem-with-the-universal-sparse-tensor/",
     "company": "NVIDIA",
     "title": "Establishing a Scalable Sparse Ecosystem with the Universal Sparse Tensor",
@@ -237,6 +246,15 @@
     "url": "https://developer.nvidia.com/blog/adaptive-inference-in-nvidia-tensorrt-for-rtx-enables-automatic-optimization/",
     "tag": "Engineering",
     "summary": "Deploying AI applications across diverse consumer hardware has traditionally forced a trade-off. You can optimize for specific GPU configurations and "
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49341",
+    "company": "Microsoft",
+    "title": "Maia 200: The AI accelerator built for inference",
+    "date": "2026-01-26T16:12:24.000Z",
+    "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+    "tag": "Engineering",
+    "summary": "Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation"
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-unlock-local-detail-in-coarse-climate-projections-with-nvidia-earth-2/",
@@ -1117,15 +1135,6 @@
     "summary": "Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling "
   },
   {
-    "id": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
-    "company": "NVIDIA",
-    "title": "Using AI Physics for Technology Computer-Aided Design Simulations",
-    "date": "2025-12-17T16:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
-    "tag": "Engineering",
-    "summary": "Technology Computer-Aided Design (TCAD) simulations, encompassing both process and device simulations, are crucial for modern semiconductor manufactur"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
     "company": "NVIDIA",
     "title": "Simulate an Accurate Radio Environment Using NVIDIA Aerial Omniverse Digital Twin",
@@ -1133,6 +1142,15 @@
     "url": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
     "tag": "Engineering",
     "summary": "The development of 5G and 6G requires high-fidelity radio channel modeling, but the ecosystem is highly fragmented. Link-level simulators, network-lev"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
+    "company": "NVIDIA",
+    "title": "Using AI Physics for Technology Computer-Aided Design Simulations",
+    "date": "2025-12-17T16:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
+    "tag": "Engineering",
+    "summary": "Technology Computer-Aided Design (TCAD) simulations, encompassing both process and device simulations, are crucial for modern semiconductor manufactur"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
@@ -1556,15 +1574,6 @@
     "url": "https://developer.nvidia.com/blog/better-bug-detection-how-compile-time-instrumentation-for-compute-sanitizer-enhances-memory-safety/",
     "tag": "Engineering",
     "summary": "CUDA C++ is standard C++ with extensions that enable functions to run on many parallel threads on a GPU. It has facilitated widespread adoption while "
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=48809",
-    "company": "Microsoft",
-    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
-    "date": "2025-12-10T17:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
-    "tag": "News",
-    "summary": "Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the "
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.10.0",
@@ -2747,15 +2756,6 @@
     "url": "https://developer.nvidia.com/blog/enhancing-gpu-accelerated-vector-search-in-faiss-with-nvidia-cuvs/",
     "tag": "Engineering",
     "summary": "As companies collect more unstructured data and increasingly use large language models (LLMs), they need faster and more scalable systems. Advanced to"
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/accelerating-large-scale-mixture-of-experts-training-in-pytorch/",
-    "company": "NVIDIA",
-    "title": "Democratizing Large-Scale Mixture-of-Experts Training with NVIDIA PyTorch Paralism",
-    "date": "2025-11-06T17:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/accelerating-large-scale-mixture-of-experts-training-in-pytorch/",
-    "tag": "Engineering",
-    "summary": "Training massive mixture-of-experts (MoE) models has long been the domain of a few advanced users with deep infrastructure and distributed-systems exp"
   },
   {
     "id": "https://openai.com/index/bbva-2025",
@@ -4522,24 +4522,6 @@
     "summary": "Learn how Amgen uses GPT-5."
   },
   {
-    "id": "https://openai.com/index/introducing-gpt-5",
-    "company": "OpenAI",
-    "title": "Introducing GPT-5",
-    "date": "2025-08-07T00:00:00.000Z",
-    "url": "https://openai.com/index/introducing-gpt-5",
-    "tag": "Release",
-    "summary": "We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence over all our previous models, featuring state-of-the-art"
-  },
-  {
-    "id": "https://openai.com/index/gpt-5-cursor",
-    "company": "OpenAI",
-    "title": "How Cursor uses GPT-5",
-    "date": "2025-08-07T00:00:00.000Z",
-    "url": "https://openai.com/index/gpt-5-cursor",
-    "tag": "Case Study",
-    "summary": "Learn how Cursor uses GPT-5."
-  },
-  {
     "id": "https://openai.com/index/gpt-5-first-look",
     "company": "OpenAI",
     "title": "First look at GPT-5",
@@ -4547,6 +4529,15 @@
     "url": "https://openai.com/index/gpt-5-first-look",
     "tag": "News",
     "summary": "See how a group of leading developers use GPT-5 for the first time."
+  },
+  {
+    "id": "https://openai.com/index/introducing-gpt-5",
+    "company": "OpenAI",
+    "title": "Introducing GPT-5",
+    "date": "2025-08-07T00:00:00.000Z",
+    "url": "https://openai.com/index/introducing-gpt-5",
+    "tag": "Release",
+    "summary": "We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence over all our previous models, featuring state-of-the-art"
   },
   {
     "id": "https://openai.com/index/gpt-5-safe-completions",
@@ -4565,6 +4556,15 @@
     "url": "https://openai.com/index/gpt-5-system-card",
     "tag": "News",
     "summary": "This GPT-5 system card explains how a unified model routing system powers fast and smart responses using gpt-5-main, gpt-5-thinking, and lightweight v"
+  },
+  {
+    "id": "https://openai.com/index/gpt-5-cursor",
+    "company": "OpenAI",
+    "title": "How Cursor uses GPT-5",
+    "date": "2025-08-07T00:00:00.000Z",
+    "url": "https://openai.com/index/gpt-5-cursor",
+    "tag": "Case Study",
+    "summary": "Learn how Cursor uses GPT-5."
   },
   {
     "id": "https://huggingface.co/blog/trl-vlm-alignment",
@@ -4602,13 +4602,13 @@
     "summary": "We’re releasing gpt-oss-120b and gpt-oss-20b—two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. "
   },
   {
-    "id": "https://openai.com/global-affairs/open-weights-and-ai-for-all",
+    "id": "https://openai.com/index/gpt-oss-model-card",
     "company": "OpenAI",
-    "title": "Open Weights and AI for All",
+    "title": "gpt-oss-120b & gpt-oss-20b Model Card",
     "date": "2025-08-05T00:00:00.000Z",
-    "url": "https://openai.com/global-affairs/open-weights-and-ai-for-all",
+    "url": "https://openai.com/index/gpt-oss-model-card",
     "tag": "News",
-    "summary": "AI’s next frontier isn’t just about capability—it’s about who gets to use it. Our mission to put AI in the hands of as many people as possible is what"
+    "summary": "We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the Apache 2.0 license and our gpt-oss usage policy."
   },
   {
     "id": "https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms",
@@ -4620,13 +4620,13 @@
     "summary": "In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maxim"
   },
   {
-    "id": "https://openai.com/index/gpt-oss-model-card",
+    "id": "https://openai.com/global-affairs/open-weights-and-ai-for-all",
     "company": "OpenAI",
-    "title": "gpt-oss-120b & gpt-oss-20b Model Card",
+    "title": "Open Weights and AI for All",
     "date": "2025-08-05T00:00:00.000Z",
-    "url": "https://openai.com/index/gpt-oss-model-card",
+    "url": "https://openai.com/global-affairs/open-weights-and-ai-for-all",
     "tag": "News",
-    "summary": "We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the Apache 2.0 license and our gpt-oss usage policy."
+    "summary": "AI’s next frontier isn’t just about capability—it’s about who gets to use it. Our mission to put AI in the hands of as many people as possible is what"
   },
   {
     "id": "https://huggingface.co/blog/welcome-openai-gpt-oss",
