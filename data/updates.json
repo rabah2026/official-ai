@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/",
+    "company": "NVIDIA",
+    "title": "Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk",
+    "date": "2026-01-30T16:13:00.000Z",
+    "url": "https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/",
+    "tag": "Security",
+    "summary": "AI coding agents enable developers to work faster by streamlining tasks and driving automated, test-driven development. However, they also introduce a"
+  },
+  {
     "id": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
     "company": "Google DeepMind",
     "title": "Project Genie: Experimenting with infinite, interactive worlds",
@@ -219,15 +228,6 @@
     "url": "https://developer.nvidia.com/blog/adaptive-inference-in-nvidia-tensorrt-for-rtx-enables-automatic-optimization/",
     "tag": "Engineering",
     "summary": "Deploying AI applications across diverse consumer hardware has traditionally forced a trade-off. You can optimize for specific GPU configurations and "
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49341",
-    "company": "Microsoft",
-    "title": "Maia 200: The AI accelerator built for inference",
-    "date": "2026-01-26T16:12:24.000Z",
-    "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
-    "tag": "Engineering",
-    "summary": "Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation"
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-unlock-local-detail-in-coarse-climate-projections-with-nvidia-earth-2/",
@@ -1538,6 +1538,15 @@
     "summary": "CUDA C++ is standard C++ with extensions that enable functions to run on many parallel threads on a GPU. It has facilitated widespread adoption while "
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=48809",
+    "company": "Microsoft",
+    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
+    "date": "2025-12-10T17:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
+    "tag": "News",
+    "summary": "Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the "
+  },
+  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.10.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.10.0",
@@ -2799,15 +2808,6 @@
     "url": "https://openai.com/index/1-million-businesses-putting-ai-to-work",
     "tag": "News",
     "summary": "More than 1 million business customers around the world now use OpenAI. Across healthcare, life sciences, financial services, and more, ChatGPT and ou"
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/how-to-predict-biomolecular-structures-using-the-openfold3-nim/",
-    "company": "NVIDIA",
-    "title": "How to Predict Biomolecular Structures Using the OpenFold3 NIM",
-    "date": "2025-11-04T18:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/how-to-predict-biomolecular-structures-using-the-openfold3-nim/",
-    "tag": "Engineering",
-    "summary": "​​For decades, one of biology’s deepest mysteries was how a string of amino acids folds itself into the intricate architecture of life. Researchers bu"
   },
   {
     "id": "https://openai.com/global-affairs/brazil-ai-moment-is-here",
