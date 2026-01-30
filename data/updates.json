@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/establishing-a-scalable-sparse-ecosystem-with-the-universal-sparse-tensor/",
+    "company": "NVIDIA",
+    "title": "Establishing a Scalable Sparse Ecosystem with the Universal Sparse Tensor",
+    "date": "2026-01-30T18:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/establishing-a-scalable-sparse-ecosystem-with-the-universal-sparse-tensor/",
+    "tag": "Engineering",
+    "summary": "Sparse tensors are vectors, matrices, and higher-dimensional generalizations with many zeros. They are crucial in various fields such as scientific co"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/",
     "company": "NVIDIA",
     "title": "Practical Security Guidance for Sandboxing Agentic Workflows and Managing Execution Risk",
@@ -512,6 +521,17 @@
     "url": "https://openai.com/index/introducing-chatgpt-go",
     "tag": "Release",
     "summary": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more aff"
+  },
+  {
+    "id": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
+    "company": "Anthropic",
+    "title": "Anthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru office opening",
+    "date": "2026-01-16T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
+    "tag": "Corporate",
+    "summary": "Irina Ghose is joining Anthropic as Managing Director of India as we prepare to open our first office in the country.",
+    "title_ar": "تحديث رسمي: Anthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru office opening",
+    "summary_ar": "تحديث رسمي: Irina Ghose is joining Anthropic as Managing Director of India as we prepare to open our first office in the country."
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning/",
@@ -2781,15 +2801,6 @@
     "url": "https://deepmind.google/blog/mapping-modeling-and-understanding-nature-with-ai/",
     "tag": "News",
     "summary": "AI models can help map species, protect forests and listen to birds around the world"
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/scale-biology-transformer-models-with-pytorch-and-nvidia-bionemo-recipes/",
-    "company": "NVIDIA",
-    "title": "Scale Biology Transformer Models with PyTorch and NVIDIA BioNeMo Recipes",
-    "date": "2025-11-05T16:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/scale-biology-transformer-models-with-pytorch-and-nvidia-bionemo-recipes/",
-    "tag": "Research",
-    "summary": "Training models with billions or trillions of parameters demands advanced parallel computing. Researchers must decide how to combine parallelism strat"
   },
   {
     "id": "https://openai.com/index/chime-vineet-mehra",
