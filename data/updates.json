@@ -18,17 +18,6 @@
     "summary": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes"
   },
   {
-    "id": "https://huggingface.co/blog/upskill",
-    "company": "Hugging Face",
-    "title": "We Got Claude to Build CUDA Kernels and teach open models!",
-    "date": "2026-01-29T08:32:38.000Z",
-    "url": "https://huggingface.co/blog/upskill",
-    "tag": "Engineering",
-    "summary": "This blog post walks through the process of using a new tool, upskill, to generate and evaluate agent skills with large models and use them with smaller mode...",
-    "title_ar": "تحديث رسمي: We Got Claude to Build CUDA Kernels and teach open models!",
-    "summary_ar": "This blog post walks through the process of using a جديد أداة, upskill, to generate and evaluate وكيل skills with large models and use them with smaller mode..."
-  },
-  {
     "id": "https://openai.com/index/taisei",
     "company": "OpenAI",
     "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
@@ -45,17 +34,6 @@
     "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
     "tag": "News",
     "summary": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mi"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
-    "company": "Hugging Face",
-    "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
-    "date": "2026-01-29T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
-    "tag": "Policy",
-    "summary": "To further support this effort, we’re introducing Cosmos Policy, our latest research on advancing robot control and planning using Cosmos WFMs.",
-    "title_ar": "نُقدم لكم NVIDIA Cosmos سياسة for Advanced Robot Control",
-    "summary_ar": "To further support this effort, we’re نُقدم لكم Cosmos سياسة, our latest أبحاث on تعزيز robot control and planning using Cosmos WFMs."
   },
   {
     "id": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/",
@@ -83,17 +61,6 @@
     "url": "https://developer.nvidia.com/blog/updating-classifier-evasion-for-vision-language-models/",
     "tag": "Engineering",
     "summary": "Advances in AI architectures have unlocked multimodal functionality, enabling transformer models to process multiple forms of data in the same context"
-  },
-  {
-    "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
-    "company": "Hugging Face",
-    "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
-    "date": "2026-01-28T13:07:43.000Z",
-    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
-    "tag": "News",
-    "summary": "In this second piece we turn our focus from models to the architectural and hardware choices Chinese companies have made as openness becomes the norm.",
-    "title_ar": "Architectural Choices in China's Open-Source AI Ecosystem: بناء Beyond DeepSeek",
-    "summary_ar": "تحديث رسمي: In this second piece we turn our focus from models to the architectural and hardware choices Chinese companies have made as openness becomes the norm."
   },
   {
     "id": "https://openai.com/index/emea-youth-and-wellbeing-grant",
@@ -172,17 +139,6 @@
     "summary": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consum"
   },
   {
-    "id": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
-    "company": "Hugging Face",
-    "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
-    "date": "2026-01-27T02:26:51.000Z",
-    "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
-    "tag": "News",
-    "summary": "LinkedIn is an AI-first company that's built agents to help professionals be more successful. In this setting, models must reason over incomplete information...",
-    "title_ar": "Unlocking Agentic RL تدريب for GPT-OSS: A Practical Retrospective",
-    "summary_ar": "تحديث رسمي: LinkedIn is an AI-first company that's built agents to help professionals be more successful. In this setting, models must reason over incomplete information..."
-  },
-  {
     "id": "https://openai.com/index/trustbank",
     "company": "OpenAI",
     "title": "Powering tax donations with AI powered personalized recommendations",
@@ -201,17 +157,6 @@
     "summary": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place."
   },
   {
-    "id": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
-    "company": "Hugging Face",
-    "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
-    "date": "2026-01-27T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
-    "tag": "Research",
-    "summary": "Arabic is one of the most widely spoken languages in the world, with hundreds of millions of speakers across more than twenty countries. Despite this global ...",
-    "title_ar": "تحديث رسمي: Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
-    "summary_ar": "Arabic is one of the most widely spoken languages in the world, with hundreds of millions of speakers across more than twenty countries. Despite this عالمي ..."
-  },
-  {
     "id": "https://developer.nvidia.com/blog/adaptive-inference-in-nvidia-tensorrt-for-rtx-enables-automatic-optimization/",
     "company": "NVIDIA",
     "title": "Adaptive Inference in NVIDIA TensorRT for RTX Enables Automatic Optimization",
@@ -219,15 +164,6 @@
     "url": "https://developer.nvidia.com/blog/adaptive-inference-in-nvidia-tensorrt-for-rtx-enables-automatic-optimization/",
     "tag": "Engineering",
     "summary": "Deploying AI applications across diverse consumer hardware has traditionally forced a trade-off. You can optimize for specific GPU configurations and "
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49341",
-    "company": "Microsoft",
-    "title": "Maia 200: The AI accelerator built for inference",
-    "date": "2026-01-26T16:12:24.000Z",
-    "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
-    "tag": "Engineering",
-    "summary": "Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation"
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-unlock-local-detail-in-coarse-climate-projections-with-nvidia-earth-2/",
@@ -257,17 +193,6 @@
     "summary": "Anthropic has been selected by the UK's Department for Science, Innovation and Technology (DSIT) to help build and pilot a dedicated AI-powered assistant for...",
     "title_ar": "تحديث رسمي: Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
     "summary_ar": "تحديث رسمي: Anthropic has been selected by the UK's Department for Science, Innovation and Technology (DSIT) to help build and pilot a dedicated AI-powered assistant for..."
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
-    "company": "Hugging Face",
-    "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
-    "date": "2026-01-24T10:30:51.000Z",
-    "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
-    "tag": "Research",
-    "summary": "While existing AI benchmarks excel at isolated tasks such as coding or web navigation, they often fail to capture the complexity of real-world industrial ope...",
-    "title_ar": "AssetOpsBench: Bridging the Gap Between AI وكيل Benchmarks and Industrial Reality",
-    "summary_ar": "تحديث رسمي: While existing AI benchmarks excel at isolated tasks such as coding or web navigation, they often fail to capture the complexity of real-world industrial ope..."
   },
   {
     "id": "https://openai.com/index/unrolling-the-codex-agent-loop",
@@ -333,17 +258,6 @@
     "summary": "The C++ template library CUB is a go-to for high-performance GPU primitive algorithms, but its traditional \"two-phase\" API, which separates memory est"
   },
   {
-    "id": "https://huggingface.co/blog/waypoint-1",
-    "company": "Hugging Face",
-    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
-    "date": "2026-01-21T10:11:48.000Z",
-    "url": "https://huggingface.co/blog/waypoint-1",
-    "tag": "Research",
-    "summary": "Waypoint-1 is Overworld’s real-time-interactive video diffusion model, controllable and prompted via text, mouse, and keyboard. You can give the model some f...",
-    "title_ar": "نُقدم لكم Waypoint-1: Real-time interactive فيديو diffusion from Overworld",
-    "summary_ar": "Waypoint-1 is Overworld’s real-time-interactive فيديو diffusion نموذج, controllable and prompted via text, mouse, and keyboard. You can give the نموذج some f..."
-  },
-  {
     "id": "https://openai.com/index/higgsfield",
     "company": "OpenAI",
     "title": "How Higgsfield turns simple ideas into cinematic social videos",
@@ -387,28 +301,6 @@
     "url": "https://openai.com/index/stargate-community",
     "tag": "News",
     "summary": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs,"
-  },
-  {
-    "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
-    "company": "Hugging Face",
-    "title": "One Year Since the “DeepSeek Moment”",
-    "date": "2026-01-20T15:52:58.000Z",
-    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
-    "tag": "News",
-    "summary": "The first blog addresses strategic changes and the explosion of new open models and open source players. The second will cover architectural and hardware cho...",
-    "title_ar": "تحديث رسمي: One Year Since the “DeepSeek Moment”",
-    "summary_ar": "The first blog addresses strategic changes and the explosion of جديد open models and مصدر مفتوح players. The second will cover architectural and hardware cho..."
-  },
-  {
-    "id": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-    "company": "Hugging Face",
-    "title": "Differential Transformer V2",
-    "date": "2026-01-20T12:11:14.000Z",
-    "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-    "tag": "Research",
-    "summary": "(For simplicity, we omit the batch dimension and assume that both the input and output of the following flash_attn_func are three-dimensional tensors (tokens...",
-    "title_ar": "تحديث رسمي: Differential Transformer V2",
-    "summary_ar": "تحديث رسمي: (For simplicity, we omit the batch dimension and assume that both the input and output of the following flash_attn_func are three-dimensional tensors (tokens..."
   },
   {
     "id": "https://openai.com/index/cisco",
@@ -548,14 +440,6 @@
     "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
     "tag": "News",
     "summary": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure."
-  },
-  {
-    "id": "https://huggingface.co/blog/open-responses",
-    "company": "Hugging Face",
-    "title": "Open Responses: What you need to know",
-    "date": "2026-01-15T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/open-responses",
-    "tag": "News"
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-write-high-performance-matrix-multiply-in-nvidia-cuda-tile/",
@@ -810,14 +694,6 @@
     "summary": "CES 2026 showcases the arrival of the NVIDIA Rubin Platform, along with Azure’s proven readiness for deployment.\nThe post Microsoft’s strategic AI dat"
   },
   {
-    "id": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
-    "company": "Hugging Face",
-    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
-    "date": "2026-01-05T22:56:51.000Z",
-    "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
-    "tag": "News"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/new-software-and-model-optimizations-supercharge-nvidia-dgx-spark/",
     "company": "NVIDIA",
     "title": "New Software and Model Optimizations Supercharge NVIDIA DGX Spark",
@@ -872,22 +748,6 @@
     "summary": "Autonomous vehicle (AV) research is undergoing a rapid shift. The field is being reshaped by the emergence of reasoning-based vision–language–action ("
   },
   {
-    "id": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-    "company": "Hugging Face",
-    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
-    "date": "2026-01-05T09:16:51.000Z",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-    "tag": "Engineering"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia-reachy-mini",
-    "company": "Hugging Face",
-    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-    "date": "2026-01-05T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/nvidia-reachy-mini",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/index/openai-grove",
     "company": "OpenAI",
     "title": "Announcing OpenAI Grove Cohort 2",
@@ -913,14 +773,6 @@
     "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
     "tag": "Research",
     "summary": "Google 2025 recap: Research breakthroughs of the year"
-  },
-  {
-    "id": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-    "company": "Hugging Face",
-    "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
-    "date": "2025-12-23T14:07:35.000Z",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-    "tag": "News"
   },
   {
     "id": "https://openai.com/index/hardening-atlas-against-prompt-injection",
@@ -1044,14 +896,6 @@
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
   {
-    "id": "https://huggingface.co/blog/tokenizers",
-    "company": "Hugging Face",
-    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
-    "date": "2025-12-18T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/tokenizers",
-    "tag": "News"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/real-time-decoding-algorithmic-gpu-decoders-and-ai-inference-enhancements-in-nvidia-cuda-q-qec/",
     "company": "NVIDIA",
     "title": "Real-Time Decoding, Algorithmic GPU Decoders, and AI Inference Enhancements in NVIDIA CUDA-Q QEC",
@@ -1113,14 +957,6 @@
     "url": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
     "tag": "Engineering",
     "summary": "The development of 5G and 6G requires high-fidelity radio channel modeling, but the ecosystem is highly fragmented. Link-level simulators, network-lev"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
-    "company": "Hugging Face",
-    "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
-    "date": "2025-12-17T13:22:18.000Z",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
-    "tag": "Research"
   },
   {
     "id": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
@@ -1287,14 +1123,6 @@
     "summary": "2.12.0 (2025-12-15)\nFull Changelog: v2.11.0...v2.12.0\nFeatures\napi: api update (a95c4d0)\napi: fix grader input list, add dated slugs for sora-2 (b2c38"
   },
   {
-    "id": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
-    "company": "Hugging Face",
-    "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
-    "date": "2025-12-15T16:01:04.000Z",
-    "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
-    "tag": "Research"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
     "company": "NVIDIA",
     "title": "How to Train Scientific Agents with Reinforcement Learning",
@@ -1441,14 +1269,6 @@
     "summary": "Whether you are improving the resilience of mission-critical workloads or modernizing legacy systems; Azure Storage has a solution for you.\nThe post A"
   },
   {
-    "id": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
-    "company": "Hugging Face",
-    "title": "New in llama.cpp: Model Management",
-    "date": "2025-12-11T15:47:44.000Z",
-    "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/index/gpt-5-2-for-science-and-math",
     "company": "OpenAI",
     "title": "Advancing science and math with GPT-5.2",
@@ -1512,14 +1332,6 @@
     "summary": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short video"
   },
   {
-    "id": "https://huggingface.co/blog/hf-skills-training-codex",
-    "company": "Hugging Face",
-    "title": "Codex is Open Sourcing AI models",
-    "date": "2025-12-11T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/hf-skills-training-codex",
-    "tag": "News"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/enhancing-communication-observability-of-ai-workloads-with-nccl-inspector/",
     "company": "NVIDIA",
     "title": "Enhancing Communication Observability of AI Workloads with NCCL Inspector",
@@ -1536,6 +1348,15 @@
     "url": "https://developer.nvidia.com/blog/better-bug-detection-how-compile-time-instrumentation-for-compute-sanitizer-enhances-memory-safety/",
     "tag": "Engineering",
     "summary": "CUDA C++ is standard C++ with extensions that enable functions to run on many parallel threads on a GPU. It has facilitated widespread adoption while "
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=48809",
+    "company": "Microsoft",
+    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
+    "date": "2025-12-10T17:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
+    "tag": "News",
+    "summary": "Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the "
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.10.0",
@@ -1709,14 +1530,6 @@
     "summary": "Since its debut in 2023, the NVIDIA Grace CPU has experienced rapid adoption across data centers, setting new benchmarks for performance efficiency ac"
   },
   {
-    "id": "https://huggingface.co/blog/swift-huggingface",
-    "company": "Hugging Face",
-    "title": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
-    "date": "2025-12-05T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/swift-huggingface",
-    "tag": "News"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/nvidia-cuda-13-1-powers-next-gen-gpu-programming-with-nvidia-cuda-tile-and-performance-gains/",
     "company": "NVIDIA",
     "title": "NVIDIA CUDA 13.1 Powers Next-Gen GPU Programming with NVIDIA CUDA Tile and Performance Gains",
@@ -1778,22 +1591,6 @@
     "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
     "tag": "News",
     "summary": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops."
-  },
-  {
-    "id": "https://huggingface.co/blog/intel-deepmath",
-    "company": "Hugging Face",
-    "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
-    "date": "2025-12-04T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/intel-deepmath",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/hf-skills-training",
-    "company": "Hugging Face",
-    "title": "We Got Claude to Fine-Tune an Open Source LLM",
-    "date": "2025-12-04T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/hf-skills-training",
-    "tag": "News"
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-enhance-3d-gaussian-reconstruction-quality-for-simulation/",
@@ -1931,14 +1728,6 @@
     "summary": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of grow"
   },
   {
-    "id": "https://huggingface.co/blog/transformers-v5",
-    "company": "Hugging Face",
-    "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
-    "date": "2025-12-01T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/transformers-v5",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/index/mixpanel-incident",
     "company": "OpenAI",
     "title": "Mixpanel security incident: what OpenAI users need to know",
@@ -2011,22 +1800,6 @@
     "summary": "JetBrains is integrating GPT-5 across its coding tools, helping millions of developers design, reason, and build software faster."
   },
   {
-    "id": "https://huggingface.co/blog/flux-2",
-    "company": "Hugging Face",
-    "title": "Diffusers welcomes FLUX-2",
-    "date": "2025-11-25T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/flux-2",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/continuous_batching",
-    "company": "Hugging Face",
-    "title": "Continuous batching from first principles",
-    "date": "2025-11-25T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/continuous_batching",
-    "tag": "News"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/build-and-run-secure-data-driven-ai-agents/",
     "company": "NVIDIA",
     "title": "Build and Run Secure, Data-Driven AI Agents ",
@@ -2043,22 +1816,6 @@
     "url": "https://developer.nvidia.com/blog/model-quantization-concepts-methods-and-why-it-matters/",
     "tag": "Engineering",
     "summary": "AI models are becoming increasingly complex, often exceeding the capabilities of available hardware. Quantization has emerged as a crucial technique t"
-  },
-  {
-    "id": "https://huggingface.co/blog/Tavily/tavily-deep-research",
-    "company": "Hugging Face",
-    "title": "Building Deep Research: How we Achieved State of the Art",
-    "date": "2025-11-24T17:40:14.000Z",
-    "url": "https://huggingface.co/blog/Tavily/tavily-deep-research",
-    "tag": "Research"
-  },
-  {
-    "id": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud",
-    "company": "Hugging Face",
-    "title": "OVHcloud on Hugging Face Inference Providers 🔥",
-    "date": "2025-11-24T16:08:47.000Z",
-    "url": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud",
-    "tag": "Engineering"
   },
   {
     "id": "https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/",
@@ -2121,22 +1878,6 @@
     "summary_ar": "ExecuTorch, Meta’s مصدر مفتوح, lightweight, and efficient استنتاج engine, has been instrumental in enabling on-device AI capabilities across Meta’s..."
   },
   {
-    "id": "https://huggingface.co/blog/rapidfireai",
-    "company": "Hugging Face",
-    "title": "20x Faster TRL Fine-tuning with RapidFire AI",
-    "date": "2025-11-21T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/rapidfireai",
-    "tag": "Research"
-  },
-  {
-    "id": "https://huggingface.co/blog/open-asr-leaderboard",
-    "company": "Hugging Face",
-    "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
-    "date": "2025-11-21T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/open-asr-leaderboard",
-    "tag": "Corporate"
-  },
-  {
     "id": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
     "company": "Google DeepMind",
     "title": "How we’re bringing AI image verification to the Gemini app",
@@ -2197,14 +1938,6 @@
     "summary": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Expl"
   },
   {
-    "id": "https://huggingface.co/blog/anylanguagemodel",
-    "company": "Hugging Face",
-    "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
-    "date": "2025-11-20T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/anylanguagemodel",
-    "tag": "Release"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/breaking-through-rl-training-limits-with-scaling-rollouts-in-brorl/",
     "company": "NVIDIA",
     "title": "Breaking Through Reinforcement Learning Training Limits with Scaling Rollouts in BroRL",
@@ -2257,14 +1990,6 @@
     "url": "https://openai.com/index/target-partnership",
     "tag": "Corporate",
     "summary": "OpenAI and Target are partnering to bring a new Target app to ChatGPT, offering personalized shopping and faster checkout. Target will also expand its"
-  },
-  {
-    "id": "https://huggingface.co/blog/ServiceNow-AI/apriel-h1",
-    "company": "Hugging Face",
-    "title": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
-    "date": "2025-11-19T05:19:07.000Z",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/apriel-h1",
-    "tag": "News"
   },
   {
     "id": "https://openai.com/index/chatgpt-for-teachers",
@@ -2417,14 +2142,6 @@
     "summary": "OpenAI has been named an Emerging Leader in Gartner’s 2025 Innovation Guide for Generative AI Model Providers. The recognition reflects our enterprise"
   },
   {
-    "id": "https://huggingface.co/blog/build-rocm-kernels",
-    "company": "Hugging Face",
-    "title": "Easily Build and Share ROCm Kernels with Hugging Face",
-    "date": "2025-11-17T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/build-rocm-kernels",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/index/openai-for-ireland",
     "company": "OpenAI",
     "title": "Introducing OpenAI for Ireland",
@@ -2432,14 +2149,6 @@
     "url": "https://openai.com/index/openai-for-ireland",
     "tag": "News",
     "summary": "OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to "
-  },
-  {
-    "id": "https://huggingface.co/blog/amd/openroboticshackathon",
-    "company": "Hugging Face",
-    "title": "Join the AMD Open Robotics Hackathon",
-    "date": "2025-11-13T21:37:26.000Z",
-    "url": "https://huggingface.co/blog/amd/openroboticshackathon",
-    "tag": "News"
   },
   {
     "id": "https://developer.nvidia.com/blog/achieve-cutlass-c-performance-with-python-apis-using-cute-dsl/",
@@ -2530,14 +2239,6 @@
     "url": "https://openai.com/index/group-chats-in-chatgpt",
     "tag": "News",
     "summary": "We’re piloting group chats in ChatGPT to make collaboration simple. Bring others—and ChatGPT—into one shared conversation to plan, brainstorm, and cre"
-  },
-  {
-    "id": "https://huggingface.co/blog/google-cloud",
-    "company": "Hugging Face",
-    "title": "Building for an Open Future - our new partnership with Google Cloud",
-    "date": "2025-11-13T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/google-cloud",
-    "tag": "Case Study"
   },
   {
     "id": "https://openai.com/index/neurogum",
@@ -2864,14 +2565,6 @@
     "summary": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The"
   },
   {
-    "id": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what",
-    "company": "Hugging Face",
-    "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
-    "date": "2025-10-30T10:03:45.000Z",
-    "url": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/index/building-chatgpt-atlas",
     "company": "OpenAI",
     "title": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas",
@@ -2888,14 +2581,6 @@
     "url": "https://deepmind.google/blog/accelerating-discovery-with-the-ai-for-math-initiative/",
     "tag": "News",
     "summary": "The initiative brings together some of the world's most prestigious research institutions to pioneer the use of AI in mathematical research."
-  },
-  {
-    "id": "https://huggingface.co/blog/huggingface/shifting-compute-landscape",
-    "company": "Hugging Face",
-    "title": "On the Shifting Global Compute Landscape",
-    "date": "2025-10-29T13:56:45.000Z",
-    "url": "https://huggingface.co/blog/huggingface/shifting-compute-landscape",
-    "tag": "News"
   },
   {
     "id": "https://openai.com/index/gpt-oss-safeguard-technical-report",
@@ -2916,22 +2601,6 @@
     "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies."
   },
   {
-    "id": "https://huggingface.co/blog/lerobotxnvidia-healthcare",
-    "company": "Hugging Face",
-    "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
-    "date": "2025-10-29T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/lerobotxnvidia-healthcare",
-    "tag": "Engineering"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare",
-    "company": "Hugging Face",
-    "title": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
-    "date": "2025-10-28T20:42:35.000Z",
-    "url": "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare",
-    "tag": "Engineering"
-  },
-  {
     "id": "https://openai.com/index/dai-nippon-printing",
     "company": "OpenAI",
     "title": "Knowledge preservation powered by ChatGPT",
@@ -2939,14 +2608,6 @@
     "url": "https://openai.com/index/dai-nippon-printing",
     "tag": "News",
     "summary": "Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95"
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-granite/granite-4-nano",
-    "company": "Hugging Face",
-    "title": "Granite 4.0 Nano: Just how small can you go? ",
-    "date": "2025-10-28T14:59:38.000Z",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-nano",
-    "tag": "News"
   },
   {
     "id": "https://openai.com/index/doppel",
@@ -2974,14 +2635,6 @@
     "url": "https://openai.com/index/built-to-benefit-everyone",
     "tag": "News",
     "summary": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation respon"
-  },
-  {
-    "id": "https://huggingface.co/blog/voice-consent-gate",
-    "company": "Hugging Face",
-    "title": "Voice Cloning with Consent",
-    "date": "2025-10-28T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/voice-consent-gate",
-    "tag": "News"
   },
   {
     "id": "https://openai.com/global-affairs/seizing-the-ai-opportunity",
@@ -3029,22 +2682,6 @@
     "summary": "A new approach to a foundational document that expresses and shapes who Claude is",
     "title_ar": "Claude's جديد constitution",
     "summary_ar": "A جديد approach to a foundational document that expresses and shapes who Claude is"
-  },
-  {
-    "id": "https://huggingface.co/blog/streaming-datasets",
-    "company": "Hugging Face",
-    "title": "Streaming datasets: 100x More Efficient",
-    "date": "2025-10-27T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/streaming-datasets",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/huggingface-hub-v1",
-    "company": "Hugging Face",
-    "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
-    "date": "2025-10-27T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/huggingface-hub-v1",
-    "tag": "Release"
   },
   {
     "id": "https://deepmind.google/blog/t5gemma-a-new-collection-of-encoder-decoder-gemma-models/",
@@ -3171,14 +2808,6 @@
     "url": "https://deepmind.google/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/",
     "tag": "News",
     "summary": "Our new method could help mathematicians leverage AI techniques to tackle long-standing challenges in mathematics, physics and engineering."
-  },
-  {
-    "id": "https://huggingface.co/blog/lerobot-release-v040",
-    "company": "Hugging Face",
-    "title": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
-    "date": "2025-10-24T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/lerobot-release-v040",
-    "tag": "Release"
   },
   {
     "id": "https://deepmind.google/blog/strengthening-our-frontier-safety-framework/",
@@ -3334,14 +2963,6 @@
     "summary": "Company knowledge brings context from your apps into ChatGPT for answers specific to your business, with clear citations, security, privacy, and admin"
   },
   {
-    "id": "https://huggingface.co/blog/openenv",
-    "company": "Hugging Face",
-    "title": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
-    "date": "2025-10-23T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/openenv",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai",
     "company": "OpenAI",
     "title": "The next chapter for UK sovereign AI",
@@ -3358,22 +2979,6 @@
     "url": "https://openai.com/index/japan-economic-blueprint",
     "tag": "News",
     "summary": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive"
-  },
-  {
-    "id": "https://huggingface.co/blog/virustotal",
-    "company": "Hugging Face",
-    "title": "Hugging Face and VirusTotal collaborate to strengthen AI security",
-    "date": "2025-10-22T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/virustotal",
-    "tag": "Security"
-  },
-  {
-    "id": "https://huggingface.co/blog/sentence-transformers-joins-hf",
-    "company": "Hugging Face",
-    "title": "Sentence Transformers is joining Hugging Face!",
-    "date": "2025-10-22T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/sentence-transformers-joins-hf",
-    "tag": "Corporate"
   },
   {
     "id": "https://openai.com/index/chatgpt-whatsapp-transition",
@@ -3394,38 +2999,6 @@
     "summary": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you ca"
   },
   {
-    "id": "https://huggingface.co/blog/ocr-open-models",
-    "company": "Hugging Face",
-    "title": "Supercharge your OCR Pipelines with Open Models",
-    "date": "2025-10-21T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/ocr-open-models",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/aisheets-unlock-images",
-    "company": "Hugging Face",
-    "title": "Unlock the power of images with AI Sheets",
-    "date": "2025-10-21T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/aisheets-unlock-images",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/hugging-science/ai-for-food-allergies",
-    "company": "Hugging Face",
-    "title": "AI for Food Allergies",
-    "date": "2025-10-16T22:38:11.000Z",
-    "url": "https://huggingface.co/blog/hugging-science/ai-for-food-allergies",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/gpt-oss-on-intel-xeon",
-    "company": "Hugging Face",
-    "title": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
-    "date": "2025-10-16T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/gpt-oss-on-intel-xeon",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/index/plex-coffee",
     "company": "OpenAI",
     "title": "Plex Coffee delivers fast service and personal connections with ChatGPT Business",
@@ -3433,14 +3006,6 @@
     "url": "https://openai.com/index/plex-coffee",
     "tag": "News",
     "summary": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding."
-  },
-  {
-    "id": "https://huggingface.co/blog/openvino-vlm",
-    "company": "Hugging Face",
-    "title": "Get your VLM running in 3 simple steps on Intel CPUs",
-    "date": "2025-10-15T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/openvino-vlm",
-    "tag": "News"
   },
   {
     "id": "https://openai.com/index/expert-council-on-well-being-and-ai",
@@ -3472,14 +3037,6 @@
     "summary_ar": "Claude Haiku 4.5, our latest small نموذج, is available today to all users."
   },
   {
-    "id": "https://huggingface.co/blog/nvidia/nemotron-personas-india",
-    "company": "Hugging Face",
-    "title": "Nemotron-Personas-India: Synthesized Data for Sovereign AI",
-    "date": "2025-10-13T23:00:42.000Z",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-india",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
     "company": "OpenAI",
     "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
@@ -3487,14 +3044,6 @@
     "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
     "tag": "News",
     "summary": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems"
-  },
-  {
-    "id": "https://huggingface.co/blog/Arm/arm-at-pytorch-conference",
-    "company": "Hugging Face",
-    "title": "Arm will be @ PyTorch Conference, Join Us!",
-    "date": "2025-10-10T17:35:04.000Z",
-    "url": "https://huggingface.co/blog/Arm/arm-at-pytorch-conference",
-    "tag": "News"
   },
   {
     "id": "https://openai.com/index/hygh",
@@ -3522,14 +3071,6 @@
     "url": "https://openai.com/index/hibob",
     "tag": "News",
     "summary": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered featur"
-  },
-  {
-    "id": "https://huggingface.co/blog/bigcode/arena",
-    "company": "Hugging Face",
-    "title": "BigCodeArena: Judging code generations end to end with code executions",
-    "date": "2025-10-07T09:37:25.000Z",
-    "url": "https://huggingface.co/blog/bigcode/arena",
-    "tag": "News"
   },
   {
     "id": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025",
@@ -3604,14 +3145,6 @@
     "summary": "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustwor"
   },
   {
-    "id": "https://huggingface.co/blog/dots-ocr-ne",
-    "company": "Hugging Face",
-    "title": "SOTA OCR with Core ML and dots.ocr",
-    "date": "2025-10-02T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/dots-ocr-ne",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/index/samsung-and-sk-join-stargate",
     "company": "OpenAI",
     "title": "Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure",
@@ -3619,14 +3152,6 @@
     "url": "https://openai.com/index/samsung-and-sk-join-stargate",
     "tag": "Engineering",
     "summary": "Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen dat"
-  },
-  {
-    "id": "https://huggingface.co/blog/rteb",
-    "company": "Hugging Face",
-    "title": "Introducing RTEB: A New Standard for Retrieval Evaluation",
-    "date": "2025-10-01T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/rteb",
-    "tag": "Research"
   },
   {
     "id": "https://openai.com/index/sora-feed-philosophy",
@@ -3746,30 +3271,6 @@
     "summary": "We’re taking first steps toward agentic commerce in ChatGPT with new ways for people, AI agents, and businesses to shop together."
   },
   {
-    "id": "https://huggingface.co/blog/intel-qwen3-agent",
-    "company": "Hugging Face",
-    "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
-    "date": "2025-09-29T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/intel-qwen3-agent",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/vibegame",
-    "company": "Hugging Face",
-    "title": "VibeGame: Exploring Vibe Coding Games",
-    "date": "2025-09-29T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/vibegame",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja",
-    "company": "Hugging Face",
-    "title": "Nemotron-Personas-Japan: ソブリン AI のための合成データセット",
-    "date": "2025-09-26T06:25:50.000Z",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/index/aarp-partnership-older-adults-online-safety",
     "company": "OpenAI",
     "title": "Partnering with AARP to help keep older adults safe online",
@@ -3777,14 +3278,6 @@
     "url": "https://openai.com/index/aarp-partnership-older-adults-online-safety",
     "tag": "Corporate",
     "summary": "OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI"
-  },
-  {
-    "id": "https://huggingface.co/blog/swift-transformers",
-    "company": "Hugging Face",
-    "title": "Swift Transformers Reaches 1.0 – and Looks to the Future",
-    "date": "2025-09-26T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/swift-transformers",
-    "tag": "News"
   },
   {
     "id": "https://openai.com/index/more-ways-to-work-with-your-team",
@@ -3861,14 +3354,6 @@
     "summary": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power n"
   },
   {
-    "id": "https://huggingface.co/blog/smol2operator",
-    "company": "Hugging Face",
-    "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
-    "date": "2025-09-23T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/smol2operator",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/index/cna-walter-fernandez",
     "company": "OpenAI",
     "title": "CNA is transforming its newsroom with AI ",
@@ -3905,14 +3390,6 @@
     "summary": "OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching "
   },
   {
-    "id": "https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework",
-    "company": "Hugging Face",
-    "title": "SyGra: The One-Stop Framework for Building Data for LLMs and SLMs",
-    "date": "2025-09-22T06:45:05.000Z",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/policies/outbound-coordinated-disclosure-policy",
     "company": "OpenAI",
     "title": "Outbound coordinated vulnerability disclosure policy",
@@ -3920,22 +3397,6 @@
     "url": "https://openai.com/policies/outbound-coordinated-disclosure-policy",
     "tag": "Security",
     "summary": "Outbound coordinated vulnerability disclosure policy"
-  },
-  {
-    "id": "https://huggingface.co/blog/gaia2",
-    "company": "Hugging Face",
-    "title": "Gaia2 and ARE: Empowering the community to study agents ",
-    "date": "2025-09-22T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/gaia2",
-    "tag": "Research"
-  },
-  {
-    "id": "https://huggingface.co/blog/inference-providers-scaleway",
-    "company": "Hugging Face",
-    "title": "Scaleway on Hugging Face Inference Providers 🔥",
-    "date": "2025-09-19T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/inference-providers-scaleway",
-    "tag": "Engineering"
   },
   {
     "id": "https://x.ai/news/grok-4-fast",
@@ -3956,14 +3417,6 @@
     "summary": "Today, we're excited to announce we’re expanding our partnership with \r\nAmazon Web Services to bring our Stable Image Services to Amazon Bedrock."
   },
   {
-    "id": "https://huggingface.co/blog/riskrubric",
-    "company": "Hugging Face",
-    "title": "Democratizing AI Safety with RiskRubric.ai",
-    "date": "2025-09-18T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/riskrubric",
-    "tag": "News"
-  },
-  {
     "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:68ba1647024bd120f1f9a4d8",
     "company": "Stability AI",
     "title": "Stability AI’s Annual Integrity Transparency Report",
@@ -3980,14 +3433,6 @@
     "url": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models",
     "tag": "News",
     "summary": "Apollo Research and OpenAI developed evaluations for hidden misalignment (“scheming”) and found behaviors consistent with scheming in controlled tests"
-  },
-  {
-    "id": "https://huggingface.co/blog/inference-providers-publicai",
-    "company": "Hugging Face",
-    "title": "Public AI on Hugging Face Inference Providers 🔥",
-    "date": "2025-09-17T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/inference-providers-publicai",
-    "tag": "Engineering"
   },
   {
     "id": "https://openai.com/index/introducing-stargate-uk",
@@ -4017,14 +3462,6 @@
     "summary": "Explore OpenAI’s approach to balancing teen safety, freedom, and privacy in AI use."
   },
   {
-    "id": "https://huggingface.co/blog/lerobot-datasets-v3",
-    "company": "Hugging Face",
-    "title": "`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`",
-    "date": "2025-09-16T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/lerobot-datasets-v3",
-    "tag": "Release"
-  },
-  {
     "id": "https://openai.com/index/introducing-upgrades-to-codex",
     "company": "OpenAI",
     "title": "Introducing upgrades to Codex",
@@ -4052,14 +3489,6 @@
     "summary": "This addendum to the GPT-5 system card shares a new model: GPT-5-Codex, a version of GPT-5 further optimized for agentic coding in Codex. GPT-5-Codex "
   },
   {
-    "id": "https://huggingface.co/blog/watermarking-with-gradio",
-    "company": "Hugging Face",
-    "title": "Visible Watermarking with Gradio",
-    "date": "2025-09-15T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/watermarking-with-gradio",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/index/us-caisi-uk-aisi-ai-update",
     "company": "OpenAI",
     "title": "Working with US CAISI and UK AISI to build more secure AI systems",
@@ -4067,14 +3496,6 @@
     "url": "https://openai.com/index/us-caisi-uk-aisi-ai-update",
     "tag": "News",
     "summary": "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security."
-  },
-  {
-    "id": "https://huggingface.co/blog/Writer/announcing-palmyra-mini",
-    "company": "Hugging Face",
-    "title": "Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!",
-    "date": "2025-09-11T20:04:44.000Z",
-    "url": "https://huggingface.co/blog/Writer/announcing-palmyra-mini",
-    "tag": "News"
   },
   {
     "id": "https://openai.com/index/joint-statement-from-openai-and-microsoft",
@@ -4095,22 +3516,6 @@
     "summary": "OpenAI reaffirms its nonprofit leadership with a new structure granting equity in its PBC, enabling over $100B in resources to advance safe, beneficia"
   },
   {
-    "id": "https://huggingface.co/blog/faster-transformers",
-    "company": "Hugging Face",
-    "title": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
-    "date": "2025-09-11T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/faster-transformers",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/togethercomputer/together-ft",
-    "company": "Hugging Face",
-    "title": "Fine-tune Any LLM from the Hugging Face Hub with Together AI",
-    "date": "2025-09-10T17:04:36.000Z",
-    "url": "https://huggingface.co/blog/togethercomputer/together-ft",
-    "tag": "News"
-  },
-  {
     "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:68af30c1f7616137793f399f",
     "company": "Stability AI",
     "title": "Stability AI Introduces Stable Audio 2.5, the First Audio Model Built for Enterprise Sound Production at Scale",
@@ -4120,14 +3525,6 @@
     "summary": "We’re excited to release Stable Audio 2.5, our latest audio model and the \r\nfirst developed for enterprise-grade use cases. Stable Audio 2.5 introduce"
   },
   {
-    "id": "https://huggingface.co/blog/jupyter-agent-2",
-    "company": "Hugging Face",
-    "title": "Jupyter Agents: training LLMs to reason with notebooks",
-    "date": "2025-09-10T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/jupyter-agent-2",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/index/safetykit",
     "company": "OpenAI",
     "title": "Shipping smarter agents with every new model",
@@ -4135,14 +3532,6 @@
     "url": "https://openai.com/index/safetykit",
     "tag": "News",
     "summary": "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accura"
-  },
-  {
-    "id": "https://huggingface.co/blog/mmbert",
-    "company": "Hugging Face",
-    "title": "mmBERT: ModernBERT goes Multilingual",
-    "date": "2025-09-09T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/mmbert",
-    "tag": "News"
   },
   {
     "id": "https://openai.com/index/people-first-ai-fund",
@@ -4190,22 +3579,6 @@
     "summary": "OpenAI is launching a Jobs Platform and new Certifications to connect workers with jobs, training, and certifications. Learn how we’re expanding econo"
   },
   {
-    "id": "https://huggingface.co/blog/embeddinggemma",
-    "company": "Hugging Face",
-    "title": "Welcome EmbeddingGemma, Google's new efficient embedding model",
-    "date": "2025-09-04T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/embeddinggemma",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai",
-    "company": "Hugging Face",
-    "title": "SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence",
-    "date": "2025-09-02T16:54:29.000Z",
-    "url": "https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig",
     "company": "OpenAI",
     "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
@@ -4233,14 +3606,6 @@
     "summary": "Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, t...",
     "title_ar": "تحديث رسمي: Anthropic raises $13B Series F at $183B post-money valuation",
     "summary_ar": "تحديث رسمي: Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, t..."
-  },
-  {
-    "id": "https://huggingface.co/blog/zerogpu-aoti",
-    "company": "Hugging Face",
-    "title": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
-    "date": "2025-09-02T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/zerogpu-aoti",
-    "tag": "News"
   },
   {
     "id": "https://openai.com/index/introducing-gpt-realtime",
@@ -4324,14 +3689,6 @@
     "summary": "Discover how Blue J is transforming tax research with AI-powered tools built on GPT-4.1. By combining domain expertise with Retrieval-Augmented Genera"
   },
   {
-    "id": "https://huggingface.co/blog/nvidia/multilingual-reasoning-v1",
-    "company": "Hugging Face",
-    "title": "NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset  ",
-    "date": "2025-08-20T22:13:18.000Z",
-    "url": "https://huggingface.co/blog/nvidia/multilingual-reasoning-v1",
-    "tag": "Research"
-  },
-  {
     "id": "https://openai.com/index/mixi",
     "company": "OpenAI",
     "title": "Mixi reimagines communication with ChatGPT",
@@ -4339,14 +3696,6 @@
     "url": "https://openai.com/index/mixi",
     "tag": "News",
     "summary": "Discover how MIXI, a leader in digital entertainment and lifestyle services in Japan, uses ChatGPT Enterprise to transform productivity, boost AI adop"
-  },
-  {
-    "id": "https://huggingface.co/blog/claude-and-mcp",
-    "company": "Hugging Face",
-    "title": "Generate Images with Claude and Hugging Face",
-    "date": "2025-08-19T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/claude-and-mcp",
-    "tag": "News"
   },
   {
     "id": "https://openai.com/index/doordash-mariana-garavaglia",
@@ -4358,38 +3707,6 @@
     "summary": "Learn how DoorDash is scaling AI adoption to empower employees to build, learn, and innovate faster in a conversation with Chief People Officer Marian"
   },
   {
-    "id": "https://huggingface.co/blog/kernel-builder",
-    "company": "Hugging Face",
-    "title": "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels",
-    "date": "2025-08-18T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/kernel-builder",
-    "tag": "Docs"
-  },
-  {
-    "id": "https://huggingface.co/blog/mcp-for-research",
-    "company": "Hugging Face",
-    "title": "MCP for Research: How to Connect AI to Research Tools",
-    "date": "2025-08-18T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/mcp-for-research",
-    "tag": "Research"
-  },
-  {
-    "id": "https://huggingface.co/blog/AI-MO/kimina-prover-rl",
-    "company": "Hugging Face",
-    "title": "Kimina-Prover-RL",
-    "date": "2025-08-14T12:13:01.000Z",
-    "url": "https://huggingface.co/blog/AI-MO/kimina-prover-rl",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/Arm/executorch-0-dot-7",
-    "company": "Hugging Face",
-    "title": "Arm & ExecuTorch 0.7: Bringing Generative AI to the masses",
-    "date": "2025-08-13T14:55:10.000Z",
-    "url": "https://huggingface.co/blog/Arm/executorch-0-dot-7",
-    "tag": "News"
-  },
-  {
     "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:68997dd91a11eb79182f09e6",
     "company": "Stability AI",
     "title": "Stability AI and NVIDIA Bring Faster Performance and Simplified Enterprise Deployment with the Stable Diffusion 3.5 NIM",
@@ -4397,14 +3714,6 @@
     "url": "https://stability.ai/news/stability-ai-and-nvidia-bring-faster-performance-and-simplified-enterprise-deployment-with-the-stable-diffusion-35-nim",
     "tag": "Research",
     "summary": "We're excited to announce our collaboration with NVIDIA to launch the \r\nStable Diffusion 3.5 NIM microservice, enabling significant performance \r\nimpr"
-  },
-  {
-    "id": "https://huggingface.co/blog/Arm/neural-super-sampling",
-    "company": "Hugging Face",
-    "title": "Neural Super Sampling is here!",
-    "date": "2025-08-12T14:52:08.000Z",
-    "url": "https://huggingface.co/blog/Arm/neural-super-sampling",
-    "tag": "Research"
   },
   {
     "id": "https://openai.com/index/basis",
@@ -4423,38 +3732,6 @@
     "url": "https://openai.com/global-affairs/letter-to-governor-newsom-on-harmonized-regulation",
     "tag": "News",
     "summary": "We’ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national—and, by vi"
-  },
-  {
-    "id": "https://huggingface.co/blog/textquests",
-    "company": "Hugging Face",
-    "title": "TextQuests: How Good are LLMs at Text-Based Video Games?",
-    "date": "2025-08-12T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/textquests",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/filbench",
-    "company": "Hugging Face",
-    "title": "🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?",
-    "date": "2025-08-12T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/filbench",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/aisheets",
-    "company": "Hugging Face",
-    "title": "Introducing AI Sheets: a tool to work with datasets using open AI models!",
-    "date": "2025-08-08T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/aisheets",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/accelerate-nd-parallel",
-    "company": "Hugging Face",
-    "title": "Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training",
-    "date": "2025-08-08T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/accelerate-nd-parallel",
-    "tag": "Docs"
   },
   {
     "id": "https://openai.com/index/introducing-gpt-5-for-developers",
@@ -4556,14 +3833,6 @@
     "summary": "This GPT-5 system card explains how a unified model routing system powers fast and smart responses using gpt-5-main, gpt-5-thinking, and lightweight v"
   },
   {
-    "id": "https://huggingface.co/blog/trl-vlm-alignment",
-    "company": "Hugging Face",
-    "title": "Vision Language Model Alignment in TRL ⚡️",
-    "date": "2025-08-07T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/trl-vlm-alignment",
-    "tag": "News"
-  },
-  {
     "id": "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce",
     "company": "OpenAI",
     "title": "Providing ChatGPT to the Entire U.S. Federal Workforce",
@@ -4618,14 +3887,6 @@
     "summary": "We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the Apache 2.0 license and our gpt-oss usage policy."
   },
   {
-    "id": "https://huggingface.co/blog/welcome-openai-gpt-oss",
-    "company": "Hugging Face",
-    "title": "Welcome GPT OSS, the new open-source model family from OpenAI!",
-    "date": "2025-08-05T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/welcome-openai-gpt-oss",
-    "tag": "News"
-  },
-  {
     "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:6890f779a9b1e55b8f46ef01",
     "company": "Stability AI",
     "title": "Stability AI Achieves SOC 2 Type II and SOC 3 Compliance, Reaching New Industry Standard for Enterprise-Grade Security",
@@ -4633,14 +3894,6 @@
     "url": "https://stability.ai/news/stability-ai-achieves-soc-2-type-ii-and-soc-3-compliance",
     "tag": "Security",
     "summary": "Stability AI has achieved SOC 2 Type II and SOC 3 compliance, which \r\nvalidates our security controls and data protection practices through \r\nrigorous"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent",
-    "company": "Hugging Face",
-    "title": "Measuring Open-Source Llama Nemotron Models on DeepResearch Bench",
-    "date": "2025-08-04T19:51:50.000Z",
-    "url": "https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent",
-    "tag": "Research"
   },
   {
     "id": "https://openai.com/index/optimizing-chatgpt",
@@ -4668,24 +3921,5 @@
     "url": "https://openai.com/index/introducing-stargate-norway",
     "tag": "News",
     "summary": "We’re launching Stargate Norway—OpenAI’s first AI data center initiative in Europe under our OpenAI for Countries program. Stargate is OpenAI’s overar"
-  },
-  {
-    "id": "https://huggingface.co/blog/daggr",
-    "company": "Hugging Face",
-    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
-    "date": "2025-07-31T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/daggr",
-    "tag": "Release",
-    "summary": "If you've built AI applications that combine multiple models or processing steps, you know the pain: chaining API calls, debugging pipelines, and losing trac...",
-    "title_ar": "نُقدم لكم Daggr: Chain apps programmatically, inspect visually",
-    "summary_ar": "تحديث رسمي: If you've built AI applications that combine multiple models or processing steps, you know the pain: chaining API calls, debugging pipelines, and losing trac..."
-  },
-  {
-    "id": "https://huggingface.co/blog/gradio-vton-mcp",
-    "company": "Hugging Face",
-    "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
-    "date": "2025-07-31T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/gradio-vton-mcp",
-    "tag": "News"
   }
 ]
