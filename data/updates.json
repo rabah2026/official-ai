@@ -248,6 +248,15 @@
     "summary": "Deploying AI applications across diverse consumer hardware has traditionally forced a trade-off. You can optimize for specific GPU configurations and "
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49341",
+    "company": "Microsoft",
+    "title": "Maia 200: The AI accelerator built for inference",
+    "date": "2026-01-26T16:12:24.000Z",
+    "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+    "tag": "Engineering",
+    "summary": "Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/how-to-unlock-local-detail-in-coarse-climate-projections-with-nvidia-earth-2/",
     "company": "NVIDIA",
     "title": "How to Unlock Local Detail in Coarse Climate Projections with NVIDIA Earth-2",
@@ -304,6 +313,15 @@
     "url": "https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/",
     "tag": "Engineering",
     "summary": "In 2025, NVIDIA partnered with Black Forest Labs (BFL) to optimize the FLUX.1 text-to-image model series, unlocking FP4 image generation performance o"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49261",
+    "company": "Microsoft",
+    "title": "Beyond boundaries: The future of Azure Storage in 2026",
+    "date": "2026-01-22T17:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
+    "tag": "News",
+    "summary": "2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.\nThe post Beyon"
   },
   {
     "id": "https://openai.com/index/scaling-postgresql",
@@ -1558,15 +1576,6 @@
     "summary": "CUDA C++ is standard C++ with extensions that enable functions to run on many parallel threads on a GPU. It has facilitated widespread adoption while "
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=48809",
-    "company": "Microsoft",
-    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
-    "date": "2025-12-10T17:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
-    "tag": "News",
-    "summary": "Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the "
-  },
-  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.10.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.10.0",
@@ -1619,15 +1628,6 @@
     "url": "https://openai.com/index/scout24",
     "tag": "News",
     "summary": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, a"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=48755",
-    "company": "Microsoft",
-    "title": "Microsoft’s commitment to supporting cloud infrastructure demand in the United States",
-    "date": "2025-12-09T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/",
-    "tag": "Engineering",
-    "summary": "Today, we are sharing progress on our infrastructure expansions across the United States that are supporting the tremendous growth in customer demand "
   },
   {
     "id": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
@@ -4670,33 +4670,5 @@
     "url": "https://openai.com/index/figma-david-kossnick",
     "tag": "News",
     "summary": "Discover how Figma is transforming digital design with AI. David Kossnick shares how tools like Figma Make empower teams to prototype, collaborate, an"
-  },
-  {
-    "id": "https://openai.com/index/introducing-stargate-norway",
-    "company": "OpenAI",
-    "title": "Introducing Stargate Norway",
-    "date": "2025-07-31T00:00:00.000Z",
-    "url": "https://openai.com/index/introducing-stargate-norway",
-    "tag": "News",
-    "summary": "We’re launching Stargate Norway—OpenAI’s first AI data center initiative in Europe under our OpenAI for Countries program. Stargate is OpenAI’s overar"
-  },
-  {
-    "id": "https://huggingface.co/blog/daggr",
-    "company": "Hugging Face",
-    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
-    "date": "2025-07-31T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/daggr",
-    "tag": "Release",
-    "summary": "If you've built AI applications that combine multiple models or processing steps, you know the pain: chaining API calls, debugging pipelines, and losing trac...",
-    "title_ar": "نُقدم لكم Daggr: Chain apps programmatically, inspect visually",
-    "summary_ar": "تحديث رسمي: If you've built AI applications that combine multiple models or processing steps, you know the pain: chaining API calls, debugging pipelines, and losing trac..."
-  },
-  {
-    "id": "https://huggingface.co/blog/gradio-vton-mcp",
-    "company": "Hugging Face",
-    "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
-    "date": "2025-07-31T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/gradio-vton-mcp",
-    "tag": "News"
   }
 ]
