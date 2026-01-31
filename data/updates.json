@@ -259,11 +259,7 @@
     "summary": "Deploying AI applications across diverse consumer hardware has traditionally forced a trade-off. You can optimize for specific GPU configurations and "
   },
   {
-    "id": {
-      "$": {
-        "isPermaLink": "false"
-      }
-    },
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49341",
     "company": "Microsoft",
     "title": "Maia 200: The AI accelerator built for inference",
     "date": "2026-01-26T16:12:24.000Z",
