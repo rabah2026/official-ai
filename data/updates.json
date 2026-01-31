@@ -659,7 +659,11 @@
     "summary": "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures."
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49212",
+    "id": {
+      "$": {
+        "isPermaLink": "false"
+      }
+    },
     "company": "Microsoft",
     "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
     "date": "2026-01-11T22:00:00.000Z",
