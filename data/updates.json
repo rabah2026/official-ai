@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://huggingface.co/blog/daggr",
+    "company": "Hugging Face",
+    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+    "date": "2026-01-31T08:32:06.000Z",
+    "url": "https://huggingface.co/blog/daggr",
+    "tag": "Release",
+    "summary": "If you've built AI applications that combine multiple models or processing steps, you know the pain: chaining API calls, debugging pipelines, and losing trac...",
+    "title_ar": "نُقدم لكم Daggr: Chain apps programmatically, inspect visually",
+    "summary_ar": "تحديث رسمي: If you've built AI applications that combine multiple models or processing steps, you know the pain: chaining API calls, debugging pipelines, and losing trac..."
+  },
+  {
     "id": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/",
     "company": "NVIDIA",
     "title": "Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton",
