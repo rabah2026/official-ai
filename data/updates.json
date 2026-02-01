@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
+    "company": "Hugging Face",
+    "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
+    "date": "2026-02-01T14:17:22.000Z",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
+    "tag": "Policy",
+    "summary": "To further support this effort, we’re introducing Cosmos Policy, our latest research on advancing robot control and planning using Cosmos WFMs.",
+    "title_ar": "نُقدم لكم NVIDIA Cosmos سياسة for Advanced Robot Control",
+    "summary_ar": "To further support this effort, we’re نُقدم لكم Cosmos سياسة, our latest أبحاث on تعزيز robot control and planning using Cosmos WFMs."
+  },
+  {
     "id": "https://huggingface.co/blog/daggr",
     "company": "Hugging Face",
     "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
@@ -83,17 +94,6 @@
     "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
     "tag": "News",
     "summary": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mi"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
-    "company": "Hugging Face",
-    "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
-    "date": "2026-01-29T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
-    "tag": "Policy",
-    "summary": "To further support this effort, we’re introducing Cosmos Policy, our latest research on advancing robot control and planning using Cosmos WFMs.",
-    "title_ar": "نُقدم لكم NVIDIA Cosmos سياسة for Advanced Robot Control",
-    "summary_ar": "To further support this effort, we’re نُقدم لكم Cosmos سياسة, our latest أبحاث on تعزيز robot control and planning using Cosmos WFMs."
   },
   {
     "id": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/",
