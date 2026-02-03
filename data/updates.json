@@ -1,14 +1,34 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/accelerating-long-context-model-training-in-jax-and-xla/",
+    "company": "NVIDIA",
+    "title": "Accelerating Long-Context Model Training in JAX and XLA",
+    "date": "2026-02-03T17:30:00.000Z",
+    "url": "https://developer.nvidia.com/blog/accelerating-long-context-model-training-in-jax-and-xla/",
+    "tag": "Engineering",
+    "summary": "Large language models (LLMs) are rapidly expanding their context windows, with recent models supporting sequences of 128K tokens, 256K tokens, and bey"
+  },
+  {
     "id": "https://huggingface.co/blog/Photoroom/prx-part2",
     "company": "Hugging Face",
     "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
-    "date": "2026-02-03T00:00:00.000Z",
+    "date": "2026-02-03T15:25:02.000Z",
     "url": "https://huggingface.co/blog/Photoroom/prx-part2",
     "tag": "News",
     "summary": "Welcome back! This is the second part of our series on training efficient text-to-image models from scratch.",
     "title_ar": "تدريب Design for Text-to-Image Models: Lessons from Ablations",
     "summary_ar": "Welcome back! This is the second part of our series on تدريب efficient text-to-image models from scratch."
+  },
+  {
+    "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+    "company": "Hugging Face",
+    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "date": "2026-02-03T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+    "tag": "Corporate",
+    "summary": "In this third article, we examine paths and trajectories of prominent Chinese AI organizations, and posit future directions for open source.",
+    "title_ar": "مستقبل the عالمي Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "summary_ar": "In this third article, we examine paths and trajectories of prominent Chinese AI organizations, and posit future directions for مصدر مفتوح."
   },
   {
     "id": "https://developer.nvidia.com/blog/optimizing-communication-for-mixture-of-experts-training-with-hybrid-expert-parallel/",
@@ -476,17 +496,6 @@
     "summary_ar": "The first blog addresses strategic changes and the explosion of جديد open models and مصدر مفتوح players. The second will cover architectural and hardware cho..."
   },
   {
-    "id": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-    "company": "Hugging Face",
-    "title": "Differential Transformer V2",
-    "date": "2026-01-20T12:11:14.000Z",
-    "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-    "tag": "Research",
-    "summary": "(For simplicity, we omit the batch dimension and assume that both the input and output of the following flash_attn_func are three-dimensional tensors (tokens...",
-    "title_ar": "تحديث رسمي: Differential Transformer V2",
-    "summary_ar": "تحديث رسمي: (For simplicity, we omit the batch dimension and assume that both the input and output of the following flash_attn_func are three-dimensional tensors (tokens..."
-  },
-  {
     "id": "https://openai.com/index/cisco",
     "company": "OpenAI",
     "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
@@ -503,6 +512,14 @@
     "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
     "tag": "Case Study",
     "summary": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Pl"
+  },
+  {
+    "id": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+    "company": "Hugging Face",
+    "title": "Differential Transformer V2",
+    "date": "2026-01-20T03:20:57.000Z",
+    "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+    "tag": "Research"
   },
   {
     "id": "https://openai.com/index/our-approach-to-age-prediction",
@@ -2766,15 +2783,6 @@
     "url": "https://developer.nvidia.com/blog/building-an-interactive-ai-agent-for-lightning-fast-machine-learning-tasks/",
     "tag": "Engineering",
     "summary": "Data scientists spend a lot of time cleaning and preparing large, unstructured datasets before analysis can begin, often requiring strong programming "
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/benchmarking-llms-on-ai-generated-cuda-code-with-computeeval-2025-2/",
-    "company": "NVIDIA",
-    "title": "Benchmarking LLMs on AI-Generated CUDA Code with ComputeEval 2025.2",
-    "date": "2025-11-07T16:30:00.000Z",
-    "url": "https://developer.nvidia.com/blog/benchmarking-llms-on-ai-generated-cuda-code-with-computeeval-2025-2/",
-    "tag": "Engineering",
-    "summary": "Can AI coding assistants write efficient CUDA code? To help measure and improve their capabilities, we created ComputeEval, a robust, open source benc"
   },
   {
     "id": "https://openai.com/index/prompt-injections",
