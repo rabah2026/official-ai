@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://huggingface.co/blog/Photoroom/prx-part2",
+    "company": "Hugging Face",
+    "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
+    "date": "2026-02-03T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/Photoroom/prx-part2",
+    "tag": "News",
+    "summary": "Welcome back! This is the second part of our series on training efficient text-to-image models from scratch.",
+    "title_ar": "تدريب Design for Text-to-Image Models: Lessons from Ablations",
+    "summary_ar": "Welcome back! This is the second part of our series on تدريب efficient text-to-image models from scratch."
+  },
+  {
     "id": "https://developer.nvidia.com/blog/optimizing-communication-for-mixture-of-experts-training-with-hybrid-expert-parallel/",
     "company": "NVIDIA",
     "title": "Optimizing Communication for Mixture-of-Experts Training with Hybrid Expert Parallel",
@@ -297,6 +308,15 @@
     "summary": "Deploying AI applications across diverse consumer hardware has traditionally forced a trade-off. You can optimize for specific GPU configurations and "
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49341",
+    "company": "Microsoft",
+    "title": "Maia 200: The AI accelerator built for inference",
+    "date": "2026-01-26T16:12:24.000Z",
+    "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+    "tag": "Engineering",
+    "summary": "Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/how-to-unlock-local-detail-in-coarse-climate-projections-with-nvidia-earth-2/",
     "company": "NVIDIA",
     "title": "How to Unlock Local Detail in Coarse Climate Projections with NVIDIA Earth-2",
@@ -398,17 +418,6 @@
     "url": "https://developer.nvidia.com/blog/streamlining-cub-with-a-single-call-api/",
     "tag": "Engineering",
     "summary": "The C++ template library CUB is a go-to for high-performance GPU primitive algorithms, but its traditional \"two-phase\" API, which separates memory est"
-  },
-  {
-    "id": "https://huggingface.co/blog/waypoint-1",
-    "company": "Hugging Face",
-    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
-    "date": "2026-01-21T10:11:48.000Z",
-    "url": "https://huggingface.co/blog/waypoint-1",
-    "tag": "Research",
-    "summary": "Waypoint-1 is Overworld’s real-time-interactive video diffusion model, controllable and prompted via text, mouse, and keyboard. You can give the model some f...",
-    "title_ar": "نُقدم لكم Waypoint-1: Real-time interactive فيديو diffusion from Overworld",
-    "summary_ar": "Waypoint-1 is Overworld’s real-time-interactive فيديو diffusion نموذج, controllable and prompted via text, mouse, and keyboard. You can give the نموذج some f..."
   },
   {
     "id": "https://openai.com/index/higgsfield",
@@ -514,6 +523,14 @@
     "summary": "Anthropic’s Long-Term Benefit Trust announced the appointment of Mariano-Florentino (Tino) Cuéllar as a new member of the Trust. The Long-Term Benefit Trust ...",
     "title_ar": "تحديث رسمي: Mariano-Florentino Cuéllar appointed t",
     "summary_ar": "Anthropic’s Long-Term Benefit Trust announced the appointment of Mariano-Florentino (Tino) Cuéllar as a جديد member of the Trust. The Long-Term Benefit Trust ..."
+  },
+  {
+    "id": "https://huggingface.co/blog/waypoint-1",
+    "company": "Hugging Face",
+    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+    "date": "2026-01-20T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/waypoint-1",
+    "tag": "Research"
   },
   {
     "id": "https://openai.com/index/ai-for-self-empowerment",
@@ -1603,15 +1620,6 @@
     "url": "https://developer.nvidia.com/blog/better-bug-detection-how-compile-time-instrumentation-for-compute-sanitizer-enhances-memory-safety/",
     "tag": "Engineering",
     "summary": "CUDA C++ is standard C++ with extensions that enable functions to run on many parallel threads on a GPU. It has facilitated widespread adoption while "
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=48809",
-    "company": "Microsoft",
-    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
-    "date": "2025-12-10T17:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
-    "tag": "News",
-    "summary": "Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the "
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.10.0",
