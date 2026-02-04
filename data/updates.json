@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://mistral.ai/news/voxtral-transcribe-2",
+    "company": "Mistral AI",
+    "title": "Voxtral transcribes at the speed of sound.",
+    "date": "2026-02-04T16:00:00.000Z",
+    "url": "https://mistral.ai/news/voxtral-transcribe-2",
+    "tag": "News",
+    "summary": "Precision diarization, real-time transcription, and a new audio playground.",
+    "title_ar": "تحديث رسمي: Voxtral transcribes at the speed of sound.",
+    "summary_ar": "Precision diarization, real-time transcription, and a جديد صوت playground."
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/how-to-build-a-document-processing-pipeline-for-rag-with-nemotron/",
+    "company": "NVIDIA",
+    "title": "How to Build a Document Processing Pipeline for RAG with Nemotron ",
+    "date": "2026-02-04T16:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/how-to-build-a-document-processing-pipeline-for-rag-with-nemotron/",
+    "tag": "Engineering",
+    "summary": "What if your AI agent could instantly parse complex PDFs, extract nested tables, and \"see\" data within charts as easily as reading a text file? With N"
+  },
+  {
     "id": "https://openai.com/index/vfl-wolfsburg",
     "company": "OpenAI",
     "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
@@ -18,6 +38,17 @@
     "summary": "Anthropic explains why Claude will remain ad-free—how advertising incentives conflict with building a genuinely helpful AI assistant users can trust.",
     "title_ar": "تحديث رسمي: Claude is a space to think",
     "summary_ar": "Anthropic explains why Claude will remain ad-free—how advertising incentives conflict with بناء a genuinely helpful AI assistant users can trust."
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
+    "company": "Hugging Face",
+    "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
+    "date": "2026-02-04T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
+    "tag": "News",
+    "summary": "NVIDIA introduces the Nemotron ColEmbed V2 family, a set of late-interaction embedding models available in three sizes—3B, 4B, and 8B—designed for highly acc...",
+    "title_ar": "Nemotron ColEmbed V2: Raising the Bar for متعدد الأنماط Retrieval with ViDoRe V3’s Top نموذج",
+    "summary_ar": "تحديث رسمي: NVIDIA introduces the Nemotron ColEmbed V2 family, a set of late-interaction embedding models available in three sizes—3B, 4B, and 8B—designed for highly acc..."
   },
   {
     "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
@@ -116,17 +147,6 @@
     "url": "https://openai.com/index/introducing-the-codex-app",
     "tag": "News",
     "summary": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
-    "company": "Hugging Face",
-    "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
-    "date": "2026-02-01T14:17:22.000Z",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
-    "tag": "Policy",
-    "summary": "To further support this effort, we’re introducing Cosmos Policy, our latest research on advancing robot control and planning using Cosmos WFMs.",
-    "title_ar": "نُقدم لكم NVIDIA Cosmos سياسة for Advanced Robot Control",
-    "summary_ar": "To further support this effort, we’re نُقدم لكم Cosmos سياسة, our latest أبحاث on تعزيز robot control and planning using Cosmos WFMs."
   },
   {
     "id": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
@@ -317,17 +337,6 @@
     "url": "https://developer.nvidia.com/blog/accelerating-diffusion-models-with-an-open-plug-and-play-offering/",
     "tag": "Research",
     "summary": "Recent advances in large-scale diffusion models have revolutionized generative AI across multiple domains, from image synthesis to audio generation, 3"
-  },
-  {
-    "id": "https://mistral.ai/news/mistral-vibe-2-0",
-    "company": "Mistral AI",
-    "title": "Terminally online Mistral Vibe.",
-    "date": "2026-01-27T16:00:00.000Z",
-    "url": "https://mistral.ai/news/mistral-vibe-2-0",
-    "tag": "Research",
-    "summary": "Today, we're releasing Mistral Vibe 2.0—a major upgrade to our terminal-native coding agent, powered by the state-of-the-art Devstral 2 model family. Build c...",
-    "title_ar": "تحديث رسمي: Terminally online Mistral Vibe.",
-    "summary_ar": "Today, we're releasing Mistral Vibe 2.0—a major upgrade to our terminal-native coding وكيل, powered by the state-of-the-art Devstral 2 نموذج family. Build c..."
   },
   {
     "id": "https://openai.com/index/pvh-future-of-fashion",
@@ -1244,15 +1253,6 @@
     "summary": "Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling "
   },
   {
-    "id": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
-    "company": "NVIDIA",
-    "title": "Simulate an Accurate Radio Environment Using NVIDIA Aerial Omniverse Digital Twin",
-    "date": "2025-12-17T16:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
-    "tag": "Engineering",
-    "summary": "The development of 5G and 6G requires high-fidelity radio channel modeling, but the ecosystem is highly fragmented. Link-level simulators, network-lev"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
     "company": "NVIDIA",
     "title": "Using AI Physics for Technology Computer-Aided Design Simulations",
@@ -1260,6 +1260,15 @@
     "url": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
     "tag": "Engineering",
     "summary": "Technology Computer-Aided Design (TCAD) simulations, encompassing both process and device simulations, are crucial for modern semiconductor manufactur"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
+    "company": "NVIDIA",
+    "title": "Simulate an Accurate Radio Environment Using NVIDIA Aerial Omniverse Digital Twin",
+    "date": "2025-12-17T16:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
+    "tag": "Engineering",
+    "summary": "The development of 5G and 6G requires high-fidelity radio channel modeling, but the ecosystem is highly fragmented. Link-level simulators, network-lev"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
@@ -2811,15 +2820,6 @@
     "url": "https://openai.com/index/chatgpt-for-veterans",
     "tag": "News",
     "summary": "OpenAI is offering U.S. servicemembers and veterans within 12 months of retirement or separation a free year of ChatGPT Plus to support their transiti"
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/building-an-interactive-ai-agent-for-lightning-fast-machine-learning-tasks/",
-    "company": "NVIDIA",
-    "title": "Building an Interactive AI Agent for Lightning-Fast Machine Learning Tasks",
-    "date": "2025-11-07T17:44:52.000Z",
-    "url": "https://developer.nvidia.com/blog/building-an-interactive-ai-agent-for-lightning-fast-machine-learning-tasks/",
-    "tag": "Engineering",
-    "summary": "Data scientists spend a lot of time cleaning and preparing large, unstructured datasets before analysis can begin, often requiring strong programming "
   },
   {
     "id": "https://openai.com/index/prompt-injections",
