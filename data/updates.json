@@ -71,6 +71,15 @@
     "summary": "In LLM training, Expert Parallel (EP) communication for hyperscale mixture-of-experts (MoE) models is challenging. EP communication is essentially all"
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49329",
+    "company": "Microsoft",
+    "title": "PostgreSQL on Azure supercharged for AI",
+    "date": "2026-02-02T15:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
+    "tag": "News",
+    "summary": "From GitHub Copilot AI assistance to built-in model management, Azure is helping devs and enterprises unlock the full potential of PostgreSQL.\nThe pos"
+  },
+  {
     "id": "https://openai.com/index/snowflake-partnership",
     "company": "OpenAI",
     "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
@@ -1548,15 +1557,6 @@
     "url": "https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/",
     "tag": "Engineering",
     "summary": "Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and aut"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=48707",
-    "company": "Microsoft",
-    "title": "Azure Storage innovations: Unlocking the future of data",
-    "date": "2025-12-11T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/",
-    "tag": "News",
-    "summary": "Whether you are improving the resilience of mission-critical workloads or modernizing legacy systems; Azure Storage has a solution for you.\nThe post A"
   },
   {
     "id": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
@@ -4705,14 +4705,5 @@
     "date": "2025-08-04T19:51:50.000Z",
     "url": "https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent",
     "tag": "Research"
-  },
-  {
-    "id": "https://openai.com/index/optimizing-chatgpt",
-    "company": "OpenAI",
-    "title": "What we’re optimizing ChatGPT for",
-    "date": "2025-08-04T00:00:00.000Z",
-    "url": "https://openai.com/index/optimizing-chatgpt",
-    "tag": "News",
-    "summary": "We build ChatGPT to help you thrive in all the ways you want. Learn how we're improving support for tough moments, have rolled out reminders to take b"
   }
 ]
