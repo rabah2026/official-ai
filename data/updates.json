@@ -9,6 +9,17 @@
     "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity."
   },
   {
+    "id": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+    "company": "Anthropic",
+    "title": "Claude is a space to think",
+    "date": "2026-02-04T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+    "tag": "Corporate",
+    "summary": "Anthropic explains why Claude will remain ad-free—how advertising incentives conflict with building a genuinely helpful AI assistant users can trust.",
+    "title_ar": "تحديث رسمي: Claude is a space to think",
+    "summary_ar": "Anthropic explains why Claude will remain ad-free—how advertising incentives conflict with بناء a genuinely helpful AI assistant users can trust."
+  },
+  {
     "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
     "company": "Hugging Face",
     "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
@@ -4295,17 +4306,6 @@
     "url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
     "tag": "Engineering",
     "summary": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in "
-  },
-  {
-    "id": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
-    "company": "Anthropic",
-    "title": "Anthropic raises $13B Series F at $183B post-money valuation",
-    "date": "2025-09-02T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
-    "tag": "Corporate",
-    "summary": "Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, t...",
-    "title_ar": "تحديث رسمي: Anthropic raises $13B Series F at $183B post-money valuation",
-    "summary_ar": "تحديث رسمي: Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, t..."
   },
   {
     "id": "https://huggingface.co/blog/zerogpu-aoti",
