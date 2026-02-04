@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+    "company": "Hugging Face",
+    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "date": "2026-02-03T23:31:59.000Z",
+    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+    "tag": "Corporate",
+    "summary": "In this third article, we examine paths and trajectories of prominent Chinese AI organizations, and posit future directions for open source.",
+    "title_ar": "مستقبل the عالمي Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "summary_ar": "In this third article, we examine paths and trajectories of prominent Chinese AI organizations, and posit future directions for مصدر مفتوح."
+  },
+  {
     "id": "https://developer.nvidia.com/blog/accelerating-long-context-model-training-in-jax-and-xla/",
     "company": "NVIDIA",
     "title": "Accelerating Long-Context Model Training in JAX and XLA",
@@ -49,17 +60,6 @@
     "summary": "Two months since releasing our first batch of Holo2 models, H Company is back with our largest UI localization model yet: Holo2-235B-A22B Preview. This model...",
     "title_ar": "H Company's جديد Holo2 نموذج takes the lead in UI Localization",
     "summary_ar": "Two months since releasing our first batch of Holo2 models, H Company is back with our largest UI localization نموذج yet: Holo2-235B-A22B معاينة. This نموذج..."
-  },
-  {
-    "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
-    "company": "Hugging Face",
-    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
-    "date": "2026-02-03T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
-    "tag": "Corporate",
-    "summary": "In this third article, we examine paths and trajectories of prominent Chinese AI organizations, and posit future directions for open source.",
-    "title_ar": "مستقبل the عالمي Open-Source AI Ecosystem: From DeepSeek to AI+",
-    "summary_ar": "In this third article, we examine paths and trajectories of prominent Chinese AI organizations, and posit future directions for مصدر مفتوح."
   },
   {
     "id": "https://developer.nvidia.com/blog/optimizing-communication-for-mixture-of-experts-training-with-hybrid-expert-parallel/",
@@ -357,6 +357,15 @@
     "url": "https://developer.nvidia.com/blog/adaptive-inference-in-nvidia-tensorrt-for-rtx-enables-automatic-optimization/",
     "tag": "Engineering",
     "summary": "Deploying AI applications across diverse consumer hardware has traditionally forced a trade-off. You can optimize for specific GPU configurations and "
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49341",
+    "company": "Microsoft",
+    "title": "Maia 200: The AI accelerator built for inference",
+    "date": "2026-01-26T16:12:24.000Z",
+    "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+    "tag": "Engineering",
+    "summary": "Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation"
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-unlock-local-detail-in-coarse-climate-projections-with-nvidia-earth-2/",
@@ -1206,15 +1215,6 @@
     "summary": "Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling "
   },
   {
-    "id": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
-    "company": "NVIDIA",
-    "title": "Using AI Physics for Technology Computer-Aided Design Simulations",
-    "date": "2025-12-17T16:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
-    "tag": "Engineering",
-    "summary": "Technology Computer-Aided Design (TCAD) simulations, encompassing both process and device simulations, are crucial for modern semiconductor manufactur"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
     "company": "NVIDIA",
     "title": "Simulate an Accurate Radio Environment Using NVIDIA Aerial Omniverse Digital Twin",
@@ -1222,6 +1222,15 @@
     "url": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
     "tag": "Engineering",
     "summary": "The development of 5G and 6G requires high-fidelity radio channel modeling, but the ecosystem is highly fragmented. Link-level simulators, network-lev"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
+    "company": "NVIDIA",
+    "title": "Using AI Physics for Technology Computer-Aided Design Simulations",
+    "date": "2025-12-17T16:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
+    "tag": "Engineering",
+    "summary": "Technology Computer-Aided Design (TCAD) simulations, encompassing both process and device simulations, are crucial for modern semiconductor manufactur"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
@@ -1645,15 +1654,6 @@
     "url": "https://developer.nvidia.com/blog/better-bug-detection-how-compile-time-instrumentation-for-compute-sanitizer-enhances-memory-safety/",
     "tag": "Engineering",
     "summary": "CUDA C++ is standard C++ with extensions that enable functions to run on many parallel threads on a GPU. It has facilitated widespread adoption while "
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=48809",
-    "company": "Microsoft",
-    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
-    "date": "2025-12-10T17:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
-    "tag": "News",
-    "summary": "Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the "
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.10.0",
