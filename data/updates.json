@@ -170,15 +170,6 @@
     "summary": "What if your AI agent could instantly parse complex PDFs, extract nested tables, and \"see\" data within charts as easily as reading a text file? With N"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49363",
-    "company": "Microsoft",
-    "title": "Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ",
-    "date": "2026-02-04T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
-    "tag": "News",
-    "summary": "Data resiliency is no longer optional—it is the foundation that keeps mission‑critical applications running, teams productive, and compliance intact. "
-  },
-  {
     "id": "https://openai.com/index/unlocking-the-codex-harness",
     "company": "OpenAI",
     "title": "Unlocking the Codex harness: how we built the App Server",
@@ -288,15 +279,6 @@
     "url": "https://developer.nvidia.com/blog/optimizing-communication-for-mixture-of-experts-training-with-hybrid-expert-parallel/",
     "tag": "Engineering",
     "summary": "In LLM training, Expert Parallel (EP) communication for hyperscale mixture-of-experts (MoE) models is challenging. EP communication is essentially all"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49329",
-    "company": "Microsoft",
-    "title": "PostgreSQL on Azure supercharged for AI",
-    "date": "2026-02-02T15:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
-    "tag": "News",
-    "summary": "From GitHub Copilot AI assistance to built-in model management, Azure is helping devs and enterprises unlock the full potential of PostgreSQL.\nThe pos"
   },
   {
     "id": "https://openai.com/index/snowflake-partnership",
@@ -560,15 +542,6 @@
     "url": "https://developer.nvidia.com/blog/adaptive-inference-in-nvidia-tensorrt-for-rtx-enables-automatic-optimization/",
     "tag": "Engineering",
     "summary": "Deploying AI applications across diverse consumer hardware has traditionally forced a trade-off. You can optimize for specific GPU configurations and "
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49341",
-    "company": "Microsoft",
-    "title": "Maia 200: The AI accelerator built for inference",
-    "date": "2026-01-26T16:12:24.000Z",
-    "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
-    "tag": "Engineering",
-    "summary": "Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation"
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-unlock-local-detail-in-coarse-climate-projections-with-nvidia-earth-2/",
@@ -948,7 +921,11 @@
     "summary": "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures."
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49212",
+    "id": {
+      "$": {
+        "isPermaLink": "false"
+      }
+    },
     "company": "Microsoft",
     "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
     "date": "2026-01-11T22:00:00.000Z",
@@ -1732,6 +1709,15 @@
     "summary": "2.11.0 (2025-12-11)\nFull Changelog: v2.10.0...v2.11.0\nFeatures\napi: gpt 5.2 (dd9b8e8)"
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=48942",
+    "company": "Microsoft",
+    "title": "Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI",
+    "date": "2025-12-11T18:18:05.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/",
+    "tag": "Release",
+    "summary": "Discover GPT‑5.2 in Microsoft Foundry—the next standard for enterprise AI. Learn how advanced reasoning, agentic execution, and compliance-ready featu"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/",
     "company": "NVIDIA",
     "title": "Getting Started with Edge AI on NVIDIA Jetson: LLMs, VLMs, and Foundation Models for Robotics",
@@ -1739,6 +1725,15 @@
     "url": "https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/",
     "tag": "Engineering",
     "summary": "Running advanced AI and computer vision workloads on small, power-efficient devices at the edge is a growing challenge. Robots, smart cameras, and aut"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=48707",
+    "company": "Microsoft",
+    "title": "Azure Storage innovations: Unlocking the future of data",
+    "date": "2025-12-11T16:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/",
+    "tag": "News",
+    "summary": "Whether you are improving the resilience of mission-critical workloads or modernizing legacy systems; Azure Storage has a solution for you.\nThe post A"
   },
   {
     "id": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
@@ -1836,6 +1831,15 @@
     "url": "https://developer.nvidia.com/blog/better-bug-detection-how-compile-time-instrumentation-for-compute-sanitizer-enhances-memory-safety/",
     "tag": "Engineering",
     "summary": "CUDA C++ is standard C++ with extensions that enable functions to run on many parallel threads on a GPU. It has facilitated widespread adoption while "
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=48809",
+    "company": "Microsoft",
+    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
+    "date": "2025-12-10T17:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
+    "tag": "News",
+    "summary": "Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the "
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.10.0",
