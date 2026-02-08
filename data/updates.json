@@ -188,17 +188,6 @@
     "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity."
   },
   {
-    "id": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-    "company": "Anthropic",
-    "title": "Claude is a space to think",
-    "date": "2026-02-04T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-    "tag": "Engineering",
-    "summary": "We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we pla...",
-    "title_ar": "تحديث رسمي: Claude is a space to think",
-    "summary_ar": "تحديث رسمي: We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we pla..."
-  },
-  {
     "id": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
     "company": "Hugging Face",
     "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
