@@ -170,15 +170,6 @@
     "summary": "What if your AI agent could instantly parse complex PDFs, extract nested tables, and \"see\" data within charts as easily as reading a text file? With N"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49363",
-    "company": "Microsoft",
-    "title": "Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ",
-    "date": "2026-02-04T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
-    "tag": "News",
-    "summary": "Data resiliency is no longer optional—it is the foundation that keeps mission‑critical applications running, teams productive, and compliance intact. "
-  },
-  {
     "id": "https://openai.com/index/unlocking-the-codex-harness",
     "company": "OpenAI",
     "title": "Unlocking the Codex harness: how we built the App Server",
@@ -587,6 +578,17 @@
     "url": "https://openai.com/index/indeed-maggie-hulce",
     "tag": "Case Study",
     "summary": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers."
+  },
+  {
+    "id": "https://www.anthropic.com/news/gov-UK-partnership",
+    "company": "Anthropic",
+    "title": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
+    "date": "2026-01-26T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/gov-UK-partnership",
+    "tag": "Corporate",
+    "summary": "Anthropic has been selected by the UK's Department for Science, Innovation and Technology (DSIT) to help build and pilot a dedicated AI-powered assistant for...",
+    "title_ar": "تحديث رسمي: Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
+    "summary_ar": "تحديث رسمي: Anthropic has been selected by the UK's Department for Science, Innovation and Technology (DSIT) to help build and pilot a dedicated AI-powered assistant for..."
   },
   {
     "id": "https://openai.com/index/unrolling-the-codex-agent-loop",
@@ -1708,6 +1710,15 @@
     "url": "https://github.com/openai/openai-python/releases/tag/v2.11.0",
     "tag": "Release",
     "summary": "2.11.0 (2025-12-11)\nFull Changelog: v2.10.0...v2.11.0\nFeatures\napi: gpt 5.2 (dd9b8e8)"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=48942",
+    "company": "Microsoft",
+    "title": "Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI",
+    "date": "2025-12-11T18:18:05.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/",
+    "tag": "Release",
+    "summary": "Discover GPT‑5.2 in Microsoft Foundry—the next standard for enterprise AI. Learn how advanced reasoning, agentic execution, and compliance-ready featu"
   },
   {
     "id": "https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/",
