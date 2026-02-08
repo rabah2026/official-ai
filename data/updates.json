@@ -58,6 +58,15 @@
     "summary": "Specialized AI models are built to perform specific tasks or solve particular problems. But if you’ve ever tried to fine-tune or distill a domain-spec"
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49376",
+    "company": "Microsoft",
+    "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
+    "date": "2026-02-05T17:46:10.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
+    "tag": "Release",
+    "summary": "With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in"
+  },
+  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.17.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.17.0",
@@ -170,6 +179,15 @@
     "summary": "What if your AI agent could instantly parse complex PDFs, extract nested tables, and \"see\" data within charts as easily as reading a text file? With N"
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49363",
+    "company": "Microsoft",
+    "title": "Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ",
+    "date": "2026-02-04T16:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
+    "tag": "News",
+    "summary": "Data resiliency is no longer optional—it is the foundation that keeps mission‑critical applications running, teams productive, and compliance intact. "
+  },
+  {
     "id": "https://openai.com/index/unlocking-the-codex-harness",
     "company": "OpenAI",
     "title": "Unlocking the Codex harness: how we built the App Server",
@@ -186,6 +204,17 @@
     "url": "https://openai.com/index/vfl-wolfsburg",
     "tag": "News",
     "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity."
+  },
+  {
+    "id": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+    "company": "Anthropic",
+    "title": "Claude is a space to think",
+    "date": "2026-02-04T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+    "tag": "Engineering",
+    "summary": "We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we pla...",
+    "title_ar": "تحديث رسمي: Claude is a space to think",
+    "summary_ar": "تحديث رسمي: We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we pla..."
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
@@ -1466,15 +1495,6 @@
     "summary": "For machine learning engineers deploying LLMs at scale, the equation is familiar and unforgiving: as context length increases, attention computation c"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49034",
-    "company": "Microsoft",
-    "title": "Azure updates for partners: December 2025",
-    "date": "2025-12-16T18:23:05.000Z",
-    "url": "https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
-    "tag": "News",
-    "summary": "Organizations leading in AI make it foundational. They rethink processes and integrate new technologies from the start to improve efficiency.\nThe post"
-  },
-  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.13.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.13.0",
@@ -1710,15 +1730,6 @@
     "url": "https://github.com/openai/openai-python/releases/tag/v2.11.0",
     "tag": "Release",
     "summary": "2.11.0 (2025-12-11)\nFull Changelog: v2.10.0...v2.11.0\nFeatures\napi: gpt 5.2 (dd9b8e8)"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=48942",
-    "company": "Microsoft",
-    "title": "Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI",
-    "date": "2025-12-11T18:18:05.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/",
-    "tag": "Release",
-    "summary": "Discover GPT‑5.2 in Microsoft Foundry—the next standard for enterprise AI. Learn how advanced reasoning, agentic execution, and compliance-ready featu"
   },
   {
     "id": "https://developer.nvidia.com/blog/getting-started-with-edge-ai-on-nvidia-jetson-llms-vlms-and-foundation-models-for-robotics/",
