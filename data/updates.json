@@ -478,17 +478,6 @@
     "summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards."
   },
   {
-    "id": "https://www.anthropic.com/news/servicenow-anthropic-claude",
-    "company": "Anthropic",
-    "title": "ServiceNow chooses Claude to power customer apps and increase internal productivity",
-    "date": "2026-01-28T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/servicenow-anthropic-claude",
-    "tag": "Security",
-    "summary": "As enterprises move beyond experimenting with AI and start putting it into production across their core business operations, scale and security matters just ...",
-    "title_ar": "تحديث رسمي: ServiceNow chooses Claude to power customer apps and increase internal productivity",
-    "summary_ar": "As enterprises move beyond experimenting with AI and start putting it into production across their core business operations, scale and أمن matters just ..."
-  },
-  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.16.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.16.0",
@@ -757,17 +746,6 @@
     "url": "https://openai.com/index/our-approach-to-age-prediction",
     "tag": "News",
     "summary": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time."
-  },
-  {
-    "id": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
-    "company": "Anthropic",
-    "title": "Mariano-Florentino Cuéllar appointed t",
-    "date": "2026-01-20T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
-    "tag": "Corporate",
-    "summary": "Anthropic’s Long-Term Benefit Trust announced the appointment of Mariano-Florentino (Tino) Cuéllar as a new member of the Trust. The Long-Term Benefit Trust ...",
-    "title_ar": "تحديث رسمي: Mariano-Florentino Cuéllar appointed t",
-    "summary_ar": "Anthropic’s Long-Term Benefit Trust announced the appointment of Mariano-Florentino (Tino) Cuéllar as a جديد member of the Trust. The Long-Term Benefit Trust ..."
   },
   {
     "id": "https://huggingface.co/blog/waypoint-1",
