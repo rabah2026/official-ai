@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://ai.meta.com/blog/forest-research-dino/",
+    "company": "Meta AI",
+    "title": "Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
+    "date": "2026-02-09T00:00:00.000Z",
+    "url": "https://ai.meta.com/blog/forest-research-dino/",
+    "tag": "Research",
+    "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
+    "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
+    "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
+  },
+  {
     "id": "https://developer.nvidia.com/blog/3-ways-nvfp4-accelerates-ai-training-and-inference/",
     "company": "NVIDIA",
     "title": "3 Ways NVFP4 Accelerates AI Training and Inference",
@@ -766,6 +777,17 @@
     "url": "https://openai.com/index/our-approach-to-age-prediction",
     "tag": "News",
     "summary": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time."
+  },
+  {
+    "id": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
+    "company": "Anthropic",
+    "title": "Mariano-Florentino Cuéllar appointed t",
+    "date": "2026-01-20T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
+    "tag": "Corporate",
+    "summary": "Anthropic’s Long-Term Benefit Trust announced the appointment of Mariano-Florentino (Tino) Cuéllar as a new member of the Trust. The Long-Term Benefit Trust ...",
+    "title_ar": "تحديث رسمي: Mariano-Florentino Cuéllar appointed t",
+    "summary_ar": "Anthropic’s Long-Term Benefit Trust announced the appointment of Mariano-Florentino (Tino) Cuéllar as a جديد member of the Trust. The Long-Term Benefit Trust ..."
   },
   {
     "id": "https://huggingface.co/blog/waypoint-1",
@@ -2386,17 +2408,6 @@
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
-  },
-  {
-    "id": "https://ai.meta.com/blog/executorch-reality-labs-on-device-ai/",
-    "company": "Meta AI",
-    "title": "ExecuTorch Adoption in Reality Labs: Powering On-Device AI Acros",
-    "date": "2025-11-21T00:00:00.000Z",
-    "url": "https://ai.meta.com/blog/executorch-reality-labs-on-device-ai/",
-    "tag": "Engineering",
-    "summary": "ExecuTorch, Meta’s open source, lightweight, and efficient inference engine, has been instrumental in enabling on-device AI capabilities across Meta’s...",
-    "title_ar": "تحديث رسمي: ExecuTorch Adoption in Reality Labs: Powering On-Device AI Acros",
-    "summary_ar": "ExecuTorch, Meta’s مصدر مفتوح, lightweight, and efficient استنتاج engine, has been instrumental in enabling on-device AI capabilities across Meta’s..."
   },
   {
     "id": "https://huggingface.co/blog/rapidfireai",
