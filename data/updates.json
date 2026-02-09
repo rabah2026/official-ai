@@ -785,6 +785,17 @@
     "summary": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time."
   },
   {
+    "id": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
+    "company": "Anthropic",
+    "title": "Mariano-Florentino Cuéllar appointed t",
+    "date": "2026-01-20T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
+    "tag": "Corporate",
+    "summary": "Anthropic’s Long-Term Benefit Trust announced the appointment of Mariano-Florentino (Tino) Cuéllar as a new member of the Trust. The Long-Term Benefit Trust ...",
+    "title_ar": "تحديث رسمي: Mariano-Florentino Cuéllar appointed t",
+    "summary_ar": "Anthropic’s Long-Term Benefit Trust announced the appointment of Mariano-Florentino (Tino) Cuéllar as a جديد member of the Trust. The Long-Term Benefit Trust ..."
+  },
+  {
     "id": "https://huggingface.co/blog/waypoint-1",
     "company": "Hugging Face",
     "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
