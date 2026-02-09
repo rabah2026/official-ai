@@ -527,6 +527,14 @@
     "summary": "Recent advances in large-scale diffusion models have revolutionized generative AI across multiple domains, from image synthesis to audio generation, 3"
   },
   {
+    "id": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+    "company": "Hugging Face",
+    "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+    "date": "2026-01-27T10:26:42.000Z",
+    "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+    "tag": "Research"
+  },
+  {
     "id": "https://openai.com/index/pvh-future-of-fashion",
     "company": "OpenAI",
     "title": "PVH reimagines the future of fashion with OpenAI",
@@ -560,17 +568,6 @@
     "url": "https://openai.com/index/trustbank",
     "tag": "Corporate",
     "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furus"
-  },
-  {
-    "id": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
-    "company": "Hugging Face",
-    "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
-    "date": "2026-01-27T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
-    "tag": "Research",
-    "summary": "Arabic is one of the most widely spoken languages in the world, with hundreds of millions of speakers across more than twenty countries. Despite this global ...",
-    "title_ar": "تحديث رسمي: Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
-    "summary_ar": "Arabic is one of the most widely spoken languages in the world, with hundreds of millions of speakers across more than twenty countries. Despite this عالمي ..."
   },
   {
     "id": "https://developer.nvidia.com/blog/adaptive-inference-in-nvidia-tensorrt-for-rtx-enables-automatic-optimization/",
@@ -777,17 +774,6 @@
     "url": "https://openai.com/index/our-approach-to-age-prediction",
     "tag": "News",
     "summary": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time."
-  },
-  {
-    "id": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
-    "company": "Anthropic",
-    "title": "Mariano-Florentino Cuéllar appointed t",
-    "date": "2026-01-20T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
-    "tag": "Corporate",
-    "summary": "Anthropic’s Long-Term Benefit Trust announced the appointment of Mariano-Florentino (Tino) Cuéllar as a new member of the Trust. The Long-Term Benefit Trust ...",
-    "title_ar": "تحديث رسمي: Mariano-Florentino Cuéllar appointed t",
-    "summary_ar": "Anthropic’s Long-Term Benefit Trust announced the appointment of Mariano-Florentino (Tino) Cuéllar as a جديد member of the Trust. The Long-Term Benefit Trust ..."
   },
   {
     "id": "https://huggingface.co/blog/waypoint-1",
