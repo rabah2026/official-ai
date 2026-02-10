@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/r2d2-scaling-multimodal-robot-learning-with-nvidia-isaac-lab/",
+    "company": "NVIDIA",
+    "title": "R²D²: Scaling Multimodal Robot Learning with NVIDIA Isaac Lab",
+    "date": "2026-02-10T18:30:00.000Z",
+    "url": "https://developer.nvidia.com/blog/r2d2-scaling-multimodal-robot-learning-with-nvidia-isaac-lab/",
+    "tag": "Engineering",
+    "summary": "Building robust, intelligent robots requires testing them in complex environments. However, gathering data in the physical world is expensive, slow, a"
+  },
+  {
+    "id": "https://github.com/openai/openai-python/releases/tag/v2.19.0",
+    "company": "OpenAI",
+    "title": "OpenAI Python Library v2.19.0",
+    "date": "2026-02-10T18:20:53.000Z",
+    "url": "https://github.com/openai/openai-python/releases/tag/v2.19.0",
+    "tag": "Release",
+    "summary": "2.19.0 (2026-02-10)\nFull Changelog: v2.18.0...v2.19.0\nFeatures\napi: skills and hosted shell (27fdf68)\nChores\ninternal: bump dependencies (fae10fd)"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/using-accelerated-computing-to-live-steer-scientific-experiments-at-massive-research-facilities/",
     "company": "NVIDIA",
     "title": "Using Accelerated Computing to Live-Steer Scientific Experiments at Massive Research Facilities",
@@ -2097,15 +2115,6 @@
     "summary": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across"
   },
   {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.9.0",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.9.0",
-    "date": "2025-12-04T18:14:28.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.9.0",
-    "tag": "Release",
-    "summary": "2.9.0 (2025-12-04)\nFull Changelog: v2.8.1...v2.9.0\nFeatures\napi: gpt-5.1-codex-max and responses/compact (22f646e)\nBug Fixes\nclient: avoid mutating us"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/optimize-data-center-efficiency-for-ai-and-hpc-workloads-with-power-profiles/",
     "company": "NVIDIA",
     "title": "Optimize Data Center Efficiency for AI and HPC Workloads with Power Profiles",
@@ -2896,15 +2905,6 @@
     "url": "https://developer.nvidia.com/blog/fusing-communication-and-compute-with-new-device-api-and-copy-engine-collectives-in-nvidia-nccl-2-28/",
     "tag": "Engineering",
     "summary": "The latest release of the NVIDIA Collective Communications Library (NCCL) introduces a groundbreaking fusion of communication and computation for high"
-  },
-  {
-    "id": "https://www.addevent.com/event/kffjqsqb67nq#new_tab",
-    "company": "NVIDIA",
-    "title": "Upcoming Livestream: Build Visual AI Agents with NVIDIA Cosmos Reason and Metropolis",
-    "date": "2025-11-10T22:22:56.000Z",
-    "url": "https://www.addevent.com/event/kffjqsqb67nq#new_tab",
-    "tag": "News",
-    "summary": "On November 18, learn how to fine-tune the NVIDIA Cosmos Reason VLM with your own data to create visual AI agents.\nOn November 18, learn how to fine-t"
   },
   {
     "id": "https://deepmind.google/blog/how-ai-is-giving-northern-ireland-teachers-time-back/",
