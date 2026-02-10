@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://github.com/openai/openai-python/releases/tag/v2.20.0",
+    "company": "OpenAI",
+    "title": "OpenAI Python Library v2.20.0",
+    "date": "2026-02-10T19:02:11.000Z",
+    "url": "https://github.com/openai/openai-python/releases/tag/v2.20.0",
+    "tag": "Release",
+    "summary": "2.20.0 (2026-02-10)\nFull Changelog: v2.19.0...v2.20.0\nFeatures\napi: support for images in batch api (28edb6e)"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/r2d2-scaling-multimodal-robot-learning-with-nvidia-isaac-lab/",
     "company": "NVIDIA",
     "title": "R²D²: Scaling Multimodal Robot Learning with NVIDIA Isaac Lab",
@@ -1898,15 +1907,6 @@
     "url": "https://developer.nvidia.com/blog/better-bug-detection-how-compile-time-instrumentation-for-compute-sanitizer-enhances-memory-safety/",
     "tag": "Engineering",
     "summary": "CUDA C++ is standard C++ with extensions that enable functions to run on many parallel threads on a GPU. It has facilitated widespread adoption while "
-  },
-  {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.10.0",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.10.0",
-    "date": "2025-12-10T15:27:13.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.10.0",
-    "tag": "Release",
-    "summary": "2.10.0 (2025-12-10)\nFull Changelog: v2.9.0...v2.10.0\nFeatures\napi: make model required for the responses/compact endpoint (a12936b)\nBug Fixes\ntypes: a"
   },
   {
     "id": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
