@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/using-accelerated-computing-to-live-steer-scientific-experiments-at-massive-research-facilities/",
+    "company": "NVIDIA",
+    "title": "Using Accelerated Computing to Live-Steer Scientific Experiments at Massive Research Facilities",
+    "date": "2026-02-10T17:30:00.000Z",
+    "url": "https://developer.nvidia.com/blog/using-accelerated-computing-to-live-steer-scientific-experiments-at-massive-research-facilities/",
+    "tag": "Research",
+    "summary": "Scientists and engineers who design and build unique scientific research facilities face similar challenges. These include managing massive data rates"
+  },
+  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.18.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.18.0",
@@ -1648,15 +1657,6 @@
     "tag": "Research"
   },
   {
-    "id": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
-    "company": "NVIDIA",
-    "title": "Inside NVIDIA Nemotron 3: Techniques, Tools, and Data That Make It Efficient and Accurate",
-    "date": "2025-12-15T14:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
-    "tag": "Engineering",
-    "summary": "Agentic AI systems increasingly rely on collections of cooperating agents—retrievers, planners, tool executors, verifiers—working together across larg"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
     "company": "NVIDIA",
     "title": "How to Train Scientific Agents with Reinforcement Learning",
@@ -1664,6 +1664,15 @@
     "url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
     "tag": "Engineering",
     "summary": "The scientific process can be repetitive and tedious, with researchers spending hours digging through papers, managing experiment workflows, or wrangl"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
+    "company": "NVIDIA",
+    "title": "Inside NVIDIA Nemotron 3: Techniques, Tools, and Data That Make It Efficient and Accurate",
+    "date": "2025-12-15T14:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
+    "tag": "Engineering",
+    "summary": "Agentic AI systems increasingly rely on collections of cooperating agents—retrievers, planners, tool executors, verifiers—working together across larg"
   },
   {
     "id": "https://developer.nvidia.com/blog/enabling-horizontal-autoscaling-of-enterprise-rag-components-on-kubernetes/",
@@ -2896,15 +2905,6 @@
     "url": "https://www.addevent.com/event/kffjqsqb67nq#new_tab",
     "tag": "News",
     "summary": "On November 18, learn how to fine-tune the NVIDIA Cosmos Reason VLM with your own data to create visual AI agents.\nOn November 18, learn how to fine-t"
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/building-scalable-and-fault-tolerant-nccl-applications/",
-    "company": "NVIDIA",
-    "title": "Building Scalable and Fault-Tolerant NCCL Applications",
-    "date": "2025-11-10T21:29:37.000Z",
-    "url": "https://developer.nvidia.com/blog/building-scalable-and-fault-tolerant-nccl-applications/",
-    "tag": "Engineering",
-    "summary": "The NVIDIA Collective Communications Library (NCCL) provides communication APIs for low-latency and high-bandwidth collectives, enabling AI workloads "
   },
   {
     "id": "https://deepmind.google/blog/how-ai-is-giving-northern-ireland-teachers-time-back/",
