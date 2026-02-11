@@ -47,15 +47,6 @@
     "summary": "Scientists and engineers who design and build unique scientific research facilities face similar challenges. These include managing massive data rates"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49409",
-    "company": "Microsoft",
-    "title": "Can high-temperature superconductors transform the power infrastructure of datacenters?",
-    "date": "2026-02-10T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
-    "tag": "Engineering",
-    "summary": "As the demand for AI and data-intensive computing is on the rise, the need for efficient and reliable power delivery is critical.\nThe post Can high-te"
-  },
-  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.18.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.18.0",
@@ -72,15 +63,6 @@
     "url": "https://developer.nvidia.com/blog/automating-inference-optimizations-with-nvidia-tensorrt-llm-autodeploy/",
     "tag": "Engineering",
     "summary": "NVIDIA TensorRT LLM enables developers to build high-performance inference engines for large language models (LLMs), but deploying a new architecture."
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49459",
-    "company": "Microsoft",
-    "title": "Five Reasons to attend SQLCon",
-    "date": "2026-02-09T15:12:12.000Z",
-    "url": "https://blog.fabric.microsoft.com/en-us/blog/32624",
-    "tag": "News",
-    "summary": "The SQL community is gathering in Atlanta this March for the first‑ever SQLCon, co‑located with FabCon, the Microsoft Fabric Community Conference, Mar"
   },
   {
     "id": "https://openai.com/index/bringing-chatgpt-to-genaimil",
@@ -159,15 +141,6 @@
     "url": "https://developer.nvidia.com/blog/how-to-build-license-compliant-synthetic-data-pipelines-for-ai-model-distillation/",
     "tag": "Engineering",
     "summary": "Specialized AI models are built to perform specific tasks or solve particular problems. But if you’ve ever tried to fine-tune or distill a domain-spec"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49376",
-    "company": "Microsoft",
-    "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
-    "date": "2026-02-05T17:46:10.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
-    "tag": "Release",
-    "summary": "With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in"
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.17.0",
@@ -868,6 +841,17 @@
     "summary": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time."
   },
   {
+    "id": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
+    "company": "Anthropic",
+    "title": "Mariano-Florentino Cuéllar appointed t",
+    "date": "2026-01-20T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
+    "tag": "Corporate",
+    "summary": "Anthropic’s Long-Term Benefit Trust announced the appointment of Mariano-Florentino (Tino) Cuéllar as a new member of the Trust. The Long-Term Benefit Trust ...",
+    "title_ar": "تحديث رسمي: Mariano-Florentino Cuéllar appointed t",
+    "summary_ar": "Anthropic’s Long-Term Benefit Trust announced the appointment of Mariano-Florentino (Tino) Cuéllar as a جديد member of the Trust. The Long-Term Benefit Trust ..."
+  },
+  {
     "id": "https://huggingface.co/blog/waypoint-1",
     "company": "Hugging Face",
     "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
@@ -1217,6 +1201,15 @@
     "summary": "AI developer activity on PCs is exploding, driven by the rising quality of small language models (SLMs) and diffusion models, such as FLUX.2, GPT-OSS-"
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49137",
+    "company": "Microsoft",
+    "title": "Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments",
+    "date": "2026-01-05T23:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
+    "tag": "News",
+    "summary": "CES 2026 showcases the arrival of the NVIDIA Rubin Platform, along with Azure’s proven readiness for deployment.\nThe post Microsoft’s strategic AI dat"
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
     "company": "Hugging Face",
     "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
@@ -1477,6 +1470,15 @@
     "summary": "Data is the fuel of modern business, but relying on older CPU-based Apache Spark pipelines introduces a heavy toll. They’re inherently slow, require l"
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=48959",
+    "company": "Microsoft",
+    "title": "Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms",
+    "date": "2025-12-17T19:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/",
+    "tag": "News",
+    "summary": "We believe this recognition shows our commitment to pioneering agent frameworks, orchestration, and enterprise-grade governance.\nThe post Microsoft na"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/solving-large-scale-linear-sparse-problems-with-nvidia-cudss/",
     "company": "NVIDIA",
     "title": "Solving Large-Scale Linear Sparse Problems with NVIDIA cuDSS",
@@ -1564,6 +1566,15 @@
     "url": "https://developer.nvidia.com/blog/accelerating-long-context-inference-with-skip-softmax-in-nvidia-tensorrt-llm/",
     "tag": "Engineering",
     "summary": "For machine learning engineers deploying LLMs at scale, the equation is familiar and unforgiving: as context length increases, attention computation c"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49034",
+    "company": "Microsoft",
+    "title": "Azure updates for partners: December 2025",
+    "date": "2025-12-16T18:23:05.000Z",
+    "url": "https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
+    "tag": "News",
+    "summary": "Organizations leading in AI make it foundational. They rethink processes and integrate new technologies from the start to improve efficiency.\nThe post"
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.13.0",
