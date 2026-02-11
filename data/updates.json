@@ -76,15 +76,6 @@
     "summary": "Scientists and engineers who design and build unique scientific research facilities face similar challenges. These include managing massive data rates"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49409",
-    "company": "Microsoft",
-    "title": "Can high-temperature superconductors transform the power infrastructure of datacenters?",
-    "date": "2026-02-10T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
-    "tag": "Engineering",
-    "summary": "As the demand for AI and data-intensive computing is on the rise, the need for efficient and reliable power delivery is critical.\nThe post Can high-te"
-  },
-  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.18.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.18.0",
@@ -736,17 +727,6 @@
     "summary": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers."
   },
   {
-    "id": "https://www.anthropic.com/news/gov-UK-partnership",
-    "company": "Anthropic",
-    "title": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
-    "date": "2026-01-26T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/gov-UK-partnership",
-    "tag": "Corporate",
-    "summary": "Anthropic has been selected by the UK's Department for Science, Innovation and Technology (DSIT) to help build and pilot a dedicated AI-powered assistant for...",
-    "title_ar": "تحديث رسمي: Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
-    "summary_ar": "تحديث رسمي: Anthropic has been selected by the UK's Department for Science, Innovation and Technology (DSIT) to help build and pilot a dedicated AI-powered assistant for..."
-  },
-  {
     "id": "https://openai.com/index/unrolling-the-codex-agent-loop",
     "company": "OpenAI",
     "title": "Unrolling the Codex agent loop",
@@ -1253,6 +1233,15 @@
     "url": "https://developer.nvidia.com/blog/open-source-ai-tool-upgrades-speed-up-llm-and-diffusion-models-on-nvidia-rtx-pcs/",
     "tag": "Research",
     "summary": "AI developer activity on PCs is exploding, driven by the rising quality of small language models (SLMs) and diffusion models, such as FLUX.2, GPT-OSS-"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49137",
+    "company": "Microsoft",
+    "title": "Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments",
+    "date": "2026-01-05T23:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
+    "tag": "News",
+    "summary": "CES 2026 showcases the arrival of the NVIDIA Rubin Platform, along with Azure’s proven readiness for deployment.\nThe post Microsoft’s strategic AI dat"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
