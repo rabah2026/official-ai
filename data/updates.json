@@ -76,15 +76,6 @@
     "summary": "Scientists and engineers who design and build unique scientific research facilities face similar challenges. These include managing massive data rates"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49409",
-    "company": "Microsoft",
-    "title": "Can high-temperature superconductors transform the power infrastructure of datacenters?",
-    "date": "2026-02-10T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
-    "tag": "Engineering",
-    "summary": "As the demand for AI and data-intensive computing is on the rise, the need for efficient and reliable power delivery is critical.\nThe post Can high-te"
-  },
-  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.18.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.18.0",
@@ -1255,6 +1246,15 @@
     "summary": "AI developer activity on PCs is exploding, driven by the rising quality of small language models (SLMs) and diffusion models, such as FLUX.2, GPT-OSS-"
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49137",
+    "company": "Microsoft",
+    "title": "Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments",
+    "date": "2026-01-05T23:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
+    "tag": "News",
+    "summary": "CES 2026 showcases the arrival of the NVIDIA Rubin Platform, along with Azure’s proven readiness for deployment.\nThe post Microsoft’s strategic AI dat"
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
     "company": "Hugging Face",
     "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
@@ -1722,15 +1722,6 @@
     "tag": "Research"
   },
   {
-    "id": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
-    "company": "NVIDIA",
-    "title": "How to Train Scientific Agents with Reinforcement Learning",
-    "date": "2025-12-15T14:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
-    "tag": "Engineering",
-    "summary": "The scientific process can be repetitive and tedious, with researchers spending hours digging through papers, managing experiment workflows, or wrangl"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
     "company": "NVIDIA",
     "title": "Inside NVIDIA Nemotron 3: Techniques, Tools, and Data That Make It Efficient and Accurate",
@@ -1738,6 +1729,15 @@
     "url": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
     "tag": "Engineering",
     "summary": "Agentic AI systems increasingly rely on collections of cooperating agents—retrievers, planners, tool executors, verifiers—working together across larg"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
+    "company": "NVIDIA",
+    "title": "How to Train Scientific Agents with Reinforcement Learning",
+    "date": "2025-12-15T14:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
+    "tag": "Engineering",
+    "summary": "The scientific process can be repetitive and tedious, with researchers spending hours digging through papers, managing experiment workflows, or wrangl"
   },
   {
     "id": "https://developer.nvidia.com/blog/enabling-horizontal-autoscaling-of-enterprise-rag-components-on-kubernetes/",
@@ -4619,39 +4619,5 @@
     "date": "2025-08-12T14:52:08.000Z",
     "url": "https://huggingface.co/blog/Arm/neural-super-sampling",
     "tag": "Research"
-  },
-  {
-    "id": "https://openai.com/index/basis",
-    "company": "OpenAI",
-    "title": "Scaling accounting capacity with OpenAI",
-    "date": "2025-08-12T00:00:00.000Z",
-    "url": "https://openai.com/index/basis",
-    "tag": "Engineering",
-    "summary": "Built with OpenAI o3, o3-Pro, GPT-4.1, and GPT-5, Basis’ AI agents help accounting firms save up to 30% of their time and expand capacity for advisory"
-  },
-  {
-    "id": "https://openai.com/global-affairs/letter-to-governor-newsom-on-harmonized-regulation",
-    "company": "OpenAI",
-    "title": "OpenAI’s letter to Governor Newsom on harmonized regulation",
-    "date": "2025-08-12T00:00:00.000Z",
-    "url": "https://openai.com/global-affairs/letter-to-governor-newsom-on-harmonized-regulation",
-    "tag": "News",
-    "summary": "We’ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national—and, by vi"
-  },
-  {
-    "id": "https://huggingface.co/blog/textquests",
-    "company": "Hugging Face",
-    "title": "TextQuests: How Good are LLMs at Text-Based Video Games?",
-    "date": "2025-08-12T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/textquests",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/filbench",
-    "company": "Hugging Face",
-    "title": "🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?",
-    "date": "2025-08-12T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/filbench",
-    "tag": "News"
   }
 ]
