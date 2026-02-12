@@ -94,6 +94,15 @@
     "summary": "Scientists and engineers who design and build unique scientific research facilities face similar challenges. These include managing massive data rates"
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49409",
+    "company": "Microsoft",
+    "title": "Can high-temperature superconductors transform the power infrastructure of datacenters?",
+    "date": "2026-02-10T16:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
+    "tag": "Engineering",
+    "summary": "As the demand for AI and data-intensive computing is on the rise, the need for efficient and reliable power delivery is critical.\nThe post Can high-te"
+  },
+  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.18.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.18.0",
@@ -197,6 +206,17 @@
     "summary": "Open Studio, click Create Flow, and Start/End nodes appear automatically. Before adding anything else:",
     "title_ar": "نُقدم لكم SyGra Studio",
     "summary_ar": "تحديث رسمي: Open Studio, click Create Flow, and Start/End nodes appear automatically. Before adding anything else:"
+  },
+  {
+    "id": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+    "company": "Anthropic",
+    "title": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation",
+    "date": "2026-02-06T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+    "tag": "Corporate",
+    "summary": "We have raised $30 billion in Series G funding led by GIC and Coatue, valuing Anthropic at $380 billion post-money. The round was co-led by D. E. Shaw Ventur...",
+    "title_ar": "تحديث رسمي: Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation",
+    "summary_ar": "تحديث رسمي: We have raised $30 billion in Series G funding led by GIC and Coatue, valuing Anthropic at $380 billion post-money. The round was co-led by D. E. Shaw Ventur..."
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-build-license-compliant-synthetic-data-pipelines-for-ai-model-distillation/",
@@ -742,17 +762,6 @@
     "summary": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers."
   },
   {
-    "id": "https://www.anthropic.com/news/gov-UK-partnership",
-    "company": "Anthropic",
-    "title": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
-    "date": "2026-01-26T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/gov-UK-partnership",
-    "tag": "Corporate",
-    "summary": "Anthropic has been selected by the UK's Department for Science, Innovation and Technology (DSIT) to help build and pilot a dedicated AI-powered assistant for...",
-    "title_ar": "تحديث رسمي: Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
-    "summary_ar": "تحديث رسمي: Anthropic has been selected by the UK's Department for Science, Innovation and Technology (DSIT) to help build and pilot a dedicated AI-powered assistant for..."
-  },
-  {
     "id": "https://openai.com/index/unrolling-the-codex-agent-loop",
     "company": "OpenAI",
     "title": "Unrolling the Codex agent loop",
@@ -1270,15 +1279,6 @@
     "url": "https://developer.nvidia.com/blog/open-source-ai-tool-upgrades-speed-up-llm-and-diffusion-models-on-nvidia-rtx-pcs/",
     "tag": "Research",
     "summary": "AI developer activity on PCs is exploding, driven by the rising quality of small language models (SLMs) and diffusion models, such as FLUX.2, GPT-OSS-"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49137",
-    "company": "Microsoft",
-    "title": "Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments",
-    "date": "2026-01-05T23:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
-    "tag": "News",
-    "summary": "CES 2026 showcases the arrival of the NVIDIA Rubin Platform, along with Azure’s proven readiness for deployment.\nThe post Microsoft’s strategic AI dat"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
@@ -4617,14 +4617,5 @@
     "date": "2025-08-13T14:55:10.000Z",
     "url": "https://huggingface.co/blog/Arm/executorch-0-dot-7",
     "tag": "News"
-  },
-  {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:68997dd91a11eb79182f09e6",
-    "company": "Stability AI",
-    "title": "Stability AI and NVIDIA Bring Faster Performance and Simplified Enterprise Deployment with the Stable Diffusion 3.5 NIM",
-    "date": "2025-08-12T19:03:26.000Z",
-    "url": "https://stability.ai/news/stability-ai-and-nvidia-bring-faster-performance-and-simplified-enterprise-deployment-with-the-stable-diffusion-35-nim",
-    "tag": "Research",
-    "summary": "We're excited to announce our collaboration with NVIDIA to launch the \r\nStable Diffusion 3.5 NIM microservice, enabling significant performance \r\nimpr"
   }
 ]
