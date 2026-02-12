@@ -590,17 +590,6 @@
     "summary": "Advances in AI architectures have unlocked multimodal functionality, enabling transformer models to process multiple forms of data in the same context"
   },
   {
-    "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
-    "company": "Hugging Face",
-    "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
-    "date": "2026-01-28T13:07:43.000Z",
-    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
-    "tag": "News",
-    "summary": "In this second piece we turn our focus from models to the architectural and hardware choices Chinese companies have made as openness becomes the norm.",
-    "title_ar": "Architectural Choices in China's Open-Source AI Ecosystem: بناء Beyond DeepSeek",
-    "summary_ar": "تحديث رسمي: In this second piece we turn our focus from models to the architectural and hardware choices Chinese companies have made as openness becomes the norm."
-  },
-  {
     "id": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
     "company": "OpenAI",
     "title": "The next chapter for AI in the EU",
@@ -655,6 +644,14 @@
     "url": "https://developer.nvidia.com/blog/accelerating-diffusion-models-with-an-open-plug-and-play-offering/",
     "tag": "Research",
     "summary": "Recent advances in large-scale diffusion models have revolutionized generative AI across multiple domains, from image synthesis to audio generation, 3"
+  },
+  {
+    "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+    "company": "Hugging Face",
+    "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek ",
+    "date": "2026-01-27T15:01:45.000Z",
+    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+    "tag": "News"
   },
   {
     "id": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
@@ -1002,6 +999,17 @@
     "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
     "tag": "News",
     "summary": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure."
+  },
+  {
+    "id": "https://huggingface.co/blog/openenv-turing",
+    "company": "Hugging Face",
+    "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+    "date": "2026-01-15T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/openenv-turing",
+    "tag": "News",
+    "summary": "OpenEnv is an open-source framework from Meta and Hugging Face designed to address this challenge by standardizing how agents interact with real environments...",
+    "title_ar": "OpenEnv in Practice: Evaluating أداة-Using Agents in Real-World Environments",
+    "summary_ar": "تحديث رسمي: OpenEnv is an open-source framework from Meta and Hugging Face designed to address this challenge by standardizing how agents interact with real environments..."
   },
   {
     "id": "https://huggingface.co/blog/open-responses",
@@ -3252,17 +3260,6 @@
     "url": "https://openai.com/index/steuerrecht",
     "tag": "News",
     "summary": "Learn how Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and scale client service—helping law firms boost"
-  },
-  {
-    "id": "https://www.anthropic.com/news/claude-new-constitution",
-    "company": "Anthropic",
-    "title": "Claude's new constitution",
-    "date": "2025-10-27T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/claude-new-constitution",
-    "tag": "News",
-    "summary": "A new approach to a foundational document that expresses and shapes who Claude is",
-    "title_ar": "Claude's جديد constitution",
-    "summary_ar": "A جديد approach to a foundational document that expresses and shapes who Claude is"
   },
   {
     "id": "https://huggingface.co/blog/streaming-datasets",
