@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board",
+    "company": "Anthropic",
+    "title": "Chris Liddell appointed t",
+    "date": "2026-02-13T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board",
+    "tag": "Corporate",
+    "summary": "Chris Liddell has been appointed to Anthropic’s Board of Directors. He brings over 30 years of senior leadership experience across some of the world's larges...",
+    "title_ar": "تحديث رسمي: Chris Liddell appointed t",
+    "summary_ar": "تحديث رسمي: Chris Liddell has been appointed to Anthropic’s Board of Directors. He brings over 30 years of senior leadership experience across some of the world's larges..."
+  },
+  {
     "id": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
     "company": "Google DeepMind",
     "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
@@ -38,15 +49,6 @@
     "summary": "tl;dr: We built an agent skill that teaches coding agents how to write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffu...",
     "title_ar": "تحديث رسمي: Custom Kernels for All from Codex and Claude",
     "summary_ar": "tl;dr: We built an وكيل skill that teaches coding agents كيفية write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffu..."
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49477",
-    "company": "Microsoft",
-    "title": "Agentic cloud operations: A new way to run the cloud",
-    "date": "2026-02-11T22:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
-    "tag": "News",
-    "summary": "While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and co"
   },
   {
     "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:6986ccac83d7eb240f110bae",
@@ -666,17 +668,6 @@
     "summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards."
   },
   {
-    "id": "https://www.anthropic.com/news/servicenow-anthropic-claude",
-    "company": "Anthropic",
-    "title": "ServiceNow chooses Claude to power customer apps and increase internal productivity",
-    "date": "2026-01-28T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/servicenow-anthropic-claude",
-    "tag": "Security",
-    "summary": "As enterprises move beyond experimenting with AI and start putting it into production across their core business operations, scale and security matters just ...",
-    "title_ar": "تحديث رسمي: ServiceNow chooses Claude to power customer apps and increase internal productivity",
-    "summary_ar": "As enterprises move beyond experimenting with AI and start putting it into production across their core business operations, scale and أمن matters just ..."
-  },
-  {
     "id": "https://huggingface.co/blog/upskill",
     "company": "Hugging Face",
     "title": "We Got Claude to Build CUDA Kernels and teach open models!",
@@ -1136,6 +1127,15 @@
     "url": "https://openai.com/index/openai-raising-concerns-policy",
     "tag": "Policy",
     "summary": "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures."
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49212",
+    "company": "Microsoft",
+    "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
+    "date": "2026-01-11T22:00:00.000Z",
+    "url": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
+    "tag": "News",
+    "summary": "We’re excited to announce that Anthropic has added new tools, connectors, and skills that allow Claude in Microsoft Foundry to bring advanced reasonin"
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.15.0",
@@ -4616,14 +4616,6 @@
     "title": "Kimina-Prover-RL",
     "date": "2025-08-14T12:13:01.000Z",
     "url": "https://huggingface.co/blog/AI-MO/kimina-prover-rl",
-    "tag": "News"
-  },
-  {
-    "id": "https://huggingface.co/blog/Arm/executorch-0-dot-7",
-    "company": "Hugging Face",
-    "title": "Arm & ExecuTorch 0.7: Bringing Generative AI to the masses",
-    "date": "2025-08-13T14:55:10.000Z",
-    "url": "https://huggingface.co/blog/Arm/executorch-0-dot-7",
     "tag": "News"
   }
 ]
