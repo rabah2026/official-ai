@@ -628,6 +628,17 @@
     "summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards."
   },
   {
+    "id": "https://www.anthropic.com/news/servicenow-anthropic-claude",
+    "company": "Anthropic",
+    "title": "ServiceNow chooses Claude to power customer apps and increase internal productivity",
+    "date": "2026-01-28T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/servicenow-anthropic-claude",
+    "tag": "Security",
+    "summary": "As enterprises move beyond experimenting with AI and start putting it into production across their core business operations, scale and security matters just ...",
+    "title_ar": "تحديث رسمي: ServiceNow chooses Claude to power customer apps and increase internal productivity",
+    "summary_ar": "As enterprises move beyond experimenting with AI and start putting it into production across their core business operations, scale and أمن matters just ..."
+  },
+  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.16.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.16.0",
