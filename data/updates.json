@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/new-result-theoretical-physics",
+    "company": "OpenAI",
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "date": "2026-02-13T11:00:00.000Z",
+    "url": "https://openai.com/index/new-result-theoretical-physics",
+    "tag": "News",
+    "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators."
+  },
+  {
     "id": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
     "company": "OpenAI",
     "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
@@ -78,15 +87,6 @@
     "summary": "We’re pleased to share that Stability AI has joined the Tech Coalition, a \r\nglobal alliance of leading technology companies working together to combat"
   },
   {
-    "id": "https://openai.com/index/new-result-theoretical-physics",
-    "company": "OpenAI",
-    "title": "GPT-5.2 derives a new result in theoretical physics",
-    "date": "2026-02-11T10:00:00.000Z",
-    "url": "https://openai.com/index/new-result-theoretical-physics",
-    "tag": "News",
-    "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators."
-  },
-  {
     "id": "https://openai.com/index/harness-engineering",
     "company": "OpenAI",
     "title": "Harness engineering: leveraging Codex in an agent-first world",
@@ -152,6 +152,15 @@
     "url": "https://developer.nvidia.com/blog/using-accelerated-computing-to-live-steer-scientific-experiments-at-massive-research-facilities/",
     "tag": "Research",
     "summary": "Scientists and engineers who design and build unique scientific research facilities face similar challenges. These include managing massive data rates"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49409",
+    "company": "Microsoft",
+    "title": "Can high-temperature superconductors transform the power infrastructure of datacenters?",
+    "date": "2026-02-10T16:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
+    "tag": "Engineering",
+    "summary": "As the demand for AI and data-intensive computing is on the rise, the need for efficient and reliable power delivery is critical.\nThe post Can high-te"
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.18.0",
@@ -1316,15 +1325,6 @@
     "url": "https://developer.nvidia.com/blog/open-source-ai-tool-upgrades-speed-up-llm-and-diffusion-models-on-nvidia-rtx-pcs/",
     "tag": "Research",
     "summary": "AI developer activity on PCs is exploding, driven by the rising quality of small language models (SLMs) and diffusion models, such as FLUX.2, GPT-OSS-"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49137",
-    "company": "Microsoft",
-    "title": "Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments",
-    "date": "2026-01-05T23:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
-    "tag": "News",
-    "summary": "CES 2026 showcases the arrival of the NVIDIA Rubin Platform, along with Azure’s proven readiness for deployment.\nThe post Microsoft’s strategic AI dat"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
