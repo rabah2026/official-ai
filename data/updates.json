@@ -29,6 +29,17 @@
     "summary_ar": "تحديث رسمي: Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshap..."
   },
   {
+    "id": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+    "company": "Hugging Face",
+    "title": "Custom Kernels for All from Codex and Claude",
+    "date": "2026-02-12T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+    "tag": "Engineering",
+    "summary": "tl;dr: We built an agent skill that teaches coding agents how to write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffu...",
+    "title_ar": "تحديث رسمي: Custom Kernels for All from Codex and Claude",
+    "summary_ar": "tl;dr: We built an وكيل skill that teaches coding agents كيفية write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffu..."
+  },
+  {
     "id": "https://azure.microsoft.com/en-us/blog/?p=49477",
     "company": "Microsoft",
     "title": "Agentic cloud operations: A new way to run the cloud",
@@ -583,17 +594,6 @@
     "summary": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes"
   },
   {
-    "id": "https://huggingface.co/blog/upskill",
-    "company": "Hugging Face",
-    "title": "We Got Claude to Build CUDA Kernels and teach open models!",
-    "date": "2026-01-29T08:32:38.000Z",
-    "url": "https://huggingface.co/blog/upskill",
-    "tag": "Engineering",
-    "summary": "This blog post walks through the process of using a new tool, upskill, to generate and evaluate agent skills with large models and use them with smaller mode...",
-    "title_ar": "تحديث رسمي: We Got Claude to Build CUDA Kernels and teach open models!",
-    "summary_ar": "This blog post walks through the process of using a جديد أداة, upskill, to generate and evaluate وكيل skills with large models and use them with smaller mode..."
-  },
-  {
     "id": "https://openai.com/index/taisei",
     "company": "OpenAI",
     "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
@@ -675,6 +675,14 @@
     "summary": "As enterprises move beyond experimenting with AI and start putting it into production across their core business operations, scale and security matters just ...",
     "title_ar": "تحديث رسمي: ServiceNow chooses Claude to power customer apps and increase internal productivity",
     "summary_ar": "As enterprises move beyond experimenting with AI and start putting it into production across their core business operations, scale and أمن matters just ..."
+  },
+  {
+    "id": "https://huggingface.co/blog/upskill",
+    "company": "Hugging Face",
+    "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+    "date": "2026-01-28T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/upskill",
+    "tag": "Engineering"
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.16.0",
