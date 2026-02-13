@@ -18,6 +18,15 @@
     "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users."
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49477",
+    "company": "Microsoft",
+    "title": "Agentic cloud operations: A new way to run the cloud",
+    "date": "2026-02-11T22:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
+    "tag": "News",
+    "summary": "While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and co"
+  },
+  {
     "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:6986ccac83d7eb240f110bae",
     "company": "Stability AI",
     "title": "Stability AI Joins the Tech Coalition",
@@ -646,17 +655,6 @@
     "summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards."
   },
   {
-    "id": "https://www.anthropic.com/news/servicenow-anthropic-claude",
-    "company": "Anthropic",
-    "title": "ServiceNow chooses Claude to power customer apps and increase internal productivity",
-    "date": "2026-01-28T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/servicenow-anthropic-claude",
-    "tag": "Security",
-    "summary": "As enterprises move beyond experimenting with AI and start putting it into production across their core business operations, scale and security matters just ...",
-    "title_ar": "تحديث رسمي: ServiceNow chooses Claude to power customer apps and increase internal productivity",
-    "summary_ar": "As enterprises move beyond experimenting with AI and start putting it into production across their core business operations, scale and أمن matters just ..."
-  },
-  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.16.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.16.0",
@@ -760,6 +758,17 @@
     "url": "https://openai.com/index/indeed-maggie-hulce",
     "tag": "Case Study",
     "summary": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers."
+  },
+  {
+    "id": "https://www.anthropic.com/news/gov-UK-partnership",
+    "company": "Anthropic",
+    "title": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
+    "date": "2026-01-26T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/gov-UK-partnership",
+    "tag": "Corporate",
+    "summary": "Anthropic has been selected by the UK's Department for Science, Innovation and Technology (DSIT) to help build and pilot a dedicated AI-powered assistant for...",
+    "title_ar": "تحديث رسمي: Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
+    "summary_ar": "تحديث رسمي: Anthropic has been selected by the UK's Department for Science, Innovation and Technology (DSIT) to help build and pilot a dedicated AI-powered assistant for..."
   },
   {
     "id": "https://openai.com/index/unrolling-the-codex-agent-loop",
@@ -1108,15 +1117,6 @@
     "url": "https://openai.com/index/openai-raising-concerns-policy",
     "tag": "Policy",
     "summary": "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures."
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49212",
-    "company": "Microsoft",
-    "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
-    "date": "2026-01-11T22:00:00.000Z",
-    "url": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
-    "tag": "News",
-    "summary": "We’re excited to announce that Anthropic has added new tools, connectors, and skills that allow Claude in Microsoft Foundry to bring advanced reasonin"
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.15.0",
