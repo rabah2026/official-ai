@@ -18,15 +18,6 @@
     "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users."
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49477",
-    "company": "Microsoft",
-    "title": "Agentic cloud operations: A new way to run the cloud",
-    "date": "2026-02-11T22:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
-    "tag": "News",
-    "summary": "While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and co"
-  },
-  {
     "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:6986ccac83d7eb240f110bae",
     "company": "Stability AI",
     "title": "Stability AI Joins the Tech Coalition",
@@ -103,15 +94,6 @@
     "summary": "Scientists and engineers who design and build unique scientific research facilities face similar challenges. These include managing massive data rates"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49409",
-    "company": "Microsoft",
-    "title": "Can high-temperature superconductors transform the power infrastructure of datacenters?",
-    "date": "2026-02-10T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
-    "tag": "Engineering",
-    "summary": "As the demand for AI and data-intensive computing is on the rise, the need for efficient and reliable power delivery is critical.\nThe post Can high-te"
-  },
-  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.18.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.18.0",
@@ -137,15 +119,6 @@
     "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
     "tag": "News",
     "summary": "Research papers point to the growing impact of Deep Think across fields"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49459",
-    "company": "Microsoft",
-    "title": "Five Reasons to attend SQLCon",
-    "date": "2026-02-09T15:12:12.000Z",
-    "url": "https://blog.fabric.microsoft.com/en-us/blog/32624",
-    "tag": "News",
-    "summary": "The SQL community is gathering in Atlanta this March for the first‑ever SQLCon, co‑located with FabCon, the Microsoft Fabric Community Conference, Mar"
   },
   {
     "id": "https://openai.com/index/testing-ads-in-chatgpt",
@@ -1130,6 +1103,15 @@
     "summary": "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures."
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49212",
+    "company": "Microsoft",
+    "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
+    "date": "2026-01-11T22:00:00.000Z",
+    "url": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
+    "tag": "News",
+    "summary": "We’re excited to announce that Anthropic has added new tools, connectors, and skills that allow Claude in Microsoft Foundry to bring advanced reasonin"
+  },
+  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.15.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.15.0",
@@ -1290,6 +1272,15 @@
     "url": "https://developer.nvidia.com/blog/open-source-ai-tool-upgrades-speed-up-llm-and-diffusion-models-on-nvidia-rtx-pcs/",
     "tag": "Research",
     "summary": "AI developer activity on PCs is exploding, driven by the rising quality of small language models (SLMs) and diffusion models, such as FLUX.2, GPT-OSS-"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49137",
+    "company": "Microsoft",
+    "title": "Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments",
+    "date": "2026-01-05T23:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
+    "tag": "News",
+    "summary": "CES 2026 showcases the arrival of the NVIDIA Rubin Platform, along with Azure’s proven readiness for deployment.\nThe post Microsoft’s strategic AI dat"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
@@ -1550,6 +1541,15 @@
     "url": "https://developer.nvidia.com/blog/migrate-apache-spark-workloads-to-gpus-at-scale-on-amazon-emr-with-project-aether/",
     "tag": "Engineering",
     "summary": "Data is the fuel of modern business, but relying on older CPU-based Apache Spark pipelines introduces a heavy toll. They’re inherently slow, require l"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=48959",
+    "company": "Microsoft",
+    "title": "Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms",
+    "date": "2025-12-17T19:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/",
+    "tag": "News",
+    "summary": "We believe this recognition shows our commitment to pioneering agent frameworks, orchestration, and enterprise-grade governance.\nThe post Microsoft na"
   },
   {
     "id": "https://developer.nvidia.com/blog/solving-large-scale-linear-sparse-problems-with-nvidia-cudss/",
