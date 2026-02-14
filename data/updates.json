@@ -525,6 +525,17 @@
     "summary": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental"
   },
   {
+    "id": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
+    "company": "Anthropic",
+    "title": "Apple’s Xcode now supports the Claude Agent SDK",
+    "date": "2026-02-03T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
+    "tag": "Docs",
+    "summary": "Apple's Xcode is where developers build, test, and distribute apps for Apple platforms, including iPhone, iPad, Mac, Apple Watch, Apple Vision Pro, and Apple...",
+    "title_ar": "Apple’s Xcode now supports the Claude وكيل SDK",
+    "summary_ar": "Apple's Xcode is where developers build, test, and distribute apps for Apple platforms, including iPhone, iPad, Mac, Apple Watch, Apple رؤية Pro, and Apple..."
+  },
+  {
     "id": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
     "company": "Hugging Face",
     "title": "H Company's new Holo2 model takes the lead in UI Localization",
@@ -4634,13 +4645,5 @@
     "date": "2025-08-18T00:00:00.000Z",
     "url": "https://huggingface.co/blog/mcp-for-research",
     "tag": "Research"
-  },
-  {
-    "id": "https://huggingface.co/blog/AI-MO/kimina-prover-rl",
-    "company": "Hugging Face",
-    "title": "Kimina-Prover-RL",
-    "date": "2025-08-14T12:13:01.000Z",
-    "url": "https://huggingface.co/blog/AI-MO/kimina-prover-rl",
-    "tag": "News"
   }
 ]
