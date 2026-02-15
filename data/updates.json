@@ -65,6 +65,15 @@
     "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges."
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49448",
+    "company": "Microsoft",
+    "title": "The data behind the design: How Pantone built agentic AI with an AI-ready database",
+    "date": "2026-02-12T16:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/",
+    "tag": "News",
+    "summary": "Learn about an AI-powered experience launched as a minimum viable product to gather real user feedback and iterate rapidly.\nThe post The data behind t"
+  },
+  {
     "id": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
     "company": "OpenAI",
     "title": "Introducing GPT-5.3-Codex-Spark",
@@ -581,6 +590,17 @@
     "url": "https://openai.com/index/introducing-the-codex-app",
     "tag": "News",
     "summary": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running"
+  },
+  {
+    "id": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+    "company": "Anthropic",
+    "title": "Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+    "date": "2026-02-01T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+    "tag": "Research",
+    "summary": "Modern biological research generates data at unprecedented scale—from single-cell sequencing to whole-brain connectomics—yet transforming that data into vali...",
+    "title_ar": "تحديث رسمي: Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+    "summary_ar": "Modern biological أبحاث generates data at unprecedented scale—from single-cell sequencing to whole-brain connectomics—yet transforming that data into vali..."
   },
   {
     "id": "https://huggingface.co/blog/daggr",
@@ -1107,15 +1127,6 @@
     "url": "https://developer.nvidia.com/blog/how-to-write-high-performance-matrix-multiply-in-nvidia-cuda-tile/",
     "tag": "Engineering",
     "summary": "This blog post is part of a series designed to help developers learn NVIDIA CUDA Tile programming for building high-performance GPU kernels, using mat"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49245",
-    "company": "Microsoft",
-    "title": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms",
-    "date": "2026-01-14T17:00:00.000Z",
-    "url": "https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/",
-    "tag": "Security",
-    "summary": "Microsoft is honored to be named a Leader in the 2025–2026 IDC MarketScape for Unified AI Governance Platforms, highlighting our commitment to making "
   },
   {
     "id": "https://openai.com/index/cerebras-partnership",
