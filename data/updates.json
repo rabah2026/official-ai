@@ -96,6 +96,15 @@
     "summary_ar": "tl;dr: We built an وكيل skill that teaches coding agents كيفية write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffu..."
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49477",
+    "company": "Microsoft",
+    "title": "Agentic cloud operations: A new way to run the cloud",
+    "date": "2026-02-11T22:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
+    "tag": "News",
+    "summary": "While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and co"
+  },
+  {
     "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:6986ccac83d7eb240f110bae",
     "company": "Stability AI",
     "title": "Stability AI Joins the Tech Coalition",
@@ -112,6 +121,17 @@
     "url": "https://openai.com/index/harness-engineering",
     "tag": "News",
     "summary": "By Ryan Lopopolo, Member of the Technical Staff"
+  },
+  {
+    "id": "https://www.anthropic.com/news/covering-electricity-price-increases",
+    "company": "Anthropic",
+    "title": "Covering electricity price increases from our data centers",
+    "date": "2026-02-11T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/covering-electricity-price-increases",
+    "tag": "Pricing",
+    "summary": "As we continue to invest in American AI infrastructure, Anthropic will cover electricity price increases that consumers face from our data centers.",
+    "title_ar": "تحديث رسمي: Covering electricity price increases from our data centers",
+    "summary_ar": "As we continue to invest in American AI بنية تحتية, Anthropic will cover electricity price increases that consumers face from our data centers."
   },
   {
     "id": "https://huggingface.co/blog/transformersjs-v4",
@@ -159,6 +179,15 @@
     "url": "https://developer.nvidia.com/blog/using-accelerated-computing-to-live-steer-scientific-experiments-at-massive-research-facilities/",
     "tag": "Research",
     "summary": "Scientists and engineers who design and build unique scientific research facilities face similar challenges. These include managing massive data rates"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49409",
+    "company": "Microsoft",
+    "title": "Can high-temperature superconductors transform the power infrastructure of datacenters?",
+    "date": "2026-02-10T16:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
+    "tag": "Engineering",
+    "summary": "As the demand for AI and data-intensive computing is on the rise, the need for efficient and reliable power delivery is critical.\nThe post Can high-te"
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.18.0",
@@ -552,6 +581,17 @@
     "url": "https://openai.com/index/introducing-the-codex-app",
     "tag": "News",
     "summary": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running"
+  },
+  {
+    "id": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+    "company": "Anthropic",
+    "title": "Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+    "date": "2026-02-01T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+    "tag": "Research",
+    "summary": "Modern biological research generates data at unprecedented scale—from single-cell sequencing to whole-brain connectomics—yet transforming that data into vali...",
+    "title_ar": "تحديث رسمي: Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+    "summary_ar": "Modern biological أبحاث generates data at unprecedented scale—from single-cell sequencing to whole-brain connectomics—yet transforming that data into vali..."
   },
   {
     "id": "https://huggingface.co/blog/daggr",
@@ -1143,15 +1183,6 @@
     "summary": "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures."
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49212",
-    "company": "Microsoft",
-    "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
-    "date": "2026-01-11T22:00:00.000Z",
-    "url": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
-    "tag": "News",
-    "summary": "We’re excited to announce that Anthropic has added new tools, connectors, and skills that allow Claude in Microsoft Foundry to bring advanced reasonin"
-  },
-  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.15.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.15.0",
@@ -1312,15 +1343,6 @@
     "url": "https://developer.nvidia.com/blog/open-source-ai-tool-upgrades-speed-up-llm-and-diffusion-models-on-nvidia-rtx-pcs/",
     "tag": "Research",
     "summary": "AI developer activity on PCs is exploding, driven by the rising quality of small language models (SLMs) and diffusion models, such as FLUX.2, GPT-OSS-"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49137",
-    "company": "Microsoft",
-    "title": "Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments",
-    "date": "2026-01-05T23:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
-    "tag": "News",
-    "summary": "CES 2026 showcases the arrival of the NVIDIA Rubin Platform, along with Azure’s proven readiness for deployment.\nThe post Microsoft’s strategic AI dat"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
