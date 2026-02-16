@@ -87,6 +87,15 @@
     "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges."
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49448",
+    "company": "Microsoft",
+    "title": "The data behind the design: How Pantone built agentic AI with an AI-ready database",
+    "date": "2026-02-12T16:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/",
+    "tag": "News",
+    "summary": "Learn about an AI-powered experience launched as a minimum viable product to gather real user feedback and iterate rapidly.\nThe post The data behind t"
+  },
+  {
     "id": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
     "company": "OpenAI",
     "title": "Introducing GPT-5.3-Codex-Spark",
@@ -105,6 +114,15 @@
     "summary": "Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshap...",
     "title_ar": "تحديث رسمي: Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
     "summary_ar": "تحديث رسمي: Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshap..."
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49477",
+    "company": "Microsoft",
+    "title": "Agentic cloud operations: A new way to run the cloud",
+    "date": "2026-02-11T22:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
+    "tag": "News",
+    "summary": "While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and co"
   },
   {
     "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:6986ccac83d7eb240f110bae",
@@ -181,6 +199,15 @@
     "url": "https://developer.nvidia.com/blog/using-accelerated-computing-to-live-steer-scientific-experiments-at-massive-research-facilities/",
     "tag": "Research",
     "summary": "Scientists and engineers who design and build unique scientific research facilities face similar challenges. These include managing massive data rates"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49409",
+    "company": "Microsoft",
+    "title": "Can high-temperature superconductors transform the power infrastructure of datacenters?",
+    "date": "2026-02-10T16:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
+    "tag": "Engineering",
+    "summary": "As the demand for AI and data-intensive computing is on the rise, the need for efficient and reliable power delivery is critical.\nThe post Can high-te"
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.18.0",
@@ -516,6 +543,17 @@
     "url": "https://openai.com/index/sora-feed-philosophy",
     "tag": "News",
     "summary": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental"
+  },
+  {
+    "id": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
+    "company": "Anthropic",
+    "title": "Apple’s Xcode now supports the Claude Agent SDK",
+    "date": "2026-02-03T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
+    "tag": "Docs",
+    "summary": "Apple's Xcode is where developers build, test, and distribute apps for Apple platforms, including iPhone, iPad, Mac, Apple Watch, Apple Vision Pro, and Apple...",
+    "title_ar": "Apple’s Xcode now supports the Claude وكيل SDK",
+    "summary_ar": "Apple's Xcode is where developers build, test, and distribute apps for Apple platforms, including iPhone, iPad, Mac, Apple Watch, Apple رؤية Pro, and Apple..."
   },
   {
     "id": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
@@ -1091,15 +1129,6 @@
     "summary": "This blog post is part of a series designed to help developers learn NVIDIA CUDA Tile programming for building high-performance GPU kernels, using mat"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49245",
-    "company": "Microsoft",
-    "title": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms",
-    "date": "2026-01-14T17:00:00.000Z",
-    "url": "https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/",
-    "tag": "Security",
-    "summary": "Microsoft is honored to be named a Leader in the 2025–2026 IDC MarketScape for Unified AI Governance Platforms, highlighting our commitment to making "
-  },
-  {
     "id": "https://openai.com/index/cerebras-partnership",
     "company": "OpenAI",
     "title": "OpenAI partners with Cerebras  ",
@@ -1152,15 +1181,6 @@
     "url": "https://openai.com/index/openai-raising-concerns-policy",
     "tag": "Policy",
     "summary": "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures."
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49212",
-    "company": "Microsoft",
-    "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
-    "date": "2026-01-11T22:00:00.000Z",
-    "url": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
-    "tag": "News",
-    "summary": "We’re excited to announce that Anthropic has added new tools, connectors, and skills that allow Claude in Microsoft Foundry to bring advanced reasonin"
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.15.0",
@@ -1323,15 +1343,6 @@
     "url": "https://developer.nvidia.com/blog/open-source-ai-tool-upgrades-speed-up-llm-and-diffusion-models-on-nvidia-rtx-pcs/",
     "tag": "Research",
     "summary": "AI developer activity on PCs is exploding, driven by the rising quality of small language models (SLMs) and diffusion models, such as FLUX.2, GPT-OSS-"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49137",
-    "company": "Microsoft",
-    "title": "Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments",
-    "date": "2026-01-05T23:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
-    "tag": "News",
-    "summary": "CES 2026 showcases the arrival of the NVIDIA Rubin Platform, along with Azure’s proven readiness for deployment.\nThe post Microsoft’s strategic AI dat"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
