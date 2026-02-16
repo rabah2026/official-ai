@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+    "company": "Hugging Face",
+    "title": "Custom Kernels for All from Codex and Claude",
+    "date": "2026-02-16T07:43:49.000Z",
+    "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+    "tag": "Engineering",
+    "summary": "tl;dr: We built an agent skill that teaches coding agents how to write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffu...",
+    "title_ar": "تحديث رسمي: Custom Kernels for All from Codex and Claude",
+    "summary_ar": "tl;dr: We built an وكيل skill that teaches coding agents كيفية write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffu..."
+  },
+  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.21.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.21.0",
@@ -83,17 +94,6 @@
     "summary": "Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshap...",
     "title_ar": "تحديث رسمي: Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
     "summary_ar": "تحديث رسمي: Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshap..."
-  },
-  {
-    "id": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
-    "company": "Hugging Face",
-    "title": "Custom Kernels for All from Codex and Claude",
-    "date": "2026-02-12T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
-    "tag": "Engineering",
-    "summary": "tl;dr: We built an agent skill that teaches coding agents how to write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffu...",
-    "title_ar": "تحديث رسمي: Custom Kernels for All from Codex and Claude",
-    "summary_ar": "tl;dr: We built an وكيل skill that teaches coding agents كيفية write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffu..."
   },
   {
     "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:6986ccac83d7eb240f110bae",
@@ -197,6 +197,15 @@
     "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
     "tag": "News",
     "summary": "Research papers point to the growing impact of Deep Think across fields"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49459",
+    "company": "Microsoft",
+    "title": "Five Reasons to attend SQLCon",
+    "date": "2026-02-09T15:12:12.000Z",
+    "url": "https://blog.fabric.microsoft.com/en-us/blog/32624",
+    "tag": "News",
+    "summary": "The SQL community is gathering in Atlanta this March for the first‑ever SQLCon, co‑located with FabCon, the Microsoft Fabric Community Conference, Mar"
   },
   {
     "id": "https://openai.com/index/testing-ads-in-chatgpt",
@@ -554,6 +563,17 @@
     "url": "https://openai.com/index/introducing-the-codex-app",
     "tag": "News",
     "summary": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running"
+  },
+  {
+    "id": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+    "company": "Anthropic",
+    "title": "Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+    "date": "2026-02-01T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+    "tag": "Research",
+    "summary": "Modern biological research generates data at unprecedented scale—from single-cell sequencing to whole-brain connectomics—yet transforming that data into vali...",
+    "title_ar": "تحديث رسمي: Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+    "summary_ar": "Modern biological أبحاث generates data at unprecedented scale—from single-cell sequencing to whole-brain connectomics—yet transforming that data into vali..."
   },
   {
     "id": "https://huggingface.co/blog/daggr",
@@ -1583,15 +1603,6 @@
     "url": "https://developer.nvidia.com/blog/migrate-apache-spark-workloads-to-gpus-at-scale-on-amazon-emr-with-project-aether/",
     "tag": "Engineering",
     "summary": "Data is the fuel of modern business, but relying on older CPU-based Apache Spark pipelines introduces a heavy toll. They’re inherently slow, require l"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=48959",
-    "company": "Microsoft",
-    "title": "Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms",
-    "date": "2025-12-17T19:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/",
-    "tag": "News",
-    "summary": "We believe this recognition shows our commitment to pioneering agent frameworks, orchestration, and enterprise-grade governance.\nThe post Microsoft na"
   },
   {
     "id": "https://developer.nvidia.com/blog/solving-large-scale-linear-sparse-problems-with-nvidia-cudss/",
