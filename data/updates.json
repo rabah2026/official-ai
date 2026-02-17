@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
+    "company": "NVIDIA",
+    "title": "Build AI-Ready Knowledge Systems Using 5 Essential Multimodal RAG Capabilities",
+    "date": "2026-02-17T18:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
+    "tag": "Engineering",
+    "summary": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages,"
+  },
+  {
     "id": "https://www.anthropic.com/news/anthropic-infosys",
     "company": "Anthropic",
     "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
@@ -20,6 +29,17 @@
     "summary": "tl;dr: We built an agent skill that teaches coding agents how to write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffu...",
     "title_ar": "تحديث رسمي: Custom Kernels for All from Codex and Claude",
     "summary_ar": "tl;dr: We built an وكيل skill that teaches coding agents كيفية write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffu..."
+  },
+  {
+    "id": "https://www.anthropic.com/news/claude-sonnet-4-6",
+    "company": "Anthropic",
+    "title": "Introducing Sonnet 4.6",
+    "date": "2026-02-16T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+    "tag": "Release",
+    "summary": "Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design. ",
+    "title_ar": "نُقدم لكم Sonnet 4.6",
+    "summary_ar": "Claude Sonnet 4.6 is a full upgrade of the نموذج’s skills across coding, computer use, long-reasoning, وكيل planning, knowledge work, and design. "
   },
   {
     "id": "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
@@ -1828,15 +1848,6 @@
     "tag": "Research"
   },
   {
-    "id": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
-    "company": "NVIDIA",
-    "title": "Inside NVIDIA Nemotron 3: Techniques, Tools, and Data That Make It Efficient and Accurate",
-    "date": "2025-12-15T14:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
-    "tag": "Engineering",
-    "summary": "Agentic AI systems increasingly rely on collections of cooperating agents—retrievers, planners, tool executors, verifiers—working together across larg"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
     "company": "NVIDIA",
     "title": "How to Train Scientific Agents with Reinforcement Learning",
@@ -1844,6 +1855,15 @@
     "url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
     "tag": "Engineering",
     "summary": "The scientific process can be repetitive and tedious, with researchers spending hours digging through papers, managing experiment workflows, or wrangl"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
+    "company": "NVIDIA",
+    "title": "Inside NVIDIA Nemotron 3: Techniques, Tools, and Data That Make It Efficient and Accurate",
+    "date": "2025-12-15T14:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
+    "tag": "Engineering",
+    "summary": "Agentic AI systems increasingly rely on collections of cooperating agents—retrievers, planners, tool executors, verifiers—working together across larg"
   },
   {
     "id": "https://developer.nvidia.com/blog/enabling-horizontal-autoscaling-of-enterprise-rag-components-on-kubernetes/",
@@ -3033,15 +3053,6 @@
     "summary": "Our new paper analyzes the important ways AI systems organize the visual world differently from humans."
   },
   {
-    "id": "https://developer.nvidia.com/blog/fusing-communication-and-compute-with-new-device-api-and-copy-engine-collectives-in-nvidia-nccl-2-28/",
-    "company": "NVIDIA",
-    "title": "Fusing Communication and Compute with New Device API and Copy Engine Collectives in NVIDIA NCCL 2.28",
-    "date": "2025-11-11T00:06:14.000Z",
-    "url": "https://developer.nvidia.com/blog/fusing-communication-and-compute-with-new-device-api-and-copy-engine-collectives-in-nvidia-nccl-2-28/",
-    "tag": "Engineering",
-    "summary": "The latest release of the NVIDIA Collective Communications Library (NCCL) introduces a groundbreaking fusion of communication and computation for high"
-  },
-  {
     "id": "https://deepmind.google/blog/how-ai-is-giving-northern-ireland-teachers-time-back/",
     "company": "Google DeepMind",
     "title": "How AI is giving Northern Ireland teachers time back",
@@ -4112,17 +4123,6 @@
     "url": "https://openai.com/index/introducing-chatgpt-pulse",
     "tag": "News",
     "summary": "Today we're releasing a preview of ChatGPT Pulse to Pro users on mobile. Pulse is a new experience where ChatGPT proactively does research to deliver "
-  },
-  {
-    "id": "https://www.anthropic.com/news/claude-sonnet-4-5",
-    "company": "Anthropic",
-    "title": "Introducing Claude Sonnet 4.5",
-    "date": "2025-09-25T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
-    "tag": "Release",
-    "summary": "Claude Sonnet 4.5 is the best coding model in the world, strongest model for building complex agents, and best model at using computers. ",
-    "title_ar": "نُقدم لكم Claude Sonnet 4.5",
-    "summary_ar": "Claude Sonnet 4.5 is the best coding نموذج in the world, strongest نموذج for بناء complex agents, and best نموذج at using computers. "
   },
   {
     "id": "https://x.ai/news/onegov",
