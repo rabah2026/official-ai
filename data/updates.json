@@ -9,6 +9,15 @@
     "summary": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages,"
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49518",
+    "company": "Microsoft",
+    "title": "Azure reliability, resiliency, and recoverability: Build continuity by design",
+    "date": "2026-02-17T16:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
+    "tag": "News",
+    "summary": "Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confi"
+  },
+  {
     "id": "https://www.anthropic.com/news/anthropic-infosys",
     "company": "Anthropic",
     "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
@@ -18,6 +27,17 @@
     "summary": "Anthropic and Infosys, a global leader in next-generation digital services and consulting founded and headquartered in Bengaluru, today announced a collabora...",
     "title_ar": "تحديث رسمي: Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
     "summary_ar": "Anthropic and Infosys, a عالمي leader in next-generation digital services and consulting founded and headquartered in Bengaluru, today announced a collabora..."
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja",
+    "company": "Hugging Face",
+    "title": "NVIDIA Nemotron 2 Nano 9B Japanese: 日本のソブリンAIを支える最先端小規模言語モデル",
+    "date": "2026-02-17T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja",
+    "tag": "Corporate",
+    "summary": "本日、NVIDIAは、Nejumi Leaderboard 4のパラメータ数10B以下において、最先端の性能（SOTA）を達成した NVIDIA Nemotron-Nano-9B-v2-Japaneseを公開しました。",
+    "title_ar": "تحديث رسمي: NVIDIA Nemotron 2 Nano 9B Japanese: 日本のソブリンAIを支える最先端小規模言語モデル",
+    "summary_ar": "تحديث رسمي: 本日、NVIDIAは、Nejumi Leaderboard 4のパラメータ数10B以下において、最先端の性能（SOTA）を達成した NVIDIA Nemotron-Nano-9B-v2-Japaneseを公開しました。"
   },
   {
     "id": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
@@ -158,7 +178,11 @@
     "summary_ar": "تحديث رسمي: Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshap..."
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49477",
+    "id": {
+      "$": {
+        "isPermaLink": "false"
+      }
+    },
     "company": "Microsoft",
     "title": "Agentic cloud operations: A new way to run the cloud",
     "date": "2026-02-11T22:00:00.000Z",
@@ -366,7 +390,11 @@
     "summary": "Specialized AI models are built to perform specific tasks or solve particular problems. But if you’ve ever tried to fine-tune or distill a domain-spec"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49376",
+    "id": {
+      "$": {
+        "isPermaLink": "false"
+      }
+    },
     "company": "Microsoft",
     "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
     "date": "2026-02-05T17:46:10.000Z",
@@ -487,7 +515,11 @@
     "summary": "What if your AI agent could instantly parse complex PDFs, extract nested tables, and \"see\" data within charts as easily as reading a text file? With N"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49363",
+    "id": {
+      "$": {
+        "isPermaLink": "false"
+      }
+    },
     "company": "Microsoft",
     "title": "Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ",
     "date": "2026-02-04T16:00:00.000Z",
@@ -523,17 +555,6 @@
     "summary": "We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we pla...",
     "title_ar": "تحديث رسمي: Claude is a space to think",
     "summary_ar": "تحديث رسمي: We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we pla..."
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
-    "company": "Hugging Face",
-    "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
-    "date": "2026-02-04T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
-    "tag": "News",
-    "summary": "NVIDIA introduces the Nemotron ColEmbed V2 family, a set of late-interaction embedding models available in three sizes—3B, 4B, and 8B—designed for highly acc...",
-    "title_ar": "Nemotron ColEmbed V2: Raising the Bar for متعدد الأنماط Retrieval with ViDoRe V3’s Top نموذج",
-    "summary_ar": "تحديث رسمي: NVIDIA introduces the Nemotron ColEmbed V2 family, a set of late-interaction embedding models available in three sizes—3B, 4B, and 8B—designed for highly acc..."
   },
   {
     "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
@@ -596,7 +617,11 @@
     "summary": "In LLM training, Expert Parallel (EP) communication for hyperscale mixture-of-experts (MoE) models is challenging. EP communication is essentially all"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49329",
+    "id": {
+      "$": {
+        "isPermaLink": "false"
+      }
+    },
     "company": "Microsoft",
     "title": "PostgreSQL on Azure supercharged for AI",
     "date": "2026-02-02T15:00:00.000Z",
@@ -1092,15 +1117,6 @@
     "url": "https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning/",
     "tag": "Engineering",
     "summary": "What if your computer-use agent could learn a new Command Line Interface (CLI)—and operate it safely without ever writing files or free-typing shell c"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49203",
-    "company": "Microsoft",
-    "title": "Chart your AI and agent strategy with Microsoft Marketplace",
-    "date": "2026-01-15T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/",
-    "tag": "News",
-    "summary": "A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unloc"
   },
   {
     "id": "https://openai.com/index/investing-in-merge-labs",
