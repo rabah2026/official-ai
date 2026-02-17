@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://www.anthropic.com/news/anthropic-infosys",
+    "company": "Anthropic",
+    "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+    "date": "2026-02-17T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-infosys",
+    "tag": "News",
+    "summary": "Anthropic and Infosys, a global leader in next-generation digital services and consulting founded and headquartered in Bengaluru, today announced a collabora...",
+    "title_ar": "تحديث رسمي: Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+    "summary_ar": "Anthropic and Infosys, a عالمي leader in next-generation digital services and consulting founded and headquartered in Bengaluru, today announced a collabora..."
+  },
+  {
     "id": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
     "company": "Hugging Face",
     "title": "Custom Kernels for All from Codex and Claude",
@@ -555,17 +566,6 @@
     "url": "https://openai.com/index/sora-feed-philosophy",
     "tag": "News",
     "summary": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental"
-  },
-  {
-    "id": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
-    "company": "Anthropic",
-    "title": "Apple’s Xcode now supports the Claude Agent SDK",
-    "date": "2026-02-03T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
-    "tag": "Docs",
-    "summary": "Apple's Xcode is where developers build, test, and distribute apps for Apple platforms, including iPhone, iPad, Mac, Apple Watch, Apple Vision Pro, and Apple...",
-    "title_ar": "Apple’s Xcode now supports the Claude وكيل SDK",
-    "summary_ar": "Apple's Xcode is where developers build, test, and distribute apps for Apple platforms, including iPhone, iPad, Mac, Apple Watch, Apple رؤية Pro, and Apple..."
   },
   {
     "id": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
