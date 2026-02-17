@@ -78,6 +78,17 @@
     "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists a"
   },
   {
+    "id": "https://www.anthropic.com/news/anthropic-rwanda-mou",
+    "company": "Anthropic",
+    "title": "Anthropic and the Government of Rwanda sign MOU for AI in health and education",
+    "date": "2026-02-13T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-rwanda-mou",
+    "tag": "Corporate",
+    "summary": "The Government of Rwanda and Anthropic have signed a three-year Memorandum of Understanding to formalize and expand our partnership, bringing AI to Rwanda’s ...",
+    "title_ar": "تحديث رسمي: Anthropic and the Government of Rwanda sign MOU for AI in health and education",
+    "summary_ar": "The Government of Rwanda and Anthropic have signed a three-year Memorandum of Understanding to formalize and expand our شراكة, bringing AI to Rwanda’s ..."
+  },
+  {
     "id": "https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board",
     "company": "Anthropic",
     "title": "Chris Liddell appointed t",
@@ -156,17 +167,6 @@
     "url": "https://openai.com/index/harness-engineering",
     "tag": "News",
     "summary": "By Ryan Lopopolo, Member of the Technical Staff"
-  },
-  {
-    "id": "https://www.anthropic.com/news/covering-electricity-price-increases",
-    "company": "Anthropic",
-    "title": "Covering electricity price increases from our data centers",
-    "date": "2026-02-11T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/covering-electricity-price-increases",
-    "tag": "Pricing",
-    "summary": "As we continue to invest in American AI infrastructure, Anthropic will cover electricity price increases that consumers face from our data centers.",
-    "title_ar": "تحديث رسمي: Covering electricity price increases from our data centers",
-    "summary_ar": "As we continue to invest in American AI بنية تحتية, Anthropic will cover electricity price increases that consumers face from our data centers."
   },
   {
     "id": "https://huggingface.co/blog/transformersjs-v4",
