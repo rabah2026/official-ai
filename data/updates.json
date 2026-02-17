@@ -138,7 +138,11 @@
     "summary_ar": "تحديث رسمي: Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshap..."
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49477",
+    "id": {
+      "$": {
+        "isPermaLink": "false"
+      }
+    },
     "company": "Microsoft",
     "title": "Agentic cloud operations: A new way to run the cloud",
     "date": "2026-02-11T22:00:00.000Z",
@@ -346,7 +350,11 @@
     "summary": "Specialized AI models are built to perform specific tasks or solve particular problems. But if you’ve ever tried to fine-tune or distill a domain-spec"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49376",
+    "id": {
+      "$": {
+        "isPermaLink": "false"
+      }
+    },
     "company": "Microsoft",
     "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
     "date": "2026-02-05T17:46:10.000Z",
@@ -467,7 +475,11 @@
     "summary": "What if your AI agent could instantly parse complex PDFs, extract nested tables, and \"see\" data within charts as easily as reading a text file? With N"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49363",
+    "id": {
+      "$": {
+        "isPermaLink": "false"
+      }
+    },
     "company": "Microsoft",
     "title": "Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ",
     "date": "2026-02-04T16:00:00.000Z",
@@ -576,7 +588,11 @@
     "summary": "In LLM training, Expert Parallel (EP) communication for hyperscale mixture-of-experts (MoE) models is challenging. EP communication is essentially all"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49329",
+    "id": {
+      "$": {
+        "isPermaLink": "false"
+      }
+    },
     "company": "Microsoft",
     "title": "PostgreSQL on Azure supercharged for AI",
     "date": "2026-02-02T15:00:00.000Z",
