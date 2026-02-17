@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://mistral.ai/news/voxtral-transcribe-2",
+    "company": "Mistral AI",
+    "title": "Voxtral transcribes at the speed of sound.ResearchFebruary 4, 2026Mistral AIPrecision diarization, real-time transcription, and a new audio playground.",
+    "date": "2026-02-17T20:04:49.218Z",
+    "url": "https://mistral.ai/news/voxtral-transcribe-2",
+    "tag": "News",
+    "summary": ""
+  },
+  {
     "id": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
     "company": "NVIDIA",
     "title": "Build AI-Ready Knowledge Systems Using 5 Essential Multimodal RAG Capabilities",
@@ -473,17 +482,6 @@
     "url": "https://developer.nvidia.com/blog/build-with-kimi-k2-5-multimodal-vlm-using-nvidia-gpu-accelerated-endpoints/",
     "tag": "Engineering",
     "summary": "Kimi K2.5 is the newest open vision language model (VLM) from the Kimi family of models. Kimi K2.5 is a general-purpose multimodal model that excels i"
-  },
-  {
-    "id": "https://mistral.ai/news/voxtral-transcribe-2",
-    "company": "Mistral AI",
-    "title": "Voxtral transcribes at the speed of sound.",
-    "date": "2026-02-04T16:00:00.000Z",
-    "url": "https://mistral.ai/news/voxtral-transcribe-2",
-    "tag": "News",
-    "summary": "Precision diarization, real-time transcription, and a new audio playground.",
-    "title_ar": "تحديث رسمي: Voxtral transcribes at the speed of sound.",
-    "summary_ar": "Precision diarization, real-time transcription, and a جديد صوت playground."
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-build-a-document-processing-pipeline-for-rag-with-nemotron/",
