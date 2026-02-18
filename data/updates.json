@@ -1,5 +1,34 @@
 [
   {
+    "id": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+    "company": "Google DeepMind",
+    "title": "A new way to express yourself: Gemini can now create music",
+    "date": "2026-02-18T16:01:38.000Z",
+    "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+    "tag": "News",
+    "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/how-nvidia-extreme-hardware-software-co-design-delivered-a-large-inference-boost-for-sarvam-ais-sovereign-models/",
+    "company": "NVIDIA",
+    "title": "How NVIDIA Extreme Hardware-Software Co-Design Delivered a Large Inference Boost for Sarvam AI’s Sovereign Models",
+    "date": "2026-02-18T16:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/how-nvidia-extreme-hardware-software-co-design-delivered-a-large-inference-boost-for-sarvam-ais-sovereign-models/",
+    "tag": "Engineering",
+    "summary": "As global AI adoption accelerates, developers face a growing challenge: delivering large language model (LLM) performance that meets real-world latenc"
+  },
+  {
+    "id": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+    "company": "Hugging Face",
+    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+    "date": "2026-02-18T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+    "tag": "Research",
+    "summary": "ITBench HF Space\nITBench HF Dataset\nMAST HF Dataset\nITBench Github\nMAST Github",
+    "title_ar": "IBM and UC Berkeley Diagnose Why مؤسسات Agents Fail Using IT-Bench and MAST",
+    "summary_ar": "تحديث رسمي: ITBench HF Space\nITBench HF Dataset\nMAST HF Dataset\nITBench Github\nMAST Github"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
     "company": "NVIDIA",
     "title": "Build AI-Ready Knowledge Systems Using 5 Essential Multimodal RAG Capabilities",
@@ -648,17 +677,6 @@
     "summary": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running"
   },
   {
-    "id": "https://huggingface.co/blog/daggr",
-    "company": "Hugging Face",
-    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
-    "date": "2026-01-31T08:32:06.000Z",
-    "url": "https://huggingface.co/blog/daggr",
-    "tag": "Release",
-    "summary": "If you've built AI applications that combine multiple models or processing steps, you know the pain: chaining API calls, debugging pipelines, and losing trac...",
-    "title_ar": "نُقدم لكم Daggr: Chain apps programmatically, inspect visually",
-    "summary_ar": "تحديث رسمي: If you've built AI applications that combine multiple models or processing steps, you know the pain: chaining API calls, debugging pipelines, and losing trac..."
-  },
-  {
     "id": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/",
     "company": "NVIDIA",
     "title": "Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton",
@@ -720,6 +738,14 @@
     "url": "https://openai.com/index/taisei",
     "tag": "News",
     "summary": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business."
+  },
+  {
+    "id": "https://huggingface.co/blog/daggr",
+    "company": "Hugging Face",
+    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+    "date": "2026-01-29T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/daggr",
+    "tag": "News"
   },
   {
     "id": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/",
@@ -2971,15 +2997,6 @@
     "url": "https://developer.nvidia.com/blog/nvidia-blackwell-architecture-sweeps-mlperf-training-v5-1-benchmarks/",
     "tag": "Engineering",
     "summary": "The NVIDIA Blackwell architecture powered the fastest time to train across every MLPerf Training v5.1 benchmark, marking a clean sweep in the latest r"
-  },
-  {
-    "id": "https://github.com/NVIDIA/warp/releases/tag/v1.10.0#new_tab",
-    "company": "NVIDIA",
-    "title": "Just Released: Warp 1.10 Expands JAX Interoperability and Performance",
-    "date": "2025-11-13T00:07:29.000Z",
-    "url": "https://github.com/NVIDIA/warp/releases/tag/v1.10.0#new_tab",
-    "tag": "Engineering",
-    "summary": "Build high-performance GPU simulations using Warp, with enhancements across JAX, Tile programming, and Arm support.\nBuild high-performance GPU simulat"
   },
   {
     "id": "https://openai.com/index/gpt-5-1-for-developers",
