@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/unlock-massive-token-throughput-with-gpu-fractioning-in-nvidia-runai/",
+    "company": "NVIDIA",
+    "title": "Unlock Massive Token Throughput with GPU Fractioning in NVIDIA Run:ai",
+    "date": "2026-02-18T18:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/unlock-massive-token-throughput-with-gpu-fractioning-in-nvidia-runai/",
+    "tag": "Engineering",
+    "summary": "As AI workloads scale, achieving high throughput, efficient resource usage, and predictable latency becomes essential. NVIDIA Run:ai addresses these c"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/topping-the-gpu-mode-kernel-leaderboard-with-nvidia-cuda-compute/",
     "company": "NVIDIA",
     "title": "Topping the GPU MODE Kernel Leaderboard with NVIDIA cuda.compute",
@@ -618,12 +627,9 @@
     "id": "https://huggingface.co/blog/Photoroom/prx-part2",
     "company": "Hugging Face",
     "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
-    "date": "2026-02-03T15:25:02.000Z",
+    "date": "2026-02-03T11:25:53.000Z",
     "url": "https://huggingface.co/blog/Photoroom/prx-part2",
-    "tag": "News",
-    "summary": "Welcome back! This is the second part of our series on training efficient text-to-image models from scratch.",
-    "title_ar": "تدريب Design for Text-to-Image Models: Lessons from Ablations",
-    "summary_ar": "Welcome back! This is the second part of our series on تدريب efficient text-to-image models from scratch."
+    "tag": "News"
   },
   {
     "id": "https://openai.com/index/sora-feed-philosophy",
@@ -1892,15 +1898,6 @@
     "tag": "Research"
   },
   {
-    "id": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
-    "company": "NVIDIA",
-    "title": "How to Train Scientific Agents with Reinforcement Learning",
-    "date": "2025-12-15T14:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
-    "tag": "Engineering",
-    "summary": "The scientific process can be repetitive and tedious, with researchers spending hours digging through papers, managing experiment workflows, or wrangl"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
     "company": "NVIDIA",
     "title": "Inside NVIDIA Nemotron 3: Techniques, Tools, and Data That Make It Efficient and Accurate",
@@ -1908,6 +1905,15 @@
     "url": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
     "tag": "Engineering",
     "summary": "Agentic AI systems increasingly rely on collections of cooperating agents—retrievers, planners, tool executors, verifiers—working together across larg"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
+    "company": "NVIDIA",
+    "title": "How to Train Scientific Agents with Reinforcement Learning",
+    "date": "2025-12-15T14:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
+    "tag": "Engineering",
+    "summary": "The scientific process can be repetitive and tedious, with researchers spending hours digging through papers, managing experiment workflows, or wrangl"
   },
   {
     "id": "https://developer.nvidia.com/blog/enabling-horizontal-autoscaling-of-enterprise-rag-components-on-kubernetes/",
@@ -1926,6 +1932,17 @@
     "url": "https://developer.nvidia.com/blog/how-to-scale-fast-fourier-transforms-to-exascale-on-modern-nvidia-gpu-architectures/",
     "tag": "Engineering",
     "summary": "Fast Fourier Transforms (FFTs) are widely used across scientific computing, from molecular dynamics and signal processing to computational fluid dynam"
+  },
+  {
+    "id": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
+    "company": "Google DeepMind",
+    "title": "Improved Gemini audio models for powerful voice experiences",
+    "date": "2025-12-12T17:50:50.000Z",
+    "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
+    "tag": "News",
+    "summary": "",
+    "title_ar": "Improved Gemini صوت models for powerful voice experiences",
+    "summary_ar": ""
   },
   {
     "id": "https://developer.nvidia.com/blog/r2d2-improving-robot-manipulation-with-simulation-and-language-models/",
@@ -1971,17 +1988,6 @@
     "url": "https://openai.com/index/bny",
     "tag": "Case Study",
     "summary": "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhanc"
-  },
-  {
-    "id": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
-    "company": "Google DeepMind",
-    "title": "Improved Gemini audio models for powerful voice interactions",
-    "date": "2025-12-12T00:00:00.000Z",
-    "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
-    "tag": "News",
-    "summary": "An upgraded Gemini 2.5 Native Audio model across Google products and live speech translation in the Google Translate app.",
-    "title_ar": "Improved Gemini صوت models for powerful voice interactions",
-    "summary_ar": "An upgraded Gemini 2.5 Native صوت نموذج across Google products and live speech translation in the Google Translate app."
   },
   {
     "id": "https://developer.nvidia.com/blog/nvidia-blackwell-enables-3x-faster-training-and-nearly-2x-training-performance-per-dollar-than-previous-gen-architecture/",
@@ -2483,6 +2489,17 @@
     "summary": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption, embedding frontier research and engineering directly into acc"
   },
   {
+    "id": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+    "company": "Hugging Face",
+    "title": "One-Shot Any Web App with Gradio's gr.HTML",
+    "date": "2025-12-01T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+    "tag": "News",
+    "summary": "We tested this by building different types of apps. Each one is a single Python file, no build step, deployable to Hugging Face Spaces in seconds.",
+    "title_ar": "تحديث رسمي: One-Shot Any Web App with Gradio's gr.HTML",
+    "summary_ar": "We tested this by بناء different types of apps. Each one is a single Python file, no build step, deployable to Hugging Face Spaces in seconds."
+  },
+  {
     "id": "https://huggingface.co/blog/transformers-v5",
     "company": "Hugging Face",
     "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
@@ -2670,23 +2687,34 @@
     "id": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
     "company": "Google DeepMind",
     "title": "How we’re bringing AI image verification to the Gemini app",
-    "date": "2025-11-20T15:00:00.000Z",
+    "date": "2025-11-20T15:13:19.000Z",
     "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
     "tag": "Engineering",
-    "summary": "Our new Gemini app feature allows you to verify Google AI images and determine whether content was created or edited by AI.",
+    "summary": "",
     "title_ar": "تحديث رسمي: How we’re bringing AI image verification to the Gemini app",
-    "summary_ar": "Our جديد Gemini app feature allows you to verify Google AI images and determine whether content was created or edited by AI."
+    "summary_ar": ""
   },
   {
     "id": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
     "company": "Google DeepMind",
     "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
-    "date": "2025-11-20T15:00:00.000Z",
+    "date": "2025-11-20T15:11:14.000Z",
     "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
     "tag": "News",
-    "summary": "Nano Banana Pro, or Gemini 3 Pro Image, is our most advanced image generation and editing model.",
+    "summary": "",
     "title_ar": "Build with Nano Banana Pro, our Gemini 3 Pro Image نموذج",
-    "summary_ar": "Nano Banana Pro, or Gemini 3 Pro Image, is our most advanced image generation and editing نموذج."
+    "summary_ar": ""
+  },
+  {
+    "id": "https://deepmind.google/blog/introducing-nano-banana-pro/",
+    "company": "Google DeepMind",
+    "title": "Introducing Nano Banana Pro",
+    "date": "2025-11-20T15:05:02.000Z",
+    "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
+    "tag": "News",
+    "summary": "",
+    "title_ar": "نُقدم لكم Nano Banana Pro",
+    "summary_ar": ""
   },
   {
     "id": "https://openai.com/index/openai-and-foxconn-collaborate",
@@ -2714,17 +2742,6 @@
     "url": "https://openai.com/index/accelerating-science-gpt-5",
     "tag": "News",
     "summary": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Expl"
-  },
-  {
-    "id": "https://deepmind.google/blog/introducing-nano-banana-pro/",
-    "company": "Google DeepMind",
-    "title": "Introducing Nano Banana Pro",
-    "date": "2025-11-20T00:00:00.000Z",
-    "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
-    "tag": "News",
-    "summary": "Nano Banana Pro is our new image generation and editing model from Google DeepMind.",
-    "title_ar": "نُقدم لكم Nano Banana Pro",
-    "summary_ar": "Nano Banana Pro is our جديد image generation and editing نموذج from Google DeepMind."
   },
   {
     "id": "https://huggingface.co/blog/anylanguagemodel",
@@ -2842,6 +2859,17 @@
     "summary": "At Microsoft Ignite 2025, the vision for an AI-ready enterprise database becomes a reality with the announcement of Microsoft SQL Server 2025, giving "
   },
   {
+    "id": "https://deepmind.google/blog/start-building-with-gemini-3/",
+    "company": "Google DeepMind",
+    "title": "Start building with Gemini 3",
+    "date": "2025-11-18T17:49:13.000Z",
+    "url": "https://deepmind.google/blog/start-building-with-gemini-3/",
+    "tag": "Engineering",
+    "summary": "",
+    "title_ar": "Start بناء with Gemini 3",
+    "summary_ar": ""
+  },
+  {
     "id": "https://deepmind.google/blog/were-expanding-our-presence-in-singapore-to-advance-ai-in-the-asia-pacific-region/",
     "company": "Google DeepMind",
     "title": "We’re expanding our presence in Singapore to advance AI in the Asia-Pacific region",
@@ -2860,15 +2888,26 @@
     "summary": "Almost all manufactured products are enabled by chemistry and materials science. However, new discoveries are costly and time-consuming and often hind"
   },
   {
+    "id": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
+    "company": "Google DeepMind",
+    "title": "A new era of intelligence with Gemini 3",
+    "date": "2025-11-18T16:06:41.000Z",
+    "url": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
+    "tag": "News",
+    "summary": "",
+    "title_ar": "A جديد era of ذكاء with Gemini 3",
+    "summary_ar": ""
+  },
+  {
     "id": "https://deepmind.google/blog/introducing-google-antigravity/",
     "company": "Google DeepMind",
-    "title": "Google Antigravity",
+    "title": "Introducing Google Antigravity",
     "date": "2025-11-18T16:06:32.000Z",
     "url": "https://deepmind.google/blog/introducing-google-antigravity/",
     "tag": "News",
-    "summary": "Google Antigravity - Build the new way",
-    "title_ar": "تحديث رسمي: Google Antigravity",
-    "summary_ar": "Google Antigravity - Build the جديد way"
+    "summary": "",
+    "title_ar": "نُقدم لكم Google Antigravity",
+    "summary_ar": ""
   },
   {
     "id": "https://openai.com/index/intuit-partnership",
@@ -2878,28 +2917,6 @@
     "url": "https://openai.com/index/intuit-partnership",
     "tag": "Corporate",
     "summary": "OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit app experiences in ChatGPT and expand Intuit’s use of OpenAI’s frontie"
-  },
-  {
-    "id": "https://deepmind.google/blog/start-building-with-gemini-3/",
-    "company": "Google DeepMind",
-    "title": "Start building with Gemini 3",
-    "date": "2025-11-18T00:00:00.000Z",
-    "url": "https://deepmind.google/blog/start-building-with-gemini-3/",
-    "tag": "Engineering",
-    "summary": "Gemini 3 is introducing advanced agentic coding capabilities, plus Google Antigravity, a new agentic development platform.",
-    "title_ar": "Start بناء with Gemini 3",
-    "summary_ar": "Gemini 3 is نُقدم لكم advanced agentic coding capabilities, plus Google Antigravity, a جديد agentic development منصة."
-  },
-  {
-    "id": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
-    "company": "Google DeepMind",
-    "title": "A new era of intelligence with Gemini 3",
-    "date": "2025-11-18T00:00:00.000Z",
-    "url": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
-    "tag": "News",
-    "summary": "Today we’re releasing Gemini 3 – our most intelligent model that helps you bring any idea to life.",
-    "title_ar": "A جديد era of ذكاء with Gemini 3",
-    "summary_ar": "Today we’re releasing Gemini 3 – our most intelligent نموذج that helps you bring any idea to life."
   },
   {
     "id": "https://developer.nvidia.com/blog/nvidia-nvqlink-architecture-integrates-accelerated-computing-with-quantum-processors/",
@@ -2970,15 +2987,6 @@
     "url": "https://developer.nvidia.com/blog/achieve-cutlass-c-performance-with-python-apis-using-cute-dsl/",
     "tag": "Engineering",
     "summary": "CuTe, a core component of CUTLASS 3.x, provides a unified algebra for describing data layouts and thread mappings, and abstracts complex memory access"
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/how-to-get-started-with-neural-shading-for-your-game-or-application/",
-    "company": "NVIDIA",
-    "title": "How to Get Started with Neural Shading for Your Game or Application",
-    "date": "2025-11-13T19:55:28.000Z",
-    "url": "https://developer.nvidia.com/blog/how-to-get-started-with-neural-shading-for-your-game-or-application/",
-    "tag": "Research",
-    "summary": "For the past 25 years, real-time rendering has been driven by continuous hardware improvements. The goal has always been to create the highest fidelit"
   },
   {
     "id": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
