@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/topping-the-gpu-mode-kernel-leaderboard-with-nvidia-cuda-compute/",
+    "company": "NVIDIA",
+    "title": "Topping the GPU MODE Kernel Leaderboard with NVIDIA cuda.compute",
+    "date": "2026-02-18T17:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/topping-the-gpu-mode-kernel-leaderboard-with-nvidia-cuda-compute/",
+    "tag": "Engineering",
+    "summary": "Python dominates machine learning for its ergonomics, but writing truly fast GPU code has historically meant dropping into C++ to write custom kernels"
+  },
+  {
     "id": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
     "company": "Google DeepMind",
     "title": "A new way to express yourself: Gemini can now create music",
@@ -2988,15 +2997,6 @@
     "url": "https://openai.com/index/understanding-neural-networks-through-sparse-circuits",
     "tag": "Research",
     "summary": "OpenAI is exploring mechanistic interpretability to understand how neural networks reason. Our new sparse model approach could make AI systems more tr"
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/nvidia-blackwell-architecture-sweeps-mlperf-training-v5-1-benchmarks/",
-    "company": "NVIDIA",
-    "title": "NVIDIA Blackwell Architecture Sweeps MLPerf Training v5.1 Benchmarks",
-    "date": "2025-11-13T00:08:00.000Z",
-    "url": "https://developer.nvidia.com/blog/nvidia-blackwell-architecture-sweeps-mlperf-training-v5-1-benchmarks/",
-    "tag": "Engineering",
-    "summary": "The NVIDIA Blackwell architecture powered the fastest time to train across every MLPerf Training v5.1 benchmark, marking a clean sweep in the latest r"
   },
   {
     "id": "https://openai.com/index/gpt-5-1-for-developers",
