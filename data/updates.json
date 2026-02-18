@@ -9,15 +9,6 @@
     "summary": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages,"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49518",
-    "company": "Microsoft",
-    "title": "Azure reliability, resiliency, and recoverability: Build continuity by design",
-    "date": "2026-02-17T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
-    "tag": "News",
-    "summary": "Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confi"
-  },
-  {
     "id": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
     "company": "Google DeepMind",
     "title": "Accelerating discovery in India through AI-powered science and education",
@@ -1126,6 +1117,15 @@
     "url": "https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning/",
     "tag": "Engineering",
     "summary": "What if your computer-use agent could learn a new Command Line Interface (CLI)—and operate it safely without ever writing files or free-typing shell c"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49203",
+    "company": "Microsoft",
+    "title": "Chart your AI and agent strategy with Microsoft Marketplace",
+    "date": "2026-01-15T16:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/",
+    "tag": "News",
+    "summary": "A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unloc"
   },
   {
     "id": "https://openai.com/index/investing-in-merge-labs",
