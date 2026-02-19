@@ -4662,13 +4662,5 @@
     "url": "https://openai.com/index/mixi",
     "tag": "News",
     "summary": "Discover how MIXI, a leader in digital entertainment and lifestyle services in Japan, uses ChatGPT Enterprise to transform productivity, boost AI adop"
-  },
-  {
-    "id": "https://huggingface.co/blog/claude-and-mcp",
-    "company": "Hugging Face",
-    "title": "Generate Images with Claude and Hugging Face",
-    "date": "2025-08-19T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/claude-and-mcp",
-    "tag": "News"
   }
 ]
