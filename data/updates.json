@@ -223,17 +223,6 @@
     "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users."
   },
   {
-    "id": "https://www.anthropic.com/news/anthropic-codepath-partnership",
-    "company": "Anthropic",
-    "title": "Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
-    "date": "2026-02-12T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/anthropic-codepath-partnership",
-    "tag": "Corporate",
-    "summary": "Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshap...",
-    "title_ar": "تحديث رسمي: Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
-    "summary_ar": "تحديث رسمي: Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshap..."
-  },
-  {
     "id": {
       "$": {
         "isPermaLink": "false"
