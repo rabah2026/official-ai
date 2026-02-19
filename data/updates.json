@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "company": "Google DeepMind",
+    "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+    "date": "2026-02-19T16:06:14.000Z",
+    "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "tag": "News",
+    "summary": "3.1 Pro is designed for tasks where a simple answer isn’t enough."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
     "company": "Hugging Face",
     "title": "「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速",
