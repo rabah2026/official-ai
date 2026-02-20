@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://huggingface.co/blog/unsloth-jobs",
+    "company": "Hugging Face",
+    "title": "Train AI models with Unsloth an",
+    "date": "2026-02-20T12:11:13.000Z",
+    "url": "https://huggingface.co/blog/unsloth-jobs",
+    "tag": "Research",
+    "summary": "Why a small model? Small language models like LFM2.5-1.2B-Instruct are ideal candidates for fine-tuning. They are cheap to train, fast to iterate on, and inc...",
+    "title_ar": "تحديث رسمي: Train AI models with Unsloth an",
+    "summary_ar": "Why a small نموذج? Small لغة models like LFM2.5-1.2B-Instruct are ideal candidates for fine-tuning. They are cheap to train, fast to iterate on, and inc..."
+  },
+  {
     "id": "https://developer.nvidia.com/blog/accelerating-data-processing-with-nvidia-multi-instance-gpu-and-numa-node-localization/",
     "company": "NVIDIA",
     "title": "Accelerating Data Processing with NVIDIA Multi-Instance GPU and NUMA Node Localization",
@@ -210,6 +221,17 @@
     "summary": "The Government of Rwanda and Anthropic have signed a three-year Memorandum of Understanding to formalize and expand our partnership, bringing AI to Rwanda’s ...",
     "title_ar": "تحديث رسمي: Anthropic and the Government of Rwanda sign MOU for AI in health and education",
     "summary_ar": "The Government of Rwanda and Anthropic have signed a three-year Memorandum of Understanding to formalize and expand our شراكة, bringing AI to Rwanda’s ..."
+  },
+  {
+    "id": "https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board",
+    "company": "Anthropic",
+    "title": "Chris Liddell appointed t",
+    "date": "2026-02-13T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board",
+    "tag": "Corporate",
+    "summary": "Chris Liddell has been appointed to Anthropic’s Board of Directors. He brings over 30 years of senior leadership experience across some of the world's larges...",
+    "title_ar": "تحديث رسمي: Chris Liddell appointed t",
+    "summary_ar": "تحديث رسمي: Chris Liddell has been appointed to Anthropic’s Board of Directors. He brings over 30 years of senior leadership experience across some of the world's larges..."
   },
   {
     "id": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
@@ -2117,17 +2139,6 @@
     "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
     "tag": "News",
     "summary": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that desc"
-  },
-  {
-    "id": "https://huggingface.co/blog/unsloth-jobs",
-    "company": "Hugging Face",
-    "title": "Train AI models with Unsloth an",
-    "date": "2025-12-11T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/unsloth-jobs",
-    "tag": "Research",
-    "summary": "Why a small model? Small language models like LFM2.5-1.2B-Instruct are ideal candidates for fine-tuning. They are cheap to train, fast to iterate on, and inc...",
-    "title_ar": "تحديث رسمي: Train AI models with Unsloth an",
-    "summary_ar": "Why a small نموذج? Small لغة models like LFM2.5-1.2B-Instruct are ideal candidates for fine-tuning. They are cheap to train, fast to iterate on, and inc..."
   },
   {
     "id": "https://huggingface.co/blog/hf-skills-training-codex",
