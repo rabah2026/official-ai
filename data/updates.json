@@ -62,15 +62,6 @@
     "summary": "NVIDIA flagship data center GPUs in the NVIDIA Ampere, NVIDIA Hopper, and NVIDIA Blackwell families all feature non-uniform memory access (NUMA) behav"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49566",
-    "company": "Microsoft",
-    "title": "Introducing Budget Bytes: Build powerful AI apps for under $25",
-    "date": "2026-02-19T17:02:52.000Z",
-    "url": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
-    "tag": "News",
-    "summary": "Budget Bytes is a new series is designed to inspire developers to build affordable, production-quality AI applications on Azure with a budget of $25 o"
-  },
-  {
     "id": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
     "company": "Google DeepMind",
     "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
@@ -156,15 +147,6 @@
     "summary_ar": "تحديث رسمي: ITBench HF Space\nITBench HF Dataset\nMAST HF Dataset\nITBench Github\nMAST Github"
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49561",
-    "company": "Microsoft",
-    "title": "Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale",
-    "date": "2026-02-17T20:11:10.000Z",
-    "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873",
-    "tag": "Engineering",
-    "summary": "Claude Sonnet 4.6 is available today in Microsoft Foundry, and it is designed for teams who want frontier performance across coding, agents, and profe"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
     "company": "NVIDIA",
     "title": "Build AI-Ready Knowledge Systems Using 5 Essential Multimodal RAG Capabilities",
@@ -172,15 +154,6 @@
     "url": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
     "tag": "Engineering",
     "summary": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages,"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49518",
-    "company": "Microsoft",
-    "title": "Azure reliability, resiliency, and recoverability: Build continuity by design",
-    "date": "2026-02-17T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
-    "tag": "News",
-    "summary": "Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confi"
   },
   {
     "id": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
@@ -312,15 +285,6 @@
     "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges."
   },
   {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49448",
-    "company": "Microsoft",
-    "title": "The data behind the design: How Pantone built agentic AI with an AI-ready database",
-    "date": "2026-02-12T16:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/",
-    "tag": "News",
-    "summary": "Learn about an AI-powered experience launched as a minimum viable product to gather real user feedback and iterate rapidly.\nThe post The data behind t"
-  },
-  {
     "id": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
     "company": "OpenAI",
     "title": "Introducing GPT-5.3-Codex-Spark",
@@ -339,15 +303,6 @@
     "summary": "Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshap...",
     "title_ar": "تحديث رسمي: Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
     "summary_ar": "تحديث رسمي: Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshap..."
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49477",
-    "company": "Microsoft",
-    "title": "Agentic cloud operations: A new way to run the cloud",
-    "date": "2026-02-11T22:00:00.000Z",
-    "url": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
-    "tag": "News",
-    "summary": "While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and co"
   },
   {
     "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:6986ccac83d7eb240f110bae",
@@ -997,6 +952,15 @@
     "summary": "Deploying AI applications across diverse consumer hardware has traditionally forced a trade-off. You can optimize for specific GPU configurations and "
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49341",
+    "company": "Microsoft",
+    "title": "Maia 200: The AI accelerator built for inference",
+    "date": "2026-01-26T16:12:24.000Z",
+    "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+    "tag": "Engineering",
+    "summary": "Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/how-to-unlock-local-detail-in-coarse-climate-projections-with-nvidia-earth-2/",
     "company": "NVIDIA",
     "title": "How to Unlock Local Detail in Coarse Climate Projections with NVIDIA Earth-2",
@@ -1031,6 +995,15 @@
     "url": "https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/",
     "tag": "Engineering",
     "summary": "In 2025, NVIDIA partnered with Black Forest Labs (BFL) to optimize the FLUX.1 text-to-image model series, unlocking FP4 image generation performance o"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49261",
+    "company": "Microsoft",
+    "title": "Beyond boundaries: The future of Azure Storage in 2026",
+    "date": "2026-01-22T17:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
+    "tag": "News",
+    "summary": "2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.\nThe post Beyon"
   },
   {
     "id": "https://openai.com/index/scaling-postgresql",
@@ -1236,6 +1209,15 @@
     "summary": "What if your computer-use agent could learn a new Command Line Interface (CLI)—and operate it safely without ever writing files or free-typing shell c"
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49203",
+    "company": "Microsoft",
+    "title": "Chart your AI and agent strategy with Microsoft Marketplace",
+    "date": "2026-01-15T16:00:00.000Z",
+    "url": "https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/",
+    "tag": "News",
+    "summary": "A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unloc"
+  },
+  {
     "id": "https://openai.com/index/investing-in-merge-labs",
     "company": "OpenAI",
     "title": "Investing in Merge Labs",
@@ -1269,6 +1251,15 @@
     "url": "https://developer.nvidia.com/blog/how-to-write-high-performance-matrix-multiply-in-nvidia-cuda-tile/",
     "tag": "Engineering",
     "summary": "This blog post is part of a series designed to help developers learn NVIDIA CUDA Tile programming for building high-performance GPU kernels, using mat"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49245",
+    "company": "Microsoft",
+    "title": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms",
+    "date": "2026-01-14T17:00:00.000Z",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/",
+    "tag": "Security",
+    "summary": "Microsoft is honored to be named a Leader in the 2025–2026 IDC MarketScape for Unified AI Governance Platforms, highlighting our commitment to making "
   },
   {
     "id": "https://openai.com/index/cerebras-partnership",
@@ -1323,6 +1314,15 @@
     "url": "https://openai.com/index/openai-raising-concerns-policy",
     "tag": "Policy",
     "summary": "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures."
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49212",
+    "company": "Microsoft",
+    "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
+    "date": "2026-01-11T22:00:00.000Z",
+    "url": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
+    "tag": "News",
+    "summary": "We’re excited to announce that Anthropic has added new tools, connectors, and skills that allow Claude in Microsoft Foundry to bring advanced reasonin"
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.15.0",
