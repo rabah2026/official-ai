@@ -292,6 +292,17 @@
     "summary_ar": "The Government of Rwanda and Anthropic have signed a three-year Memorandum of Understanding to formalize and expand our شراكة, bringing AI to Rwanda’s ..."
   },
   {
+    "id": "https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board",
+    "company": "Anthropic",
+    "title": "Chris Liddell appointed t",
+    "date": "2026-02-13T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board",
+    "tag": "Corporate",
+    "summary": "Chris Liddell has been appointed to Anthropic’s Board of Directors. He brings over 30 years of senior leadership experience across some of the world's larges...",
+    "title_ar": "تحديث رسمي: Chris Liddell appointed t",
+    "summary_ar": "تحديث رسمي: Chris Liddell has been appointed to Anthropic’s Board of Directors. He brings over 30 years of senior leadership experience across some of the world's larges..."
+  },
+  {
     "id": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
     "company": "Google DeepMind",
     "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
@@ -4672,14 +4683,5 @@
     "url": "https://openai.com/global-affairs/learning-accelerator",
     "tag": "News",
     "summary": "OpenAI announces the launch of OpenAI Learning Accelerator, an initiative that aims to bring advanced AI to India’s educators and millions of learners"
-  },
-  {
-    "id": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences",
-    "company": "OpenAI",
-    "title": "Accelerating life sciences research",
-    "date": "2025-08-22T08:30:00.000Z",
-    "url": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences",
-    "tag": "Research",
-    "summary": "Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effective proteins for stem cell therapy and longevity re"
   }
 ]
