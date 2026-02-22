@@ -183,6 +183,17 @@
     "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education"
   },
   {
+    "id": "https://www.anthropic.com/news/anthropic-infosys",
+    "company": "Anthropic",
+    "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+    "date": "2026-02-17T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-infosys",
+    "tag": "News",
+    "summary": "Anthropic and Infosys, a global leader in next-generation digital services and consulting founded and headquartered in Bengaluru, today announced a collabora...",
+    "title_ar": "تحديث رسمي: Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+    "summary_ar": "Anthropic and Infosys, a عالمي leader in next-generation digital services and consulting founded and headquartered in Bengaluru, today announced a collabora..."
+  },
+  {
     "id": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
     "company": "Hugging Face",
     "title": "Custom Kernels for All from Codex and Claude",
@@ -203,6 +214,17 @@
     "summary": "Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design. ",
     "title_ar": "نُقدم لكم Sonnet 4.6",
     "summary_ar": "Claude Sonnet 4.6 is a full upgrade of the نموذج’s skills across coding, computer use, long-reasoning, وكيل planning, knowledge work, and design. "
+  },
+  {
+    "id": "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
+    "company": "Anthropic",
+    "title": "Anthropic opens Bengaluru office and announces new partnerships across India",
+    "date": "2026-02-15T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
+    "tag": "News",
+    "summary": "India is the second-largest market for Claude.ai, home to a developer community doing some of the most technically intense AI work we see anywhere. Nearly ha...",
+    "title_ar": "Anthropic opens Bengaluru office and announces جديد partnerships across India",
+    "summary_ar": "India is the second-largest market for Claude.ai, home to a مطور community doing some of the most technically intense AI work we see anywhere. Nearly ha..."
   },
   {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.21.0",
