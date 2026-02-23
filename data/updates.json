@@ -225,17 +225,6 @@
     "summary_ar": "Claude Sonnet 4.6 is a full upgrade of the نموذج’s skills across coding, computer use, long-reasoning, وكيل planning, knowledge work, and design. "
   },
   {
-    "id": "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
-    "company": "Anthropic",
-    "title": "Anthropic opens Bengaluru office and announces new partnerships across India",
-    "date": "2026-02-15T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
-    "tag": "News",
-    "summary": "India is the second-largest market for Claude.ai, home to a developer community doing some of the most technically intense AI work we see anywhere. Nearly ha...",
-    "title_ar": "Anthropic opens Bengaluru office and announces جديد partnerships across India",
-    "summary_ar": "India is the second-largest market for Claude.ai, home to a مطور community doing some of the most technically intense AI work we see anywhere. Nearly ha..."
-  },
-  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.21.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.21.0",
