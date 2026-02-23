@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://github.com/openai/openai-python/releases/tag/v2.22.0",
+    "company": "OpenAI",
+    "title": "OpenAI Python Library v2.22.0",
+    "date": "2026-02-23T20:13:52.000Z",
+    "url": "https://github.com/openai/openai-python/releases/tag/v2.22.0",
+    "tag": "Release",
+    "summary": "2.22.0 (2026-02-23)\nFull Changelog: v2.21.0...v2.22.0\nFeatures\napi: websockets for responses api (c01f6fb)\nChores\ninternal: add request options to SSE"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/using-nvfp4-low-precision-model-training-for-higher-throughput-without-losing-accuracy/",
     "company": "NVIDIA",
     "title": "Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy",
@@ -1980,15 +1989,6 @@
     "url": "https://developer.nvidia.com/blog/nvidia-gpu-accelerated-sirius-achieves-record-setting-clickbench-record/",
     "tag": "Engineering",
     "summary": "Sirius, an open-source GPU native SQL engine, achieved a new performance record on Clickbench—a widely used analytics benchmark. Developed by Universi"
-  },
-  {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.12.0",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.12.0",
-    "date": "2025-12-15T16:16:32.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.12.0",
-    "tag": "Release",
-    "summary": "2.12.0 (2025-12-15)\nFull Changelog: v2.11.0...v2.12.0\nFeatures\napi: api update (a95c4d0)\napi: fix grader input list, add dated slugs for sora-2 (b2c38"
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
