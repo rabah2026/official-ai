@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://github.com/openai/openai-python/releases/tag/v2.24.0",
+    "company": "OpenAI",
+    "title": "OpenAI Python Library v2.24.0",
+    "date": "2026-02-24T20:01:29.000Z",
+    "url": "https://github.com/openai/openai-python/releases/tag/v2.24.0",
+    "tag": "Release",
+    "summary": "2.24.0 (2026-02-24)\nFull Changelog: v2.23.0...v2.24.0\nFeatures\napi: add phase (391deb9)\nBug Fixes\napi: fix phase enum (42ebf7c)\napi: phase docs (7ddc6"
+  },
+  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.23.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.23.0",
@@ -54,6 +63,17 @@
     "url": "https://openai.com/index/frontier-alliance-partners",
     "tag": "News",
     "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments."
+  },
+  {
+    "id": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+    "company": "Anthropic",
+    "title": "Responsible Scaling Policy Version 3.0",
+    "date": "2026-02-23T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+    "tag": "Policy",
+    "summary": "An update to Anthropic's policy to mitigate catastrophic risks from AI",
+    "title_ar": "Responsible توسيع نطاق سياسة Version 3.0",
+    "summary_ar": "An تحديث to Anthropic's سياسة to mitigate catastrophic risks from AI"
   },
   {
     "id": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
@@ -382,17 +402,6 @@
     "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
     "tag": "Release",
     "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users."
-  },
-  {
-    "id": "https://www.anthropic.com/news/anthropic-codepath-partnership",
-    "company": "Anthropic",
-    "title": "Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
-    "date": "2026-02-12T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/anthropic-codepath-partnership",
-    "tag": "Corporate",
-    "summary": "Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshap...",
-    "title_ar": "تحديث رسمي: Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
-    "summary_ar": "تحديث رسمي: Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshap..."
   },
   {
     "id": "https://azure.microsoft.com/en-us/blog/?p=49477",
@@ -1679,15 +1688,6 @@
     "url": "https://developer.nvidia.com/blog/accelerating-ai-powered-chemistry-and-materials-science-simulations-with-nvidia-alchemi-toolkit-ops/",
     "tag": "Engineering",
     "summary": "Machine learning interatomic potentials (MLIPs) are transforming the landscape of computational chemistry and materials science. MLIPs enable atomisti"
-  },
-  {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.14.0",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.14.0",
-    "date": "2025-12-19T03:28:06.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.14.0",
-    "tag": "Release",
-    "summary": "2.14.0 (2025-12-19)\nFull Changelog: v2.13.0...v2.14.0\nFeatures\napi: slugs for new audio models; make all model params accept strings (e517792)\nBug Fix"
   },
   {
     "id": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
