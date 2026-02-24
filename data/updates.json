@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
+    "company": "Hugging Face",
+    "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+    "date": "2026-02-24T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
+    "tag": "News",
+    "summary": "The rapid evolution of reasoning accuracy and efficiency has made these models ideal for edge devices. The NVIDIA Jetson family, ranging from the high-perfor...",
+    "title_ar": "Deploying مصدر مفتوح رؤية لغة Models (VLM) on Jetson",
+    "summary_ar": "تحديث رسمي: The rapid evolution of reasoning accuracy and efficiency has made these models ideal for edge devices. The NVIDIA Jetson family, ranging from the high-perfor..."
+  },
+  {
     "id": "https://github.com/openai/openai-python/releases/tag/v2.22.0",
     "company": "OpenAI",
     "title": "OpenAI Python Library v2.22.0",
@@ -134,17 +145,6 @@
     "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
     "tag": "Research",
     "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and securi"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
-    "company": "Hugging Face",
-    "title": "「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速",
-    "date": "2026-02-19T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
-    "tag": "News",
-    "summary": "この課題は、日本語と日本文化を理解する AI システムを構築する開発者にとって特に深刻です。英語の学習データは豊富にある一方で、日本の開発者は慢性的なデータ不足という問題に直面しています。高性能なモデルを初期段階から立ち上げるための、タスクに特化し、かつ日本の文化に根ざしたデータが圧倒的に不足しているのです。新し...",
-    "title_ar": "تحديث رسمي: 「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速",
-    "summary_ar": "تحديث رسمي: この課題は、日本語と日本文化を理解する AI システムを構築する開発者にとって特に深刻です。英語の学習データは豊富にある一方で、日本の開発者は慢性的なデータ不足という問題に直面しています。高性能なモデルを初期段階から立ち上げるための、タスクに特化し、かつ日本の文化に根ざしたデータが圧倒的に不足しているのです。新し..."
   },
   {
     "id": "https://openai.com/index/openai-for-india",
