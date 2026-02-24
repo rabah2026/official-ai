@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://github.com/openai/openai-python/releases/tag/v2.23.0",
+    "company": "OpenAI",
+    "title": "OpenAI Python Library v2.23.0",
+    "date": "2026-02-24T03:19:39.000Z",
+    "url": "https://github.com/openai/openai-python/releases/tag/v2.23.0",
+    "tag": "Release",
+    "summary": "2.23.0 (2026-02-24)\nFull Changelog: v2.22.0...v2.23.0\nFeatures\napi: add gpt-realtime-1.5 and gpt-audio-1.5 model options to realtime calls (3300b61)\nC"
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
     "company": "Hugging Face",
     "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
@@ -118,15 +127,6 @@
     "url": "https://developer.nvidia.com/blog/accelerating-data-processing-with-nvidia-multi-instance-gpu-and-numa-node-localization/",
     "tag": "Engineering",
     "summary": "NVIDIA flagship data center GPUs in the NVIDIA Ampere, NVIDIA Hopper, and NVIDIA Blackwell families all feature non-uniform memory access (NUMA) behav"
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=49566",
-    "company": "Microsoft",
-    "title": "Introducing Budget Bytes: Build powerful AI apps for under $25",
-    "date": "2026-02-19T17:02:52.000Z",
-    "url": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
-    "tag": "News",
-    "summary": "Budget Bytes is a new series is designed to inspire developers to build affordable, production-quality AI applications on Azure with a budget of $25 o"
   },
   {
     "id": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
@@ -1042,6 +1042,15 @@
     "summary": "Deploying AI applications across diverse consumer hardware has traditionally forced a trade-off. You can optimize for specific GPU configurations and "
   },
   {
+    "id": "https://azure.microsoft.com/en-us/blog/?p=49341",
+    "company": "Microsoft",
+    "title": "Maia 200: The AI accelerator built for inference",
+    "date": "2026-01-26T16:12:24.000Z",
+    "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+    "tag": "Engineering",
+    "summary": "Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/how-to-unlock-local-detail-in-coarse-climate-projections-with-nvidia-earth-2/",
     "company": "NVIDIA",
     "title": "How to Unlock Local Detail in Coarse Climate Projections with NVIDIA Earth-2",
@@ -1888,15 +1897,6 @@
     "url": "https://developer.nvidia.com/blog/accelerating-long-context-inference-with-skip-softmax-in-nvidia-tensorrt-llm/",
     "tag": "Engineering",
     "summary": "For machine learning engineers deploying LLMs at scale, the equation is familiar and unforgiving: as context length increases, attention computation c"
-  },
-  {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.13.0",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.13.0",
-    "date": "2025-12-16T18:19:05.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.13.0",
-    "tag": "Release",
-    "summary": "2.13.0 (2025-12-16)\nFull Changelog: v2.12.0...v2.13.0\nFeatures\napi: gpt-image-1.5 (1c88f03)\nChores\nci: add CI job to detect breaking changes with the "
   },
   {
     "id": "https://developer.nvidia.com/blog/advanced-large-scale-quantum-simulation-techniques-in-cuquantum-sdk-v25-11/",
