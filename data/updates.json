@@ -45,6 +45,18 @@
     "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defens"
   },
   {
+    "id": "https://openai.com/index/clay",
+    "company": "OpenAI",
+    "title": "Achieving 10x growth with agentic sales prospecting",
+    "date": "2026-02-25T00:00:00.000Z",
+    "url": "https://openai.com/index/clay",
+    "tag": "News",
+    "summary": "Successful go-to-market (GTM) teams need comprehensive, high-quality data, but the process of gathering, validating, and enriching this data is typically fra...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4Be6hS2uGAdf7uyykrUBQP/811be8599d939e7d7c8e7e36ebb347bf/Clay.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Achieving 10x growth with agentic sales prospecting",
+    "summary_ar": "تحديث رسمي: Successful go-to-market (GTM) teams need comprehensive, high-quality data, but the process of gathering, validating, and enriching this data is typically fra..."
+  },
+  {
     "id": "https://openai.com/index/openai-board-forms-safety-and-security-committee",
     "company": "OpenAI",
     "title": "OpenAI Board Forms Safety and Security Committee",
@@ -69,6 +81,18 @@
     "summary_ar": "Jakub is the Chief Scientist at OpenAI, where he has led transformative أبحاث initiatives since 2017. He previously served as Director of أبحاث spearhe..."
   },
   {
+    "id": "https://openai.com/global-affairs/openai-technology-explained",
+    "company": "OpenAI",
+    "title": "OpenAI’s technology explained",
+    "date": "2026-02-25T00:00:00.000Z",
+    "url": "https://openai.com/global-affairs/openai-technology-explained",
+    "tag": "News",
+    "summary": "OpenAI was created as a nonprofit in 2015 to ensure that artificial general intelligence—in short⁠, AI that’s at least as smart as a person—benefits all of h...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/06e7433c-f8d3-4197-64cc6ba74649/07cc9c9b6d3dc2b988864e398cb1b2c0/image_4.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: OpenAI’s technology explained",
+    "summary_ar": "OpenAI was created as a nonprofit in 2015 to ensure that اصطناعي general ذكاء—in short⁠, AI that’s at least as smart as a person—benefits all of h..."
+  },
+  {
     "id": "https://www.anthropic.com/news/acquires-vercept",
     "company": "Anthropic",
     "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
@@ -81,13 +105,13 @@
     "summary_ar": "People are using Claude for increasingly complex work—writing and running code across entire repositories, synthesizing أبحاث from dozens of sources, and ..."
   },
   {
-    "id": "automated-recycling-identification-system",
+    "id": "constructive-circuit-amplification",
     "company": "Apple",
-    "title": "A.R.I.S.: Automated Recycling Identification System for E-Waste Classification Using Deep Learning",
+    "title": "Constructive Circuit Amplification: Improving Math Reasoning in LLMs via Targeted Sub-Network Updates",
     "date": "2026-02-25T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/automated-recycling-identification-system",
+    "url": "https://machinelearning.apple.com/research/constructive-circuit-amplification",
     "tag": "Research",
-    "summary": "Traditional electronic recycling processes suffer from significant resource loss due to inadequate material separation and identification capabilities"
+    "summary": "Prior studies investigating the internal workings of LLMs have uncovered sparse subnetworks, often referred to as circuits, that are responsible for p"
   },
   {
     "id": "closing-the-gap",
@@ -97,6 +121,15 @@
     "url": "https://machinelearning.apple.com/research/closing-the-gap",
     "tag": "Research",
     "summary": "Large Language Models (LLMs) can be adapted to extend their text capabilities to speech inputs. However, these speech-adapted LLMs consistently underp"
+  },
+  {
+    "id": "automated-recycling-identification-system",
+    "company": "Apple",
+    "title": "A.R.I.S.: Automated Recycling Identification System for E-Waste Classification Using Deep Learning",
+    "date": "2026-02-25T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/automated-recycling-identification-system",
+    "tag": "Research",
+    "summary": "Traditional electronic recycling processes suffer from significant resource loss due to inadequate material separation and identification capabilities"
   },
   {
     "id": "5a530267af19ba99525397189d16214bb54387f6",
@@ -165,13 +198,13 @@
     "summary_ar": "تحديث رسمي: The rapid evolution of reasoning accuracy and efficiency has made these models ideal for edge devices. The NVIDIA Jetson family, ranging from the high-perfor..."
   },
   {
-    "id": "cot",
+    "id": "beyond-a-single-extractor",
     "company": "Apple",
-    "title": "The Potential of CoT for Reasoning: A Closer Look at Trace Dynamics",
+    "title": "Beyond a Single Extractor: Re-thinking HTML-to-Text Extraction for LLM Pretraining",
     "date": "2026-02-24T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/cot",
+    "url": "https://machinelearning.apple.com/research/beyond-a-single-extractor",
     "tag": "Research",
-    "summary": "Chain-of-thought (CoT) prompting is a de-facto standard technique to elicit reasoning-like responses from large language models (LLMs), allowing them "
+    "summary": "One of the first pre-processing steps for constructing web-scale LLM pretraining datasets involves extracting text from HTML. Despite the immense dive"
   },
   {
     "id": "amuse",
@@ -183,13 +216,13 @@
     "summary": "Recent multimodal large language models (MLLMs) such as GPT-4o and Qwen3-Omni show strong perception but struggle in multi-speaker, dialogue-centric s"
   },
   {
-    "id": "beyond-a-single-extractor",
+    "id": "cot",
     "company": "Apple",
-    "title": "Beyond a Single Extractor: Re-thinking HTML-to-Text Extraction for LLM Pretraining",
+    "title": "The Potential of CoT for Reasoning: A Closer Look at Trace Dynamics",
     "date": "2026-02-24T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/beyond-a-single-extractor",
+    "url": "https://machinelearning.apple.com/research/cot",
     "tag": "Research",
-    "summary": "One of the first pre-processing steps for constructing web-scale LLM pretraining datasets involves extracting text from HTML. Despite the immense dive"
+    "summary": "Chain-of-thought (CoT) prompting is a de-facto standard technique to elicit reasoning-like responses from large language models (LLMs), allowing them "
   },
   {
     "id": "depyf-open",
@@ -288,15 +321,6 @@
     "summary_ar": "تحديث رسمي: We have identified industrial-scale campaigns by three AI laboratories—DeepSeek, Moonshot, and MiniMax—to illicitly extract Claude’s capabilities to improve ..."
   },
   {
-    "id": "reasoning-workshop-2025",
-    "company": "Apple",
-    "title": "Apple Workshop on Reasoning and Planning 2025",
-    "date": "2026-02-23T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/updates/reasoning-workshop-2025",
-    "tag": "News",
-    "summary": "Reasoning and planning are the bedrock of intelligent AI systems, enabling them to plan, interact, adapt, and ultimately, operate independently. At Ap"
-  },
-  {
     "id": "evict",
     "company": "Apple",
     "title": "Learning to Evict from Key-Value Cache",
@@ -304,6 +328,15 @@
     "url": "https://machinelearning.apple.com/research/evict",
     "tag": "Research",
     "summary": "The growing size of Large Language Models (LLMs) makes efficient inference challenging, primarily due to the memory demands of the autoregressive Key-"
+  },
+  {
+    "id": "reasoning-workshop-2025",
+    "company": "Apple",
+    "title": "Apple Workshop on Reasoning and Planning 2025",
+    "date": "2026-02-23T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/updates/reasoning-workshop-2025",
+    "tag": "News",
+    "summary": "Reasoning and planning are the bedrock of intelligent AI systems, enabling them to plan, interact, adapt, and ultimately, operate independently. At Ap"
   },
   {
     "id": "https://huggingface.co/blog/openenv-turing",
@@ -603,15 +636,6 @@
     "summary_ar": "Anthropic and Infosys, a عالمي leader in next-generation digital services and consulting founded and headquartered in Bengaluru, today announced a collabora..."
   },
   {
-    "id": "correctness",
-    "company": "Apple",
-    "title": "Models That Prove Their Own Correctness",
-    "date": "2026-02-17T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/correctness",
-    "tag": "Research",
-    "summary": "How can we trust the correctness of a learned model on a particular input of interest? Model accuracy is typically measured on average over a distribu"
-  },
-  {
     "id": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
     "company": "Hugging Face",
     "title": "Custom Kernels for All from Codex and Claude",
@@ -847,7 +871,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=tmEKszG6UgcQ7kNvwHO5BUd&_nc_oc=AdnpmjiCUso9zmsr1Cuo-ZLfyKhmB5P0AlpX8IVuWKzDxakF8OyyxFYOAmxiaceuHC8&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=rOtamy76nezzB0CKGPnY2g&oh=00_AftcvN4RTgTGY4qpIyl29NtbsFS5MjVrfmDluvCNTDEdBA&oe=69B9B0FF",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=tmEKszG6UgcQ7kNvwGxhmkm&_nc_oc=Adl5VhD09i7nX8h6inaRgFn7rXPGM1Vlm46MmrdRbdiiPkn5NUl9W6zHw1hRViMqubU&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=n6rM_WrbGIABSDpKG1Nf3w&oh=00_Afu3WI02exdnQuI6793anAU_NTFJgDVRq5EttRnnwwLLoA&oe=69B9B0FF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2102,7 +2126,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=f3seYRV4w4oQ7kNvwEuOxZe&_nc_oc=AdluajtOyfAva0vV2e5uwHTRCcWtHjoEVamffI2qvNUOD4fww-E57exGTjRtLZ9Uf0o&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=_fds8SyvfRFUd8sXijlo0g&oh=00_AftPNTB7xOxlZXndOCkXkOYTPwgvcZxRQZVFHbdo7Z7nGA&oe=69B981F7",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=f3seYRV4w4oQ7kNvwHdraYt&_nc_oc=AdlCa44v_Y3COAvY2IVttweQezLa7kkVP5YZMYdnPnFXkxOegIrNugC_Y6Zc9f_X-sU&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=qtV55N5GOWO-eqK-VdTHvQ&oh=00_AfvhBKQRz9uB8-SLRswAX58Ag8fGBp0G2swK9N0spR4Bqw&oe=69B9BA37",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2114,7 +2138,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=kOYI-J7spvoQ7kNvwGMTcZ5&_nc_oc=Adn_15BGzgo5FZ7Kp4LIpym1FAr0LUInjhZ4lJX_6RvZSkrNimbSVgW2QY46C7-uA9U&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=zM6uwYWtPx8wgiDjpwAW7g&oh=00_Aftt4ff24I-6Yp341XtfErjUD7_iQ5t6h5RBLvqEnxAeXg&oe=69B99E57",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=kOYI-J7spvoQ7kNvwHJRTHd&_nc_oc=Adm0dnSjmMPwpf9vMsL9kb3U77WuEVXQqX90IJLjp3JWIw0s-hpThmwAL3yylxiL66E&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=JhXCT4SBhGj7ff7rGvlD6A&oh=00_AfuoS9u0N4Jre_qxef53ZFa_paVMmCtbmLDyt1p8DUbXyw&oe=69B99E57",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2304,7 +2328,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=s4A78SsvThgQ7kNvwEST4R7&_nc_oc=AdkvdJmklWh1FjnQ46ZJSsMJDVwAA78dY9RhRtBigcqqxlsZkbF2ie_9C2WWYW_MIkY&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=XcOtL_aTDQDccyhAHnTe_w&oh=00_AfvypSxE1M8Z2YUAnIKHqDJv7qhWUYavYaZHQqYDRw6WmQ&oe=69B99C1B",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=s4A78SsvThgQ7kNvwHqRoZE&_nc_oc=Adk-dsCvLm32MQCOqoUNNnqcFByri7AdEZQEZu2grV_xDF1YxRKEFjjMsdE--xCsAgg&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=f80c1OyBSp9OBa9GSfvMCQ&oh=00_AfuMlohsdjzP19EkHmvcHbnGOH2VLMww8RKAuotbZbn5Dw&oe=69B99C1B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3112,7 +3136,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=FRC5zxeQvCYQ7kNvwGoOwoz&_nc_oc=AdnQyuoW9gH6ctJupzhNCDlWOYDZkfTpsjeV9aT2d4U5A6zxxG2H_XLZjNABIlx6GS0&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=DMCRFjpAQW1_-aNyftnoVQ&oh=00_Afurypb3PmDsWsfGgdxDsZ3VbLp0yZKpMOUSje7bE8oTcQ&oe=69B9896B",
+    "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=FRC5zxeQvCYQ7kNvwGv8w1T&_nc_oc=AdnIt5bAyw47XqKhPa3O3w0GiNlxZXtAcFLfWM4I7uAub6sgfOE37o7I2jkk6MXGFhc&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=3wIoVBTTEFv1y4fvzJgXjQ&oh=00_AfuenIjAOkC_sOXB_BVL7qvYSWm6u4boEHfQ0V38u8hxrg&oe=69B9896B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
