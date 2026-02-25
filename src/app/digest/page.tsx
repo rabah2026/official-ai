@@ -43,7 +43,7 @@ export default function DigestPage() {
                     </div>
 
                     {/* Signup Form */}
-                    <div className="featured-card p-10 animate-fade-in-up" style={{ animationDelay: '0.3s' }}>
+                    <div className="featured-card p-10 animate-fade-in-up rounded-2xl" style={{ animationDelay: '0.3s' }}>
                         <form
                             onSubmit={(e) => e.preventDefault()}
                             className="flex flex-col gap-4"
@@ -52,7 +52,7 @@ export default function DigestPage() {
                                 type="email"
                                 placeholder="you@company.com"
                                 required
-                                className="w-full px-6 py-4 text-center text-lg bg-[var(--color-background)] border-2 border-[var(--color-border)] hover:border-[var(--color-primary)] focus:border-[var(--color-primary)] rounded-xl outline-none transition-all"
+                                className="w-full px-6 py-4 text-center text-lg bg-[var(--color-surface-hover)] border border-[var(--color-border)] hover:border-[var(--color-primary)] focus:border-[var(--color-primary)] rounded-xl outline-none transition-all placeholder-[var(--color-muted-foreground)]"
                             />
                             <button
                                 type="submit"

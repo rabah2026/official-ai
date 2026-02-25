@@ -3,6 +3,8 @@
 import Link from 'next/link';
 import { UpdateItem } from '@/lib/types';
 import { COMPANIES } from '@/lib/config';
+import { COMPANY_ACCENTS } from '@/lib/companyAccents';
+import clsx from 'clsx';
 
 interface CompaniesPageContentProps {
     updates: UpdateItem[];
@@ -40,14 +42,22 @@ export function CompaniesPageContent({ updates }: CompaniesPageContentProps) {
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
                     {COMPANIES.map((company, i) => {
                         const articleCount = companyCounts[company.name] || 0;
+                        const accentColor = COMPANY_ACCENTS[company.name] || 'var(--color-primary)';
                         return (
                             <Link
                                 key={company.id}
                                 href={`/companies/${company.id}`}
-                                className="group featured-card !p-6 animate-fade-in-up"
-                                style={{ animationDelay: `${0.2 + (i * 0.05)}s` }}
+                                className="group featured-card !p-6 animate-fade-in-up transition-all hover:shadow-xl"
+                                style={{
+                                    animationDelay: `${0.2 + (i * 0.05)}s`,
+                                    borderTopColor: accentColor,
+                                    borderTopWidth: 3
+                                } as React.CSSProperties}
                             >
-                                <h3 className="text-xl font-bold mb-2 group-hover:text-[var(--color-primary)] transition-colors">
+                                <h3
+                                    className={clsx("text-xl font-bold mb-2 transition-colors group-hover:text-[var(--hover-color)]")}
+                                    style={{ '--hover-color': accentColor } as React.CSSProperties}
+                                >
                                     {company.name}
                                 </h3>
                                 <p className="text-xs text-[var(--color-muted-foreground)] mb-4 font-mono">
@@ -57,7 +67,7 @@ export function CompaniesPageContent({ updates }: CompaniesPageContentProps) {
                                     <span className="text-[10px] font-bold uppercase tracking-widest text-[var(--color-muted-foreground)]">
                                         Active Signals
                                     </span>
-                                    <span className="text-sm font-bold text-[var(--color-primary)]">
+                                    <span className="text-sm font-bold" style={{ color: accentColor }}>
                                         {articleCount}
                                     </span>
                                 </div>

@@ -2,26 +2,12 @@
 import React from 'react';
 import { extractArticleContent } from '@/lib/content-extractor';
 import { COMPANIES } from '@/lib/config';
+import { COMPANY_ACCENTS } from '@/lib/companyAccents';
 import Link from 'next/link';
 import { ArrowLeft, ExternalLink, Globe, BookOpen, Clock } from 'lucide-react';
 import { ReaderActions } from '@/components/ReaderActions';
 import { ReadingProgress } from '@/components/ReadingProgress';
 
-// Brand accent colors per company
-const COMPANY_ACCENTS: Record<string, string> = {
-    'OpenAI': '#10a37f', // OpenAI green
-    'Anthropic': '#c96442', // Anthropic terracotta
-    'Google / Gemini': '#4285F4', // Google blue
-    'Meta AI': '#0866FF', // Meta blue
-    'Mistral AI': '#F54E42', // Mistral red
-    'Hugging Face': '#FFD21E', // HF yellow
-    'Microsoft': '#00A4EF', // MS blue
-    'NVIDIA': '#76B900', // NVIDIA green
-    'X.AI': '#ffffff', // Grok white
-    'DeepSeek': '#4D6BFE', // DeepSeek blue
-    'Stability AI': '#8B5CF6', // purple
-    'Perplexity': '#20B2AA', // teal
-};
 
 // Extract headings from HTML content for table of contents
 function extractHeadings(html: string): { id: string; text: string; level: number }[] {

@@ -6,6 +6,7 @@ import { enUS } from 'date-fns/locale';
 import { Tag } from '@/lib/types';
 import { UpdateGroup } from '@/lib/grouping';
 import clsx from 'clsx';
+import { COMPANY_ACCENTS } from '@/lib/companyAccents';
 
 function CategoryLabel({ tag }: { tag: Tag }) {
     const tagClasses: Record<Tag, string> = {
@@ -30,9 +31,13 @@ function CategoryLabel({ tag }: { tag: Tag }) {
 
 export function GroupedUpdateCard({ group }: { group: UpdateGroup }) {
     const latest = group.items[0];
+    const accentColor = COMPANY_ACCENTS[group.company] || 'var(--color-primary)';
 
     return (
-        <div className="group-card">
+        <div
+            className="group-card"
+            style={{ borderLeftColor: accentColor, borderLeftWidth: 4 } as React.CSSProperties}
+        >
             <div className="card-header pb-3 mb-3 border-b border-[var(--color-border)] flex justify-between items-center">
                 <CategoryLabel tag={group.tag} />
                 <span className="text-[10px] font-mono font-bold uppercase tracking-widest text-[var(--color-foreground)] bg-[var(--color-surface-hover)] px-2 py-0.5 rounded">
@@ -41,11 +46,17 @@ export function GroupedUpdateCard({ group }: { group: UpdateGroup }) {
             </div>
 
             <h3 className="update-title">
-                <Link href={`/updates/article?url=${encodeURIComponent(latest.url)}`}>{group.title}</Link>
+                <Link
+                    href={`/updates/article?url=${encodeURIComponent(latest.url)}`}
+                    style={{ '--hover-color': accentColor } as React.CSSProperties}
+                    className="hover:text-[var(--hover-color)] transition-colors"
+                >
+                    {group.title}
+                </Link>
             </h3>
 
             <div className="update-meta">
-                <span className="company">{group.company}</span>
+                <span className="company" style={{ color: accentColor }}>{group.company}</span>
                 <span className="divider"></span>
                 <span className="date">{format(parseISO(latest.date), 'd MMM yyyy', { locale: enUS })}</span>
             </div>

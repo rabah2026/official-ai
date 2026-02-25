@@ -13,20 +13,20 @@
   --font-mono: 'JetBrains Mono', monospace;
   --font-serif: 'Lora', Georgia, serif;
 
-  /* Default Light Mode (Clean Editorial) */
-  --color-foreground: #0f172a;
-  --color-background: #f8fafc;
-  --color-surface: #ffffff;
-  --color-surface-hover: #f1f5f9;
-  --color-border: #e2e8f0;
-  --color-primary: #0284c7;
-  --color-accent: #0ea5e9;
-  --color-accent-glow: rgba(14, 165, 233, 0.1);
-  --color-muted: #64748b;
-  --color-muted-foreground: #94a3b8;
+  /* Default Light Mode — Warm Cream Editorial */
+  --color-foreground: #1a1612;
+  --color-background: #f5f2ee;
+  --color-surface: #fdfcfb;
+  --color-surface-hover: #ede9e3;
+  --color-border: #e0dbd3;
+  --color-primary: #0077b6;
+  --color-accent: #0096c7;
+  --color-accent-glow: rgba(0, 150, 199, 0.1);
+  --color-muted: #6b6560;
+  --color-muted-foreground: #9e958c;
 
-  --shadow-premium: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-  --shadow-glow: 0 0 20px rgba(14, 165, 233, 0.1);
+  --shadow-premium: 0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -1px rgba(0, 0, 0, 0.04);
+  --shadow-glow: 0 0 20px rgba(0, 150, 199, 0.08);
 }
 
 .dark {

@@ -6,6 +6,8 @@ import { GroupedUpdateCard } from '@/components/GroupedUpdateCard';
 import { UpdateItem, Tag } from '@/lib/types';
 import { groupUpdates } from '@/lib/grouping';
 import { UpdateCard } from '@/components/UpdateCard';
+import { COMPANY_ACCENTS } from '@/lib/companyAccents';
+import React from 'react';
 
 interface CompanyPageContentProps {
     companyName: string;
@@ -18,13 +20,14 @@ interface CompanyPageContentProps {
 export function CompanyPageContent({ companyName, companyUrl, companyId, updates, tag }: CompanyPageContentProps) {
     const filteredUpdates = tag ? updates.filter(u => u.tag === tag) : updates;
     const tags: Tag[] = ['Release', 'News', 'Research', 'Engineering', 'Case Study', 'Corporate', 'Pricing', 'Policy', 'Security', 'Docs'];
+    const accentColor = COMPANY_ACCENTS[companyName] || 'var(--color-primary)';
 
     return (
         <div className="pb-20">
             <section className="hero-section">
                 <div className="container-max">
                     <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-[var(--color-border)] bg-[var(--color-surface)] mb-6 animate-fade-in-up">
-                        <span className="pulse-dot" />
+                        <span className="pulse-dot" style={{ backgroundColor: accentColor }} />
                         <span className="text-[10px] font-mono uppercase tracking-[0.2em] text-[var(--color-muted)]">
                             Filtering Lab Context
                         </span>
@@ -38,7 +41,8 @@ export function CompanyPageContent({ companyName, companyUrl, companyId, updates
                         <a
                             href={companyUrl}
                             target="_blank"
-                            className="text-[var(--color-primary)] hover:underline"
+                            className="hover:underline transition-colors"
+                            style={{ color: accentColor }}
                         >
                             {companyUrl.replace('https://', '')} ↗
                         </a>
@@ -54,9 +58,10 @@ export function CompanyPageContent({ companyName, companyUrl, companyId, updates
                         href={`/companies/${companyId}`}
                         scroll={false}
                         className={`px-4 py-2 text-[10px] font-bold uppercase tracking-widest border transition-all rounded-full ${!tag
-                                ? 'bg-[var(--color-foreground)] text-[var(--color-background)] border-[var(--color-foreground)]'
-                                : 'bg-transparent text-[var(--color-muted-foreground)] border-[var(--color-border)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]'
+                            ? 'text-[var(--color-background)] border-transparent'
+                            : 'bg-transparent text-[var(--color-muted-foreground)] border-[var(--color-border)] hover:border-[var(--hover-color)] hover:text-[var(--hover-color)]'
                             }`}
+                        style={!tag ? { backgroundColor: accentColor } : ({ '--hover-color': accentColor } as React.CSSProperties)}
                     >
                         ALL SIGNALS ({updates.length})
                     </Link>
@@ -69,9 +74,10 @@ export function CompanyPageContent({ companyName, companyUrl, companyId, updates
                                 href={`/companies/${companyId}?tag=${tab}`}
                                 scroll={false}
                                 className={`px-4 py-2 text-[10px] font-bold uppercase tracking-widest border transition-all rounded-full ${tag === tab
-                                        ? 'bg-[var(--color-foreground)] text-[var(--color-background)] border-[var(--color-foreground)]'
-                                        : 'bg-transparent text-[var(--color-muted-foreground)] border-[var(--color-border)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]'
+                                    ? 'text-[var(--color-background)] border-transparent'
+                                    : 'bg-transparent text-[var(--color-muted-foreground)] border-[var(--color-border)] hover:border-[var(--hover-color)] hover:text-[var(--hover-color)]'
                                     }`}
+                                style={tag === tab ? { backgroundColor: accentColor } : ({ '--hover-color': accentColor } as React.CSSProperties)}
                             >
                                 {tab.toUpperCase()} ({count})
                             </Link>

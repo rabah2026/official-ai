@@ -20,13 +20,11 @@ export type Company =
     | 'Mistral AI'
     | 'Hugging Face'
     | 'NVIDIA'
-    | 'Microsoft'
+    | 'Microsoft'     // kept for historic data compatibility
     | 'Stability AI'
-    | 'Cohere'
-    | 'Midjourney'
-    | 'DeepSeek'
-    | 'Perplexity'
-    | 'X.AI';
+    | 'X.AI'
+    | 'Amazon'
+    | 'Apple';
 
 export interface UpdateItem {
     id: string; // Unique ID (hash or URL)

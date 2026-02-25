@@ -100,7 +100,7 @@ export default function SavedPage() {
                             return (
                                 <div
                                     key={article.url}
-                                    className="group flex gap-4 p-5 rounded-2xl border border-[var(--color-border)] bg-[var(--color-surface)] hover:border-[var(--color-primary)] transition-all"
+                                    className="group flex gap-4 p-6 rounded-2xl border border-[var(--color-border)] bg-[var(--color-surface)] hover:shadow-lg hover:-translate-y-0.5 transition-all"
                                 >
                                     {/* Content */}
                                     <Link

@@ -1,7 +1,6 @@
 'use client';
 
 import React from 'react';
-
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { FeaturedCard } from '@/components/FeaturedCard';
@@ -11,6 +10,7 @@ import { groupUpdates } from '@/lib/grouping';
 import { UpdateCard } from '@/components/UpdateCard';
 import { TrustedSources } from '@/components/TrustedSources';
 import { FeatureGrid } from '@/components/FeatureGrid';
+import { COMPANY_ACCENTS } from '@/lib/companyAccents';
 
 interface HomePageContentProps {
     updates: UpdateItem[];
@@ -23,49 +23,49 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
     const [selectedCompany, setSelectedCompany] = React.useState('All');
     const [visibleCount, setVisibleCount] = React.useState(25);
 
-    // Filter for featured items (Model releases)
-    const modelKeywords = ['GPT', 'Claude', 'Gemini', 'Llama', 'Mistral', 'Sora', 'introducing', 'launch', 'announcing', 'new model', 'release'];
+    // ── Latest Release per lab (all labs) ──────────────────────────────
+    const latestPerLab = React.useMemo(() => {
+        const seen = new Set<string>();
+        const result: UpdateItem[] = [];
+        // Already sorted by date desc from page.tsx
+        for (const u of updates) {
+            if (!seen.has(u.company)) {
+                seen.add(u.company);
+                result.push(u);
+            }
+        }
+        return result;
+    }, [updates]);
 
-    // First get all candidates matching keywords AND 'Release' tag
+    // ── Featured top releases (Release tag + model keywords) ─────────
+    const modelKeywords = ['GPT', 'Claude', 'Gemini', 'Llama', 'Mistral', 'Sora', 'introducing', 'launch', 'announcing', 'new model', 'release'];
     const candidates = updates.filter(u => {
         const titleLower = u.title.toLowerCase();
         return modelKeywords.some(kw => titleLower.includes(kw.toLowerCase())) && u.tag === 'Release';
     });
-
-    // Deduplicate items by normalized title
-    const uniqueFeatured = new Map();
+    const uniqueFeatured = new Map<string, UpdateItem>();
     candidates.forEach(item => {
         const key = item.title.trim().toLowerCase();
-        if (!uniqueFeatured.has(key)) {
-            uniqueFeatured.set(key, item);
-        }
+        if (!uniqueFeatured.has(key)) uniqueFeatured.set(key, item);
     });
-
     const featured = Array.from(uniqueFeatured.values()).slice(0, 3);
 
-    // Extract unique companies for filter
+    // ── Company filter list ────────────────────────────────────────────
     const companies = React.useMemo(() => {
         const unique = new Set(updates.map(u => u.company));
         return Array.from(unique).sort();
     }, [updates]);
 
-    // Main Filter Logic
+    // ── Main filter logic ──────────────────────────────────────────────
     const filteredUpdates = React.useMemo(() => {
         return updates.filter(u => {
-            // Tag filtering (from URL)
             if (tag && u.tag !== tag) return false;
-
-            // Company filtering
             if (selectedCompany !== 'All' && u.company !== selectedCompany) return false;
-
-            // Search filtering
             if (searchQuery) {
                 const query = searchQuery.toLowerCase();
-                const matchTitle = (u.title || '').toLowerCase().includes(query);
-                const matchSummary = (u.summary || '').toLowerCase().includes(query);
-                return matchTitle || matchSummary;
+                return (u.title || '').toLowerCase().includes(query) ||
+                    (u.summary || '').toLowerCase().includes(query);
             }
-
             return true;
         });
     }, [updates, tag, selectedCompany, searchQuery]);
@@ -73,9 +73,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
     const visibleUpdates = filteredUpdates.slice(0, visibleCount);
     const hasMore = visibleUpdates.length < filteredUpdates.length;
 
-    const handleLoadMore = () => {
-        setVisibleCount(prev => prev + 25);
-    };
+    const handleLoadMore = () => setVisibleCount(prev => prev + 25);
 
     const tags: Tag[] = ['Release', 'News', 'Research', 'Engineering', 'Case Study', 'Corporate', 'Pricing', 'Policy', 'Security', 'Docs'];
 
@@ -114,23 +112,22 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                 <FeatureGrid />
             </div>
 
-            {/* Featured Section - Top 3 Releases */}
-            {
-                featured.length > 0 && !searchQuery && selectedCompany === 'All' && !tag && (
-                    <section className="bg-[var(--color-surface)]/30 border-y border-[var(--color-border)]">
-                        <div className="container-max py-16">
-                            <div className="section-header mb-10">
-                                <h2>Featured Releases</h2>
-                            </div>
-                            <div className="featured-grid">
-                                {featured.map((item) => (
-                                    <FeaturedCard key={item.id} item={item} />
-                                ))}
-                            </div>
+
+            {/* Featured Releases (top 3 model releases) */}
+            {featured.length > 0 && !searchQuery && selectedCompany === 'All' && !tag && (
+                <section className="bg-[var(--color-surface)]/30 border-b border-[var(--color-border)]">
+                    <div className="container-max py-16">
+                        <div className="section-header mb-10">
+                            <h2>Featured Releases</h2>
                         </div>
-                    </section>
-                )
-            }
+                        <div className="featured-grid">
+                            {featured.map((item) => (
+                                <FeaturedCard key={item.id} item={item} />
+                            ))}
+                        </div>
+                    </div>
+                </section>
+            )}
 
             {/* All Updates Feed */}
             <section id="updates" className="container-max py-16">
@@ -158,15 +155,10 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                             <select
                                 className="h-11 pl-10 pr-8 rounded-xl border border-[var(--color-border)] bg-[var(--color-background)] text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]/20 min-w-[200px] appearance-none cursor-pointer hover:border-[var(--color-primary)]/50 transition-colors w-full"
                                 value={selectedCompany}
-                                onChange={(e) => {
-                                    setSelectedCompany(e.target.value);
-                                    setVisibleCount(25);
-                                }}
+                                onChange={(e) => { setSelectedCompany(e.target.value); setVisibleCount(25); }}
                             >
                                 <option value="All">All Companies</option>
-                                {companies.map(c => (
-                                    <option key={c} value={c}>{c}</option>
-                                ))}
+                                {companies.map(c => <option key={c} value={c}>{c}</option>)}
                             </select>
                             <div className="absolute inset-y-0 right-3 flex items-center pointer-events-none">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--color-muted-foreground)] opacity-50"><path d="m6 9 6 6 6-6" /></svg>
@@ -189,9 +181,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                                 }}
                             >
                                 <option value="">All Categories</option>
-                                {tags.map(t => (
-                                    <option key={t} value={t}>{t}</option>
-                                ))}
+                                {tags.map(t => <option key={t} value={t}>{t}</option>)}
                             </select>
                             <div className="absolute inset-y-0 right-3 flex items-center pointer-events-none">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--color-muted-foreground)] opacity-50"><path d="m6 9 6 6 6-6" /></svg>
@@ -208,10 +198,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                                 placeholder="Search updates..."
                                 className="h-11 w-full pl-10 pr-4 rounded-xl border border-[var(--color-border)] bg-[var(--color-background)] text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]/20 placeholder:text-[var(--color-muted-foreground)] hover:border-[var(--color-primary)]/50 transition-colors"
                                 value={searchQuery}
-                                onChange={(e) => {
-                                    setSearchQuery(e.target.value);
-                                    setVisibleCount(25); // Reset pagination
-                                }}
+                                onChange={(e) => { setSearchQuery(e.target.value); setVisibleCount(25); }}
                             />
                         </div>
                     </div>
@@ -240,12 +227,11 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                             })}
                         </div>
 
-                        {/* Load More Button */}
                         {hasMore && (
                             <div className="mt-12 flex justify-center">
                                 <button
                                     onClick={handleLoadMore}
-                                    className="px-6 py-3 rounded-lg border border-[var(--color-border)] bg-[var(--color-surface)] hover:bg-[var(--color-muted)] transition-colors text-sm font-medium"
+                                    className="px-6 py-3 rounded-lg border border-[var(--color-border)] bg-[var(--color-surface)] hover:bg-[var(--color-surface-hover)] transition-colors text-sm font-medium"
                                 >
                                     Load More
                                 </button>
@@ -253,7 +239,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                         )}
                     </>
                 )}
-            </section >
+            </section>
         </>
     );
 }

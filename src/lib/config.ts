@@ -2,16 +2,12 @@
 import { CompanyConfig } from './types';
 
 export const COMPANIES: CompanyConfig[] = [
-
-
-
     {
         id: 'openai',
         name: 'OpenAI',
         url: 'https://openai.com',
         logo: '/logos/openai.svg',
         feeds: [
-            // Official News RSS Feed (primary source for announcements)
             { url: 'https://openai.com/news/rss.xml', type: 'rss' },
         ]
     },
@@ -21,10 +17,8 @@ export const COMPANIES: CompanyConfig[] = [
         url: 'https://www.anthropic.com',
         logo: '/logos/anthropic.svg',
         feeds: [
-            // Anthropic main feed is usually /index.xml or /feed
             { url: 'https://www.anthropic.com/index.xml', type: 'rss' },
-            { url: 'https://www.anthropic.com/feed', type: 'rss' },
-            { url: 'https://www.anthropic.com/news', type: 'html' }
+            { url: 'https://www.anthropic.com/news', type: 'html' },
         ]
     },
     {
@@ -35,7 +29,6 @@ export const COMPANIES: CompanyConfig[] = [
         feeds: [
             { url: 'https://deepmind.google/blog/rss.xml', type: 'rss' },
             { url: 'https://blog.google/technology/ai/rss/', type: 'rss' },
-            { url: 'https://developers.googleblog.com/feeds/posts/default/-/AI', type: 'rss' }
         ]
     },
     {
@@ -44,7 +37,6 @@ export const COMPANIES: CompanyConfig[] = [
         url: 'https://ai.meta.com',
         logo: '/logos/meta-ai.svg',
         feeds: [
-            // Meta AI blog HTML scraping (RSS is unreliable)
             { url: 'https://ai.meta.com/blog/', type: 'html' }
         ]
     },
@@ -76,16 +68,6 @@ export const COMPANIES: CompanyConfig[] = [
         ]
     },
     {
-        id: 'microsoft',
-        name: 'Microsoft',
-        url: 'https://www.microsoft.com',
-        logo: '/logos/microsoft.svg',
-        feeds: [
-            { url: 'https://blogs.microsoft.com/ai/feed/', type: 'rss' },
-            { url: 'https://azure.microsoft.com/en-us/blog/feed/', type: 'rss', tagDefault: 'News' }
-        ]
-    },
-    {
         id: 'stability-ai',
         name: 'Stability AI',
         url: 'https://stability.ai',
@@ -95,48 +77,32 @@ export const COMPANIES: CompanyConfig[] = [
         ]
     },
     {
-        id: 'cohere',
-        name: 'Cohere',
-        url: 'https://cohere.com',
-        logo: '/logos/cohere.svg',
-        feeds: [
-            { url: 'https://cohere.com/blog/rss.xml', type: 'rss' }
-            // Note: Cohere often doesn't have a standard RSS at root, need to verify.
-            // If this fails, we might need a more specific one or html parser.
-        ]
-    },
-    {
-        // Midjourney notoriously has no public blog feed. 
-        // We will target their docs changelog if available or x.ai for now.
-        // Actually, let's omit Midjourney if no official feed exists to strict adherance to "No unofficial content".
-        // Wait, they have a "Updates" channel on Discord, not web.
-        // I will stick to "Signal over Noise". If no web source, don't fake it. 
-        // But I will add X.AI.
         id: 'x-ai',
         name: 'X.AI',
         url: 'https://x.ai',
         logo: '/logos/x-ai.svg',
         feeds: [
-            // Using reliable community RSS mirror as official site blocks scraping/has no RSS
             { url: 'https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_xainews.xml', type: 'rss' }
         ]
     },
     {
-        id: 'deepseek',
-        name: 'DeepSeek',
-        url: 'https://deepseek.ai',
-        logo: '/logos/deepseek.svg',
+        // Removed: Microsoft, Cohere, DeepSeek, Perplexity — 0 articles fetched successfully
+        // Kept for future re-introduction when feeds are confirmed working
+        id: 'amazon-aws',
+        name: 'Amazon',
+        url: 'https://aws.amazon.com/blogs/machine-learning/',
+        logo: '/logos/amazon.svg',
         feeds: [
-            { url: 'https://deepseek.ai/blog', type: 'html' }
+            { url: 'https://aws.amazon.com/blogs/machine-learning/feed/', type: 'rss' }
         ]
     },
     {
-        id: 'perplexity',
-        name: 'Perplexity',
-        url: 'https://www.perplexity.ai',
-        logo: '/logos/perplexity.svg',
+        id: 'apple',
+        name: 'Apple',
+        url: 'https://machinelearning.apple.com',
+        logo: '/logos/apple.svg',
         feeds: [
-            { url: 'https://www.perplexity.ai/blog', type: 'html' }
+            { url: 'https://machinelearning.apple.com/rss.xml', type: 'rss' }
         ]
-    }
+    },
 ];
