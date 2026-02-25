@@ -2,8 +2,8 @@ name: Update Intelligence Feed
 
 on:
   schedule:
-    # Run daily at 06:00 UTC (09:00 AST)
-    - cron: '0 6 * * *'
+    # Run every hour
+    - cron: '0 * * * *'
   workflow_dispatch: # Allow manual trigger from GitHub UI
 
 jobs:
