@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/making-softmax-more-efficient-with-nvidia-blackwell-ultra/",
+    "company": "NVIDIA",
+    "title": "Making Softmax More Efficient with NVIDIA Blackwell Ultra",
+    "date": "2026-02-25T17:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/making-softmax-more-efficient-with-nvidia-blackwell-ultra/",
+    "tag": "Engineering",
+    "summary": "LLM context lengths are exploding, and architectures are moving toward complex attention schemes like Multi-Head Latent Attention (MLA) and Grouped Qu"
+  },
+  {
     "id": "https://openai.com/index/disrupting-malicious-ai-uses",
     "company": "OpenAI",
     "title": "Disrupting malicious uses of AI | February 2026",
@@ -7,6 +16,18 @@
     "url": "https://openai.com/index/disrupting-malicious-ai-uses",
     "tag": "News",
     "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defens"
+  },
+  {
+    "id": "https://www.anthropic.com/news/acquires-vercept",
+    "company": "Anthropic",
+    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "date": "2026-02-25T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/acquires-vercept",
+    "tag": "Research",
+    "summary": "People are using Claude for increasingly complex work—writing and running code across entire repositories, synthesizing research from dozens of sources, and ...",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&backgroundColor=coral",
+    "title_ar": "تحديث رسمي: Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "summary_ar": "People are using Claude for increasingly complex work—writing and running code across entire repositories, synthesizing أبحاث from dozens of sources, and ..."
   },
   {
     "id": "closing-the-gap",
@@ -564,18 +585,6 @@
     "summary_ar": "Claude Sonnet 4.6 is a full upgrade of the نموذج’s skills across coding, computer use, long-reasoning, وكيل planning, knowledge work, and design. "
   },
   {
-    "id": "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
-    "company": "Anthropic",
-    "title": "Anthropic opens Bengaluru office and announces new partnerships across India",
-    "date": "2026-02-15T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
-    "tag": "News",
-    "summary": "India is the second-largest market for Claude.ai, home to a developer community doing some of the most technically intense AI work we see anywhere. Nearly ha...",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&backgroundColor=fig",
-    "title_ar": "Anthropic opens Bengaluru office and announces جديد partnerships across India",
-    "summary_ar": "India is the second-largest market for Claude.ai, home to a مطور community doing some of the most technically intense AI work we see anywhere. Nearly ha..."
-  },
-  {
     "id": "3f38f6a34e2d974de41c636f962d524cf61126a3",
     "company": "Amazon",
     "title": "Customize AI agent browsing with proxies, profiles, and extensions in Amazon Bedrock AgentCore Browser",
@@ -796,7 +805,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=tmEKszG6UgcQ7kNvwH-wKnd&_nc_oc=Adlzcq_4kdyAD1KOfFf_JufIFKlrq4tVaNi0VXbgGzMjRtEnQu0_dgzlOLvkzlXTFC0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=eVsG9jTUwpg5HEAUzpyp3g&oh=00_AfuRIfQuM2Xsqs1f2E5D_5LdXX2zfViprqwnz7yWzYxhZQ&oe=69B978BF",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=tmEKszG6UgcQ7kNvwGLCKNQ&_nc_oc=AdkCR0fZFeKeiH4KbyZeP1o9awR_6XCuPZ1E94ofxvyYKggMikuXl32AdoIToQ9uRm8&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=yGeHhf3Z8urZznxAhhFjkA&oh=00_AfunshyGVQT1glB2NBfknuJl1tN32G6ukuAcEYVNebslpA&oe=69B978BF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -952,18 +961,6 @@
     "url": "https://openai.com/index/navigating-health-questions",
     "tag": "News",
     "summary": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors."
-  },
-  {
-    "id": "https://www.anthropic.com/news/claude-opus-4-6",
-    "company": "Anthropic",
-    "title": "Claude Opus 4.6",
-    "date": "2026-02-05T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/claude-opus-4-6",
-    "tag": "News",
-    "summary": "We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide ...",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/01d06528567e4bd22c3ddedc87f609ee5716a009-2400x1260.png",
-    "title_ar": "تحديث رسمي: Claude Opus 4.6",
-    "summary_ar": "We’re upgrading our smartest نموذج. Across agentic coding, computer use, أداة use, search, and finance, Opus 4.6 is an industry-leading نموذج, often by wide ..."
   },
   {
     "id": "https://developer.nvidia.com/blog/build-with-kimi-k2-5-multimodal-vlm-using-nvidia-gpu-accelerated-endpoints/",
@@ -2069,7 +2066,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=f3seYRV4w4oQ7kNvwEb4oZv&_nc_oc=AdnPQsUu4zhBRZGDf8PU3mihsL7yzRgmVaqscXEw1UcxlglspXUsASxa307Ouw7qkfY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Tg4AIXHQTfb6qaoeLhFwyw&oh=00_AfuHOgK4EJUUZiuxJcUYxThtTHNVtFSXKog7D02ZOp6KkQ&oe=69B981F7",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=f3seYRV4w4oQ7kNvwFn0QSj&_nc_oc=AdmSoGVe6VhMEecIhzs0Fn_IjUgLt4SsHEge_vXJUS00mQYBO42El9wISxQ_hmej0Ic&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=socdzZoKPa7Trp-WWYt9Pg&oh=00_AfupBSEX-XBmbEiqNA9bkZxzTquFcDeF2pqtDM09NYkKew&oe=69B981F7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2081,7 +2078,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=kOYI-J7spvoQ7kNvwE05T3g&_nc_oc=AdlBaqscyKut35UNOVhQrc6eeqRBpHGYJ67I3Warz9JkhZ-ZW4NAOMszVZvB0hKU09s&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=mfOIVv-VygvT5WbtOu6QIg&oh=00_AfsJHyaoxheuSbF_XpX2Fbg2IDCXJhaAQwKVq9q2wknAWw&oe=69B96617",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=kOYI-J7spvoQ7kNvwHlfnGD&_nc_oc=AdmkUbn-4Y-dwUsPLkj05n7UZV9ELags5Z6qLrlF6aCZqpTtwWirhTQ-CLcrnAcgGv8&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=84eQx5-R_fs4w8aMsC75Ow&oh=00_AfunQkRmDKFza3i7Ol2ezc8cE_YQOYG3Vbs2L9nRrU5hog&oe=69B96617",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2271,7 +2268,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=s4A78SsvThgQ7kNvwG0rUKP&_nc_oc=AdnD-U8-GEY9vHqKeKr2d4pfgZI_IJg1yi0vOsqZydp4Mqfep1L_ulUHTBQarQYursI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=fi4aAvv3uPcbCXMm8AO1Iw&oh=00_AfuFU3pGyGRmgUKp0tBIjLOKaRZQfRSKkvAg3IDyebNDPg&oe=69B963DB",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=s4A78SsvThgQ7kNvwE0pGsj&_nc_oc=AdlHJqcLldk-yP5FeIB8SXgDOmhSZSXjj2sOt1hFyteQwFgTBrS6yldeffscHS05AYY&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=baqzDoolJPn_F4PTDsSFeg&oh=00_Aft9FAJ4VLiPY7y4FiMKutHDFC2f8OGwx59Pakalg5usmA&oe=69B963DB",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3079,7 +3076,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=LEr3Rz9LZmUQ7kNvwFnG74Q&_nc_oc=AdnWs7TI2q9b-uMMjjo6TfqFiPqpiwr1Ynx4-wUtJqVI6_UwFz5Fy6rRCjfeiBhPtVg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=HaEHzXYQOLBMJAg69mMGgg&oh=00_AfuQ2ZsUtf_SN8o8uwaaFSjFCrNOb-_Bm-ew7dGN3WIERg&oe=69B9512B",
+    "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=LEr3Rz9LZmUQ7kNvwHH6XYn&_nc_oc=Adla_TW1zEjHyU_gXYPBsFBR1et8uln3ORWDsYx8b531bsRX_PNvIywMcwTJij-1PJU&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=SdY2kZIF68xApT4cQitdGA&oh=00_Aft694epDZha7Dj7KlG0FE2XR98MWtLHUxIa80VwZrdOpg&oe=69B9896B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
@@ -3339,15 +3336,6 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_model-blog_meta-dark.width-1300.jpg",
     "title_ar": "A جديد era of ذكاء with Gemini 3",
     "summary_ar": "Today we’re releasing Gemini 3 – our most intelligent نموذج that helps you bring any idea to life."
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/nvidia-nvqlink-architecture-integrates-accelerated-computing-with-quantum-processors/",
-    "company": "NVIDIA",
-    "title": "NVIDIA NVQLink Architecture Integrates Accelerated Computing with Quantum Processors",
-    "date": "2025-11-17T22:31:00.000Z",
-    "url": "https://developer.nvidia.com/blog/nvidia-nvqlink-architecture-integrates-accelerated-computing-with-quantum-processors/",
-    "tag": "Engineering",
-    "summary": "Quantum computing is entering an era where progress will be driven by the integration of accelerated computing with quantum processors. The hardware t"
   },
   {
     "id": "https://deepmind.google/blog/weathernext-2-our-most-advanced-weather-forecasting-model/",
