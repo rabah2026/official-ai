@@ -34,6 +34,7 @@ export function MainLayout({ children, lastUpdated }: MainLayoutProps) {
                     </div>
                     <nav className="site-nav items-center">
                         <Link href="/companies">Labs</Link>
+                        <Link href="/saved" title="Saved articles">Saved</Link>
                         <div className="flex items-center gap-2 border-l border-[var(--color-border)] pl-4 ml-2">
                             <ThemeToggle />
                         </div>
