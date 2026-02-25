@@ -1,7 +1,6 @@
 'use client';
 
 import Link from 'next/link';
-import { useLanguage } from '@/components/LanguageContext';
 import { FeaturedCard } from '@/components/FeaturedCard';
 import { GroupedUpdateCard } from '@/components/GroupedUpdateCard';
 import { UpdateItem, Tag } from '@/lib/types';
@@ -17,24 +16,29 @@ interface CompanyPageContentProps {
 }
 
 export function CompanyPageContent({ companyName, companyUrl, companyId, updates, tag }: CompanyPageContentProps) {
-    const { t, isRTL } = useLanguage();
-
     const filteredUpdates = tag ? updates.filter(u => u.tag === tag) : updates;
     const tags: Tag[] = ['Release', 'News', 'Research', 'Engineering', 'Case Study', 'Corporate', 'Pricing', 'Policy', 'Security', 'Docs'];
 
     return (
-        <>
+        <div className="pb-20">
             <section className="hero-section">
                 <div className="container-max">
-                    <h1 className="hero-title">
+                    <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-[var(--color-border)] bg-[var(--color-surface)] mb-6 animate-fade-in-up">
+                        <span className="pulse-dot" />
+                        <span className="text-[10px] font-mono uppercase tracking-[0.2em] text-[var(--color-muted)]">
+                            Filtering Lab Context
+                        </span>
+                    </div>
+
+                    <h1 className="hero-title animate-fade-in-up">
                         {companyName}
                     </h1>
-                    <p className="hero-subtitle">
-                        {t('official_announcements')}{' '}
+                    <p className="hero-subtitle animate-fade-in-up" style={{ animationDelay: '0.1s' }}>
+                        Official updates from{' '}
                         <a
                             href={companyUrl}
                             target="_blank"
-                            style={{ color: 'var(--color-accent)', textDecoration: 'none' }}
+                            className="text-[var(--color-primary)] hover:underline"
                         >
                             {companyUrl.replace('https://', '')} ↗
                         </a>
@@ -43,32 +47,18 @@ export function CompanyPageContent({ companyName, companyUrl, companyId, updates
             </section>
 
             {/* Filters & Updates */}
-            <section className="container-max" style={{ paddingTop: '2rem', paddingBottom: '4rem' }}>
+            <section className="container-max">
                 {/* Filter Tabs */}
-                <div style={{
-                    display: 'flex',
-                    gap: '0.75rem',
-                    marginBottom: '1.5rem',
-                    flexWrap: 'wrap',
-                    borderBottom: '2px solid var(--color-foreground)',
-                    paddingBottom: '1rem'
-                }}>
+                <div className="flex flex-wrap gap-2 mb-10 pb-6 border-b border-[var(--color-border)] animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
                     <Link
                         href={`/companies/${companyId}`}
                         scroll={false}
-                        style={{
-                            padding: '0.5rem 1rem',
-                            fontSize: '0.75rem',
-                            fontWeight: 700,
-                            textTransform: 'uppercase',
-                            letterSpacing: '0.1em',
-                            textDecoration: 'none',
-                            background: !tag ? 'var(--color-foreground)' : 'transparent',
-                            color: !tag ? 'var(--color-background)' : 'var(--color-muted-foreground)',
-                            border: '1px solid var(--color-foreground)'
-                        }}
+                        className={`px-4 py-2 text-[10px] font-bold uppercase tracking-widest border transition-all rounded-full ${!tag
+                                ? 'bg-[var(--color-foreground)] text-[var(--color-background)] border-[var(--color-foreground)]'
+                                : 'bg-transparent text-[var(--color-muted-foreground)] border-[var(--color-border)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]'
+                            }`}
                     >
-                        {t('all_count')} ({updates.length})
+                        ALL SIGNALS ({updates.length})
                     </Link>
                     {tags.map(tab => {
                         const count = updates.filter(u => u.tag === tab).length;
@@ -78,19 +68,12 @@ export function CompanyPageContent({ companyName, companyUrl, companyId, updates
                                 key={tab}
                                 href={`/companies/${companyId}?tag=${tab}`}
                                 scroll={false}
-                                style={{
-                                    padding: '0.5rem 1rem',
-                                    fontSize: '0.75rem',
-                                    fontWeight: 700,
-                                    textTransform: 'uppercase',
-                                    letterSpacing: '0.1em',
-                                    textDecoration: 'none',
-                                    background: tag === tab ? 'var(--color-foreground)' : 'transparent',
-                                    color: tag === tab ? 'var(--color-background)' : 'var(--color-muted-foreground)',
-                                    border: '1px solid var(--color-border)'
-                                }}
+                                className={`px-4 py-2 text-[10px] font-bold uppercase tracking-widest border transition-all rounded-full ${tag === tab
+                                        ? 'bg-[var(--color-foreground)] text-[var(--color-background)] border-[var(--color-foreground)]'
+                                        : 'bg-transparent text-[var(--color-muted-foreground)] border-[var(--color-border)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]'
+                                    }`}
                             >
-                                {tab} ({count})
+                                {tab.toUpperCase()} ({count})
                             </Link>
                         );
                     })}
@@ -99,8 +82,8 @@ export function CompanyPageContent({ companyName, companyUrl, companyId, updates
                 {/* Updates List */}
                 <div className="updates-list">
                     {filteredUpdates.length === 0 ? (
-                        <div style={{ padding: '4rem 0', textAlign: 'center', color: '#737373' }}>
-                            {t('no_filter_results')}
+                        <div className="py-20 text-center text-[var(--color-muted-foreground)] border border-dashed border-[var(--color-border)] rounded-xl">
+                            <p>No signals found for this specific filter.</p>
                         </div>
                     ) : (
                         groupUpdates(filteredUpdates).map(item => {
@@ -112,6 +95,6 @@ export function CompanyPageContent({ companyName, companyUrl, companyId, updates
                     )}
                 </div>
             </section>
-        </>
+        </div>
     );
 }

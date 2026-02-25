@@ -4,7 +4,6 @@ import React from 'react';
 
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
-import { useLanguage } from '@/components/LanguageContext';
 import { FeaturedCard } from '@/components/FeaturedCard';
 import { GroupedUpdateCard } from '@/components/GroupedUpdateCard';
 import { UpdateItem, Tag } from '@/lib/types';
@@ -19,7 +18,6 @@ interface HomePageContentProps {
 }
 
 export function HomePageContent({ updates, tag }: HomePageContentProps) {
-    const { t, isRTL } = useLanguage();
     const router = useRouter();
     const [searchQuery, setSearchQuery] = React.useState('');
     const [selectedCompany, setSelectedCompany] = React.useState('All');
@@ -65,8 +63,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                 const query = searchQuery.toLowerCase();
                 const matchTitle = (u.title || '').toLowerCase().includes(query);
                 const matchSummary = (u.summary || '').toLowerCase().includes(query);
-                const matchTitleAr = (u.title_ar || '').toLowerCase().includes(query);
-                return matchTitle || matchSummary || matchTitleAr;
+                return matchTitle || matchSummary;
             }
 
             return true;
@@ -85,26 +82,26 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
     return (
         <>
             {/* Hero Section */}
-            <section className="hero-section text-center relative overflow-hidden">
-                <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-[var(--color-primary)]/10 via-[var(--color-background)] to-[var(--color-background)] opacity-50 pointer-events-none" />
-
-                <div className="container-max relative z-10 pt-10 pb-16">
-                    <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-[var(--color-border)] bg-[var(--color-surface)] mb-8 animate-fade-in-up">
-                        <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-                        <span className="text-xs font-mono uppercase tracking-widest text-[var(--color-muted-foreground)]">
-                            {t('signal_over_noise')}
+            <section className="hero-section">
+                <div className="container-max text-center">
+                    <div className="hidden md:inline-flex items-center gap-2 px-3 py-1 rounded-full border border-[var(--color-border)] bg-[var(--color-surface)] mb-8 animate-fade-in-up">
+                        <span className="pulse-dot" />
+                        <span className="text-[10px] font-mono uppercase tracking-[0.2em] text-[var(--color-muted)]">
+                            Signal Feed Active
                         </span>
                     </div>
 
-                    <h1 className="hero-title mb-6" dangerouslySetInnerHTML={{ __html: `${t('hero_line1')}<br />${t('hero_line2')}` }} />
+                    <h1 className="hero-title animate-fade-in-up">
+                        Official AI Announcements<br />Direct from the Source
+                    </h1>
 
-                    <p className="hero-subtitle text-lg md:text-xl text-[var(--color-muted-foreground)] max-w-2xl mx-auto mb-10 leading-relaxed">
-                        <span className="text-[var(--color-foreground)] font-medium">{t('app_title')}</span> {t('aggregates_note')}
+                    <p className="hero-subtitle mb-10 animate-fade-in-up" style={{ animationDelay: '0.1s' }}>
+                        <span className="text-[var(--color-foreground)] font-bold">Official.ai</span> aggregates verified announcements from the world's leading AI labs. No rumors. No opinions. Just the facts.
                     </p>
 
-                    <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                        <Link href="#updates" className="px-8 py-3 rounded-lg border border-[var(--color-border)] hover:bg-[var(--color-surface)] transition-colors">
-                            {t('more')}
+                    <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
+                        <Link href="#updates" className="px-8 py-3 rounded-full bg-[var(--color-foreground)] text-[var(--color-background)] font-bold text-xs uppercase tracking-widest hover:opacity-90 transition-opacity">
+                            View Latest Signal
                         </Link>
                     </div>
                 </div>
@@ -112,7 +109,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
 
             <TrustedSources />
 
-            {/* Core Value Links (Features) - Hidden on Mobile */}
+            {/* Core Value Links (Features) */}
             <div className="hidden md:block">
                 <FeatureGrid />
             </div>
@@ -123,7 +120,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                     <section className="bg-[var(--color-surface)]/30 border-y border-[var(--color-border)]">
                         <div className="container-max py-16">
                             <div className="section-header mb-10">
-                                <h2>{t('featured_releases')}</h2>
+                                <h2>Featured Releases</h2>
                             </div>
                             <div className="featured-grid">
                                 {featured.map((item) => (
@@ -142,7 +139,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                         <div className="flex items-center gap-3">
                             <span className="w-2 h-2 rounded-full bg-red-500 shadow-[0_0_10px_rgba(239,68,68,0.8)] animate-pulse"></span>
                             <h2 className="!m-0 text-[var(--color-foreground)] tracking-[0.12em] font-bold text-xs md:text-sm uppercase before:!hidden">
-                                {t('updates_badge')}
+                                Latest Updates
                             </h2>
                         </div>
                         <span className="text-sm font-normal text-[var(--color-muted-foreground)] border border-[var(--color-border)] px-2 py-0.5 rounded-full">
@@ -166,7 +163,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                                     setVisibleCount(25);
                                 }}
                             >
-                                <option value="All">{t('all') ? `${t('all')} Companies` : 'All Companies'}</option>
+                                <option value="All">All Companies</option>
                                 {companies.map(c => (
                                     <option key={c} value={c}>{c}</option>
                                 ))}
@@ -191,7 +188,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                                     setVisibleCount(25);
                                 }}
                             >
-                                <option value="">{t('all_count') ? `${t('all_count')} Categories` : 'All Categories'}</option>
+                                <option value="">All Categories</option>
                                 {tags.map(t => (
                                     <option key={t} value={t}>{t}</option>
                                 ))}
@@ -208,7 +205,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                             </div>
                             <input
                                 type="text"
-                                placeholder={isRTL ? "بحث في التحديثات..." : "Search updates..."}
+                                placeholder="Search updates..."
                                 className="h-11 w-full pl-10 pr-4 rounded-xl border border-[var(--color-border)] bg-[var(--color-background)] text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]/20 placeholder:text-[var(--color-muted-foreground)] hover:border-[var(--color-primary)]/50 transition-colors"
                                 value={searchQuery}
                                 onChange={(e) => {
@@ -222,26 +219,19 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
 
                 {filteredUpdates.length === 0 ? (
                     <div className="py-20 text-center text-[var(--color-muted-foreground)] border border-dashed border-[var(--color-border)] rounded-xl">
-                        <p>{t('no_updates')}</p>
+                        <p>No updates found. Try adjusting your filters.</p>
                         {(searchQuery || selectedCompany !== 'All') && (
                             <button
                                 onClick={() => { setSearchQuery(''); setSelectedCompany('All'); }}
                                 className="mt-4 text-[var(--color-primary)] hover:underline text-sm"
                             >
-                                {isRTL ? 'مسح الفلاتر' : 'Clear filters'}
+                                Clear filters
                             </button>
                         )}
                     </div>
                 ) : (
                     <>
                         <div className="updates-list">
-                            {/* Only group updates if we are NOT searching/filtering heavily, 
-                                as grouping breaks when items are sparse. 
-                                Actually grouping is fine, but pagination cuts groups. 
-                                Let's just render flat list if searching, or keep grouping. 
-                                Grouping logic handles partial lists? 
-                                groupUpdates expects a list. 
-                            */}
                             {groupUpdates(visibleUpdates).map((item) => {
                                 if ('type' in item && item.type === 'group') {
                                     return <GroupedUpdateCard key={item.id} group={item} />;
@@ -257,7 +247,7 @@ export function HomePageContent({ updates, tag }: HomePageContentProps) {
                                     onClick={handleLoadMore}
                                     className="px-6 py-3 rounded-lg border border-[var(--color-border)] bg-[var(--color-surface)] hover:bg-[var(--color-muted)] transition-colors text-sm font-medium"
                                 >
-                                    {isRTL ? 'تحميل المزيد' : 'Load More'}
+                                    Load More
                                 </button>
                             </div>
                         )}

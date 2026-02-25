@@ -13,6 +13,9 @@ import path from "path";
 // Force dynamic rendering to ensure we always read the latest metadata from disk
 export const dynamic = 'force-dynamic';
 
+import { Providers } from "@/components/Providers";
+import { MainLayout } from "@/components/MainLayout";
+
 // Function to get last updated metadata
 async function getMetadata() {
   const filePath = path.join(process.cwd(), 'data', 'metadata.json');
@@ -23,10 +26,6 @@ async function getMetadata() {
     return { lastUpdated: new Date().toISOString() };
   }
 }
-
-import { Providers } from "@/components/Providers";
-import { LanguageProvider } from "@/components/LanguageContext";
-import { MainLayout } from "@/components/MainLayout";
 
 export default async function RootLayout({
   children,
@@ -40,11 +39,9 @@ export default async function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <body>
         <Providers>
-          <LanguageProvider>
-            <MainLayout lastUpdated={lastUpdated}>
-              {children}
-            </MainLayout>
-          </LanguageProvider>
+          <MainLayout lastUpdated={lastUpdated}>
+            {children}
+          </MainLayout>
         </Providers>
       </body>
     </html>

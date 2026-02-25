@@ -15,7 +15,7 @@ export type Tag =
 export type Company =
     | 'OpenAI'
     | 'Anthropic'
-    | 'Google DeepMind'
+    | 'Google / Gemini'
     | 'Meta AI'
     | 'Mistral AI'
     | 'Hugging Face'
@@ -24,6 +24,8 @@ export type Company =
     | 'Stability AI'
     | 'Cohere'
     | 'Midjourney'
+    | 'DeepSeek'
+    | 'Perplexity'
     | 'X.AI';
 
 export interface UpdateItem {
@@ -34,6 +36,7 @@ export interface UpdateItem {
     url: string;
     tag: Tag;
     summary?: string; // Optional one-line summary
+    image?: string; // Optional cover image URL
     title_ar?: string; // Optional Arabic title
     summary_ar?: string; // Optional Arabic summary
 }

@@ -1,0 +1,357 @@
+{
+  "timestamp": "2026-02-18T11:10:48.009Z",
+  "totalChecked": 50,
+  "brokenCount": 3,
+  "results": [
+    {
+      "title": "Terminally online Mistral Vibe.",
+      "company": "Mistral AI",
+      "url": "https://mistral.ai/news/mistral-vibe-2-0",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "PVH reimagines the future of fashion with OpenAI",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/pvh-future-of-fashion",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+      "company": "Hugging Face",
+      "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+      "company": "Hugging Face",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+      "company": "Hugging Face",
+      "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Adaptive Inference in NVIDIA TensorRT for RTX Enables Automatic Optimization",
+      "company": "NVIDIA",
+      "url": "https://developer.nvidia.com/blog/adaptive-inference-in-nvidia-tensorrt-for-rtx-enables-automatic-optimization/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Maia 200: The AI accelerator built for inference",
+      "company": "Microsoft",
+      "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "How to Unlock Local Detail in Coarse Climate Projections with NVIDIA Earth-2",
+      "company": "NVIDIA",
+      "url": "https://developer.nvidia.com/blog/how-to-unlock-local-detail-in-coarse-climate-projections-with-nvidia-earth-2/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "How Indeed uses AI to help evolve the job search",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/indeed-maggie-hulce",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
+      "company": "Anthropic",
+      "url": "https://www.anthropic.com/news/gov-UK-partnership",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
+      "company": "Hugging Face",
+      "url": "https://huggingface.co/blog/nvidia/earth-2-open-models",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+      "company": "Hugging Face",
+      "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Unrolling the Codex agent loop",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Scaling NVFP4 Inference for FLUX.2 on NVIDIA Blackwell Data Center GPUs",
+      "company": "NVIDIA",
+      "url": "https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Beyond boundaries: The future of Azure Storage in 2026",
+      "company": "Microsoft",
+      "url": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
+      "status": "FETCH_ERROR",
+      "error": "This operation was aborted"
+    },
+    {
+      "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/scaling-postgresql",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Inside Praktika's conversational approach to language learning",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/praktika",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
+      "company": "OpenAI",
+      "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Streamlining CUB with a Single-Call API",
+      "company": "NVIDIA",
+      "url": "https://developer.nvidia.com/blog/streamlining-cub-with-a-single-call-api/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+      "company": "Hugging Face",
+      "url": "https://huggingface.co/blog/waypoint-1",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "How Higgsfield turns simple ideas into cinematic social videos",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/higgsfield",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "How countries can end the capability overhang",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Introducing Edu for Countries",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/edu-for-countries",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Horizon 1000: Advancing AI for primary healthcare",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/horizon-1000",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Stargate Community",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/stargate-community",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "One Year Since the “DeepSeek Moment”",
+      "company": "Hugging Face",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Differential Transformer V2",
+      "company": "Hugging Face",
+      "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/cisco",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+      "status": "FETCH_ERROR",
+      "error": "This operation was aborted"
+    },
+    {
+      "title": "Our approach to age prediction",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/our-approach-to-age-prediction",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Mariano-Florentino Cuéllar appointed t",
+      "company": "Anthropic",
+      "url": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "AI for self empowerment",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/ai-for-self-empowerment",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "A business that scales with the value of intelligence",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Anthropic and Teach For All launch global AI training initiative for educators",
+      "company": "Anthropic",
+      "url": "https://www.anthropic.com/news/anthropic-teach-for-all",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "The truth left out from Elon Musk’s recent court filing",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/the-truth-elon-left-out",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "D4RT: Teaching AI to see the world in four dimensions",
+      "company": "Google DeepMind",
+      "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Introducing ChatGPT Go, now available worldwide",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-go",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Our approach to advertising and expanding access to ChatGPT",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Anthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru office opening",
+      "company": "Anthropic",
+      "url": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Open Responses: What you need to know",
+      "company": "Hugging Face",
+      "url": "https://huggingface.co/blog/open-responses",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "How to Train an AI Agent for Command-Line Tasks with Synthetic Data and Reinforcement Learning",
+      "company": "NVIDIA",
+      "url": "https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Chart your AI and agent strategy with Microsoft Marketplace",
+      "company": "Microsoft",
+      "url": "https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/",
+      "status": "FETCH_ERROR",
+      "error": "This operation was aborted"
+    },
+    {
+      "title": "Investing in Merge Labs",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/investing-in-merge-labs",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "How to Write High-Performance Matrix Multiply in NVIDIA CUDA Tile",
+      "company": "NVIDIA",
+      "url": "https://developer.nvidia.com/blog/how-to-write-high-performance-matrix-multiply-in-nvidia-cuda-tile/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms",
+      "company": "Microsoft",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "OpenAI partners with Cerebras  ",
+      "company": "OpenAI",
+      "url": "https://openai.com/index/cerebras-partnership",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "NVIDIA DLSS 4.5 Delivers Super Resolution Upgrades and New Dynamic Multi Frame Generation",
+      "company": "NVIDIA",
+      "url": "https://developer.nvidia.com/blog/nvidia-dlss-4-5-delivers-super-resolution-upgrades-and-new-dynamic-multi-frame-generation/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Learn How NVIDIA cuOpt Accelerates Mixed Integer Optimization using Primal Heuristics",
+      "company": "NVIDIA",
+      "url": "https://developer.nvidia.com/blog/learn-how-nvidia-cuopt-accelerates-mixed-integer-optimization-using-primal-heuristics/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+      "company": "Google DeepMind",
+      "url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+      "status": 200,
+      "ok": true
+    }
+  ]
+}

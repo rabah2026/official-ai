@@ -30,12 +30,14 @@ export const COMPANIES: CompanyConfig[] = [
         ]
     },
     {
-        id: 'google-deepmind',
-        name: 'Google DeepMind',
-        url: 'https://deepmind.google',
-        logo: '/logos/google-deepmind.svg',
+        id: 'google-gemini',
+        name: 'Google / Gemini',
+        url: 'https://blog.google/technology/ai/',
+        logo: '/logos/google-gemini.svg',
         feeds: [
-            { url: 'https://deepmind.google/blog/rss.xml', type: 'rss' }
+            { url: 'https://deepmind.google/blog/rss.xml', type: 'rss' },
+            { url: 'https://blog.google/technology/ai/rss/', type: 'rss' },
+            { url: 'https://developers.googleblog.com/feeds/posts/default/-/AI', type: 'rss' }
         ]
     },
     {
@@ -119,6 +121,24 @@ export const COMPANIES: CompanyConfig[] = [
         feeds: [
             // Using reliable community RSS mirror as official site blocks scraping/has no RSS
             { url: 'https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_xainews.xml', type: 'rss' }
+        ]
+    },
+    {
+        id: 'deepseek',
+        name: 'DeepSeek',
+        url: 'https://deepseek.ai',
+        logo: '/logos/deepseek.svg',
+        feeds: [
+            { url: 'https://deepseek.ai/blog', type: 'html' }
+        ]
+    },
+    {
+        id: 'perplexity',
+        name: 'Perplexity',
+        url: 'https://www.perplexity.ai',
+        logo: '/logos/perplexity.svg',
+        feeds: [
+            { url: 'https://www.perplexity.ai/blog', type: 'html' }
         ]
     }
 ];

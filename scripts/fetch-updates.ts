@@ -177,6 +177,16 @@ async function fetchUpdates() {
                     item.title = h1Title;
                 }
 
+                // Extract Image: Prefer og:image or twitter:image
+                const ogImage = page$('meta[property="og:image"]').attr('content') ||
+                    page$('meta[name="og:image"]').attr('content') ||
+                    page$('meta[name="twitter:image"]').attr('content');
+
+                if (ogImage) {
+                    // Ensure absolute URL
+                    item.image = ogImage.startsWith('http') ? ogImage : new URL(ogImage, item.url).toString();
+                }
+
                 // Clean Date: Multiple extraction strategies
                 let extractedDate: Date | null = null;
 
@@ -320,7 +330,8 @@ async function fetchUpdates() {
                             date: item.isoDate || new Date().toISOString(),
                             url: item.link,
                             tag: deduceTag(title, item.link),
-                            summary: item.contentSnippet?.slice(0, 150)
+                            summary: item.contentSnippet?.slice(0, 150),
+                            image: (item as any).enclosure?.url || (item as any).image?.url
                         };
                         return update;
                     }).filter(Boolean) as UpdateItem[];
@@ -422,7 +433,8 @@ async function fetchUpdates() {
 
                         // Must be an article-like path
                         const isContent = href.includes('/index/') || href.includes('/news/') ||
-                            href.includes('/research/') || href.includes('/blog/');
+                            href.includes('/research/') || href.includes('/blog/') || href.includes('/hub/') ||
+                            href.includes('/announcements/');
                         if (!isContent) return;
 
                         // For Meta AI specifically, the path should have a slug after /blog/

@@ -1,9 +1,8 @@
 import { format, parseISO } from 'date-fns';
-import { arSA, enUS } from 'date-fns/locale';
+import { enUS } from 'date-fns/locale';
 import { UpdateItem, Tag } from '@/lib/types';
-import clsx from 'clsx';
-import { useLanguage } from './LanguageContext';
 import { Rocket, Newspaper, FlaskConical, Wrench, Briefcase, Shield, FileText, Tag as TagIcon, Zap } from 'lucide-react';
+import Link from 'next/link';
 
 const TagIcons: Record<Tag, React.ElementType> = {
     Release: Rocket,
@@ -19,23 +18,22 @@ const TagIcons: Record<Tag, React.ElementType> = {
 };
 
 export function FeaturedCard({ item }: { item: UpdateItem }) {
-    const { t, isRTL } = useLanguage();
     const formattedDate = (() => {
         try {
             return format(parseISO(item.date), 'MMM d, yyyy', {
-                locale: isRTL ? arSA : enUS
+                locale: enUS
             });
         } catch {
-            return t('recent');
+            return 'Recent';
         }
     })();
 
-    const displayTitle = (isRTL && item.title_ar) ? item.title_ar : item.title;
-    const displaySummary = (isRTL && item.summary_ar) ? item.summary_ar : item.summary;
+    const displayTitle = item.title;
+    const displaySummary = item.summary;
     const Icon = TagIcons[item.tag] || Zap;
 
     return (
-        <article className="featured-card" dir={isRTL ? 'rtl' : 'ltr'}>
+        <article className="featured-card">
             <div className="featured-icon-wrapper">
                 <Icon size={20} />
             </div>
@@ -47,9 +45,9 @@ export function FeaturedCard({ item }: { item: UpdateItem }) {
             </div>
 
             <h2 className="featured-title">
-                <a href={item.url} target="_blank" rel="noopener noreferrer">
+                <Link href={`/updates/article?url=${encodeURIComponent(item.url)}`}>
                     {displayTitle}
-                </a>
+                </Link>
             </h2>
 
             {displaySummary && (

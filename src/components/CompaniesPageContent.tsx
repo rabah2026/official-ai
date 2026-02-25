@@ -1,7 +1,6 @@
 'use client';
 
 import Link from 'next/link';
-import { useLanguage } from '@/components/LanguageContext';
 import { UpdateItem } from '@/lib/types';
 import { COMPANIES } from '@/lib/config';
 
@@ -10,8 +9,6 @@ interface CompaniesPageContentProps {
 }
 
 export function CompaniesPageContent({ updates }: CompaniesPageContentProps) {
-    const { t, isRTL } = useLanguage();
-
     // Count updates per company
     const companyCounts: Record<string, number> = {};
     updates.forEach(u => {
@@ -19,72 +16,56 @@ export function CompaniesPageContent({ updates }: CompaniesPageContentProps) {
     });
 
     return (
-        <>
+        <div className="pb-20">
             {/* Hero Section */}
-            <section className="hero-section" dir={isRTL ? 'rtl' : 'ltr'}>
-                <div className="container-max" style={{ textAlign: 'center' }}>
-                    <h1 className="hero-title" style={{
-                        marginLeft: 'auto',
-                        marginRight: 'auto',
-                        fontFamily: isRTL ? 'Amiri, serif' : undefined
-                    }} dangerouslySetInnerHTML={{ __html: t('hero_title_companies') }} />
-                    <p className="hero-subtitle" style={{
-                        marginLeft: 'auto',
-                        marginRight: 'auto',
-                        fontFamily: isRTL ? 'Noto Sans Arabic, sans-serif' : undefined
-                    }}>
-                        {t('hero_subtitle_companies')}
+            <section className="hero-section">
+                <div className="container-max text-center">
+                    <h1 className="hero-title animate-fade-in-up">
+                        AI Labs & Research Centers
+                    </h1>
+                    <p className="hero-subtitle animate-fade-in-up" style={{ animationDelay: '0.1s' }}>
+                        Direct signal from the sources we monitor.
                     </p>
                 </div>
             </section>
 
             {/* Companies Grid */}
-            <section className="container-max" style={{ paddingTop: '2rem', paddingBottom: '4rem' }} dir={isRTL ? 'rtl' : 'ltr'}>
+            <section className="container-max">
                 <div className="section-header">
-                    <h2 style={{ fontFamily: isRTL ? 'Amiri, serif' : undefined }}>{t('all_companies')}</h2>
+                    <h2 className="animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
+                        Monitored Entities
+                    </h2>
                 </div>
 
-                <div className="updates-grid">
-                    {COMPANIES.map((company) => {
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                    {COMPANIES.map((company, i) => {
                         const articleCount = companyCounts[company.name] || 0;
                         return (
                             <Link
                                 key={company.id}
                                 href={`/companies/${company.id}`}
-                                className="group relative block rounded-lg border border-[var(--color-border)] bg-[var(--color-surface)] p-6 transition-all hover:border-[var(--color-accent)]"
+                                className="group featured-card !p-6 animate-fade-in-up"
+                                style={{ animationDelay: `${0.2 + (i * 0.05)}s` }}
                             >
-                                <div className="absolute top-0 left-0 right-0 h-1 bg-[var(--color-accent)] opacity-0 transition-opacity group-hover:opacity-100" />
-                                <h3 style={{
-                                    fontFamily: "'Instrument Serif', Georgia, serif",
-                                    fontSize: '1.5rem',
-                                    fontWeight: 400,
-                                    margin: '0 0 0.5rem',
-                                    color: 'var(--color-foreground)'
-                                }}>
+                                <h3 className="text-xl font-bold mb-2 group-hover:text-[var(--color-primary)] transition-colors">
                                     {company.name}
                                 </h3>
-                                <p style={{
-                                    fontSize: '0.85rem',
-                                    color: 'var(--color-muted-foreground)',
-                                    margin: '0 0 0.75rem'
-                                }}>
+                                <p className="text-xs text-[var(--color-muted-foreground)] mb-4 font-mono">
                                     {company.url.replace('https://', '').replace('www.', '')}
                                 </p>
-                                <span style={{
-                                    fontSize: '0.7rem',
-                                    textTransform: 'uppercase',
-                                    letterSpacing: '0.1em',
-                                    color: 'var(--color-accent)',
-                                    fontWeight: 600,
-                                    fontFamily: isRTL ? 'Noto Sans Arabic, sans-serif' : undefined
-                                }}>
-                                    {articleCount} {articleCount === 1 ? t('article_count_one') : t('article_count_many')}
-                                </span>
+                                <div className="mt-auto pt-4 border-t border-[var(--color-border)] flex justify-between items-center">
+                                    <span className="text-[10px] font-bold uppercase tracking-widest text-[var(--color-muted-foreground)]">
+                                        Active Signals
+                                    </span>
+                                    <span className="text-sm font-bold text-[var(--color-primary)]">
+                                        {articleCount}
+                                    </span>
+                                </div>
                             </Link>
                         );
                     })}
                 </div>
             </section>
-        </>
+        </div>
     );
 }

@@ -46,3 +46,6 @@ next-env.d.ts
 .codex/
 .gemini/
 .system_generated/
+
+.vercel
+.env*.local

@@ -1,11 +1,10 @@
 import { format, parseISO } from 'date-fns';
-import { arSA, enUS } from 'date-fns/locale';
+import { enUS } from 'date-fns/locale';
 import { UpdateItem, Tag } from '@/lib/types';
 import clsx from 'clsx';
-import { useLanguage } from './LanguageContext';
+import Link from 'next/link';
 
 function CategoryLabel({ tag }: { tag: Tag }) {
-    const { t } = useLanguage();
     const tagClasses: Record<Tag, string> = {
         Release: 'release',
         News: 'news',
@@ -19,38 +18,35 @@ function CategoryLabel({ tag }: { tag: Tag }) {
         Docs: 'docs',
     };
 
-    const translationKey = `tag_${tag.replace(' ', '_')}`;
-
     return (
         <span className={clsx('category-label', tagClasses[tag])}>
-            {t(translationKey)}
+            {tag}
         </span>
     );
 }
 
 export function UpdateCard({ item }: { item: UpdateItem }) {
-    const { t, isRTL } = useLanguage();
     const formattedDate = (() => {
         try {
             return format(parseISO(item.date), 'd MMM yyyy', {
-                locale: isRTL ? arSA : enUS
+                locale: enUS
             });
         } catch {
-            return t('recent');
+            return 'Recent';
         }
     })();
 
-    const displayTitle = (isRTL && item.title_ar) ? item.title_ar : item.title;
-    const displaySummary = (isRTL && item.summary_ar) ? item.summary_ar : item.summary;
+    const displayTitle = item.title;
+    const displaySummary = item.summary;
 
     return (
-        <article className="update-item" dir={isRTL ? 'rtl' : 'ltr'}>
+        <article className="update-item">
             <CategoryLabel tag={item.tag} />
 
-            <h2 className="update-title" style={{ fontFamily: isRTL ? 'Amiri, serif' : undefined }}>
-                <a href={item.url} target="_blank" rel="noopener noreferrer">
+            <h2 className="update-title">
+                <Link href={`/updates/article?url=${encodeURIComponent(item.url)}`}>
                     {displayTitle}
-                </a>
+                </Link>
             </h2>
 
             <div className="update-meta">
@@ -60,7 +56,7 @@ export function UpdateCard({ item }: { item: UpdateItem }) {
             </div>
 
             {displaySummary && (
-                <p className="update-summary" style={{ fontFamily: isRTL ? 'Noto Sans Arabic, sans-serif' : undefined }}>
+                <p className="update-summary">
                     {displaySummary}
                 </p>
             )}
