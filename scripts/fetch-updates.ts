@@ -473,12 +473,16 @@ async function fetchUpdates() {
         }
     }
 
+    // Filter out GitHub URLs (SDK releases, changelogs — not useful for readers)
+    allUpdates = allUpdates.filter(u => !u.url.includes('github.com'));
+
     // Sort by date desc
     allUpdates.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
     // Filter out very old stuff (older than 6 months)
     const cutoff = subMonths(new Date(), 6);
     allUpdates = allUpdates.filter(u => !isBefore(new Date(u.date), cutoff));
+
 
     await fs.writeFile(DATA_FILE, JSON.stringify(allUpdates, null, 2));
 

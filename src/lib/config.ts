@@ -13,8 +13,6 @@ export const COMPANIES: CompanyConfig[] = [
         feeds: [
             // Official News RSS Feed (primary source for announcements)
             { url: 'https://openai.com/news/rss.xml', type: 'rss' },
-            // Official Python SDK Releases (technical updates)
-            { url: 'https://github.com/openai/openai-python/releases.atom', type: 'rss', tagDefault: 'Engineering', titlePrefix: 'OpenAI Python Library' }
         ]
     },
     {

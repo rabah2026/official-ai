@@ -1,14 +1,5 @@
 [
   {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.24.0",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.24.0",
-    "date": "2026-02-24T20:01:29.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.24.0",
-    "tag": "Release",
-    "summary": "2.24.0 (2026-02-24)\nFull Changelog: v2.23.0...v2.24.0\nFeatures\napi: add phase (391deb9)\nBug Fixes\napi: fix phase enum (42ebf7c)\napi: phase docs (7ddc6"
-  },
-  {
     "id": "https://openai.com/index/arvind-kc-chief-people-officer",
     "company": "OpenAI",
     "title": "Arvind KC appointed Chief People Officer",
@@ -16,15 +7,6 @@
     "url": "https://openai.com/index/arvind-kc-chief-people-officer",
     "tag": "Corporate",
     "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI."
-  },
-  {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.23.0",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.23.0",
-    "date": "2026-02-24T03:19:39.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.23.0",
-    "tag": "Release",
-    "summary": "2.23.0 (2026-02-24)\nFull Changelog: v2.22.0...v2.23.0\nFeatures\napi: add gpt-realtime-1.5 and gpt-audio-1.5 model options to realtime calls (3300b61)\nC"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
@@ -37,15 +19,6 @@
     "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/cosmos-on-jetson.png",
     "title_ar": "Deploying مصدر مفتوح رؤية لغة Models (VLM) on Jetson",
     "summary_ar": "تحديث رسمي: The rapid evolution of reasoning accuracy and efficiency has made these models ideal for edge devices. The NVIDIA Jetson family, ranging from the high-perfor..."
-  },
-  {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.22.0",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.22.0",
-    "date": "2026-02-23T20:13:52.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.22.0",
-    "tag": "Release",
-    "summary": "2.22.0 (2026-02-23)\nFull Changelog: v2.21.0...v2.22.0\nFeatures\napi: websockets for responses api (c01f6fb)\nChores\ninternal: add request options to SSE"
   },
   {
     "id": "https://developer.nvidia.com/blog/using-nvfp4-low-precision-model-training-for-higher-throughput-without-losing-accuracy/",
@@ -360,15 +333,6 @@
     "summary_ar": "India is the second-largest market for Claude.ai, home to a مطور community doing some of the most technically intense AI work we see anywhere. Nearly ha..."
   },
   {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.21.0",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.21.0",
-    "date": "2026-02-14T00:11:26.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.21.0",
-    "tag": "Release",
-    "summary": "2.21.0 (2026-02-13)\nFull Changelog: v2.20.0...v2.21.0\nFeatures\napi: container network_policy and skills (d19de2e)\nBug Fixes\nstructured outputs: resolv"
-  },
-  {
     "id": "https://openai.com/index/new-result-theoretical-physics",
     "company": "OpenAI",
     "title": "GPT-5.2 derives a new result in theoretical physics",
@@ -462,15 +426,6 @@
     "summary": "By Ryan Lopopolo, Member of the Technical Staff"
   },
   {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.20.0",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.20.0",
-    "date": "2026-02-10T19:02:11.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.20.0",
-    "tag": "Release",
-    "summary": "2.20.0 (2026-02-10)\nFull Changelog: v2.19.0...v2.20.0\nFeatures\napi: support for images in batch api (28edb6e)"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/r2d2-scaling-multimodal-robot-learning-with-nvidia-isaac-lab/",
     "company": "NVIDIA",
     "title": "R²D²: Scaling Multimodal Robot Learning with NVIDIA Isaac Lab",
@@ -478,15 +433,6 @@
     "url": "https://developer.nvidia.com/blog/r2d2-scaling-multimodal-robot-learning-with-nvidia-isaac-lab/",
     "tag": "Engineering",
     "summary": "Building robust, intelligent robots requires testing them in complex environments. However, gathering data in the physical world is expensive, slow, a"
-  },
-  {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.19.0",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.19.0",
-    "date": "2026-02-10T18:20:53.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.19.0",
-    "tag": "Release",
-    "summary": "2.19.0 (2026-02-10)\nFull Changelog: v2.18.0...v2.19.0\nFeatures\napi: skills and hosted shell (27fdf68)\nChores\ninternal: bump dependencies (fae10fd)"
   },
   {
     "id": "https://huggingface.co/blog/transformersjs-v4",
@@ -526,15 +472,6 @@
     "url": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
     "tag": "Security",
     "summary": "We’re sharing our latest updates designed to support families, kids and teens in the digital world."
-  },
-  {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.18.0",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.18.0",
-    "date": "2026-02-09T21:41:36.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.18.0",
-    "tag": "Release",
-    "summary": "2.18.0 (2026-02-09)\nFull Changelog: v2.17.0...v2.18.0\nFeatures\napi: add context_management to responses (137e992)\napi: responses context_management (c"
   },
   {
     "id": "https://developer.nvidia.com/blog/automating-inference-optimizations-with-nvidia-tensorrt-llm-autodeploy/",
@@ -655,15 +592,6 @@
     "url": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
     "tag": "News",
     "summary": "Learn how Google's NAI framework uses AI to make technology more adaptive, inclusive and helpful for everyone."
-  },
-  {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.17.0",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.17.0",
-    "date": "2026-02-05T16:26:56.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.17.0",
-    "tag": "Release",
-    "summary": "2.17.0 (2026-02-05)\nFull Changelog: v2.16.0...v2.17.0\nFeatures\napi: add shell_call_output status field (1bbaf88)\napi: image generation actions for res"
   },
   {
     "id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
@@ -1064,15 +992,6 @@
     "date": "2026-01-28T00:00:00.000Z",
     "url": "https://huggingface.co/blog/upskill",
     "tag": "Engineering"
-  },
-  {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.16.0",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.16.0",
-    "date": "2026-01-27T23:27:23.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.16.0",
-    "tag": "Release",
-    "summary": "2.16.0 (2026-01-27)\nFull Changelog: v2.15.0...v2.16.0\nFeatures\napi: api update (b97f9f2)\napi: api updates (9debcc0)\nclient: add support for binary req"
   },
   {
     "id": "https://developer.nvidia.com/blog/accelerating-diffusion-models-with-an-open-plug-and-play-offering/",
@@ -1506,15 +1425,6 @@
     "url": "https://openai.com/index/openai-raising-concerns-policy",
     "tag": "Policy",
     "summary": "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures."
-  },
-  {
-    "id": "https://github.com/openai/openai-python/releases/tag/v2.15.0",
-    "company": "OpenAI",
-    "title": "OpenAI Python Library v2.15.0",
-    "date": "2026-01-09T22:09:31.000Z",
-    "url": "https://github.com/openai/openai-python/releases/tag/v2.15.0",
-    "tag": "Release",
-    "summary": "2.15.0 (2026-01-09)\nFull Changelog: v2.14.0...v2.15.0\nFeatures\napi: add new Response completed_at prop (f077752)\nChores\ninternal: codegen related upda"
   },
   {
     "id": "https://developer.nvidia.com/blog/reimagining-llm-memory-using-context-as-training-data-unlocks-models-that-learn-at-test-time/",

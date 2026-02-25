@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap');
 @import "tailwindcss";
 
 /* 
@@ -11,6 +11,7 @@
   --font-display: 'Inter', system-ui, sans-serif;
   --font-body: 'Inter', system-ui, sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
+  --font-serif: 'Lora', Georgia, serif;
 
   /* Default Light Mode (Clean Editorial) */
   --color-foreground: #0f172a;
@@ -574,4 +575,69 @@ body {
 
 .animate-scroll {
   animation: scroll 40s linear infinite;
+}
+
+/* ===== READER PREMIUM TYPOGRAPHY (Phase 8) ===== */
+
+/* Large article hero title */
+.article-display-title {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+}
+
+/* Serif body text for comfortable long-form reading */
+.article-serif p,
+.article-serif li {
+  font-family: var(--font-serif);
+  font-size: 1.0625rem;
+  line-height: 1.85;
+  color: var(--color-foreground);
+}
+
+.article-serif h2,
+.article-serif h3,
+.article-serif h4 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.article-serif h2 {
+  font-size: 1.5rem;
+}
+
+.article-serif h3 {
+  font-size: 1.2rem;
+}
+
+.article-serif a {
+  color: var(--color-primary);
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--color-primary) 40%, transparent);
+  text-underline-offset: 3px;
+  transition: text-decoration-color 0.2s;
+}
+
+.article-serif a:hover {
+  text-decoration-color: var(--color-primary);
+}
+
+.article-serif blockquote {
+  border-left: 3px solid var(--color-primary);
+  padding-left: 1.5rem;
+  margin: 2rem 0;
+  font-style: italic;
+  color: var(--color-muted);
+}
+
+.article-serif img {
+  border-radius: 12px;
+  margin: 2rem 0;
+  max-width: 100%;
+  border: 1px solid var(--color-border);
 }

@@ -89,10 +89,29 @@ export async function extractArticleContent(url: string): Promise<ExtractedArtic
         ];
         $content.find(noiseSelectors.join(', ')).remove();
 
+        // --- STEP 2b: REMOVE ENTIRE SECTIONS that are "keep reading" / article-listing widgets ---
+        // These are block-level containers whose heading or label suggests they're not article body
+        const widgetHeadingPhrases = [
+            'keep reading', 'continue reading', 'read more', 'more from', 'more stories',
+            'related articles', 'related posts', 'you may also like', 'recommended',
+            'trending', 'popular', 'latest posts', 'also on', 'next up', 'see also',
+            'further reading', 'up next', 'what\'s next', 'explore more', 'other stories',
+        ];
+
+        $content.find('section, div, aside, ul').each((_: any, el: any) => {
+            const $el = $(el);
+            // Check heading/label text within this block
+            const headingText = ($el.find('h2, h3, h4, h5, span, p').first().text() || '').trim().toLowerCase();
+            if (widgetHeadingPhrases.some(p => headingText.includes(p))) {
+                $el.remove();
+            }
+        });
+
         // Remove links/buttons that look like social sharing or navigational noise
         $content.find('a, button, span, div, h1, h2, h3, h4, time').each((_: any, el: any) => {
             const $el = $(el);
             const text = $el.text().trim();
+
             const textLower = text.toLowerCase();
 
             // 1. FILTER TITLES (Deduplication)
@@ -109,10 +128,12 @@ export async function extractArticleContent(url: string): Promise<ExtractedArtic
                 'read more', 'related content', 'privacy policy', 'terms of use',
                 'loading...', 'productreleasecompany', 'productrelease', 'companyrelease',
                 'share', 'likes', 'comments', 'retweets', 'previous post', 'next post',
-                'read next', 'more from', 'back to blog', 'latest updates'
+                'read next', 'more from', 'back to blog', 'latest updates',
+                'keep reading', 'continue reading', 'explore more', 'you may also like',
+                'recommended for you', 'see also', 'further reading', 'up next',
             ];
 
-            if (forbiddenPhrases.some(phrase => textLower === phrase || textLower.startsWith(phrase) || (text.length < 20 && textLower.includes(phrase)))) {
+            if (forbiddenPhrases.some(phrase => textLower === phrase || textLower.startsWith(phrase) || (text.length < 30 && textLower.includes(phrase)))) {
                 $el.remove();
                 return;
             }
@@ -122,6 +143,7 @@ export async function extractArticleContent(url: string): Promise<ExtractedArtic
                 $el.remove();
             }
         });
+
 
         // Strip attributes except for limited whitelist
         $content.find('*').each((_: any, el: any) => {
