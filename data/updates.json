@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/maximizing-gpu-utilization-with-nvidia-runai-and-nvidia-nim/",
+    "company": "NVIDIA",
+    "title": "Maximizing GPU Utilization with NVIDIA Run:ai and NVIDIA NIM",
+    "date": "2026-02-27T17:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/maximizing-gpu-utilization-with-nvidia-runai-and-nvidia-nim/",
+    "tag": "Engineering",
+    "summary": "Organizations deploying LLMs are challenged by inference workloads with different resource requirements. A small embedding model might use only a few "
+  },
+  {
     "id": "https://openai.com/index/amazon-partnership",
     "company": "OpenAI",
     "title": "OpenAI and Amazon announce strategic partnership",
@@ -235,18 +244,6 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/HQwS8tBhvdIHzdncUIASA/795b47369f81da3f303996ac21f48f2b/abstract-landscape.jpg?w=1600&h=900&fit=fill",
     "title_ar": "OpenAI Board Forms سلامة and أمن Committee",
     "summary_ar": "Upon his appointment to OpenAI's Board of Directors, Retired U.S. Army General Paul M. Nakasone joined the سلامة and أمن Committee."
-  },
-  {
-    "id": "https://openai.com/index/jakub-pachocki-announced-as-chief-scientist",
-    "company": "OpenAI",
-    "title": "Ilya Sutskever to leav",
-    "date": "2026-02-25T00:00:00.000Z",
-    "url": "https://openai.com/index/jakub-pachocki-announced-as-chief-scientist",
-    "tag": "Research",
-    "summary": "Jakub is the Chief Scientist at OpenAI, where he has led transformative research initiatives since 2017. He previously served as Director of Research spearhe...",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/51rHXZVEwJcSW2QpWTg9VY/a81788b56e9a46dea6f7ad08cc14c5d4/4pm.png?w=1600&h=900&fit=fill",
-    "title_ar": "تحديث رسمي: Ilya Sutskever to leav",
-    "summary_ar": "Jakub is the Chief Scientist at OpenAI, where he has led transformative أبحاث initiatives since 2017. He previously served as Director of أبحاث spearhe..."
   },
   {
     "id": "https://openai.com/global-affairs/openai-technology-explained",
@@ -994,7 +991,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=okAz0Oiua6sQ7kNvwE-WOBZ&_nc_oc=Adlx0aNm0FhBKhud4Pd93B4DzY-b2ct9Z3F9eHJItebmScSfxRM8zk7wR0iD9b3SLtk&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=KGGEt-e1Y2-4t5_GOVpiWA&oh=00_AfsBN8EY4wa8xo7y4mWHh1mPyNpgBVbEoIZY6hC-GxRSMQ&oe=69BC1BBF",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=okAz0Oiua6sQ7kNvwFziCQs&_nc_oc=AdlDTgjjttxvTc5I0fOjFXLiFP8dZVXwPt4Xu-b7sr_pDci3M-3Gq48ihihm0ljbbMw&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=UsXwXZEV4d-9ubxsaL_3yQ&_nc_ss=8&oh=00_Afskqr5rhyrnl1SDxgTQ3nEm5rAat0-i-NR6D3fA2K2BDQ&oe=69BC1BBF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -1183,6 +1180,18 @@
     "url": "https://openai.com/index/vfl-wolfsburg",
     "tag": "News",
     "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity."
+  },
+  {
+    "id": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+    "company": "Anthropic",
+    "title": "Claude is a space to think",
+    "date": "2026-02-04T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+    "tag": "Engineering",
+    "summary": "We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we pla...",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20House&backgroundColor=cactus",
+    "title_ar": "تحديث رسمي: Claude is a space to think",
+    "summary_ar": "تحديث رسمي: We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we pla..."
   },
   {
     "id": "https://mistral.ai/news/voxtral-transcribe-2",
@@ -2185,7 +2194,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=KNd25Mx-I6AQ7kNvwH289i9&_nc_oc=AdlKKYKPqvTvhBlz6mlF4J-dbGOPF8Ch42NOvxwGeEJ0AffunQYI0sl0w3omQ5wmsl8&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=XWB9rR5PPI6L2CnMjoTBFg&oh=00_AftHzgjUgpe_7l5XdhoXp4POL0x1xAAYN1IMAWKnlyH71Q&oe=69BBECB7",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=KNd25Mx-I6AQ7kNvwHE2VZf&_nc_oc=AdnLEHGewKQuSfwj8yxbFU1D4Oe6icVUTGYjeuGYunGl2LKebmD4UGrQCDc0D25eUME&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=aOLv1BsC1tAeUZWnE9Ro3w&oh=00_AfuP1MokP3CE4ji4SjG_GgjhbvNLuXN_CiM1Raj49DSBBA&oe=69BC24F7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2197,7 +2206,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=rhhYgUlZJbkQ7kNvwFTCxFO&_nc_oc=AdkokN1TpsueZx15qHiccH1IML42BfFOakH0crq4S1lTQrL7WR3oKp3LL4UqDi6Pb-M&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=1QDgKpbCJyJCdbxyev5CeQ&oh=00_AfuRPCJUjs2yqMflTOvRzjVfhwHhOcw92rwIiXMsDxgAKg&oe=69BC0917",
+    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=rhhYgUlZJbkQ7kNvwFu_-mL&_nc_oc=AdlHC7XGmYw55drzzyodxOzZ9xe06tMrhbZ69sf2YVWVrcjpQiOlehOAEPd3BKtioOk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HZlJ3r7xAsobcR5-KBWx9g&oh=00_Afs2Ho0PMNh1QuBh2szg_8g9IqPGV2j9dmnO4Q2ZYjZKqA&oe=69BC0917",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2387,7 +2396,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=3VUuiZKIHsMQ7kNvwElYgzw&_nc_oc=AdmDZMCgZR__nNElqCTlj3dIIBOHmFyp_El_In0cHEqOoDC8PE5dkwiHKlS3YlcKT-w&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=7WDzb_EmPNEyWZSFzURmlA&oh=00_AfvfIzB-TXIcBYmJ6PIlOlXIq3L7mR9hxHhvVbp1x3lbwg&oe=69BC06DB",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=3VUuiZKIHsMQ7kNvwGmGqiR&_nc_oc=AdlTl3oWCVPQJYCrQg27M_WVsDEWg5JZwIGNpyjTW7TJnh9ksW6N-2CKAqT2MFm2NAc&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=-dIZEzZfLaBjZ7ac5Ayy9g&oh=00_Aftl_SVntKCEOuHFIY4KaFwSdlbzCs0HW_sVpeWd7dvGaQ&oe=69BC06DB",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3207,7 +3216,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=FRC5zxeQvCYQ7kNvwH9Uwnt&_nc_oc=Adm5czLvRkjuFDrpmfqwjpcJ_0DD63TeeWePtkmw_W1Md-uloez2DsM-KXOka1zdoVs&_nc_zt=14&_nc_ht=scontent-lhr6-2.xx&_nc_gid=0K1Arykvq5qT3V6-XEu9YA&oh=00_AfsX_dZpG76Elc-PH6c7xtRGJLaZJ8v9vDm70Q-h5XiEmQ&oe=69BBF42B",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=FRC5zxeQvCYQ7kNvwF6jq7B&_nc_oc=AdnQQ4ri2YkdtY5Sno8_o1-rZAP1hwKGTqAwcFkn6FUgE6U4KHt1FsZE9itGhf3MNJE&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=yemYdqYWd3Rck62pf7qH_A&oh=00_AftsJvTFaUuBtEjs5zExUssJiA1dPSzi59W0rbKvzrPsXg&oe=69BBF42B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
@@ -3413,15 +3422,6 @@
     "url": "https://deepmind.google/blog/were-expanding-our-presence-in-singapore-to-advance-ai-in-the-asia-pacific-region/",
     "tag": "News",
     "summary": "Google DeepMind opens a new Singapore research lab, accelerating AI progress in the Asia-Pacific region."
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/faster-chemistry-and-materials-discovery-with-ai-powered-simulations-using-nvidia-alchemi/",
-    "company": "NVIDIA",
-    "title": "Faster Chemistry and Materials Discovery with AI-Powered Simulations Using NVIDIA ALCHEMI",
-    "date": "2025-11-18T17:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/faster-chemistry-and-materials-discovery-with-ai-powered-simulations-using-nvidia-alchemi/",
-    "tag": "Engineering",
-    "summary": "Almost all manufactured products are enabled by chemistry and materials science. However, new discoveries are costly and time-consuming and often hind"
   },
   {
     "id": "https://deepmind.google/blog/introducing-google-antigravity/",
