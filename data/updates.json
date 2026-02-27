@@ -219,18 +219,6 @@
     "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defens"
   },
   {
-    "id": "https://openai.com/index/10bedicu",
-    "company": "OpenAI",
-    "title": "Improving India’s critical care infrastructure",
-    "date": "2026-02-25T00:00:00.000Z",
-    "url": "https://openai.com/index/10bedicu",
-    "tag": "Engineering",
-    "summary": "India faces a significant challenge in healthcare accessibility due to a high doctor-to-patient ratio, geographic barriers, and economic constraints. For ins...",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/Uw8hmWd17OgUKHrKg02r6/1b8c9fdf236bd3f01f6945a8d382ed8f/10BedICU.png?w=1600&h=900&fit=fill",
-    "title_ar": "Improving India’s critical care بنية تحتية",
-    "summary_ar": "تحديث رسمي: India faces a significant challenge in healthcare accessibility due to a high doctor-to-patient ratio, geographic barriers, and economic constraints. For ins..."
-  },
-  {
     "id": "https://openai.com/index/openai-board-forms-safety-and-security-committee",
     "company": "OpenAI",
     "title": "OpenAI Board Forms Safety and Security Committee",
@@ -879,15 +867,6 @@
     "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users."
   },
   {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:6986ccac83d7eb240f110bae",
-    "company": "Stability AI",
-    "title": "Stability AI Joins the Tech Coalition",
-    "date": "2026-02-11T20:28:23.000Z",
-    "url": "https://stability.ai/news/stability-ai-joins-the-tech-coalition",
-    "tag": "Corporate",
-    "summary": "We’re pleased to share that Stability AI has joined the Tech Coalition, a \r\nglobal alliance of leading technology companies working together to combat"
-  },
-  {
     "id": "https://openai.com/index/harness-engineering",
     "company": "OpenAI",
     "title": "Harness engineering: leveraging Codex in an agent-first world",
@@ -988,7 +967,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=okAz0Oiua6sQ7kNvwHTwqCK&_nc_oc=AdkOMcY-jIbniRvYnaMuj9PLdJqLM4_FJSqoYJqu31d1gpBq7jQ-xh-_MdB-pttTnZc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=e-a4bn0enkn2ozQhpl_QZw&_nc_ss=8&oh=00_AfsQV4ut3TW8-Dh7sLc4CnXLlQgkdqnFXjNglydY4Of_8w&oe=69BC1BBF",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=okAz0Oiua6sQ7kNvwGqlgDG&_nc_oc=Adkki9QyaNdoS4rIYWOP3RgxnbRKtWYuxqKgzI7JGS3eI8Au3BP6Myl2cI5izSv2tmg&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=XeXcok6u915xtAus6V_j-A&_nc_ss=8&oh=00_AftFpKkdCZsgiqzg9EcDUdElHSur8cf8nD8fcfgovGe0uw&oe=69BC1BBF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2191,7 +2170,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=KNd25Mx-I6AQ7kNvwEjlDME&_nc_oc=AdmnJQaVesXI6W4CODmwR3gpK6zjvrL7IokRnsb867WV6YF1b2AHLAhkWPCGGmUJBYE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=uT0B5aZcz5fazw46NvJ49Q&oh=00_AfvzDu8efNt2d4i6S_YlRPVnidrl2gDtCH07PDcUKMPKtQ&oe=69BC24F7",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=KNd25Mx-I6AQ7kNvwEeqZ1b&_nc_oc=AdkM7mTzk_G7JUu4QuiTf5a9fCX62hnQCa8Um_fTTFe_bSXRHZAJvoy3Tu08sFpG-54&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=cHAthcR5Ug0Uk-eYqMB1Yg&oh=00_AfupT0ayFJ1yV-OxkLSySZcgnbMAVB3JgtcAIBhYoSuTOg&oe=69BC24F7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2203,7 +2182,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=rhhYgUlZJbkQ7kNvwFETTii&_nc_oc=AdmOJdFzO0-V5i5Qt126eZlNqiNIp9Rs7GHWSvgk2eicwvmsv567C0Gl3yc1xcn7l-s&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=xPEco1t3hsBulHxDEWl3Sg&oh=00_Afua7dyuFljOAKnT5n0Sp2AlNrm41RtJ5-AST9hzFlikNA&oe=69BC0917",
+    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=rhhYgUlZJbkQ7kNvwFQ_smH&_nc_oc=AdkW1gJ9RgkOBior73vVy7bl4qWeZLms7BVQI9UQH5Tjtgz2TpnSLNy0r-FTR4m5u70&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=3jm1U4ISRTi5wcSPPoefMg&oh=00_AfujA-SNAkS1jiJ7rX4Gi0JKJY-r-A3g0hnfR9jv7-AU9w&oe=69BC0917",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2393,7 +2372,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=3VUuiZKIHsMQ7kNvwFjCkaZ&_nc_oc=AdndQKqmnkyVN5QfTWGzeFj0CxOwVOYDcxJy662PBClNuA2NA-HuVnB8H1yWu5ynJSc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=mdL6xgKgOsSwdegMBhyOwQ&oh=00_AftCG5t7qmgwgWn4gFnSQDNJ1q3w2F6d94jJgptgk2--lg&oe=69BC06DB",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=3VUuiZKIHsMQ7kNvwGF3QRn&_nc_oc=AdkRedkm1axxp7j9bwNWAs1atZ7dP2yiC6Xt1P5GDmgxRvmEO7ojHCzySxwogK8pUkU&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=8CudTXBYtZmmm71hHMKziw&oh=00_AfuegQsWGt8tlqtYBJSHfy7ryV-rtf6Dk4zy07OnrS8KMw&oe=69BC06DB",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3213,7 +3192,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=FRC5zxeQvCYQ7kNvwH2b2FA&_nc_oc=Adl4bVrf7tm0eIgqxRL0YbMBLU11p5WKFTVjYMA4wphVp84lQawfgUTNOTKSuEzbnkU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=WiLcZ0MGXQnWfscDI2RRzw&oh=00_Afua_TohkakglOKn6uJ1m8gQMZM_i8M2yNq1q5hvgV5KxQ&oe=69BC2C6B",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=FRC5zxeQvCYQ7kNvwH7Tdcc&_nc_oc=Adl3CicBv4Z6LQ79ROSrnLo0yzPaperKW89lR51FfA-HFq__plPvIoqzrSluLgwTk24&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=QpN8ZQgsHYZCJ4HkqKq68Q&oh=00_AftXx1pcNdlN26jAg5OGYRTBaxIIav7gdZsTHFNjWk5zBw&oe=69BC2C6B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
@@ -3321,15 +3300,6 @@
     "url": "https://developer.nvidia.com/blog/building-better-qubits-with-gpu-accelerated-computing/",
     "tag": "Engineering",
     "summary": "Quantum computing promises to revolutionize science and industry, from drug discovery to materials science. But building a useful, large-scale quantum"
-  },
-  {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:691b8dd19cd2316952aa0f95",
-    "company": "Stability AI",
-    "title": "Warner Music Group and Stability AI Join Forces To Build The Next Generation Of Responsible AI Tools For Music Creation",
-    "date": "2025-11-19T16:01:30.000Z",
-    "url": "https://stability.ai/news/warner-music-group-and-stability-ai-join-forces-to-build-next-gen-tools",
-    "tag": "News",
-    "summary": "Warner Music Group and Stability AI today announced a collaborative effort \r\nto advance the use of responsible AI in music creation, combining WMG’s \r"
   },
   {
     "id": "https://openai.com/index/strengthening-safety-with-external-testing",
@@ -3731,15 +3701,6 @@
     "url": "https://openai.com/index/expanding-stargate-to-michigan",
     "tag": "News",
     "summary": "OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, dr"
-  },
-  {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:69027ac64dd5be07a211b2a2",
-    "company": "Stability AI",
-    "title": "Universal Music Group and Stability AI Announce Strategic Alliance to Co-Develop Professional AI Music Creation Tools",
-    "date": "2025-10-30T12:06:00.000Z",
-    "url": "https://stability.ai/news/universal-music-group-and-stability-ai-announce-strategic-alliance",
-    "tag": "News",
-    "summary": "Universal Music Group and Stability AI today announced a strategic alliance \r\nto develop next-generation professional music creation tools, powered by"
   },
   {
     "id": "https://openai.com/index/introducing-aardvark",
@@ -4163,15 +4124,6 @@
     "url": "https://deepmind.google/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway/",
     "tag": "News",
     "summary": "We’re launching a new 27 billion parameter foundation model for single-cell analysis built on the Gemma family of open models."
-  },
-  {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:68f7e4c20448615ff118b4da",
-    "company": "Stability AI",
-    "title": "Stability AI and EA Partner to Empower Artists, Designers, and Developers to Reimagine Game Development",
-    "date": "2025-10-23T16:01:48.000Z",
-    "url": "https://stability.ai/news/stability-ai-and-ea-partner-to-reimagine-game-development",
-    "tag": "News",
-    "summary": "Stability AI and Electronic Arts (EA) have formed a strategic partnership \r\nto co-develop transformative generative AI models, tools, and workflows \r\n"
   },
   {
     "id": "https://openai.com/index/openai-acquires-software-applications-incorporated",
@@ -4792,30 +4744,12 @@
     "summary": "Pushing the Frontier of Cost-Efficient Intelligence"
   },
   {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:68a37e026fea9a73312ba405",
-    "company": "Stability AI",
-    "title": "Stability AI Brings Image Services to Amazon Bedrock, Delivering End-to-End Creative Control with Enterprise-Grade Infrastructure",
-    "date": "2025-09-18T21:03:08.000Z",
-    "url": "https://stability.ai/news/stability-ai-brings-image-services-to-amazon-bedrock-delivering-professional-creative-control-with-enterprise-grade-infrastructure",
-    "tag": "Engineering",
-    "summary": "Today, we're excited to announce we’re expanding our partnership with \r\nAmazon Web Services to bring our Stable Image Services to Amazon Bedrock."
-  },
-  {
     "id": "https://huggingface.co/blog/riskrubric",
     "company": "Hugging Face",
     "title": "Democratizing AI Safety with RiskRubric.ai",
     "date": "2025-09-18T00:00:00.000Z",
     "url": "https://huggingface.co/blog/riskrubric",
     "tag": "News"
-  },
-  {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:68ba1647024bd120f1f9a4d8",
-    "company": "Stability AI",
-    "title": "Stability AI’s Annual Integrity Transparency Report",
-    "date": "2025-09-17T17:26:52.000Z",
-    "url": "https://stability.ai/news/stability-ais-annual-integrity-transparency-report",
-    "tag": "News",
-    "summary": "At Stability AI, we are committed to building and deploying generative AI \r\nresponsibly, and we believe that transparency is foundational to safe and "
   },
   {
     "id": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models",
@@ -4954,15 +4888,6 @@
     "date": "2025-09-10T17:04:36.000Z",
     "url": "https://huggingface.co/blog/togethercomputer/together-ft",
     "tag": "News"
-  },
-  {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:68af30c1f7616137793f399f",
-    "company": "Stability AI",
-    "title": "Stability AI Introduces Stable Audio 2.5, the First Audio Model Built for Enterprise Sound Production at Scale",
-    "date": "2025-09-10T14:07:07.000Z",
-    "url": "https://stability.ai/news/stability-ai-introduces-stable-audio-25-the-first-audio-model-built-for-enterprise-sound-production-at-scale",
-    "tag": "News",
-    "summary": "We’re excited to release Stable Audio 2.5, our latest audio model and the \r\nfirst developed for enterprise-grade use cases. Stable Audio 2.5 introduce"
   },
   {
     "id": "https://huggingface.co/blog/jupyter-agent-2",
