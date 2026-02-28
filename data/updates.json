@@ -285,6 +285,18 @@
     "summary_ar": "Upon his appointment to OpenAI's Board of Directors, Retired U.S. Army General Paul M. Nakasone joined the سلامة and أمن Committee."
   },
   {
+    "id": "https://openai.com/index/jakub-pachocki-announced-as-chief-scientist",
+    "company": "OpenAI",
+    "title": "Ilya Sutskever to leav",
+    "date": "2026-02-25T00:00:00.000Z",
+    "url": "https://openai.com/index/jakub-pachocki-announced-as-chief-scientist",
+    "tag": "Research",
+    "summary": "Jakub is the Chief Scientist at OpenAI, where he has led transformative research initiatives since 2017. He previously served as Director of Research spearhe...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/51rHXZVEwJcSW2QpWTg9VY/a81788b56e9a46dea6f7ad08cc14c5d4/4pm.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Ilya Sutskever to leav",
+    "summary_ar": "Jakub is the Chief Scientist at OpenAI, where he has led transformative أبحاث initiatives since 2017. He previously served as Director of أبحاث spearhe..."
+  },
+  {
     "id": "https://openai.com/global-affairs/openai-technology-explained",
     "company": "OpenAI",
     "title": "OpenAI’s technology explained",
@@ -1021,7 +1033,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=okAz0Oiua6sQ7kNvwHiWJhE&_nc_oc=AdnozCviLPD1b1SkrgUuQJVR8d1QBdHhc2X5MvRbuuv-80bWh7bEqQGU6iRYx5DjJhI&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=QHqnwxkXzmmyMe0ruaOBog&_nc_ss=8&oh=00_AfsQIsE8L0LrIBe0fembZ-WlJSqMoRqeL3QW_thyGlr-SA&oe=69BCFCBF",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=okAz0Oiua6sQ7kNvwGaE4Sa&_nc_oc=AdlCk6-PLmb5AHSJP_wgRuCLAlDKIpVmnc8mcoJTreMKfesH_HZcW89PUZXpG3Ec-Bw&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=tnyz3FLx7fssg46bqZd-ug&_nc_ss=8&oh=00_AfuTO5aTVIF8YvH2C_6I3gRSl3rmJD4oc7nMI8xN1GziMA&oe=69BCFCBF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2212,7 +2224,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=KNd25Mx-I6AQ7kNvwGLDfZ_&_nc_oc=Admh7lxz1I_iRDpejUydJ5AN1GZr5u0UXYH-AfFutINquSV0PssdwMFV2_JRNvzjOoY&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=4mLe3gvY34kHGT22ckyfQw&_nc_ss=8&oh=00_Afthk0JQmFWJNliD0U_HmHfo_67UejLf29zZC0-iOIcS5A&oe=69BD05F7",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=KNd25Mx-I6AQ7kNvwHPiiME&_nc_oc=AdkNIZ64xR3anw99mYwElU7mIif5Kkm0LeR0IL_tNRf6NQ4XAMlFnAzUwrLzUFCDPd4&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=Ql94S-zaYpr9BX_iYaJ5Xg&_nc_ss=8&oh=00_AftWNaPrZ0NZ7jY63juhcusYITKZl--7LbPLGfYf8PqJKQ&oe=69BD05F7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2224,7 +2236,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=rhhYgUlZJbkQ7kNvwHcTvkp&_nc_oc=AdlcIHwCAhs0KRyNzEdTcfOGgJFLDNME6EfzxIUITWZcdWjJq4zMzubcVkywbJep1Hg&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=kwu3eiSoh-h6m8GRx9dNbQ&_nc_ss=8&oh=00_Aft5B-COpVYS59bdyT0kBN4igXYw_hrjtGKLGGgUg-ICag&oe=69BD2257",
+    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=rhhYgUlZJbkQ7kNvwHsWpf7&_nc_oc=AdnSdeR6j8L_UGSP6kEifpOHfRoKFGGzgcEC0OGWTfFV7e695C7Hjk3BMD_AOGHW5wM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=h5-w8dNSLJD9edxcNpH1pQ&_nc_ss=8&oh=00_Afst_dwcHJ6c7jf4u3FokP_HxBMOcVm99cQiuReJ-U9NAA&oe=69BD2257",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2414,7 +2426,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=3VUuiZKIHsMQ7kNvwH3w0mp&_nc_oc=AdmtPfEXlXfRFh6XWR_s3ZczRcufztFWCcgUh5SLGzut5-28yElVNLlLKfikfqHTDKA&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=w94QqDyQ5BHjw4_OGb1wcg&_nc_ss=8&oh=00_AfvHpj8BGs1unkvY3jr_DDSJN_zmtXsiBlI1eBoPxT0SPw&oe=69BD201B",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=3VUuiZKIHsMQ7kNvwE1nip7&_nc_oc=AdlTRDRKQsZfxpto0F9YacesdYqaPzvaKSdM_HCgpu0t8TE_tgxZgDgwhdNnXpIFaCw&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=qLJZxMmZ9b4oMH3CD3SY6g&_nc_ss=8&oh=00_AftIbl8l697o-b1h63oPxdCwZVy57iQ2osOdeK4OKKxj2Q&oe=69BD201B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3234,7 +3246,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=FRC5zxeQvCYQ7kNvwGZwR4-&_nc_oc=Adn-2aBNVFGDcL3YlMUjbzG_mz5ern3gNeGbY8fVQwQuaEbIyevgsF1em5uwn-OxZZ4&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=54sHa60LQlmWN_Xac1sqWw&_nc_ss=8&oh=00_Afvo9QT9sO_DRFKa71E_-aMTP4efEk9F7_53Qo5TdJJk1A&oe=69BD0D6B",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=FRC5zxeQvCYQ7kNvwGfdGhI&_nc_oc=Adlur8-PtdHhGq4MQ4FQssf3qoh1Rsw0loTvYcT8lrFHFoiIvHTTTxSdWHT-5ZglcVU&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=Gb1bUFvP04dXH3ueGVMFmg&_nc_ss=8&oh=00_AfujUwBCe026LMZp2gtQg0wQOp33jdZTRCcF5IJl5KU99Q&oe=69BD0D6B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
