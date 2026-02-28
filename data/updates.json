@@ -63,6 +63,18 @@
     "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigat"
   },
   {
+    "id": "https://www.anthropic.com/news/statement-comments-secretary-war",
+    "company": "Anthropic",
+    "title": "Statement on the comments from Secretary of War Pete Hegseth",
+    "date": "2026-02-27T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
+    "tag": "News",
+    "summary": "Anthropic's response to the Secretary of War and advice for customers",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/04e461ada1956ddd7390fe7053f8eb865a7ec26c-4800x2520.png",
+    "title_ar": "تحديث رسمي: Statement on the comments from Secretary of War Pete Hegseth",
+    "summary_ar": "تحديث رسمي: Anthropic's response to the Secretary of War and advice for customers"
+  },
+  {
     "id": "augmenting-app",
     "company": "Apple",
     "title": "Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments",
@@ -297,18 +309,6 @@
     "summary_ar": "A statement from our CEO on national أمن uses of AI"
   },
   {
-    "id": "https://www.anthropic.com/news/acquires-vercept",
-    "company": "Anthropic",
-    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
-    "date": "2026-02-25T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/acquires-vercept",
-    "tag": "Research",
-    "summary": "People are using Claude for increasingly complex work—writing and running code across entire repositories, synthesizing research from dozens of sources, and ...",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&backgroundColor=coral",
-    "title_ar": "تحديث رسمي: Anthropic acquires Vercept to advance Claude's computer use capabilities",
-    "summary_ar": "People are using Claude for increasingly complex work—writing and running code across entire repositories, synthesizing أبحاث from dozens of sources, and ..."
-  },
-  {
     "id": "constructive-circuit-amplification",
     "company": "Apple",
     "title": "Constructive Circuit Amplification: Improving Math Reasoning in LLMs via Targeted Sub-Network Updates",
@@ -487,18 +487,6 @@
     "url": "https://openai.com/index/frontier-alliance-partners",
     "tag": "News",
     "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments."
-  },
-  {
-    "id": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
-    "company": "Anthropic",
-    "title": "Responsible Scaling Policy Version 3.0",
-    "date": "2026-02-23T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
-    "tag": "Policy",
-    "summary": "An update to Anthropic's policy to mitigate catastrophic risks from AI",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&backgroundColor=olive",
-    "title_ar": "Responsible توسيع نطاق سياسة Version 3.0",
-    "summary_ar": "An تحديث to Anthropic's سياسة to mitigate catastrophic risks from AI"
   },
   {
     "id": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
@@ -789,18 +777,6 @@
     "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education"
   },
   {
-    "id": "https://www.anthropic.com/news/anthropic-infosys",
-    "company": "Anthropic",
-    "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
-    "date": "2026-02-17T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/anthropic-infosys",
-    "tag": "News",
-    "summary": "Anthropic and Infosys, a global leader in next-generation digital services and consulting founded and headquartered in Bengaluru, today announced a collabora...",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&backgroundColor=sky",
-    "title_ar": "تحديث رسمي: Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
-    "summary_ar": "Anthropic and Infosys, a عالمي leader in next-generation digital services and consulting founded and headquartered in Bengaluru, today announced a collabora..."
-  },
-  {
     "id": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
     "company": "Hugging Face",
     "title": "Custom Kernels for All from Codex and Claude",
@@ -859,18 +835,6 @@
     "url": "https://openai.com/index/scaling-social-science-research",
     "tag": "Research",
     "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists a"
-  },
-  {
-    "id": "https://www.anthropic.com/news/anthropic-rwanda-mou",
-    "company": "Anthropic",
-    "title": "Anthropic and the Government of Rwanda sign MOU for AI in health and education",
-    "date": "2026-02-13T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/anthropic-rwanda-mou",
-    "tag": "Corporate",
-    "summary": "The Government of Rwanda and Anthropic have signed a three-year Memorandum of Understanding to formalize and expand our partnership, bringing AI to Rwanda’s ...",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=sky",
-    "title_ar": "تحديث رسمي: Anthropic and the Government of Rwanda sign MOU for AI in health and education",
-    "summary_ar": "The Government of Rwanda and Anthropic have signed a three-year Memorandum of Understanding to formalize and expand our شراكة, bringing AI to Rwanda’s ..."
   },
   {
     "id": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
@@ -1009,7 +973,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=okAz0Oiua6sQ7kNvwHnBx9i&_nc_oc=Admk0J6TkvwyBhwKROzSABqrMArQEINZvHCdlhvJ76zqh3OgX7cm7of3G9-Tlf1pk_Q&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=3OvtwPCrEfXXdgDDgCxZFQ&_nc_ss=8&oh=00_AfuwaaVHNwNNZ5D4A-rUfDo1vbaXOmbkAMO3crOXcbzCKg&oe=69BC8C3F",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=okAz0Oiua6sQ7kNvwFRLu6k&_nc_oc=Adne5Ncqxl6I3jfbixLtpwLZshyDWNRL-9Mnx2hlTz4O5dIWXem__ok2J4m2Dqt5coY&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=m64bDZW0lalIuCvnu8Ypyw&_nc_ss=8&oh=00_AfuKSf7wFHMC9vZNrOCkVY92C5YbflmU5JqEaS_aXB4_Hw&oe=69BC8C3F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -1198,18 +1162,6 @@
     "url": "https://openai.com/index/vfl-wolfsburg",
     "tag": "News",
     "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity."
-  },
-  {
-    "id": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-    "company": "Anthropic",
-    "title": "Claude is a space to think",
-    "date": "2026-02-04T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-    "tag": "Engineering",
-    "summary": "We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we pla...",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20House&backgroundColor=cactus",
-    "title_ar": "تحديث رسمي: Claude is a space to think",
-    "summary_ar": "تحديث رسمي: We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we pla..."
   },
   {
     "id": "https://mistral.ai/news/voxtral-transcribe-2",
@@ -2212,7 +2164,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=KNd25Mx-I6AQ7kNvwF6spMq&_nc_oc=AdniyvIj9MnYrtSFLocRCc9r6KMnS7ztDGuFJ9AMJArsH8mtjCDCfTNi9DzaBr04sD0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=lWmF9XmU3-yEjBzUIosfGg&_nc_ss=8&oh=00_Afsd5bGC73gTlFXtmeaIDs76sqSGlNLuV7rHHt3nIZ5K_Q&oe=69BC9577",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=KNd25Mx-I6AQ7kNvwH-nY5D&_nc_oc=AdmdNyDt-_mOcTeri3U_QxvkEoRJ33-_dNGK8ZdOMr8UXcIJj3dzvTmyHDvGw-tdQ8o&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=r0Eo2SXndU91_B8o52k2cg&_nc_ss=8&oh=00_AfsarEbPV2JJuaRozQL8YH4q0PsSks1o2lJT1PtiGKqTMQ&oe=69BC9577",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2224,7 +2176,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=rhhYgUlZJbkQ7kNvwHNqsXD&_nc_oc=AdnZRBe-z6Cf103yZBffLWrIAj-djY3yOZa_jcBlNUsMRPlF2acPAlff30ckt1q81gA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=FQUhaR6p5-nagV7a4W10rQ&_nc_ss=8&oh=00_AfvjYm7Ub8ptLORMLBLvLfoxkoHCv5pLYhrJWCd7dthfvg&oe=69BC7997",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=rhhYgUlZJbkQ7kNvwHDBbL6&_nc_oc=AdnqOFbv_sXaBLGgOgFRYbQeZd8qYz2IueXuGl-2fmVSqW-mpeT5WJjRfQgLDIc-S5A&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=EKEvPVhYeF2_yPYxu9H-UQ&_nc_ss=8&oh=00_AfsUQPYLs9uqXYvwjXFpuKm3yb9fY2-tU25Y7xn7uOemFw&oe=69BC7997",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2414,7 +2366,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=3VUuiZKIHsMQ7kNvwGMdhuz&_nc_oc=AdnQspyQnnqBXbD1AluuzdR8nZqNHDlQTZ6PKnsItz5A-yOXVfj-fuHBibmnGBCH_f0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=dXyDHk9rLQt7GqsAXxkVAQ&_nc_ss=8&oh=00_AfsfkqK8fHq5EJcjU-2WGfI_RbvNMH_Zfb-PtCTGonHthg&oe=69BC775B",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=3VUuiZKIHsMQ7kNvwEFUfvS&_nc_oc=AdlJHFbSMt8uN6zuip6lwCxtdB6tMnMRAEvZWWmOvw9zUSRhUJG7wga2XFN09NBc5F4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=lJJgrtCkJC7cvdvYifyoHA&_nc_ss=8&oh=00_AfuIjcT8wNyCSCxaAe3JUFf2uMakWWrJVPq_ZLmQls7GJw&oe=69BC775B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3234,7 +3186,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=FRC5zxeQvCYQ7kNvwEmiY3b&_nc_oc=AdkGDXvzRPamoamCOoBHpFY72zMEeRq9k21dOOrdEkezOikyFJxfKaDoeICEX_CjGWg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Qg1TgXAutNgBAEstCPmIjg&_nc_ss=8&oh=00_Afsl0RdolNBW2QM1xHhT0A4ujHcs50Ue23PA4_fpXRiWpA&oe=69BC64AB",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=FRC5zxeQvCYQ7kNvwHoAwTU&_nc_oc=AdlV5uWa0Og7MyNWCtCFSzuwK7GETztmc9nW-3NIE80Dywj3StnNXsRqgnbKio2taz8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=NIwWz9u1yJuVXmGbSdnLcg&_nc_ss=8&oh=00_AfvuF4r9Dgkxmz7qGBuMxUDoqkVDGb0D0vKXV50A79Pk3g&oe=69BC9CEB",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
