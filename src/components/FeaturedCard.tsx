@@ -43,8 +43,7 @@ export function FeaturedCard({ item }: { item: UpdateItem }) {
             {/* Thumbnail */}
             <Link
                 href={href}
-                className="block overflow-hidden rounded-xl mb-4 border border-[var(--color-border)] aspect-video bg-[var(--color-surface-hover)] relative"
-                style={!item.image ? { backgroundColor: accentColor + '20' } : {}}
+                className="block overflow-hidden rounded-xl mb-4 border border-[var(--color-border)] aspect-video relative"
             >
                 {item.image ? (
                     <img
@@ -53,9 +52,20 @@ export function FeaturedCard({ item }: { item: UpdateItem }) {
                         className="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-500"
                     />
                 ) : (
-                    <div className="w-full h-full flex items-center justify-center">
-                        <span className="text-[10px] font-mono font-bold uppercase tracking-widest opacity-40" style={{ color: accentColor }}>
+                    <div
+                        className="w-full h-full flex flex-col items-start justify-end p-5 group-hover:brightness-110 transition-all duration-300"
+                        style={{
+                            background: `linear-gradient(135deg, ${accentColor}18 0%, ${accentColor}30 50%, ${accentColor}10 100%)`,
+                        }}
+                    >
+                        <span
+                            className="text-[10px] font-mono font-bold uppercase tracking-[0.2em] mb-1"
+                            style={{ color: accentColor }}
+                        >
                             {item.company}
+                        </span>
+                        <span className="text-sm font-bold text-[var(--color-foreground)] line-clamp-2 leading-snug opacity-70">
+                            {item.title}
                         </span>
                     </div>
                 )}

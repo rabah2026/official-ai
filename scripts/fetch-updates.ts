@@ -336,11 +336,11 @@ async function fetchUpdates() {
                         return update;
                     }).filter(Boolean) as UpdateItem[];
 
-                    // Enrichment for RSS items missing summary (limit to first 10 for performance)
-                    const missingSummary = items.filter(i => !i.summary || i.summary.length < 5).slice(0, 10);
-                    if (missingSummary.length > 0) {
-                        console.log(`  -> Enriching ${missingSummary.length} RSS items for ${company.name}...`);
-                        for (const item of missingSummary) {
+                    // Enrichment for RSS items missing summary OR missing image (limit to first 15 for performance)
+                    const needsEnrichment = items.filter(i => !i.summary || i.summary.length < 5 || !i.image).slice(0, 15);
+                    if (needsEnrichment.length > 0) {
+                        console.log(`  -> Enriching ${needsEnrichment.length} RSS items for ${company.name}...`);
+                        for (const item of needsEnrichment) {
                             await enrichItem(item, company.name);
                         }
                     }
@@ -372,8 +372,8 @@ async function fetchUpdates() {
                                 } as UpdateItem;
                             }).filter(Boolean) as UpdateItem[];
 
-                            const missingSummary = items.filter(i => !i.summary || i.summary.length < 5).slice(0, 10);
-                            for (const item of missingSummary) {
+                            const needsEnrichment = items.filter(i => !i.summary || i.summary.length < 5 || !i.image).slice(0, 15);
+                            for (const item of needsEnrichment) {
                                 await enrichItem(item, company.name);
                             }
 
