@@ -930,6 +930,18 @@
     "summary_ar": "مؤسسات data is inherently complex: real-world documents are متعدد الأنماط, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms…"
   },
   {
+    "id": "https://www.anthropic.com/news/anthropic-infosys",
+    "company": "Anthropic",
+    "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+    "date": "2026-02-17T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-infosys",
+    "tag": "News",
+    "summary": "Anthropic and Infosys, a global leader in next-generation digital services and consulting founded and headquartered in Bengaluru, today announced a collabora...",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&backgroundColor=sky",
+    "title_ar": "تحديث رسمي: Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+    "summary_ar": "Anthropic and Infosys, a عالمي leader in next-generation digital services and consulting founded and headquartered in Bengaluru, today announced a collabora..."
+  },
+  {
     "id": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
     "company": "Hugging Face",
     "title": "Custom Kernels for All from Codex and Claude",
@@ -1153,7 +1165,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwFrD7Yi&_nc_oc=Adm7FOW2tAUKP3x4Hkn6Gfl07ZMejnwej3E2ttYCq67LH-Ydnsc5ttajvZ6NDZvX77c&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=C8u2NcI9BeY6dZsxl8RCBg&_nc_ss=8&oh=00_AfuxJKafygihQiLKYpcvOY-wtUosJ67APm7Yu2RcCWBARw&oe=69BE4E3F",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwFcS2do&_nc_oc=Adm6nPumz8OJmrNtZNSG18bGQxsg_rArj1lyrSRdaD8LS-saDxDJiF86g3SxVJ-KgZ8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=eT7rVk4nNUTGaot8GxM6mA&_nc_ss=8&oh=00_AftuYZlmZN_c5IJSYKagfYiA7r-bWfVHnxpZhTNLu9XJ8g&oe=69BE4E3F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2385,7 +2397,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwFN3SoR&_nc_oc=AdmqW1bfq77bgGiByPozPsOOGCxCUvgPY_Kj0NpvAKCL3ODorbqvKmGZwCzO13mrXr0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=QFqaeYfM25VP-aFksaFKww&_nc_ss=8&oh=00_AfvLWzr4sItXXlDN_EEOTVS-YtY_NEX3iljNDz-y_VDSnw&oe=69BE5777",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwF6SBQw&_nc_oc=AdlQaXMNumEfCYbcptffvM7WwaCx7131aOZytKYj-zZikVUokGhS2PGk3H5ccxEenTQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=BvfVjilAT8HQzu6JFeEtzg&_nc_ss=8&oh=00_Afs5CNIFkUVnaCQeNt12cNtMwvNXFwcY_OO-8EKWk06WGQ&oe=69BE5777",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2397,7 +2409,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=rhhYgUlZJbkQ7kNvwG9A-Am&_nc_oc=AdnKNLYaoeePEQ_8uRjxU3YoATQWUM2Ujv2nleeob3AWT_VVZDnVtQM8L9T7Z2ijXyo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=ic_QXqLxdW9qDcIG6qIJwg&_nc_ss=8&oh=00_Afv2voAgmKsGzFulnpumuAhPAl6q_XvTzzDjea7IMWvIlA&oe=69BE73D7",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=rhhYgUlZJbkQ7kNvwFoz2hp&_nc_oc=AdkzX-Gxgzve5XVO8PMnu6wz_GfDLQb11se8uuPu5gq1IFApWmU3t2hMcXacDaXK71g&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=9wlvLmgkzvi28pBe1LQ9SA&_nc_ss=8&oh=00_Afu4zBBn4viMqVsoimD2fB08Z6qutgXcfNhuSPSKCkY40w&oe=69BE73D7",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2581,7 +2593,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=3VUuiZKIHsMQ7kNvwEZKGbI&_nc_oc=AdkOi37UuyoPcKgE0l8gwT8e9ha5wFuLaFLV2cQr7urLEfQTnMphTQ1flimRu3vorMs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=f8y7jbpPR6pvm5PTDsbc_Q&_nc_ss=8&oh=00_AfuSB2XI-_dKDJFu2KqSYrJ-tRbuC2Ux5_RNfNp-rMYdyw&oe=69BE719B",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=3VUuiZKIHsMQ7kNvwFVCBAV&_nc_oc=AdmOHbUKH49SLtbJqWgYvcrcLWCZbxuXnRC9V5zD8S_OqNc2C4Twb0kSuIxIt7PWhSI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wAGSrDKnL-TLx90hTnL9GQ&_nc_ss=8&oh=00_AfvOOlFpK6fYjo0ozJsOZnoAFqu2aEF73snVEdlOHipWZQ&oe=69BE719B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3419,7 +3431,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=jm5UtpG9JskQ7kNvwGXPD-9&_nc_oc=AdnTf1X5VQDMUWxrwsaiOnHLfO21CaXvIHVROMuwxJUEFeOMdxOdGexHwLkVUH5-YgE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Vw4urT-veGCH6ZId6cI1DQ&_nc_ss=8&oh=00_AfumqddmSI_2uzVtmVl3N4B2LOUPOC_I5BKoXP3Kg_1WIg&oe=69BE5EEB",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=jm5UtpG9JskQ7kNvwGHLznl&_nc_oc=AdlCHnn8Psl4s02ST0JL21bwXaw6OS5bAaaO-mNLiaVODbGZqQx26WFmfJ14aHfI5H8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=rE9GfSA2G0BSBauSZKh7zw&_nc_ss=8&oh=00_AftGn7i8tnjM0MivXxQFQASTvUPBU2QhzhoaQAUaWKGQRw&oe=69BE5EEB",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
