@@ -6,79 +6,106 @@
     "date": "2026-03-01T07:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/5-new-digital-twin-products-developers-can-use-to-build-6g-networks/",
     "tag": "Engineering",
-    "summary": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: how to design, train, and validate AI-native networks that are too c"
-  },
-  {
-    "id": "https://openai.com/index/our-agreement-with-the-department-of-war",
-    "company": "OpenAI",
-    "title": "Our agreement with the Department of War",
-    "date": "2026-02-28T12:30:00.000Z",
-    "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
-    "tag": "News",
-    "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classif"
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/develop-native-multimodal-agents-with-qwen3-5-vlm-using-nvidia-gpu-accelerated-endpoints/",
-    "company": "NVIDIA",
-    "title": "Develop Native Multimodal Agents with Qwen3.5 VLM Using NVIDIA GPU-Accelerated Endpoints",
-    "date": "2026-02-27T17:30:00.000Z",
-    "url": "https://developer.nvidia.com/blog/develop-native-multimodal-agents-with-qwen3-5-vlm-using-nvidia-gpu-accelerated-endpoints/",
-    "tag": "Engineering",
-    "summary": "Alibaba has introduced the new open source Qwen3.5 series built for native multimodal agents. The first model in this series is a ~400B parameter nati"
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/maximizing-gpu-utilization-with-nvidia-runai-and-nvidia-nim/",
-    "company": "NVIDIA",
-    "title": "Maximizing GPU Utilization with NVIDIA Run:ai and NVIDIA NIM",
-    "date": "2026-02-27T17:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/maximizing-gpu-utilization-with-nvidia-runai-and-nvidia-nim/",
-    "tag": "Engineering",
-    "summary": "Organizations deploying LLMs are challenged by inference workloads with different resource requirements. A small embedding model might use only a few "
+    "summary": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: how to design, train, and validate AI-native networks that are too complex to…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/image6.webp",
+    "title_ar": "5 جديد Digital Twin Products Developers Can Use to Build 6G Networks",
+    "summary_ar": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: كيفية design, train, and validate AI-native networks that are too complex to…"
   },
   {
     "id": "https://openai.com/index/continuing-microsoft-partnership",
     "company": "OpenAI",
-    "title": "Joint Statement from OpenAI and Microsoft",
-    "date": "2026-02-27T05:30:00.000Z",
+    "title": "Joint Statement fro",
+    "date": "2026-02-28T12:30:00.000Z",
     "url": "https://openai.com/index/continuing-microsoft-partnership",
-    "tag": "Corporate",
-    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and share"
+    "tag": "Research",
+    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5PIN2LMOSjRvtC7sw8FHAC/bc7719b0c18048c282f759be52bd4f51/Microsoft_Hero_Oct_16x9.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Joint Statement fro",
+    "summary_ar": "Microsoft and OpenAI continue to work closely across أبحاث, هندسة, and product development, بناء on years of deep collaboration and shared success."
   },
   {
     "id": "https://openai.com/index/amazon-partnership",
     "company": "OpenAI",
     "title": "OpenAI and Amazon announce strategic partnership",
-    "date": "2026-02-27T05:30:00.000Z",
+    "date": "2026-02-28T12:30:00.000Z",
     "url": "https://openai.com/index/amazon-partnership",
-    "tag": "Corporate",
-    "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterpr"
+    "tag": "Engineering",
+    "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI ...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/NUB0tjg5MC1XbgQzf6dxY/7f42b233c4a26095d47f65f71afc5e93/Amazon_1__1_.png?w=1600&h=900&fit=fill",
+    "title_ar": "OpenAI and Amazon announce strategic شراكة",
+    "summary_ar": "OpenAI and Amazon announce a strategic شراكة bringing OpenAI’s Frontier منصة to AWS, expanding AI بنية تحتية, custom models, and مؤسسات AI ..."
   },
   {
     "id": "https://openai.com/index/scaling-ai-for-everyone",
     "company": "OpenAI",
     "title": "Scaling AI for everyone",
-    "date": "2026-02-27T05:30:00.000Z",
+    "date": "2026-02-28T12:30:00.000Z",
     "url": "https://openai.com/index/scaling-ai-for-everyone",
     "tag": "Engineering",
-    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazo"
+    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3Y4GXqzAWchrROzpq6XujG/9ca9069048be653b1e0abd21fa110945/one_platfrom.png?w=1600&h=900&fit=fill",
+    "title_ar": "توسيع نطاق AI for everyone",
+    "summary_ar": "Today we’re إعلان عن $110B in جديد investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon."
   },
   {
     "id": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
     "company": "OpenAI",
     "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-    "date": "2026-02-27T05:30:00.000Z",
+    "date": "2026-02-28T12:30:00.000Z",
     "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
     "tag": "News",
-    "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by Open"
+    "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5UfsQ8RCnpdXJAni6NjAXm/60e92f8f239c1b2412fc3225373e0d4c/Introducing_the_Stateful_Runtime_for_Agents_on_Amazon_Bedrock_1__1_.png?w=1600&h=900&fit=fill",
+    "title_ar": "نُقدم لكم the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "summary_ar": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, ذاكرة, and secure execution to multi-step AI workflows powered by OpenAI."
   },
   {
-    "id": "https://openai.com/index/update-on-mental-health-related-work",
+    "id": "https://openai.com/index/arvind-kc-chief-people-officer",
     "company": "OpenAI",
-    "title": "An update on our mental health-related work",
-    "date": "2026-02-27T00:00:00.000Z",
-    "url": "https://openai.com/index/update-on-mental-health-related-work",
-    "tag": "News",
-    "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigat"
+    "title": "Arvind KC appointed Chief People Officer",
+    "date": "2026-02-28T12:30:00.000Z",
+    "url": "https://openai.com/index/arvind-kc-chief-people-officer",
+    "tag": "Corporate",
+    "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/h52gW2DCSbsRkDaSlHJoe/4665606c63a2c1e8c86ded2b36e8b8ac/Arvind_KC_Social.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Arvind KC appointed Chief People Officer",
+    "summary_ar": "تحديث رسمي: OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI."
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/develop-native-multimodal-agents-with-qwen3-5-vlm-using-nvidia-gpu-accelerated-endpoints/",
+    "company": "NVIDIA",
+    "title": "Develop Native Multimodal Agents with Qwen3.5 VLM Usin",
+    "date": "2026-02-27T17:30:00.000Z",
+    "url": "https://developer.nvidia.com/blog/develop-native-multimodal-agents-with-qwen3-5-vlm-using-nvidia-gpu-accelerated-endpoints/",
+    "tag": "Engineering",
+    "summary": "Alibaba has introduced the new open source Qwen3.5 series built for native multimodal agents. The first model in this series is a ~400B parameter native vision…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/qwen3-5.png",
+    "title_ar": "Develop Native متعدد الأنماط Agents with Qwen3.5 VLM Usin",
+    "summary_ar": "Alibaba has introduced the جديد مصدر مفتوح Qwen3.5 series built for native متعدد الأنماط agents. The first نموذج in this series is a ~400B parameter native رؤية…"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/maximizing-gpu-utilization-with-nvidia-runai-and-nvidia-nim/",
+    "company": "NVIDIA",
+    "title": "Maximizing GPU Utilization wit",
+    "date": "2026-02-27T17:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/maximizing-gpu-utilization-with-nvidia-runai-and-nvidia-nim/",
+    "tag": "Engineering",
+    "summary": "Organizations deploying LLMs are challenged by inference workloads with different resource requirements. A small embedding model might use only a few gigabytes…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/genai-visual-mixture-of-experts-3105423-e1772062206929.webp",
+    "title_ar": "تحديث رسمي: Maximizing GPU Utilization wit",
+    "summary_ar": "Organizations deploying LLMs are challenged by استنتاج workloads with different resource requirements. A small embedding نموذج might use only a few gigabytes…"
+  },
+  {
+    "id": "https://openai.com/index/our-agreement-with-the-department-of-war",
+    "company": "OpenAI",
+    "title": "Our agreement with the Department of War",
+    "date": "2026-02-27T05:30:00.000Z",
+    "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+    "tag": "Policy",
+    "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified env...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2yH2OdPBInzY8AUPQ22cO2/8a249bb95d38502a1341c1e4f0a442fc/agreement-department-of-war.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Our agreement with the Department of War",
+    "summary_ar": "Details on OpenAI’s contract with the Department of War, outlining سلامة red lines, legal protections, and how AI systems will be deployed in classified env..."
   },
   {
     "id": "https://www.anthropic.com/news/statement-comments-secretary-war",
@@ -99,16 +126,22 @@
     "date": "2026-02-27T00:00:00.000Z",
     "url": "https://machinelearning.apple.com/research/augmenting-app",
     "tag": "Research",
-    "summary": "Large-scale commercial search systems optimize for relevance to drive successful sessions that help users find what they are looking for. To maximize "
+    "summary": "Large-scale commercial search systems optimize for relevance to drive successful sessions that help users find what they are looking for. To…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "توسيع نطاق Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments",
+    "summary_ar": "تحديث رسمي: Large-scale commercial search systems optimize for relevance to drive successful sessions that help users find what they are looking for. To…"
   },
   {
     "id": "we-notice",
     "company": "Apple",
-    "title": "The Way We Notice, That's What Really Matters: Instantiating UI Components with Distinguishing Variations",
+    "title": "The Way We Notice, That’s What Really Matters: Instantiating UI Components with Distinguishing Variations",
     "date": "2026-02-27T00:00:00.000Z",
     "url": "https://machinelearning.apple.com/research/we-notice",
     "tag": "Research",
-    "summary": "Front-end developers author UI components to be broadly reusable by parameterizing visual and behavioral properties. While flexible, this makes instan"
+    "summary": "Front-end developers author UI components to be broadly reusable by parameterizing visual and behavioral properties. While flexible, this…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: The Way We Notice, That’s What Really Matters: Instantiating UI Components with Distinguishing Variations",
+    "summary_ar": "تحديث رسمي: Front-end developers author UI components to be broadly reusable by parameterizing visual and behavioral properties. While flexible, this…"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
@@ -128,8 +161,11 @@
     "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
     "date": "2026-02-26T18:55:00.000Z",
     "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
-    "tag": "Release",
-    "summary": "Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google’s AI training."
+    "tag": "Pricing",
+    "summary": "Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google’s AI training.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/691A1377_1920x1080.max-1440x810.png",
+    "title_ar": "Google and the Massachusetts AI Hub are launching a جديد AI تدريب initiative for the Commonwealth.",
+    "summary_ar": "Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google’s AI تدريب."
   },
   {
     "id": "198c9799e640c51b0287b81ea3ae6400e4e0cea5",
@@ -138,7 +174,10 @@
     "date": "2026-02-26T18:16:43.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/",
     "tag": "News",
-    "summary": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and "
+    "summary": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help th...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/26/2026_featuredimages_20620.png",
+    "title_ar": "تحديث رسمي: Learnings from COBOL modernization in the real world",
+    "summary_ar": "تحديث رسمي: Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help th..."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
@@ -147,16 +186,22 @@
     "date": "2026-02-26T18:00:00.000Z",
     "url": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
     "tag": "News",
-    "summary": "New alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural language."
+    "summary": "New alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural language.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_TextTranslate_1920x1080_Still_01.max-1440x810.png",
+    "title_ar": "Get more context and understand translations more deeply with جديد AI-powered updates in Translate.",
+    "summary_ar": "جديد alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural لغة."
   },
   {
     "id": "56b7071fcad978cd7a0b21f92935baa1b153cbfd",
     "company": "Amazon",
-    "title": "Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback",
+    "title": "Reinforcement fine-tuning fo",
     "date": "2026-02-26T17:48:37.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/",
     "tag": "Research",
-    "summary": "In this post, we explore reinforcement fine-tuning (RFT) for Amazon Nova models, which can be a powerful customization technique that learns through e"
+    "summary": "In this post, we explore reinforcement fine-tuning (RFT) for Amazon Nova models, which can be a powerful customization technique that learns through evaluati...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/26/ml-20340-1120x630.png",
+    "title_ar": "تحديث رسمي: Reinforcement fine-tuning fo",
+    "summary_ar": "تحديث رسمي: In this post, we explore reinforcement fine-tuning (RFT) for Amazon Nova models, which can be a powerful customization technique that learns through evaluati..."
   },
   {
     "id": "d3037eba588da28f924207de615e7ed509228ce3",
@@ -165,16 +210,22 @@
     "date": "2026-02-26T17:45:59.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
     "tag": "Engineering",
-    "summary": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded mo"
+    "summary": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model sup...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/26/ml-20229-1120x630.png",
+    "title_ar": "Large نموذج استنتاج container – latest capabilities and أداء enhancements",
+    "summary_ar": "AWS recently released significant updates to the Large نموذج استنتاج (LMI) container, delivering comprehensive أداء improvements, expanded نموذج sup..."
   },
   {
     "id": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
     "company": "Google / Gemini",
     "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-    "date": "2026-02-26T16:01:50.000Z",
+    "date": "2026-02-26T16:00:00.000Z",
     "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
     "tag": "News",
-    "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
+    "summary": "Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NB2_SS.width-1300.png",
+    "title_ar": "تحديث رسمي: Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+    "summary_ar": "Our latest image generation نموذج offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
@@ -183,7 +234,10 @@
     "date": "2026-02-26T16:00:00.000Z",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
     "tag": "News",
-    "summary": "Nano Banana 2 (Gemini 3.1 Flash Image) delivers Pro-level intelligence and fidelity for all image applications."
+    "summary": "Nano Banana 2 (Gemini 3.1 Flash Image) delivers Pro-level intelligence and fidelity for all image applications.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BuildWith_SocialShare.width-1300.png",
+    "title_ar": "Build with Nano Banana 2, our best image generation and editing نموذج",
+    "summary_ar": "Nano Banana 2 (Gemini 3.1 Flash Image) delivers Pro-level ذكاء and fidelity for all image applications."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
@@ -192,43 +246,94 @@
     "date": "2026-02-26T16:00:00.000Z",
     "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
     "tag": "News",
-    "summary": "Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed."
-  },
-  {
-    "id": "https://openai.com/index/pacific-northwest-national-laboratory",
-    "company": "OpenAI",
-    "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting ",
-    "date": "2026-02-26T10:00:00.000Z",
-    "url": "https://openai.com/index/pacific-northwest-national-laboratory",
-    "tag": "News",
-    "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal perm"
+    "summary": "Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NB2_SS.width-1300.png",
+    "title_ar": "تحديث رسمي: Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+    "summary_ar": "Our latest image generation نموذج offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed."
   },
   {
     "id": "https://openai.com/index/figma-partnership",
     "company": "OpenAI",
     "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
-    "date": "2026-02-26T06:00:00.000Z",
+    "date": "2026-02-26T10:00:00.000Z",
     "url": "https://openai.com/index/figma-partnership",
     "tag": "Corporate",
-    "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to i"
+    "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate ...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4y6fnHMSqylFSKLFBqjPWT/54b67a1cc26b4b1abb00310255ff28bb/Figma.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: OpenAI Codex and Figma launch seamless code-to-design experience",
+    "summary_ar": "OpenAI and Figma launch a جديد Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate ..."
+  },
+  {
+    "id": "https://openai.com/index/frontier-alliance-partners",
+    "company": "OpenAI",
+    "title": "Introducing Frontier Alliances",
+    "date": "2026-02-26T10:00:00.000Z",
+    "url": "https://openai.com/index/frontier-alliance-partners",
+    "tag": "News",
+    "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/7nMPgWMbTxfyWioeUWKO4d/45488e00bb74872b4d072e0e06c64aa8/Frontier_alliance.png?w=1600&h=900&fit=fill",
+    "title_ar": "نُقدم لكم Frontier Alliances",
+    "summary_ar": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable وكيل deployments."
+  },
+  {
+    "id": "https://openai.com/index/advancing-independent-research-ai-alignment",
+    "company": "OpenAI",
+    "title": "Advancing independent research on AI alignment",
+    "date": "2026-02-26T10:00:00.000Z",
+    "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
+    "tag": "Security",
+    "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/41XPFki1MAJlOqfx50Lr9n/8e7423403b90a3d12e4d3844d83a77dd/SEO_Card__1_.png?w=1600&h=900&fit=fill",
+    "title_ar": "تعزيز independent أبحاث on AI alignment",
+    "summary_ar": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment أبحاث, strengthening عالمي efforts to address AGI سلامة and أمن risks."
+  },
+  {
+    "id": "https://openai.com/index/openai-for-india",
+    "company": "OpenAI",
+    "title": "Introducin",
+    "date": "2026-02-26T10:00:00.000Z",
+    "url": "https://openai.com/index/openai-for-india",
+    "tag": "Research",
+    "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/G2A5VZHbNARmo6atQ2xdG/7adb24136736bce440fc6548952b4ee3/OpenAI_For_India.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Introducin",
+    "summary_ar": "OpenAI for India expands AI access across the country—بناء local بنية تحتية, powering enterprises, and تعزيز workforce skills."
+  },
+  {
+    "id": "https://openai.com/index/pacific-northwest-national-laboratory",
+    "company": "OpenAI",
+    "title": "Pacific Northwest National Laboratory an",
+    "date": "2026-02-26T06:00:00.000Z",
+    "url": "https://openai.com/index/pacific-northwest-national-laboratory",
+    "tag": "Research",
+    "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3gCnMkzhexb7PShZXI1xUl/cf832643b578bd9c236f78fc386b652f/oai_PNNL_Hero_Feb_16x9.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Pacific Northwest National Laboratory an",
+    "summary_ar": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a جديد benchmark evaluating how AI coding agents can accelerate federal permitting—..."
   },
   {
     "id": "61a60ca498d929c7ad189e9f5d619a92ba5ff859",
     "company": "Amazon",
-    "title": "Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock",
+    "title": "Efficiently serve dozens of fine-tuned models with vLLM o",
     "date": "2026-02-25T20:56:13.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/",
-    "tag": "News",
-    "summary": "In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations "
+    "tag": "Engineering",
+    "summary": "In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations we perf...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/25/ML-20205-1120x630.png",
+    "title_ar": "تحديث رسمي: Efficiently serve dozens of fine-tuned models with vLLM o",
+    "summary_ar": "In this post, we explain how we implemented multi-LoRA استنتاج for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations we perf..."
   },
   {
     "id": "a924887ed9c94798cb934925ac949c00aea76df4",
     "company": "Amazon",
-    "title": "Building intelligent event agents using Amazon Bedrock AgentCore and Amazon Bedrock Knowledge Bases",
+    "title": "Building intelligent event agents usin",
     "date": "2026-02-25T19:51:08.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/",
     "tag": "Engineering",
-    "summary": "This post demonstrates how to quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intel"
+    "summary": "This post demonstrates how to quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intelligent ...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/25/ml-19838-1120x630.png",
+    "title_ar": "بناء intelligent event agents usin",
+    "summary_ar": "This post demonstrates كيفية quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intelligent ..."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
@@ -237,7 +342,10 @@
     "date": "2026-02-25T18:00:00.000Z",
     "url": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
     "tag": "News",
-    "summary": "We’ve updated Circle to Search so you can now explore multiple items in a single image."
+    "summary": "We’ve updated Circle to Search so you can now explore multiple items in a single image.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FTL__Try_On_Social_feed.width-1300.png",
+    "title_ar": "تحديث رسمي: See the whole picture and find the look with Circle to Search",
+    "summary_ar": "تحديث رسمي: We’ve updated Circle to Search so you can now explore multiple items in a single image."
   },
   {
     "id": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
@@ -246,49 +354,22 @@
     "date": "2026-02-25T18:00:00.000Z",
     "url": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
     "tag": "News",
-    "summary": "At Samsung Unpacked 2026, we showcased how Samsung Galaxy S26 devices are getting the latest in Android’s AI features."
+    "summary": "At Samsung Unpacked 2026, we showcased how Samsung Galaxy S26 devices are getting the latest in Android’s AI features.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-social-1920x1080_withouttext.width-1300.png",
+    "title_ar": "تحديث رسمي: A more intelligent Android on Samsung Galaxy S26",
+    "summary_ar": "تحديث رسمي: At Samsung Unpacked 2026, we showcased how Samsung Galaxy S26 devices are getting the latest in Android’s AI features."
   },
   {
     "id": "https://developer.nvidia.com/blog/making-softmax-more-efficient-with-nvidia-blackwell-ultra/",
     "company": "NVIDIA",
-    "title": "Making Softmax More Efficient with NVIDIA Blackwell Ultra",
+    "title": "Making Softmax More Efficient wit",
     "date": "2026-02-25T17:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/making-softmax-more-efficient-with-nvidia-blackwell-ultra/",
     "tag": "Engineering",
-    "summary": "LLM context lengths are exploding, and architectures are moving toward complex attention schemes like Multi-Head Latent Attention (MLA) and Grouped Qu"
-  },
-  {
-    "id": "https://openai.com/index/disrupting-malicious-ai-uses",
-    "company": "OpenAI",
-    "title": "Disrupting malicious uses of AI | February 2026",
-    "date": "2026-02-25T00:00:00.000Z",
-    "url": "https://openai.com/index/disrupting-malicious-ai-uses",
-    "tag": "News",
-    "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defens"
-  },
-  {
-    "id": "https://openai.com/index/clay",
-    "company": "OpenAI",
-    "title": "Achieving 10x growth with agentic sales prospecting",
-    "date": "2026-02-25T00:00:00.000Z",
-    "url": "https://openai.com/index/clay",
-    "tag": "News",
-    "summary": "Successful go-to-market (GTM) teams need comprehensive, high-quality data, but the process of gathering, validating, and enriching this data is typically fra...",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4Be6hS2uGAdf7uyykrUBQP/811be8599d939e7d7c8e7e36ebb347bf/Clay.png?w=1600&h=900&fit=fill",
-    "title_ar": "تحديث رسمي: Achieving 10x growth with agentic sales prospecting",
-    "summary_ar": "تحديث رسمي: Successful go-to-market (GTM) teams need comprehensive, high-quality data, but the process of gathering, validating, and enriching this data is typically fra..."
-  },
-  {
-    "id": "https://openai.com/global-affairs/openai-technology-explained",
-    "company": "OpenAI",
-    "title": "OpenAI’s technology explained",
-    "date": "2026-02-25T00:00:00.000Z",
-    "url": "https://openai.com/global-affairs/openai-technology-explained",
-    "tag": "News",
-    "summary": "OpenAI was created as a nonprofit in 2015 to ensure that artificial general intelligence—in short⁠, AI that’s at least as smart as a person—benefits all of h...",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/06e7433c-f8d3-4197-64cc6ba74649/07cc9c9b6d3dc2b988864e398cb1b2c0/image_4.png?w=1600&h=900&fit=fill",
-    "title_ar": "تحديث رسمي: OpenAI’s technology explained",
-    "summary_ar": "OpenAI was created as a nonprofit in 2015 to ensure that اصطناعي general ذكاء—in short⁠, AI that’s at least as smart as a person—benefits all of h..."
+    "summary": "LLM context lengths are exploding, and architectures are moving toward complex attention schemes like Multi-Head Latent Attention (MLA) and Grouped Query…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/image2-4.png",
+    "title_ar": "تحديث رسمي: Making Softmax More Efficient wit",
+    "summary_ar": "تحديث رسمي: LLM context lengths are exploding, and architectures are moving toward complex attention schemes like Multi-Head Latent Attention (MLA) and Grouped Query…"
   },
   {
     "id": "https://www.anthropic.com/news/statement-department-of-war",
@@ -321,7 +402,10 @@
     "date": "2026-02-25T00:00:00.000Z",
     "url": "https://machinelearning.apple.com/research/constructive-circuit-amplification",
     "tag": "Research",
-    "summary": "Prior studies investigating the internal workings of LLMs have uncovered sparse subnetworks, often referred to as circuits, that are responsible for p"
+    "summary": "Prior studies investigating the internal workings of LLMs have uncovered sparse subnetworks, often referred to as circuits, that are…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "Constructive Circuit Amplification: Improving Math Reasoning in LLMs via Targeted Sub-شبكة Updates",
+    "summary_ar": "تحديث رسمي: Prior studies investigating the internal workings of LLMs have uncovered sparse subnetworks, often referred to as circuits, that are…"
   },
   {
     "id": "automated-recycling-identification-system",
@@ -330,7 +414,10 @@
     "date": "2026-02-25T00:00:00.000Z",
     "url": "https://machinelearning.apple.com/research/automated-recycling-identification-system",
     "tag": "Research",
-    "summary": "Traditional electronic recycling processes suffer from significant resource loss due to inadequate material separation and identification capabilities"
+    "summary": "Traditional electronic recycling processes suffer from significant resource loss due to inadequate material separation and identification…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "A.R.I.S.: Automated Recycling Identification نظام for E-Waste Classification Using Deep Learning",
+    "summary_ar": "تحديث رسمي: Traditional electronic recycling processes suffer from significant resource loss due to inadequate material separation and identification…"
   },
   {
     "id": "closing-the-gap",
@@ -339,25 +426,34 @@
     "date": "2026-02-25T00:00:00.000Z",
     "url": "https://machinelearning.apple.com/research/closing-the-gap",
     "tag": "Research",
-    "summary": "Large Language Models (LLMs) can be adapted to extend their text capabilities to speech inputs. However, these speech-adapted LLMs consistently underp"
+    "summary": "Large Language Models (LLMs) can be adapted to extend their text capabilities to speech inputs. However, these speech-adapted LLMs…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: Closing the Gap Between Text and Speech Understanding in LLMs",
+    "summary_ar": "Large لغة Models (LLMs) can be adapted to extend their text capabilities to speech inputs. However, these speech-adapted LLMs…"
   },
   {
     "id": "5a530267af19ba99525397189d16214bb54387f6",
     "company": "Amazon",
-    "title": "Build an intelligent photo search using Amazon Rekognition, Amazon Neptune, and Amazon Bedrock",
+    "title": "Build an intelligent photo search usin",
     "date": "2026-02-24T18:22:26.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-photo-search-using-amazon-rekognition-amazon-neptune-and-amazon-bedrock/",
     "tag": "News",
-    "summary": "In this post, we show you how to build a comprehensive photo search system using the AWS Cloud Development Kit (AWS CDK) that integrates Amazon Rekogn"
+    "summary": "In this post, we show you how to build a comprehensive photo search system using the AWS Cloud Development Kit (AWS CDK) that integrates Amazon Rekognition f...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/24/ml-19599-1120x630.png",
+    "title_ar": "تحديث رسمي: Build an intelligent photo search usin",
+    "summary_ar": "In this post, we show you كيفية build a comprehensive photo search نظام using the AWS سحابة Development Kit (AWS CDK) that integrates Amazon Rekognition f..."
   },
   {
     "id": "2ec43fe7e44c8ceaad0ccd466c69a01bfb1252bf",
     "company": "Amazon",
-    "title": "Train CodeFu-7B with veRL and Ray on Amazon SageMaker Training jobs",
+    "title": "Train CodeFu-7B with veRL and Ray o",
     "date": "2026-02-24T15:46:50.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/train-codefu-7b-with-verl-and-ray-on-amazon-sagemaker-training-jobs/",
-    "tag": "News",
-    "summary": "In this post, we demonstrate how to train CodeFu-7B, a specialized 7-billion parameter model for competitive programming, using Group Relative Policy "
+    "tag": "Policy",
+    "summary": "In this post, we demonstrate how to train CodeFu-7B, a specialized 7-billion parameter model for competitive programming, using Group Relative Policy Optimiz...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/24/ml-19690-1120x630.png",
+    "title_ar": "تحديث رسمي: Train CodeFu-7B with veRL and Ray o",
+    "summary_ar": "In this post, we demonstrate كيفية train CodeFu-7B, a specialized 7-billion parameter نموذج for competitive programming, using Group Relative سياسة Optimiz..."
   },
   {
     "id": "5092e0bb8e9676f66fd549cc8435fceeb222c9c3",
@@ -366,34 +462,34 @@
     "date": "2026-02-24T15:42:34.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/generate-structured-output-from-llms-with-dottxt-outlines-in-aws/",
     "tag": "News",
-    "summary": "This post explores the implementation of Dottxt’s Outlines framework as a practical approach to implementing structured outputs using AWS Marketplace "
+    "summary": "This post explores the implementation of Dottxt’s Outlines framework as a practical approach to implementing structured outputs using AWS Marketplace in Amaz...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/24/ml-19008-1120x630.png",
+    "title_ar": "تحديث رسمي: Generate structured output from LLMs with Dottxt Outlines in AWS",
+    "summary_ar": "تحديث رسمي: This post explores the implementation of Dottxt’s Outlines framework as a practical approach to implementing structured outputs using AWS Marketplace in Amaz..."
   },
   {
     "id": "0b34c447d2a1aebf45620c1c5759bbeb5ea5d5be",
     "company": "Amazon",
-    "title": "Global cross-Region inference for latest Anthropic Claude Opus, Sonnet and Haiku models on Amazon Bedrock in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+    "title": "Global cross-Region inference for latest Anthropic Claude Opus, Sonnet and Haiku models o",
     "date": "2026-02-24T15:38:22.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/global-cross-region-inference-for-latest-anthropic-claude-opus-sonnet-and-haiku-models-on-amazon-bedrock-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
     "tag": "Engineering",
-    "summary": "In this post, we are exciting to announce availability of Global CRIS for customers in Thailand, Malaysia, Singapore, Indonesia, and Taiwan and give a"
+    "summary": "In this post, we are exciting to announce availability of Global CRIS for customers in Thailand, Malaysia, Singapore, Indonesia, and Taiwan and give a walkth...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/24/ml-20127-1120x630.png",
+    "title_ar": "عالمي cross-Region استنتاج for latest Anthropic Claude Opus, Sonnet and Haiku models o",
+    "summary_ar": "In this post, we are exciting to announce availability of عالمي CRIS for customers in Thailand, Malaysia, Singapore, Indonesia, and Taiwan and give a walkth..."
   },
   {
     "id": "610d64b012573b6c36fa2c596c49212fcd7f4757",
     "company": "Amazon",
-    "title": "Introducing Amazon Bedrock global cross-Region inference for Anthropic’s Claude models in the Middle East Regions (UAE and Bahrain)",
+    "title": "Introducin",
     "date": "2026-02-24T15:33:51.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-global-cross-region-inference-for-anthropics-claude-models-in-the-middle-east-regions/",
     "tag": "Engineering",
-    "summary": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5"
-  },
-  {
-    "id": "https://openai.com/index/arvind-kc-chief-people-officer",
-    "company": "OpenAI",
-    "title": "Arvind KC appointed Chief People Officer",
-    "date": "2026-02-24T13:40:00.000Z",
-    "url": "https://openai.com/index/arvind-kc-chief-people-officer",
-    "tag": "Corporate",
-    "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI."
+    "summary": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 throug...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/24/ml-20333-1120x630.png",
+    "title_ar": "تحديث رسمي: Introducin",
+    "summary_ar": "تحديث رسمي: We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 throug..."
   },
   {
     "id": "beyond-a-single-extractor",
@@ -402,7 +498,10 @@
     "date": "2026-02-24T00:00:00.000Z",
     "url": "https://machinelearning.apple.com/research/beyond-a-single-extractor",
     "tag": "Research",
-    "summary": "One of the first pre-processing steps for constructing web-scale LLM pretraining datasets involves extracting text from HTML. Despite the immense dive"
+    "summary": "One of the first pre-processing steps for constructing web-scale LLM pretraining datasets involves extracting text from HTML. Despite the…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: Beyond a Single Extractor: Re-thinking HTML-to-Text Extraction for LLM Pretraining",
+    "summary_ar": "تحديث رسمي: One of the first pre-processing steps for constructing web-scale LLM pretraining datasets involves extracting text from HTML. Despite the…"
   },
   {
     "id": "depyf-open",
@@ -411,7 +510,10 @@
     "date": "2026-02-24T00:00:00.000Z",
     "url": "https://machinelearning.apple.com/research/depyf-open",
     "tag": "Research",
-    "summary": "PyTorch \\texttt{2.x} introduces a compiler designed to accelerate deep learning programs. However, for machine learning researchers, adapting to the P"
+    "summary": "PyTorch \\texttt{2.x} introduces a compiler designed to accelerate deep learning programs. However, for machine learning researchers…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: depyf: Open the Opaque Box of PyTorch Compiler for Machine Learning Researchers",
+    "summary_ar": "تحديث رسمي: PyTorch \\texttt{2.x} introduces a compiler designed to accelerate deep learning programs. However, for machine learning researchers…"
   },
   {
     "id": "amuse",
@@ -420,7 +522,10 @@
     "date": "2026-02-24T00:00:00.000Z",
     "url": "https://machinelearning.apple.com/research/amuse",
     "tag": "Research",
-    "summary": "Recent multimodal large language models (MLLMs) such as GPT-4o and Qwen3-Omni show strong perception but struggle in multi-speaker, dialogue-centric s"
+    "summary": "Recent multimodal large language models (MLLMs) such as GPT-4o and Qwen3-Omni show strong perception but struggle in multi-speaker…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "AMUSE: صوت-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding",
+    "summary_ar": "Recent متعدد الأنماط large لغة models (MLLMs) such as GPT-4o and Qwen3-Omni show strong perception but struggle in multi-speaker…"
   },
   {
     "id": "cot",
@@ -429,7 +534,10 @@
     "date": "2026-02-24T00:00:00.000Z",
     "url": "https://machinelearning.apple.com/research/cot",
     "tag": "Research",
-    "summary": "Chain-of-thought (CoT) prompting is a de-facto standard technique to elicit reasoning-like responses from large language models (LLMs), allowing them "
+    "summary": "Chain-of-thought (CoT) prompting is a de-facto standard technique to elicit reasoning-like responses from large language models (LLMs)…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: The Potential of CoT for Reasoning: A Closer Look at Trace Dynamics",
+    "summary_ar": "Chain-of-thought (CoT) prompting is a de-facto standard technique to elicit reasoning-like responses from large لغة models (LLMs)…"
   },
   {
     "id": "1d76b47b2cabc23cb671f0e8eabfe1fa3a73073b",
@@ -438,7 +546,10 @@
     "date": "2026-02-23T23:20:37.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/scaling-data-annotation-using-vision-language-models-to-power-physical-ai-systems/",
     "tag": "Engineering",
-    "summary": "In this post, we examine how Bedrock Robotics tackles this challenge. By joining the AWS Physical AI Fellowship, the startup partnered with the AWS Ge"
+    "summary": "In this post, we examine how Bedrock Robotics tackles this challenge. By joining the AWS Physical AI Fellowship, the startup partnered with the AWS Generativ...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/23/ml-20346-1120x630.png",
+    "title_ar": "توسيع نطاق data annotation using رؤية-لغة models to power physical AI systems",
+    "summary_ar": "تحديث رسمي: In this post, we examine how Bedrock Robotics tackles this challenge. By joining the AWS Physical AI Fellowship, the startup partnered with the AWS Generativ..."
   },
   {
     "id": "https://developer.nvidia.com/blog/using-nvfp4-low-precision-model-training-for-higher-throughput-without-losing-accuracy/",
@@ -447,25 +558,34 @@
     "date": "2026-02-23T18:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/using-nvfp4-low-precision-model-training-for-higher-throughput-without-losing-accuracy/",
     "tag": "Engineering",
-    "summary": "As the sizes of AI models and datasets continue to increase, relying only on higher-precision BF16 training is no longer sufficient. Key challenges su"
+    "summary": "As the sizes of AI models and datasets continue to increase, relying only on higher-precision BF16 training is no longer sufficient. Key challenges such as…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/best-models-trained.jpg",
+    "title_ar": "Using NVFP4 Low-Precision نموذج تدريب for Higher Throughput Without Losing Accuracy",
+    "summary_ar": "As the sizes of AI models and datasets continue to increase, relying only on higher-precision BF16 تدريب is no longer sufficient. Key challenges such as…"
   },
   {
     "id": "03ce9f4b3515b2dd16a3a38287be6358160d13cc",
     "company": "Amazon",
-    "title": "How Sonrai uses Amazon SageMaker AI to accelerate precision medicine trials",
+    "title": "How Sonrai use",
     "date": "2026-02-23T17:31:45.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/how-sonrai-uses-amazon-sagemaker-ai-to-accelerate-precision-medicine-trials/",
-    "tag": "Case Study",
-    "summary": "In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that a"
+    "tag": "News",
+    "summary": "In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that addresse...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/23/ML-19358-1120x630.png",
+    "title_ar": "تحديث رسمي: How Sonrai use",
+    "summary_ar": "تحديث رسمي: In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that addresse..."
   },
   {
     "id": "f452a6551d9477051ffb821edb1d8fc3bbedf56a",
     "company": "Amazon",
-    "title": "Accelerating AI model production at Hexagon with Amazon SageMaker HyperPod",
+    "title": "Accelerating AI model production at Hexagon wit",
     "date": "2026-02-23T17:29:11.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-model-production-at-hexagon-with-amazon-sagemaker-hyperpod/",
-    "tag": "News",
-    "summary": "In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art"
+    "tag": "Research",
+    "summary": "In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art segmen...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/23/ml-19589-1120x630.png",
+    "title_ar": "تسريع AI نموذج production at Hexagon wit",
+    "summary_ar": "In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI نموذج production by pretraining state-of-the-art segmen..."
   },
   {
     "id": "7e5ad796bed46648b4fe0f9c0dbfac9cd6b1c766",
@@ -474,25 +594,22 @@
     "date": "2026-02-23T15:47:06.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-with-multi-model-framework-using-hugging-face-smolagents-on-aws/",
     "tag": "News",
-    "summary": "Hugging Face smolagents is an open source Python library designed to make it straightforward to build and run agents using a few lines of code. We wil"
+    "summary": "Hugging Face smolagents is an open source Python library designed to make it straightforward to build and run agents using a few lines of code. We will show ...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/23/ML-19944-1120x630.png",
+    "title_ar": "Agentic AI with multi-نموذج framework using Hugging Face smolagents on AWS",
+    "summary_ar": "Hugging Face smolagents is an مصدر مفتوح Python مكتبة designed to make it straightforward to build and run agents using a few lines of code. We will show ..."
   },
   {
-    "id": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+    "id": "https://openai.com/index/first-proof-submissions",
     "company": "OpenAI",
-    "title": "Why we no longer evaluate SWE-bench Verified",
+    "title": "Our First Proof submissions",
     "date": "2026-02-23T11:00:00.000Z",
-    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
-    "tag": "News",
-    "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We rec"
-  },
-  {
-    "id": "https://openai.com/index/frontier-alliance-partners",
-    "company": "OpenAI",
-    "title": "OpenAI announces Frontier Alliance Partners",
-    "date": "2026-02-23T05:30:00.000Z",
-    "url": "https://openai.com/index/frontier-alliance-partners",
-    "tag": "News",
-    "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments."
+    "url": "https://openai.com/index/first-proof-submissions",
+    "tag": "Research",
+    "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5bEu8lJDIhSisHkrCQwQ0l/84b53efb35f70a50a111d71613a1c3de/oai_Science_First_Proof_SEO_Open_Graph_16x9.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Our First Proof submissions",
+    "summary_ar": "We share our AI نموذج’s proof attempts for the First Proof math challenge, testing أبحاث-grade reasoning on expert-level problems."
   },
   {
     "id": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
@@ -525,7 +642,10 @@
     "date": "2026-02-23T00:00:00.000Z",
     "url": "https://machinelearning.apple.com/updates/reasoning-workshop-2025",
     "tag": "News",
-    "summary": "Reasoning and planning are the bedrock of intelligent AI systems, enabling them to plan, interact, adapt, and ultimately, operate independently. At Ap"
+    "summary": "Reasoning and planning are the bedrock of intelligent AI systems, enabling them to plan, interact, adapt, and ultimately, operate…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: Apple Workshop on Reasoning and Planning 2025",
+    "summary_ar": "تحديث رسمي: Reasoning and planning are the bedrock of intelligent AI systems, enabling them to plan, interact, adapt, and ultimately, operate…"
   },
   {
     "id": "https://huggingface.co/blog/openenv-turing",
@@ -546,7 +666,10 @@
     "date": "2026-02-20T20:26:47.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/",
     "tag": "Pricing",
-    "summary": "In 2025, Amazon SageMaker AI saw dramatic improvements to core infrastructure offerings along four dimensions: capacity, price performance, observabil"
+    "summary": "In 2025, Amazon SageMaker AI saw dramatic improvements to core infrastructure offerings along four dimensions: capacity, price performance, observability, an...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/20/p1-1-1120x630.png",
+    "title_ar": "Amazon SageMaker AI in 2025, a year in review part 1: Flexible تدريب Plans and improvements to price أداء for استنتاج workloads",
+    "summary_ar": "In 2025, Amazon SageMaker AI saw dramatic improvements to core بنية تحتية offerings along four dimensions: capacity, price أداء, observability, an..."
   },
   {
     "id": "f756ea282e66709ee5e3cc86e5b282b32f0f670c",
@@ -579,13 +702,16 @@
     "summary_ar": "Georgi Gerganov and team are joining HF with the goal of توسيع نطاق and supporting the community behind ggml and llama.cpp as Local AI continues to make exponen..."
   },
   {
-    "id": "https://openai.com/index/first-proof-submissions",
+    "id": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
     "company": "OpenAI",
-    "title": "Our First Proof submissions",
+    "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
     "date": "2026-02-20T14:30:00.000Z",
-    "url": "https://openai.com/index/first-proof-submissions",
+    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
     "tag": "News",
-    "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems."
+    "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend ...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/67cdXZRtkDCZdovtRa01iv/63c2d0c7ccda4580583cc030fb366f6d/SEO_Card.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Why SWE-bench Verified no longer measures frontier coding capabilities",
+    "summary_ar": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and تدريب leakage. We recommend ..."
   },
   {
     "id": "https://huggingface.co/blog/unsloth-jobs",
@@ -614,11 +740,14 @@
   {
     "id": "https://developer.nvidia.com/blog/accelerating-data-processing-with-nvidia-multi-instance-gpu-and-numa-node-localization/",
     "company": "NVIDIA",
-    "title": "Accelerating Data Processing with NVIDIA Multi-Instance GPU and NUMA Node Localization",
+    "title": "Accelerating Data Processing wit",
     "date": "2026-02-19T17:30:00.000Z",
     "url": "https://developer.nvidia.com/blog/accelerating-data-processing-with-nvidia-multi-instance-gpu-and-numa-node-localization/",
     "tag": "Engineering",
-    "summary": "NVIDIA flagship data center GPUs in the NVIDIA Ampere, NVIDIA Hopper, and NVIDIA Blackwell families all feature non-uniform memory access (NUMA) behav"
+    "summary": "NVIDIA flagship data center GPUs in the NVIDIA Ampere, NVIDIA Hopper, and NVIDIA Blackwell families all feature non-uniform memory access (NUMA) behaviors…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/multicolored-bulging-cube-1.jpg",
+    "title_ar": "تسريع Data Processing wit",
+    "summary_ar": "NVIDIA flagship data center GPUs in the NVIDIA Ampere, NVIDIA Hopper, and NVIDIA Blackwell families all feature non-uniform ذاكرة access (NUMA) behaviors…"
   },
   {
     "id": "d6aab1429cf51a49084dfa78df84652df04f13b6",
@@ -642,19 +771,13 @@
     "id": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
     "company": "Google / Gemini",
     "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
-    "date": "2026-02-19T16:06:14.000Z",
+    "date": "2026-02-19T16:00:00.000Z",
     "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
     "tag": "News",
-    "summary": "3.1 Pro is designed for tasks where a simple answer isn’t enough."
-  },
-  {
-    "id": "https://openai.com/index/advancing-independent-research-ai-alignment",
-    "company": "OpenAI",
-    "title": "Advancing independent research on AI alignment",
-    "date": "2026-02-19T10:00:00.000Z",
-    "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
-    "tag": "Research",
-    "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and securi"
+    "summary": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_pro_meta_dark.width-1300.png",
+    "title_ar": "Gemini 3.1 Pro: A smarter نموذج for your most complex tasks",
+    "summary_ar": "تحديث رسمي: 3.1 Pro is designed for tasks where a simple answer isn’t enough."
   },
   {
     "id": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
@@ -663,16 +786,22 @@
     "date": "2026-02-19T04:30:00.000Z",
     "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
     "tag": "Corporate",
-    "summary": "Sundar Pichai gave remarks at the opening ceremony of the AI Impact Summit. Read a transcript of his speech."
+    "summary": "Sundar Pichai gave remarks at the opening ceremony of the AI Impact Summit. Read a transcript of his speech.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-Google_2.width-1300.png",
+    "title_ar": "تحديث رسمي: “No technology has me dreaming bigger than AI”",
+    "summary_ar": "تحديث رسمي: Sundar Pichai gave remarks at the opening ceremony of the AI Impact Summit. Read a transcript of his speech."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
     "company": "Google / Gemini",
     "title": "AI Impact Summit 2026",
-    "date": "2026-02-19T04:30:00.000Z",
+    "date": "2026-02-19T00:00:00.000Z",
     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
     "tag": "News",
-    "summary": "A look at the partnerships and investments Google announced at the AI Impact Summit 2026."
+    "summary": "A look at the partnerships and investments Google announced at the AI Impact Summit 2026.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CollectionSS-1.max-1440x810.png",
+    "title_ar": "تحديث رسمي: AI Impact Summit 2026",
+    "summary_ar": "تحديث رسمي: A look at the partnerships and investments Google announced at the AI Impact Summit 2026."
   },
   {
     "id": "e90b7327079233769da24369d7573bd414a47521",
@@ -684,58 +813,40 @@
     "summary": "In this post, we demonstrate how to build unified intelligence systems using Amazon Bedrock AgentCore through our real-world implementation of the Cus"
   },
   {
-    "id": "https://openai.com/index/openai-for-india",
-    "company": "OpenAI",
-    "title": "Introducing OpenAI for India",
-    "date": "2026-02-18T21:00:00.000Z",
-    "url": "https://openai.com/index/openai-for-india",
-    "tag": "News",
-    "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills."
-  },
-  {
     "id": "https://developer.nvidia.com/blog/unlock-massive-token-throughput-with-gpu-fractioning-in-nvidia-runai/",
     "company": "NVIDIA",
-    "title": "Unlock Massive Token Throughput with GPU Fractioning in NVIDIA Run:ai",
+    "title": "Unlock Massive Token Throughput with GPU Fractioning i",
     "date": "2026-02-18T18:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/unlock-massive-token-throughput-with-gpu-fractioning-in-nvidia-runai/",
     "tag": "Engineering",
-    "summary": "As AI workloads scale, achieving high throughput, efficient resource usage, and predictable latency becomes essential. NVIDIA Run:ai addresses these c"
+    "summary": "As AI workloads scale, achieving high throughput, efficient resource usage, and predictable latency becomes essential. NVIDIA Run:ai addresses these challenges…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/06/run-ai-featured.png",
+    "title_ar": "تحديث رسمي: Unlock Massive Token Throughput with GPU Fractioning i",
+    "summary_ar": "تحديث رسمي: As AI workloads scale, achieving high throughput, efficient resource usage, and predictable latency becomes essential. NVIDIA Run:ai addresses these challenges…"
   },
   {
     "id": "https://developer.nvidia.com/blog/topping-the-gpu-mode-kernel-leaderboard-with-nvidia-cuda-compute/",
     "company": "NVIDIA",
-    "title": "Topping the GPU MODE Kernel Leaderboard with NVIDIA cuda.compute",
+    "title": "Topping the GPU MODE Kernel Leaderboard wit",
     "date": "2026-02-18T17:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/topping-the-gpu-mode-kernel-leaderboard-with-nvidia-cuda-compute/",
     "tag": "Engineering",
-    "summary": "Python dominates machine learning for its ergonomics, but writing truly fast GPU code has historically meant dropping into C++ to write custom kernels"
-  },
-  {
-    "id": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
-    "company": "Google / Gemini",
-    "title": "A new way to express yourself: Gemini can now create music",
-    "date": "2026-02-18T16:01:38.000Z",
-    "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
-    "tag": "News",
-    "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
-    "company": "Google / Gemini",
-    "title": "A new way to express yourself: Gemini can now create music",
-    "date": "2026-02-18T16:00:00.000Z",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
-    "tag": "News",
-    "summary": "Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images."
+    "summary": "Python dominates machine learning for its ergonomics, but writing truly fast GPU code has historically meant dropping into C++ to write custom kernels and to…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/cuda-compute-gpu-mode.png",
+    "title_ar": "تحديث رسمي: Topping the GPU MODE Kernel Leaderboard wit",
+    "summary_ar": "تحديث رسمي: Python dominates machine learning for its ergonomics, but writing truly fast GPU code has historically meant dropping into C++ to write custom kernels and to…"
   },
   {
     "id": "https://developer.nvidia.com/blog/how-nvidia-extreme-hardware-software-co-design-delivered-a-large-inference-boost-for-sarvam-ais-sovereign-models/",
     "company": "NVIDIA",
-    "title": "How NVIDIA Extreme Hardware-Software Co-Design Delivered a Large Inference Boost for Sarvam AI’s Sovereign Models",
+    "title": "Ho",
     "date": "2026-02-18T16:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/how-nvidia-extreme-hardware-software-co-design-delivered-a-large-inference-boost-for-sarvam-ais-sovereign-models/",
     "tag": "Engineering",
-    "summary": "As global AI adoption accelerates, developers face a growing challenge: delivering large language model (LLM) performance that meets real-world latenc"
+    "summary": "As global AI adoption accelerates, developers face a growing challenge: delivering large language model (LLM) performance that meets real-world latency and c...",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/ov-dgx-cloud-ari-blog-1920x1080-2.png",
+    "title_ar": "تحديث رسمي: Ho",
+    "summary_ar": "As عالمي AI adoption accelerates, developers face a growing challenge: delivering large لغة نموذج (LLM) أداء that meets real-world latency and c..."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
@@ -744,7 +855,10 @@
     "date": "2026-02-18T10:30:00.000Z",
     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
     "tag": "Engineering",
-    "summary": "An overview of Google’s new global partnerships and funding announcements at the AI Impact Summit in India."
+    "summary": "An overview of Google’s new global partnerships and funding announcements at the AI Impact Summit in India.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-Summit-SS.width-1300.png",
+    "title_ar": "تحديث رسمي: AI Impact Summit 2026: How we’re partnering to make AI work for everyone",
+    "summary_ar": "An overview of Google’s جديد عالمي partnerships and funding announcements at the AI Impact Summit in India."
   },
   {
     "id": "https://openai.com/index/introducing-evmbench",
@@ -754,6 +868,30 @@
     "url": "https://openai.com/index/introducing-evmbench",
     "tag": "News",
     "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabi"
+  },
+  {
+    "id": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+    "company": "Google / Gemini",
+    "title": "A new way to express yourself: Gemini can now create music",
+    "date": "2026-02-18T00:00:00.000Z",
+    "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+    "tag": "Release",
+    "summary": "Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/0217_KeywordHeaderFinalc.width-1300.png",
+    "title_ar": "A جديد way to express yourself: Gemini can now create music",
+    "summary_ar": "تحديث رسمي: Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images."
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
+    "company": "Google / Gemini",
+    "title": "A new way to express yourself: Gemini can now create music",
+    "date": "2026-02-18T00:00:00.000Z",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
+    "tag": "Release",
+    "summary": "Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/0217_KeywordHeaderFinalc.width-1300.png",
+    "title_ar": "A جديد way to express yourself: Gemini can now create music",
+    "summary_ar": "تحديث رسمي: Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images."
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/itbenchandmast",
@@ -774,7 +912,10 @@
     "date": "2026-02-17T22:30:00.000Z",
     "url": "https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/",
     "tag": "News",
-    "summary": "A look at our 2026 Responsible AI Progress Report."
+    "summary": "A look at our 2026 Responsible AI Progress Report.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Stocksy_7137793.width-1300.jpg",
+    "title_ar": "تقرير جديد حول Our 2026 Responsible AI Progress Report",
+    "summary_ar": "تقرير جديد حول A look at our 2026 Responsible AI Progress Report."
   },
   {
     "id": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
@@ -783,16 +924,10 @@
     "date": "2026-02-17T18:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
     "tag": "Engineering",
-    "summary": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages,"
-  },
-  {
-    "id": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
-    "company": "Google / Gemini",
-    "title": "Accelerating discovery in India through AI-powered science and education",
-    "date": "2026-02-17T13:42:20.000Z",
-    "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
-    "tag": "News",
-    "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education"
+    "summary": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/retrieval-augmented-generation.png",
+    "title_ar": "Build AI-Ready Knowledge Systems Using 5 Essential متعدد الأنماط RAG Capabilities",
+    "summary_ar": "مؤسسات data is inherently complex: real-world documents are متعدد الأنماط, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms…"
   },
   {
     "id": "https://www.anthropic.com/news/anthropic-infosys",
@@ -840,6 +975,18 @@
     "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators."
   },
   {
+    "id": "https://openai.com/index/update-on-mental-health-related-work",
+    "company": "OpenAI",
+    "title": "An update on our mental health-related work",
+    "date": "2026-02-13T10:00:00.000Z",
+    "url": "https://openai.com/index/update-on-mental-health-related-work",
+    "tag": "Corporate",
+    "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation dev...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5f8IgncRFExuyLaAFTFDQ2/bccc3d5734693f094d7187d4fd1f720b/update-on-mental-health-related-work-SEO.png?w=1600&h=900&fit=fill",
+    "title_ar": "An تحديث on our mental health-related work",
+    "summary_ar": "OpenAI shares updates on its mental health سلامة work, including parental controls, trusted contacts, improved distress detection, and recent litigation dev..."
+  },
+  {
     "id": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
     "company": "OpenAI",
     "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
@@ -882,10 +1029,13 @@
     "id": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
     "company": "Google / Gemini",
     "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
-    "date": "2026-02-12T16:15:09.000Z",
+    "date": "2026-02-12T16:13:00.000Z",
     "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
     "tag": "Research",
-    "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges."
+    "summary": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_deep-think_meta_dark_Fm70Cou.width-1300.png",
+    "title_ar": "Gemini 3 Deep Think: تعزيز science, أبحاث and هندسة",
+    "summary_ar": "تحديث رسمي: We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode."
   },
   {
     "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
@@ -894,7 +1044,10 @@
     "date": "2026-02-12T16:13:00.000Z",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
     "tag": "Research",
-    "summary": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode."
+    "summary": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_deep-think_meta_dark_Fm70Cou.width-1300.png",
+    "title_ar": "Gemini 3 Deep Think: تعزيز science, أبحاث and هندسة",
+    "summary_ar": "تحديث رسمي: We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode."
   },
   {
     "id": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
@@ -904,15 +1057,6 @@
     "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
     "tag": "Release",
     "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users."
-  },
-  {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:6986ccac83d7eb240f110bae",
-    "company": "Stability AI",
-    "title": "Stability AI Joins the Tech Coalition",
-    "date": "2026-02-11T20:28:23.000Z",
-    "url": "https://stability.ai/news/stability-ai-joins-the-tech-coalition",
-    "tag": "Corporate",
-    "summary": "We’re pleased to share that Stability AI has joined the Tech Coalition, a \r\nglobal alliance of leading technology companies working together to combat"
   },
   {
     "id": "https://openai.com/index/harness-engineering",
@@ -938,11 +1082,14 @@
   {
     "id": "https://developer.nvidia.com/blog/r2d2-scaling-multimodal-robot-learning-with-nvidia-isaac-lab/",
     "company": "NVIDIA",
-    "title": "R²D²: Scaling Multimodal Robot Learning with NVIDIA Isaac Lab",
+    "title": "R²D²: Scaling Multimodal Robot Learning wit",
     "date": "2026-02-10T18:30:00.000Z",
     "url": "https://developer.nvidia.com/blog/r2d2-scaling-multimodal-robot-learning-with-nvidia-isaac-lab/",
     "tag": "Engineering",
-    "summary": "Building robust, intelligent robots requires testing them in complex environments. However, gathering data in the physical world is expensive, slow, a"
+    "summary": "Building robust, intelligent robots requires testing them in complex environments. However, gathering data in the physical world is expensive, slow…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/multimodal-robotics-1.gif",
+    "title_ar": "R²D²: توسيع نطاق متعدد الأنماط Robot Learning wit",
+    "summary_ar": "بناء robust, intelligent robots requires testing them in complex environments. However, gathering data in the physical world is expensive, slow…"
   },
   {
     "id": "https://developer.nvidia.com/blog/using-accelerated-computing-to-live-steer-scientific-experiments-at-massive-research-facilities/",
@@ -951,7 +1098,10 @@
     "date": "2026-02-10T17:30:00.000Z",
     "url": "https://developer.nvidia.com/blog/using-accelerated-computing-to-live-steer-scientific-experiments-at-massive-research-facilities/",
     "tag": "Research",
-    "summary": "Scientists and engineers who design and build unique scientific research facilities face similar challenges. These include managing massive data rates"
+    "summary": "Scientists and engineers who design and build unique scientific research facilities face similar challenges. These include managing massive data rates that…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/12/star-gif.gif",
+    "title_ar": "Using Accelerated Computing to Live-Steer Scientific Experiments at Massive أبحاث Facilities",
+    "summary_ar": "Scientists and engineers who design and build unique scientific أبحاث facilities face similar challenges. These include managing massive data rates that…"
   },
   {
     "id": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
@@ -960,7 +1110,10 @@
     "date": "2026-02-10T17:00:00.000Z",
     "url": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
     "tag": "News",
-    "summary": "Learn more about Google Photos’ new Ask button as well as other functions of its Ask Photos feature."
+    "summary": "Learn more about Google Photos’ new Ask button as well as other functions of its Ask Photos feature.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2025-Travel-Trends_SS.width-1300.jpg",
+    "title_ar": "تحديث رسمي: 9 fun questions to try asking Google Photos",
+    "summary_ar": "Learn more about Google Photos’ جديد Ask button as well as other functions of its Ask Photos feature."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
@@ -969,25 +1122,22 @@
     "date": "2026-02-10T02:30:00.000Z",
     "url": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
     "tag": "Security",
-    "summary": "We’re sharing our latest updates designed to support families, kids and teens in the digital world."
+    "summary": "We’re sharing our latest updates designed to support families, kids and teens in the digital world.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Helpingkidsteens_Social.width-1300.png",
+    "title_ar": "تحديث رسمي: Helping kids and teens learn and grow online on Safer Internet Day",
+    "summary_ar": "تحديث رسمي: We’re sharing our latest updates designed to support families, kids and teens in the digital world."
   },
   {
     "id": "https://developer.nvidia.com/blog/automating-inference-optimizations-with-nvidia-tensorrt-llm-autodeploy/",
     "company": "NVIDIA",
-    "title": "Automating Inference Optimizations with NVIDIA TensorRT LLM AutoDeploy",
+    "title": "Automating Inference Optimizations wit",
     "date": "2026-02-09T18:30:00.000Z",
     "url": "https://developer.nvidia.com/blog/automating-inference-optimizations-with-nvidia-tensorrt-llm-autodeploy/",
     "tag": "Engineering",
-    "summary": "NVIDIA TensorRT LLM enables developers to build high-performance inference engines for large language models (LLMs), but deploying a new architecture."
-  },
-  {
-    "id": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
-    "company": "Google / Gemini",
-    "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
-    "date": "2026-02-09T16:12:06.000Z",
-    "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
-    "tag": "News",
-    "summary": "Research papers point to the growing impact of Deep Think across fields"
+    "summary": "NVIDIA TensorRT LLM enables developers to build high-performance inference engines for large language models (LLMs), but deploying a new architecture…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/llm-optimize-deploy-1.png",
+    "title_ar": "Automating استنتاج Optimizations wit",
+    "summary_ar": "NVIDIA TensorRT LLM enables developers to build high-أداء استنتاج engines for large لغة models (LLMs), but deploying a جديد architecture…"
   },
   {
     "id": "https://openai.com/index/testing-ads-in-chatgpt",
@@ -1015,7 +1165,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwEE2F0s&_nc_oc=AdmaHs9DhUncUwBf5w0Pjox3XU9jIwVJQuZpYJuIU84faQ3SyfVY2_lO-wIGG7hkTnc&_nc_zt=14&_nc_ht=scontent-sin6-2.xx&_nc_gid=ydie3AU5YqdogUM2jqguaw&_nc_ss=8&oh=00_AfvE5msiOE2wfuZ5LvWYFVRhWbAs-Df4bS86y2ZXy2EcPQ&oe=69BE4E3F",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwElB72N&_nc_oc=AdmKkELZPV7AYyhpOoa-WsIOX-rs6eGcchDrpRB4Tso5sRiMkdcbq5SgB7AOmN-W-ro&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=094tJEH-8HRtGAAoCGMr5A&_nc_ss=8&oh=00_AftCXaYJI_tAp7PVVjgb1Gb3z3Xkwp9rt9V5VMeEHeM09w&oe=69BE4E3F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -1026,7 +1176,10 @@
     "date": "2026-02-06T16:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/3-ways-nvfp4-accelerates-ai-training-and-inference/",
     "tag": "Engineering",
-    "summary": "The latest AI models continue to grow in size and complexity, demanding increasing amounts of compute performance for training and inference—far beyon"
+    "summary": "The latest AI models continue to grow in size and complexity, demanding increasing amounts of compute performance for training and inference—far beyond what…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/image1-1.png",
+    "title_ar": "3 Ways NVFP4 Accelerates AI تدريب and استنتاج",
+    "summary_ar": "The latest AI models continue to grow in size and complexity, demanding increasing amounts of حوسبة أداء for تدريب and استنتاج—far beyond what…"
   },
   {
     "id": "https://openai.com/index/our-approach-to-localization",
@@ -1036,6 +1189,18 @@
     "url": "https://openai.com/index/our-approach-to-localization",
     "tag": "News",
     "summary": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures witho"
+  },
+  {
+    "id": "https://huggingface.co/blog/community-evals",
+    "company": "Hugging Face",
+    "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
+    "date": "2026-02-06T03:49:34.000Z",
+    "url": "https://huggingface.co/blog/community-evals",
+    "tag": "Research",
+    "summary": "TL;DR: Benchmark datasets on Hugging Face can now host leaderboards. Models store their own eval scores. Everything links together. The community can submit ...",
+    "image": "https://huggingface.co/blog/assets/eval-results/thumbnail.png",
+    "title_ar": "تحديث رسمي: Community Evals: Because we're done trusting black-box leaderboards over the community",
+    "summary_ar": "تحديث رسمي: TL;DR: Benchmark datasets on Hugging Face can now host leaderboards. Models store their own eval scores. Everything links together. The community can submit ..."
   },
   {
     "id": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
@@ -1056,16 +1221,10 @@
     "date": "2026-02-05T18:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/how-to-build-license-compliant-synthetic-data-pipelines-for-ai-model-distillation/",
     "tag": "Engineering",
-    "summary": "Specialized AI models are built to perform specific tasks or solve particular problems. But if you’ve ever tried to fine-tune or distill a domain-spec"
-  },
-  {
-    "id": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
-    "company": "Google / Gemini",
-    "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
-    "date": "2026-02-05T17:00:00.000Z",
-    "url": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
-    "tag": "News",
-    "summary": "Learn how Google's NAI framework uses AI to make technology more adaptive, inclusive and helpful for everyone."
+    "summary": "Specialized AI models are built to perform specific tasks or solve particular problems. But if you’ve ever tried to fine-tune or distill a domain-specific mo...",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/01/ai-model-building.png",
+    "title_ar": "كيفية Build License-Compliant Synthetic Data Pipelines for AI نموذج Distillation",
+    "summary_ar": "تحديث رسمي: Specialized AI models are built to perform specific tasks or solve particular problems. But if you’ve ever tried to fine-tune or distill a domain-specific mo..."
   },
   {
     "id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
@@ -1102,6 +1261,18 @@
     "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
     "tag": "Pricing",
     "summary": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop exp"
+  },
+  {
+    "id": "https://openai.com/index/disrupting-malicious-ai-uses",
+    "company": "OpenAI",
+    "title": "Disrupting malicious uses of AI",
+    "date": "2026-02-05T10:00:00.000Z",
+    "url": "https://openai.com/index/disrupting-malicious-ai-uses",
+    "tag": "Security",
+    "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2Uuksc2QW2CtPrWbcrqpkR/c2b8a02f33daaf29ca9f3a689d89a32a/SEO_card.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Disrupting malicious uses of AI",
+    "summary_ar": "تقرير جديد حول Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense."
   },
   {
     "id": "https://openai.com/index/trusted-access-for-cyber",
@@ -1147,6 +1318,18 @@
     "url": "https://openai.com/index/introducing-gpt-5-3-codex",
     "tag": "Release",
     "summary": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work"
+  },
+  {
+    "id": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
+    "company": "Google / Gemini",
+    "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+    "date": "2026-02-05T00:00:00.000Z",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
+    "tag": "Case Study",
+    "summary": "Learn how Google's NAI framework uses AI to make technology more adaptive, inclusive and helpful for everyone.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Natively_Adaptive_Interfaces_Social.width-1300.png",
+    "title_ar": "Natively Adaptive Interfaces: A جديد framework for AI accessibility",
+    "summary_ar": "تحديث رسمي: Learn how Google's NAI framework uses AI to make technology more adaptive, inclusive and helpful for everyone."
   },
   {
     "id": "https://developer.nvidia.com/blog/build-with-kimi-k2-5-multimodal-vlm-using-nvidia-gpu-accelerated-endpoints/",
@@ -1218,20 +1401,16 @@
     "summary_ar": "Precision diarization, real-time transcription, and a جديد صوت playground."
   },
   {
-    "id": "https://huggingface.co/blog/community-evals",
+    "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
     "company": "Hugging Face",
-    "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
-    "date": "2026-02-04T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/community-evals",
-    "tag": "Corporate"
-  },
-  {
-    "id": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
-    "company": "Hugging Face",
-    "title": "H Company's new Holo2 model takes the lead in UI Localization",
-    "date": "2026-02-03T17:40:14.000Z",
-    "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
-    "tag": "News"
+    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "date": "2026-02-03T23:31:59.000Z",
+    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+    "tag": "Corporate",
+    "summary": "In this third article, we examine paths and trajectories of prominent Chinese AI organizations, and posit future directions for open source.",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/63a369d98c0c89dcae3b8329/MOOv3ivvsii5OdJFcwIU5.webp",
+    "title_ar": "مستقبل the عالمي Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "summary_ar": "In this third article, we examine paths and trajectories of prominent Chinese AI organizations, and posit future directions for مصدر مفتوح."
   },
   {
     "id": "https://developer.nvidia.com/blog/accelerating-long-context-model-training-in-jax-and-xla/",
@@ -1243,20 +1422,16 @@
     "summary": "Large language models (LLMs) are rapidly expanding their context windows, with recent models supporting sequences of 128K tokens, 256K tokens, and bey"
   },
   {
-    "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
-    "company": "Hugging Face",
-    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
-    "date": "2026-02-03T15:03:19.000Z",
-    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
-    "tag": "News"
-  },
-  {
     "id": "https://huggingface.co/blog/Photoroom/prx-part2",
     "company": "Hugging Face",
     "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
-    "date": "2026-02-03T11:25:53.000Z",
+    "date": "2026-02-03T15:25:02.000Z",
     "url": "https://huggingface.co/blog/Photoroom/prx-part2",
-    "tag": "News"
+    "tag": "News",
+    "summary": "Welcome back! This is the second part of our series on training efficient text-to-image models from scratch.",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/68d136d7307413e80188d819/4XhN9QMMb6wjrKfQIlqhn.jpeg",
+    "title_ar": "تدريب Design for Text-to-Image Models: Lessons from Ablations",
+    "summary_ar": "Welcome back! This is the second part of our series on تدريب efficient text-to-image models from scratch."
   },
   {
     "id": "https://openai.com/index/sora-feed-philosophy",
@@ -1266,6 +1441,18 @@
     "url": "https://openai.com/index/sora-feed-philosophy",
     "tag": "News",
     "summary": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental"
+  },
+  {
+    "id": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
+    "company": "Hugging Face",
+    "title": "H Company's new Holo2 model takes the lead in UI Localization",
+    "date": "2026-02-03T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
+    "tag": "News",
+    "summary": "Two months since releasing our first batch of Holo2 models, H Company is back with our largest UI localization model yet: Holo2-235B-A22B Preview. This model...",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/698224a939bac08a1b6e0488/auDwTiJd-MAHohSeCMzZs.png",
+    "title_ar": "H Company's جديد Holo2 نموذج takes the lead in UI Localization",
+    "summary_ar": "Two months since releasing our first batch of Holo2 models, H Company is back with our largest UI localization نموذج yet: Holo2-235B-A22B معاينة. This نموذج..."
   },
   {
     "id": "https://developer.nvidia.com/blog/optimizing-communication-for-mixture-of-experts-training-with-hybrid-expert-parallel/",
@@ -1313,6 +1500,18 @@
     "summary": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running"
   },
   {
+    "id": "https://huggingface.co/blog/daggr",
+    "company": "Hugging Face",
+    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+    "date": "2026-01-31T08:32:06.000Z",
+    "url": "https://huggingface.co/blog/daggr",
+    "tag": "Release",
+    "summary": "If you've built AI applications that combine multiple models or processing steps, you know the pain: chaining API calls, debugging pipelines, and losing trac...",
+    "image": "https://huggingface.co/blog/assets/daggr/thumbnail.png",
+    "title_ar": "نُقدم لكم Daggr: Chain apps programmatically, inspect visually",
+    "summary_ar": "تحديث رسمي: If you've built AI applications that combine multiple models or processing steps, you know the pain: chaining API calls, debugging pipelines, and losing trac..."
+  },
+  {
     "id": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/",
     "company": "NVIDIA",
     "title": "Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton",
@@ -1338,15 +1537,6 @@
     "url": "https://developer.nvidia.com/blog/practical-security-guidance-for-sandboxing-agentic-workflows-and-managing-execution-risk/",
     "tag": "Security",
     "summary": "AI coding agents enable developers to work faster by streamlining tasks and driving automated, test-driven development. However, they also introduce a"
-  },
-  {
-    "id": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
-    "company": "Google / Gemini",
-    "title": "Project Genie: Experimenting with infinite, interactive worlds",
-    "date": "2026-01-29T17:01:05.000Z",
-    "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
-    "tag": "News",
-    "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds."
   },
   {
     "id": "https://openai.com/index/inside-our-in-house-data-agent",
@@ -1376,12 +1566,16 @@
     "summary": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mi"
   },
   {
-    "id": "https://huggingface.co/blog/daggr",
-    "company": "Hugging Face",
-    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+    "id": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+    "company": "Google / Gemini",
+    "title": "Project Genie: Experimenting with infinite, interactive worlds",
     "date": "2026-01-29T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/daggr",
-    "tag": "News"
+    "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+    "tag": "News",
+    "summary": "Google AI Ultra subscribers in the U.S. can now try out Project Genie.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/genie-3__project-genie__hero-film_social-shar.width-1300.jpg",
+    "title_ar": "تحديث رسمي: Project Genie: Experimenting with infinite, interactive worlds",
+    "summary_ar": "تحديث رسمي: Google AI Ultra subscribers in the U.S. can now try out Project Genie."
   },
   {
     "id": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/",
@@ -1718,15 +1912,6 @@
     "summary": "The truth left out from Elon Musk’s recent court filing."
   },
   {
-    "id": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
-    "company": "Google / Gemini",
-    "title": "D4RT: Teaching AI to see the world in four dimensions",
-    "date": "2026-01-16T10:39:00.000Z",
-    "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
-    "tag": "Research",
-    "summary": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods."
-  },
-  {
     "id": "https://openai.com/index/introducing-chatgpt-go",
     "company": "OpenAI",
     "title": "Introducing ChatGPT Go, now available worldwide",
@@ -1816,15 +2001,6 @@
     "summary": "NVIDIA cuOpt is a GPU-accelerated optimization engine designed to deliver fast, high-quality solutions for large, complex decision-making problems. Mi"
   },
   {
-    "id": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
-    "company": "Google / Gemini",
-    "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
-    "date": "2026-01-13T17:00:18.000Z",
-    "url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
-    "tag": "News",
-    "summary": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging — and supports vertical video generation."
-  },
-  {
     "id": "https://openai.com/index/zenken",
     "company": "OpenAI",
     "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
@@ -1832,6 +2008,18 @@
     "url": "https://openai.com/index/zenken",
     "tag": "News",
     "summary": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-s"
+  },
+  {
+    "id": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+    "company": "Google / Gemini",
+    "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+    "date": "2026-01-13T00:00:00.000Z",
+    "url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+    "tag": "News",
+    "summary": "Today, we’re introducing an enhanced version of Veo 3.1 “Ingredients to Video.”",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Veo3.1IngredientstoVideo_Social.width-1300.png",
+    "title_ar": "Veo 3.1 Ingredients to فيديو: More consistency, creativity and control",
+    "summary_ar": "Today, we’re نُقدم لكم an enhanced version of Veo 3.1 “Ingredients to فيديو.”"
   },
   {
     "id": "https://openai.com/index/openai-raising-concerns-policy",
@@ -2092,21 +2280,24 @@
     "summary": "2025 was another milestone year for developers and researchers working with NVIDIA technologies. Progress in data center power and compute design, AI."
   },
   {
-    "id": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
-    "company": "Google / Gemini",
-    "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-    "date": "2025-12-23T17:01:02.000Z",
-    "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
-    "tag": "Research",
-    "summary": "Google 2025 recap: Research breakthroughs of the year"
-  },
-  {
     "id": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
     "company": "Hugging Face",
     "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
     "date": "2025-12-23T14:07:35.000Z",
     "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
     "tag": "News"
+  },
+  {
+    "id": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+    "company": "Google / Gemini",
+    "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+    "date": "2025-12-23T00:00:00.000Z",
+    "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+    "tag": "Research",
+    "summary": "This year saw new AI models, transformative products and new breakthroughs in science and robotics.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/end-of-year-blog_keyword_social_share_light_1.width-1300.png",
+    "title_ar": "Google's year in review: 8 areas with أبحاث breakthroughs in 2025",
+    "summary_ar": "This year saw جديد AI models, transformative products and جديد breakthroughs in science and robotics."
   },
   {
     "id": "https://openai.com/index/hardening-atlas-against-prompt-injection",
@@ -2206,7 +2397,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwGsUGgL&_nc_oc=AdlFc125C_23m7XzijXUAhKlWpwc_dU7zx4eXTCC4gwqMGSp47H9RIw3ZWcTzZOzolo&_nc_zt=14&_nc_ht=scontent-sin6-2.xx&_nc_gid=1W6DuXHBHXiOZswj9ha_Fw&_nc_ss=8&oh=00_AfvhFt-TTDtjOmCKEBgg4h9b8zYVwtUsTrq0YdE4BRv2_A&oe=69BE5777",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwE2on7A&_nc_oc=AdlzPwoQPhDIY5RgEa-FIfvINtpkRh-jhgsLpoUThiGLmZpN_2YpP5KENcGWqzDbp34&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=BqN4UfhGkaxNvr9SVr9dIw&_nc_ss=8&oh=00_AfvKp4ulngcA05PzQOTJbToCOWetMpONoGVCmc87Yfr7cw&oe=69BE5777",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2218,7 +2409,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-sin6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=rhhYgUlZJbkQ7kNvwFH_zKD&_nc_oc=AdnG_aKShQ02fbU94YNpWzOE_usyIyucjA69BrSpvF9cLUe1VDYWmby09PnwfhYzeN8&_nc_zt=14&_nc_ht=scontent-sin6-1.xx&_nc_gid=7p7kJZ74rxW5ZVqMDelWeQ&_nc_ss=8&oh=00_Afu8Sdo2bmZhuJyYGpLXkb1bEGkVxBrKWJ_JOeQnje3Bkw&oe=69BE3B97",
+    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=rhhYgUlZJbkQ7kNvwGo7Ro0&_nc_oc=Adnv-YUC12UCa8OkOoloXcLstr1MZV2M9RVJLlmkt_lX81kooQSWp6oHkbmFzOjpYFQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=m7HRsT8mmo5kI9emszQMXA&_nc_ss=8&oh=00_Afu_lVQ3ZT1bvya-6QEq-kyAYP18FCIJBOCbE7X8QNiYaA&oe=69BE73D7",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2293,15 +2484,6 @@
     "tag": "Research"
   },
   {
-    "id": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
-    "company": "Google / Gemini",
-    "title": "Gemini 3 Flash: frontier intelligence built for speed",
-    "date": "2025-12-17T11:58:17.000Z",
-    "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
-    "tag": "News",
-    "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost."
-  },
-  {
     "id": "https://openai.com/index/openai-academy-for-news-organizations",
     "company": "OpenAI",
     "title": "Introducing OpenAI Academy for News Organizations",
@@ -2338,6 +2520,18 @@
     "summary": "Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. U"
   },
   {
+    "id": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+    "company": "Google / Gemini",
+    "title": "Gemini 3 Flash: frontier intelligence built for speed",
+    "date": "2025-12-17T00:00:00.000Z",
+    "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+    "tag": "Pricing",
+    "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini3Flash_Social.width-1300.png",
+    "title_ar": "Gemini 3 Flash: frontier ذكاء built for speed",
+    "summary_ar": "Gemini 3 Flash offers frontier ذكاء built for speed at a fraction of the cost."
+  },
+  {
     "id": "https://developer.nvidia.com/blog/accelerating-long-context-inference-with-skip-softmax-in-nvidia-tensorrt-llm/",
     "company": "NVIDIA",
     "title": "Accelerating Long-Context Inference with Skip Softmax in NVIDIA TensorRT-LLM",
@@ -2363,15 +2557,6 @@
     "url": "https://developer.nvidia.com/blog/boost-gpu-memory-performance-with-no-code-changes-using-nvidia-cuda-mps/",
     "tag": "Engineering",
     "summary": "NVIDIA CUDA developers have access to a wide range of tools and libraries that simplify development and deployment, enabling users to focus on the “wh"
-  },
-  {
-    "id": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
-    "company": "Google / Gemini",
-    "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
-    "date": "2025-12-16T10:14:24.000Z",
-    "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
-    "tag": "News",
-    "summary": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2."
   },
   {
     "id": "https://openai.com/index/frontierscience",
@@ -2408,7 +2593,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=3VUuiZKIHsMQ7kNvwHM1enb&_nc_oc=Adnv9QL3oo7srUc-JHMAg6XhzbLM3cAa8qVVbGCcvOJwscx0PevlaFXw_3xs6IfMDl4&_nc_zt=14&_nc_ht=scontent-sin6-3.xx&_nc_gid=3gh7fzBd-rcPp_vFKneMDQ&_nc_ss=8&oh=00_AfuELzbfHmcwaBRw1oxULqIUowXakNVWoQ6noEUJjJehBw&oe=69BE395B",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=3VUuiZKIHsMQ7kNvwFKwLL8&_nc_oc=AdkcphgqKOb2fUCy28BfPkOYsuou3J-wLctZl-RTp0-59FykOMl4pRRnUuBK7NVFf4g&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=FKESziS2DYqk-8Vg4q4o6w&_nc_ss=8&oh=00_Afv4Fq-NnK0HsRRAcUy9fBXmQr6SPftaa6iUuhsaU13P8w&oe=69BE719B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -2585,15 +2770,6 @@
     "summary": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. T"
   },
   {
-    "id": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
-    "company": "Google / Gemini",
-    "title": "Deepening our partnership with the UK AI Security Institute",
-    "date": "2025-12-11T00:06:40.000Z",
-    "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
-    "tag": "Security",
-    "summary": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research"
-  },
-  {
     "id": "https://openai.com/index/ten-years",
     "company": "OpenAI",
     "title": "Ten years",
@@ -2663,15 +2839,6 @@
     "url": "https://developer.nvidia.com/blog/better-bug-detection-how-compile-time-instrumentation-for-compute-sanitizer-enhances-memory-safety/",
     "tag": "Engineering",
     "summary": "CUDA C++ is standard C++ with extensions that enable functions to run on many parallel threads on a GPU. It has facilitated widespread adoption while "
-  },
-  {
-    "id": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
-    "company": "Google / Gemini",
-    "title": "Strengthening our partnership with the UK government to support prosperity and security in the AI era",
-    "date": "2025-12-10T14:59:21.000Z",
-    "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
-    "tag": "Security",
-    "summary": "Deepening our partnership with the UK government to support prosperity and security in the AI era"
   },
   {
     "id": "https://openai.com/index/strengthening-cyber-resilience",
@@ -3040,6 +3207,42 @@
     "summary": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of grow"
   },
   {
+    "id": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+    "company": "Google / Gemini",
+    "title": "Google DeepMind Partnerships in India: scaling AI in science and education",
+    "date": "2025-12-01T00:00:00.000Z",
+    "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+    "tag": "Research",
+    "summary": "Google DeepMind announces new AI partnerships in India to advance scientific research, empower students with interactive Gemini-powered learning, and support...",
+    "image": "https://lh3.googleusercontent.com/YElycD2T8J2GDnFczuvtRJbPHGUMWPZiT-sLhQdv0ngl9hX0-Y4-KsOWaQxpUuwBCLrjW0FnWncfwgVP6TySgyUPjqyqd7x4czAJbGrRvTlhiV87sA=w1200-h630-n-nu-rw",
+    "title_ar": "Google DeepMind Partnerships in India: توسيع نطاق AI in science and education",
+    "summary_ar": "Google DeepMind announces جديد AI partnerships in India to advance scientific أبحاث, empower students with interactive Gemini-powered learning, and support..."
+  },
+  {
+    "id": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+    "company": "Google / Gemini",
+    "title": "Deepening AI Safety Research with UK AI Security Institute (AISI)",
+    "date": "2025-12-01T00:00:00.000Z",
+    "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+    "tag": "Security",
+    "summary": "Google DeepMind and the UK AI Security Institute (AISI) strengthen collaboration through a new research partnership, focusing on critical safety research are...",
+    "image": "https://lh3.googleusercontent.com/AMN7wwGsZm8pTcW-nitk9SkxhXFSiFV4aM44e4NzZlbm0MgdLCUYrhsW312j9DpOvtiBv9COlSOTf90tsFp0FuBQ_ggpm-ft4IZrtPo95uC8B73mgw=w1200-h630-n-nu-rw",
+    "title_ar": "Deepening AI سلامة أبحاث with UK AI أمن Institute (AISI)",
+    "summary_ar": "Google DeepMind and the UK AI أمن Institute (AISI) strengthen collaboration through a جديد أبحاث شراكة, focusing on critical سلامة أبحاث are..."
+  },
+  {
+    "id": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
+    "company": "Google / Gemini",
+    "title": "Our partnership with the UK government",
+    "date": "2025-12-01T00:00:00.000Z",
+    "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
+    "tag": "Security",
+    "summary": "We're collaborating with the UK government to accelerate progress in science, education, national security and more.",
+    "image": "https://lh3.googleusercontent.com/9ovdV4CyNmELMyuOSj2ZpyzRnJymh1gWQpzYVfd0oDzN82i8p08x_JRnArOWGge9IxvraD6ZRxYWD3pKNB0hhhueSmVHHn1xY4iXAOi2v7b0IYb8iw=w1200-h630-n-nu-rw",
+    "title_ar": "Our شراكة with the UK government",
+    "summary_ar": "We're collaborating with the UK government to accelerate progress in science, education, national أمن and more."
+  },
+  {
     "id": "https://huggingface.co/blog/gradio-html-one-shot-apps",
     "company": "Hugging Face",
     "title": "One-Shot Any Web App with Gradio's gr.HTML",
@@ -3228,7 +3431,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-sin2-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=jm5UtpG9JskQ7kNvwFWPvKZ&_nc_oc=Adls2ZTwE0gX8J8VmBf-Wja7_g5Fal94GftvqA117YLsPexcGurOLWlJYL7BaD2UdpE&_nc_zt=14&_nc_ht=scontent-sin2-1.xx&_nc_gid=Pa2FmqQCDB2CCbqhdXOKYg&_nc_ss=8&oh=00_AfuYJxiAlGPDFUS2NRiiVej964mzCp55oy1DLvZXajtJQg&oe=69BE5EEB",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=jm5UtpG9JskQ7kNvwEKVGbo&_nc_oc=AdmYfkPtsay8ekTRFbLKrvgNPDmkzpkKkAr153BCpD7y_pksuv59tnsT1fV4Fr26aQE&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=sGtSRhrhQ4sxTcWkWNoeFQ&_nc_ss=8&oh=00_AfvIJWHqJ4nc-0Uy547Z_BAlF_UNBX4xU1vjPND6OJqQPA&oe=69BE5EEB",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
@@ -3252,25 +3455,28 @@
     "id": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
     "company": "Google / Gemini",
     "title": "How we’re bringing AI image verification to the Gemini app",
-    "date": "2025-11-20T15:00:00.000Z",
+    "date": "2025-11-20T15:13:19.000Z",
     "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
     "tag": "Engineering",
-    "summary": "Our new Gemini app feature allows you to verify Google AI images and determine whether content was created or edited by AI.",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Social1920x1080.width-1300.png",
-    "title_ar": "تحديث رسمي: How we’re bringing AI image verification to the Gemini app",
-    "summary_ar": "Our جديد Gemini app feature allows you to verify Google AI images and determine whether content was created or edited by AI."
+    "summary": ""
   },
   {
     "id": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
     "company": "Google / Gemini",
     "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
-    "date": "2025-11-20T15:00:00.000Z",
+    "date": "2025-11-20T15:11:14.000Z",
     "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
     "tag": "News",
-    "summary": "Nano Banana Pro, or Gemini 3 Pro Image, is our most advanced image generation and editing model.",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Buildwithnano_hero.width-1300.png",
-    "title_ar": "Build with Nano Banana Pro, our Gemini 3 Pro Image نموذج",
-    "summary_ar": "Nano Banana Pro, or Gemini 3 Pro Image, is our most advanced image generation and editing نموذج."
+    "summary": ""
+  },
+  {
+    "id": "https://deepmind.google/blog/introducing-nano-banana-pro/",
+    "company": "Google / Gemini",
+    "title": "Introducing Nano Banana Pro",
+    "date": "2025-11-20T15:05:02.000Z",
+    "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
+    "tag": "News",
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/openai-and-foxconn-collaborate",
@@ -3300,18 +3506,6 @@
     "summary": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Expl"
   },
   {
-    "id": "https://deepmind.google/blog/introducing-nano-banana-pro/",
-    "company": "Google / Gemini",
-    "title": "Introducing Nano Banana Pro",
-    "date": "2025-11-20T00:00:00.000Z",
-    "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
-    "tag": "News",
-    "summary": "Nano Banana Pro is our new image generation and editing model from Google DeepMind.",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.width-1300.png",
-    "title_ar": "نُقدم لكم Nano Banana Pro",
-    "summary_ar": "Nano Banana Pro is our جديد image generation and editing نموذج from Google DeepMind."
-  },
-  {
     "id": "https://huggingface.co/blog/anylanguagemodel",
     "company": "Hugging Face",
     "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
@@ -3327,15 +3521,6 @@
     "url": "https://developer.nvidia.com/blog/breaking-through-rl-training-limits-with-scaling-rollouts-in-brorl/",
     "tag": "Engineering",
     "summary": "When training large language models (LLMs) with reinforcement learning from verifiable rewards (RLVR), one of the most compelling questions is how to "
-  },
-  {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:691b8dd19cd2316952aa0f95",
-    "company": "Stability AI",
-    "title": "Warner Music Group and Stability AI Join Forces To Build The Next Generation Of Responsible AI Tools For Music Creation",
-    "date": "2025-11-19T16:01:30.000Z",
-    "url": "https://stability.ai/news/warner-music-group-and-stability-ai-join-forces-to-build-next-gen-tools",
-    "tag": "News",
-    "summary": "Warner Music Group and Stability AI today announced a collaborative effort \r\nto advance the use of responsible AI in music creation, combining WMG’s \r"
   },
   {
     "id": "https://openai.com/index/strengthening-safety-with-external-testing",
@@ -3409,6 +3594,15 @@
     "summary": "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work w"
   },
   {
+    "id": "https://deepmind.google/blog/start-building-with-gemini-3/",
+    "company": "Google / Gemini",
+    "title": "Start building with Gemini 3",
+    "date": "2025-11-18T17:49:13.000Z",
+    "url": "https://deepmind.google/blog/start-building-with-gemini-3/",
+    "tag": "Engineering",
+    "summary": ""
+  },
+  {
     "id": "https://deepmind.google/blog/were-expanding-our-presence-in-singapore-to-advance-ai-in-the-asia-pacific-region/",
     "company": "Google / Gemini",
     "title": "We’re expanding our presence in Singapore to advance AI in the Asia-Pacific region",
@@ -3418,16 +3612,22 @@
     "summary": "Google DeepMind opens a new Singapore research lab, accelerating AI progress in the Asia-Pacific region."
   },
   {
+    "id": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
+    "company": "Google / Gemini",
+    "title": "A new era of intelligence with Gemini 3",
+    "date": "2025-11-18T16:06:41.000Z",
+    "url": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
+    "tag": "News",
+    "summary": ""
+  },
+  {
     "id": "https://deepmind.google/blog/introducing-google-antigravity/",
     "company": "Google / Gemini",
-    "title": "Google Antigravity",
+    "title": "Introducing Google Antigravity",
     "date": "2025-11-18T16:06:32.000Z",
     "url": "https://deepmind.google/blog/introducing-google-antigravity/",
     "tag": "News",
-    "summary": "Google Antigravity - Build the new way",
-    "image": "https://antigravity.google/assets/image/sitecards/sitecard-default.png",
-    "title_ar": "تحديث رسمي: Google Antigravity",
-    "summary_ar": "Google Antigravity - Build the جديد way"
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/intuit-partnership",
@@ -3437,30 +3637,6 @@
     "url": "https://openai.com/index/intuit-partnership",
     "tag": "Corporate",
     "summary": "OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit app experiences in ChatGPT and expand Intuit’s use of OpenAI’s frontie"
-  },
-  {
-    "id": "https://deepmind.google/blog/start-building-with-gemini-3/",
-    "company": "Google / Gemini",
-    "title": "Start building with Gemini 3",
-    "date": "2025-11-18T00:00:00.000Z",
-    "url": "https://deepmind.google/blog/start-building-with-gemini-3/",
-    "tag": "Engineering",
-    "summary": "Gemini 3 is introducing advanced agentic coding capabilities, plus Google Antigravity, a new agentic development platform.",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_dev-blog_meta-01-dark.width-1300.jpg",
-    "title_ar": "Start بناء with Gemini 3",
-    "summary_ar": "Gemini 3 is نُقدم لكم advanced agentic coding capabilities, plus Google Antigravity, a جديد agentic development منصة."
-  },
-  {
-    "id": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
-    "company": "Google / Gemini",
-    "title": "A new era of intelligence with Gemini 3",
-    "date": "2025-11-18T00:00:00.000Z",
-    "url": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
-    "tag": "News",
-    "summary": "Today we’re releasing Gemini 3 – our most intelligent model that helps you bring any idea to life.",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_model-blog_meta-dark.width-1300.jpg",
-    "title_ar": "A جديد era of ذكاء with Gemini 3",
-    "summary_ar": "Today we’re releasing Gemini 3 – our most intelligent نموذج that helps you bring any idea to life."
   },
   {
     "id": "https://deepmind.google/blog/weathernext-2-our-most-advanced-weather-forecasting-model/",
@@ -3737,15 +3913,6 @@
     "url": "https://openai.com/index/expanding-stargate-to-michigan",
     "tag": "News",
     "summary": "OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, dr"
-  },
-  {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:69027ac64dd5be07a211b2a2",
-    "company": "Stability AI",
-    "title": "Universal Music Group and Stability AI Announce Strategic Alliance to Co-Develop Professional AI Music Creation Tools",
-    "date": "2025-10-30T12:06:00.000Z",
-    "url": "https://stability.ai/news/universal-music-group-and-stability-ai-announce-strategic-alliance",
-    "tag": "News",
-    "summary": "Universal Music Group and Stability AI today announced a strategic alliance \r\nto develop next-generation professional music creation tools, powered by"
   },
   {
     "id": "https://openai.com/index/introducing-aardvark",
@@ -4169,15 +4336,6 @@
     "url": "https://deepmind.google/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway/",
     "tag": "News",
     "summary": "We’re launching a new 27 billion parameter foundation model for single-cell analysis built on the Gemma family of open models."
-  },
-  {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:68f7e4c20448615ff118b4da",
-    "company": "Stability AI",
-    "title": "Stability AI and EA Partner to Empower Artists, Designers, and Developers to Reimagine Game Development",
-    "date": "2025-10-23T16:01:48.000Z",
-    "url": "https://stability.ai/news/stability-ai-and-ea-partner-to-reimagine-game-development",
-    "tag": "News",
-    "summary": "Stability AI and Electronic Arts (EA) have formed a strategic partnership \r\nto co-develop transformative generative AI models, tools, and workflows \r\n"
   },
   {
     "id": "https://openai.com/index/openai-acquires-software-applications-incorporated",
@@ -4798,30 +4956,12 @@
     "summary": "Pushing the Frontier of Cost-Efficient Intelligence"
   },
   {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:68a37e026fea9a73312ba405",
-    "company": "Stability AI",
-    "title": "Stability AI Brings Image Services to Amazon Bedrock, Delivering End-to-End Creative Control with Enterprise-Grade Infrastructure",
-    "date": "2025-09-18T21:03:08.000Z",
-    "url": "https://stability.ai/news/stability-ai-brings-image-services-to-amazon-bedrock-delivering-professional-creative-control-with-enterprise-grade-infrastructure",
-    "tag": "Engineering",
-    "summary": "Today, we're excited to announce we’re expanding our partnership with \r\nAmazon Web Services to bring our Stable Image Services to Amazon Bedrock."
-  },
-  {
     "id": "https://huggingface.co/blog/riskrubric",
     "company": "Hugging Face",
     "title": "Democratizing AI Safety with RiskRubric.ai",
     "date": "2025-09-18T00:00:00.000Z",
     "url": "https://huggingface.co/blog/riskrubric",
     "tag": "News"
-  },
-  {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:68ba1647024bd120f1f9a4d8",
-    "company": "Stability AI",
-    "title": "Stability AI’s Annual Integrity Transparency Report",
-    "date": "2025-09-17T17:26:52.000Z",
-    "url": "https://stability.ai/news/stability-ais-annual-integrity-transparency-report",
-    "tag": "News",
-    "summary": "At Stability AI, we are committed to building and deploying generative AI \r\nresponsibly, and we believe that transparency is foundational to safe and "
   },
   {
     "id": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models",
@@ -4960,15 +5100,6 @@
     "date": "2025-09-10T17:04:36.000Z",
     "url": "https://huggingface.co/blog/togethercomputer/together-ft",
     "tag": "News"
-  },
-  {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:68af30c1f7616137793f399f",
-    "company": "Stability AI",
-    "title": "Stability AI Introduces Stable Audio 2.5, the First Audio Model Built for Enterprise Sound Production at Scale",
-    "date": "2025-09-10T14:07:07.000Z",
-    "url": "https://stability.ai/news/stability-ai-introduces-stable-audio-25-the-first-audio-model-built-for-enterprise-sound-production-at-scale",
-    "tag": "News",
-    "summary": "We’re excited to release Stable Audio 2.5, our latest audio model and the \r\nfirst developed for enterprise-grade use cases. Stable Audio 2.5 introduce"
   },
   {
     "id": "https://huggingface.co/blog/jupyter-agent-2",
