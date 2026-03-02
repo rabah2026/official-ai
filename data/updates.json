@@ -1059,15 +1059,6 @@
     "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users."
   },
   {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:6986ccac83d7eb240f110bae",
-    "company": "Stability AI",
-    "title": "Stability AI Joins the Tech Coalition",
-    "date": "2026-02-11T20:28:23.000Z",
-    "url": "https://stability.ai/news/stability-ai-joins-the-tech-coalition",
-    "tag": "Corporate",
-    "summary": "We’re pleased to share that Stability AI has joined the Tech Coalition, a \r\nglobal alliance of leading technology companies working together to combat"
-  },
-  {
     "id": "https://openai.com/index/harness-engineering",
     "company": "OpenAI",
     "title": "Harness engineering: leveraging Codex in an agent-first world",
@@ -1174,7 +1165,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwFaXif3&_nc_oc=Adl8K8QYad3K6GhI1yhebyeXvG5nc9is6WY6XUNMvxJ-C4lI-eCxaXZzyVFFj4a8D7U&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=rWPYD5QnrMb_GD0xBVT_Ig&_nc_ss=8&oh=00_AfxwMPOjlN5imycqQy2ZDZeZBE0W_dkZywPJ6h7Kuf_Gpw&oe=69C0487F",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwG8MyKY&_nc_oc=Admz1xA18nySHyiAX9Z3AMwtXOiawAebrPAX2VAnsf7YeG4IGrauyVsneHGJzusfzLY&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MNRJfhaO_Wh81KMdBjy0tA&_nc_ss=8&oh=00_AfyUulw7G7cvR9gi51d0wX8BPNQ4YrM8roSy0BzzmbNbxA&oe=69C0487F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2406,7 +2397,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwHZ4fOP&_nc_oc=Adk8kVVR3Sg16Etw9ONOZG0af6V2CQHWN-tnAJJkhNsGcbnOHQnrVG6ZdjZbnC-koDE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oO4zljSPCaQLqav1p74x5Q&_nc_ss=8&oh=00_AfygVzdkqlpNKT1fKxgIRMhEHWQ2hDLA5SjIrp_mB3PYIg&oe=69C01977",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwGnt3Jt&_nc_oc=AdmAF_Cjh_Q0Za9xcWa32NX2FH5hPBP2fUhhTTeyLhx2nzHADzgS6EcUBQS6_OpY7aA&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=n4axSxhGxZM_ogRKE4v3MQ&_nc_ss=8&oh=00_AfzBOB4VnfCy7CfDGY2VZx9SiHXDZ14zCaJfRhRKw00NWQ&oe=69C01977",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2418,7 +2409,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwEQ10a4&_nc_oc=AdkziXojTfeAhycojZgewoEZZlyNYdpqz0wbO1lreOugJZGr897Itm4-npzNdZVsamU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=ResBAmG-rifYTAQ_SqauRg&_nc_ss=8&oh=00_AfzuKbjcM8FBODQNunremrlKVYqoB8VnpS8X4X0ZdAqjYQ&oe=69C035D7",
+    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwGoewua&_nc_oc=Adl_zcIc5h3AI2QkHPciTKb9UW0mRvWxoKKob3FBLI7Np_UAGSKyrBGpSym2tUhJ6l8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=QZbTapbrHxRZSZgStUM93Q&_nc_ss=8&oh=00_AfyIDl5ExBtjbL6nYJqyvbuKCm8juipyjwfjEXxWpERFgQ&oe=69C035D7",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2602,7 +2593,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwGAxnaw&_nc_oc=AdnN1B9FgvQw2EcdETWgclTGzT_aQc7UWCyTbVr8gzkAydUSB9xZBAFz2bTVUc4KWbk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=TV6GwDLVFsxmghpt2zCb9A&_nc_ss=8&oh=00_AfxRX57e665PKdejibH-Etff_tAmKvjAKgal0LYV6T0Sjw&oe=69C0339B",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwFmzia1&_nc_oc=Adly0u1yKKwmbMZy8XtIlGHWDRQ25-RyV33amxGGSR3BciYthvrStuJHoKrUKfYhtXU&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=F6bUDSdFCqQd2eyQCmBhFA&_nc_ss=8&oh=00_AfzVV7YmZ-Ytal-1DZuVyqKMjzsTWpoCy162pUI8ZJO-3w&oe=69C0339B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3440,7 +3431,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=jm5UtpG9JskQ7kNvwFLaKeb&_nc_oc=Adm7uXDfacajXzztbsCk94PHyEusVN4FbR8H2L2Sr6fgqkxa4k2QHNEjM3QC3frc7xM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=SfmqK6TBhLTHmr9jfcyu-Q&_nc_ss=8&oh=00_AfyJlGbj4NycwtiFnObqtlLaeAvL6wT9aejpegRLQLSbeQ&oe=69C020EB",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=jm5UtpG9JskQ7kNvwFYQuIx&_nc_oc=AdlDJE2jQadDH0Yx1KUTVuO1t6ZFeR8CKKvVLmZzDXA61hHMgWNIoSyhOPmbjMYw7gQ&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=9CsFwZid3OcJ_DzcTSvOMQ&_nc_ss=8&oh=00_Afzdqa8NN0HGmIHquRUW-1tTMSXrWtipzY9CMnFMsMsz1A&oe=69C020EB",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
@@ -3530,15 +3521,6 @@
     "url": "https://developer.nvidia.com/blog/breaking-through-rl-training-limits-with-scaling-rollouts-in-brorl/",
     "tag": "Engineering",
     "summary": "When training large language models (LLMs) with reinforcement learning from verifiable rewards (RLVR), one of the most compelling questions is how to "
-  },
-  {
-    "id": "6213c340453c3f502425776e:62f2452bc121595f4d87c713:691b8dd19cd2316952aa0f95",
-    "company": "Stability AI",
-    "title": "Warner Music Group and Stability AI Join Forces To Build The Next Generation Of Responsible AI Tools For Music Creation",
-    "date": "2025-11-19T16:01:30.000Z",
-    "url": "https://stability.ai/news/warner-music-group-and-stability-ai-join-forces-to-build-next-gen-tools",
-    "tag": "News",
-    "summary": "Warner Music Group and Stability AI today announced a collaborative effort \r\nto advance the use of responsible AI in music creation, combining WMG’s \r"
   },
   {
     "id": "https://openai.com/index/strengthening-safety-with-external-testing",
