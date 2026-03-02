@@ -1140,15 +1140,6 @@
     "summary_ar": "NVIDIA TensorRT LLM enables developers to build high-أداء استنتاج engines for large لغة models (LLMs), but deploying a جديد architecture…"
   },
   {
-    "id": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-    "company": "OpenAI",
-    "title": "Bringing ChatGPT to GenAI.mil",
-    "date": "2026-02-09T11:00:00.000Z",
-    "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-    "tag": "News",
-    "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams."
-  },
-  {
     "id": "https://openai.com/index/testing-ads-in-chatgpt",
     "company": "OpenAI",
     "title": "Testing ads in ChatGPT",
@@ -1158,6 +1149,15 @@
     "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
   },
   {
+    "id": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+    "company": "OpenAI",
+    "title": "Bringing ChatGPT to GenAI.mil",
+    "date": "2026-02-09T11:00:00.000Z",
+    "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+    "tag": "News",
+    "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams."
+  },
+  {
     "id": "https://ai.meta.com/blog/forest-research-dino/",
     "company": "Meta AI",
     "title": "Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
@@ -1165,7 +1165,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwHTmx-3&_nc_oc=AdmDTrWLEAqlEflB7wHz7uce180CtHB1X2e2a1NQlFEXAf9pRO4eKSV3m-FA_UMROes&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wFytsSfXkvUQDuuZizlptg&_nc_ss=8&oh=00_Afy3uDJlqDXPYExPHiAGUSZPLD7Vf-mLUPPzVX_AvC4FXw&oe=69C0487F",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwHeTXJ8&_nc_oc=AdlOCagYaaEMUc_wAeVcEcAuOQezPeI3yzbwG2M_19XkwHkiBKirn3wSucbm1bNvNJY&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=GXhtoPsbw19dY1SdZoen1w&_nc_ss=8&oh=00_Afy1ozmVpr0PvaCvJPKQCTNN6Hd0gPLz3S1rgLQ2ffM23g&oe=69C0487F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -1605,15 +1605,6 @@
     "summary": "Advances in AI architectures have unlocked multimodal functionality, enabling transformer models to process multiple forms of data in the same context"
   },
   {
-    "id": "https://openai.com/index/emea-youth-and-wellbeing-grant",
-    "company": "OpenAI",
-    "title": "EMEA Youth & Wellbeing Grant",
-    "date": "2026-01-28T01:00:00.000Z",
-    "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
-    "tag": "News",
-    "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI."
-  },
-  {
     "id": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
     "company": "OpenAI",
     "title": "The next chapter for AI in the EU",
@@ -1621,6 +1612,15 @@
     "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
     "tag": "News",
     "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe"
+  },
+  {
+    "id": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+    "company": "OpenAI",
+    "title": "EMEA Youth & Wellbeing Grant",
+    "date": "2026-01-28T01:00:00.000Z",
+    "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+    "tag": "News",
+    "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI."
   },
   {
     "id": "https://openai.com/index/ai-agent-link-safety",
@@ -1682,15 +1682,6 @@
     "tag": "News"
   },
   {
-    "id": "https://openai.com/index/introducing-prism",
-    "company": "OpenAI",
-    "title": "Introducing Prism",
-    "date": "2026-01-27T00:00:00.000Z",
-    "url": "https://openai.com/index/introducing-prism",
-    "tag": "News",
-    "summary": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place."
-  },
-  {
     "id": "https://openai.com/index/trustbank",
     "company": "OpenAI",
     "title": "Powering tax donations with AI powered personalized recommendations",
@@ -1698,6 +1689,15 @@
     "url": "https://openai.com/index/trustbank",
     "tag": "Corporate",
     "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furus"
+  },
+  {
+    "id": "https://openai.com/index/introducing-prism",
+    "company": "OpenAI",
+    "title": "Introducing Prism",
+    "date": "2026-01-27T00:00:00.000Z",
+    "url": "https://openai.com/index/introducing-prism",
+    "tag": "News",
+    "summary": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place."
   },
   {
     "id": "https://developer.nvidia.com/blog/adaptive-inference-in-nvidia-tensorrt-for-rtx-enables-automatic-optimization/",
@@ -1798,15 +1798,6 @@
     "tag": "Research"
   },
   {
-    "id": "https://openai.com/index/edu-for-countries",
-    "company": "OpenAI",
-    "title": "Introducing Edu for Countries",
-    "date": "2026-01-21T01:00:00.000Z",
-    "url": "https://openai.com/index/edu-for-countries",
-    "tag": "News",
-    "summary": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces."
-  },
-  {
     "id": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
     "company": "OpenAI",
     "title": "How countries can end the capability overhang",
@@ -1814,6 +1805,15 @@
     "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
     "tag": "News",
     "summary": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity"
+  },
+  {
+    "id": "https://openai.com/index/edu-for-countries",
+    "company": "OpenAI",
+    "title": "Introducing Edu for Countries",
+    "date": "2026-01-21T01:00:00.000Z",
+    "url": "https://openai.com/index/edu-for-countries",
+    "tag": "News",
+    "summary": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces."
   },
   {
     "id": "https://openai.com/index/horizon-1000",
@@ -1912,15 +1912,6 @@
     "summary": "The truth left out from Elon Musk’s recent court filing."
   },
   {
-    "id": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
-    "company": "OpenAI",
-    "title": "Our approach to advertising and expanding access to ChatGPT",
-    "date": "2026-01-16T00:00:00.000Z",
-    "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
-    "tag": "News",
-    "summary": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, tr"
-  },
-  {
     "id": "https://openai.com/index/introducing-chatgpt-go",
     "company": "OpenAI",
     "title": "Introducing ChatGPT Go, now available worldwide",
@@ -1928,6 +1919,15 @@
     "url": "https://openai.com/index/introducing-chatgpt-go",
     "tag": "Release",
     "summary": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more aff"
+  },
+  {
+    "id": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+    "company": "OpenAI",
+    "title": "Our approach to advertising and expanding access to ChatGPT",
+    "date": "2026-01-16T00:00:00.000Z",
+    "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+    "tag": "News",
+    "summary": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, tr"
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning/",
@@ -2397,7 +2397,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwGSphqB&_nc_oc=AdnaLZv2cGQLvRXSGk0hDmpjfweJEKbuvBWddvxCgSJ8HyEDPGm8bWYWIrWa3ybSAbI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=HuFSMjfHkrsxrDaFDyDBPg&_nc_ss=8&oh=00_AfwRERT8icCn5l3XW4xcesufsaqo753psTBxQ_bA5x6sVQ&oe=69C051B7",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwGw9tER&_nc_oc=AdnjUM3cTE4lwaY166bBZmtxVr176IpL3xKzT6ktL7vkfuzSSCT5UjoLAo5dU6RTjUw&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=zCdZKo_ZNnjcOUiPAL8ILA&_nc_ss=8&oh=00_Afzu2-hxMNy9AB6h5ScxycHCYkQfG1MNxWMIqbHEGydudQ&oe=69C051B7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2409,7 +2409,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwE3adVl&_nc_oc=AdmCMiFl1_rlFB3YfpD_Fu4lR6w02AzumFo1hAtnmrs6lZOlQFXldd09rKWyS_ohXO0&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=xSosgamK850B1RyujNjgLA&_nc_ss=8&oh=00_Afx-TF4K27L2uybJvWI1kwbyrUlF7MwUU3OpVV8QeoBogQ&oe=69C035D7",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwGO8tR7&_nc_oc=AdkLQ9kDLvbf3zOi1AKsK83ZgTITJe1cYQ13W7Ub5XRVLHcr_FKm0ThjRGkumOEuRQ0&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=HXDM6KwSBo3yn8MYNKAkQA&_nc_ss=8&oh=00_Afx9gfQYn1O3WMhofwyGqHfpps1eas0MGz_IndSwDIHB5A&oe=69C035D7",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2593,7 +2593,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwEU9fAp&_nc_oc=AdkXRHoLvrCw8GWZCB0T1E0GNpWSRSVjyH0W059XN3vPE0CY-vCGPETjQBoYw4A_KMs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Hscy0i13-rDAcv5buvDfYQ&_nc_ss=8&oh=00_AfyrTSDxH5LoKMsrzEapJu3HguPe-RLsJTM8UOi0cKYRJA&oe=69C0339B",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwFhNpzW&_nc_oc=AdnLexxHzGkGuewjkduVWQ0WCDjbb8eMgE4-mNEYxw1durVPeg-hSzbL-y0SYhAg6BE&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=qIpKMSDm-6jjAK2WmXB5vg&_nc_ss=8&oh=00_AfzRWcvKvRFo1VpOHeYohIIDZVv8alN_t4l6_s8Wm2BxEA&oe=69C0339B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -2696,15 +2696,6 @@
     "summary": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver "
   },
   {
-    "id": "https://openai.com/index/bny",
-    "company": "OpenAI",
-    "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
-    "date": "2025-12-12T00:00:00.000Z",
-    "url": "https://openai.com/index/bny",
-    "tag": "Case Study",
-    "summary": "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhanc"
-  },
-  {
     "id": "https://openai.com/index/bbva-collaboration-expansion",
     "company": "OpenAI",
     "title": "BBVA and OpenAI collaborate to transform global banking",
@@ -2712,6 +2703,15 @@
     "url": "https://openai.com/index/bbva-collaboration-expansion",
     "tag": "News",
     "summary": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Togeth"
+  },
+  {
+    "id": "https://openai.com/index/bny",
+    "company": "OpenAI",
+    "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
+    "date": "2025-12-12T00:00:00.000Z",
+    "url": "https://openai.com/index/bny",
+    "tag": "Case Study",
+    "summary": "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhanc"
   },
   {
     "id": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
@@ -3431,7 +3431,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=jm5UtpG9JskQ7kNvwEFazLm&_nc_oc=AdlDNImVMqoxlvx5mLa9erSDiSpo_RWDrIwm69zIr4Z7XGsB_2XQRKl9K-2LFg44ve0&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=LORxl7DuHd137yn8QCr4PA&_nc_ss=8&oh=00_Afzs8pR-j_FiQcHIg0k11mrvA40XIdiifylr5iNQohV_Ng&oe=69C0592B",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=jm5UtpG9JskQ7kNvwE8zqii&_nc_oc=AdlPoa8qj9L4o3qMoICVmCuUkUXyf8889AAYQkRTaDntQFF0HOu-ClSycH3ZxnQ5Klw&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=aRpOSLe9yI-IjjxYmo8aBw&_nc_ss=8&oh=00_AfxwO8NKio2bvYPKncZsBrZzd7dcMwjs6xfCTea5nmumfg&oe=69C0592B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
