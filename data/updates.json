@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "company": "Google / Gemini",
+    "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+    "date": "2026-03-03T16:34:00.000Z",
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "tag": "Pricing",
+    "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_flash_Lite_blog_keyword_metacard_d.width-1300.png",
+    "title_ar": "Gemini 3.1 Flash-Lite: Built for ذكاء at scale",
+    "summary_ar": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series نموذج yet."
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+    "company": "Google / Gemini",
+    "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+    "date": "2026-03-03T16:34:00.000Z",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+    "tag": "Pricing",
+    "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_flash_Lite_blog_keyword_metacard_d.width-1300.png",
+    "title_ar": "Gemini 3.1 Flash-Lite: Built for ذكاء at scale",
+    "summary_ar": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series نموذج yet."
+  },
+  {
     "id": "4474a7de670873c4ce044cd6293375ae874eeddb",
     "company": "Amazon",
     "title": "Building a scalable virtual try-on solution usin",
@@ -34,6 +58,30 @@
     "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/03/ml-20134-1120x630.png",
     "title_ar": "How Tines enhances أمن analysis wit",
     "summary_ar": "In this post, we show you كيفية connect Quick Suite with Tines to securely retrieve, analyze, and visualize مؤسسات data from any أمن or IT نظام. ..."
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+    "company": "Google / Gemini",
+    "title": "Create new worlds in Project Genie with these 4 tips",
+    "date": "2026-03-03T00:00:00.000Z",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+    "tag": "Research",
+    "summary": "Learn more about Google DeepMind’s Project Genie and how to write prompts to create your own worlds.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_2_social.width-1300.png",
+    "title_ar": "Create جديد worlds in Project Genie with these 4 tips",
+    "summary_ar": "Learn more about Google DeepMind’s Project Genie and كيفية write prompts to create your own worlds."
+  },
+  {
+    "id": "https://huggingface.co/blog/Photoroom/prx-part3",
+    "company": "Hugging Face",
+    "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+    "date": "2026-03-03T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/Photoroom/prx-part3",
+    "tag": "Research",
+    "summary": "In the last two posts (Part 1 and Part 2), we explored a wide range of architectural and training tricks for diffusion models. We tried to evaluate each idea...",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/68e529af513e724edd8702f6/zMyALdakGbN6SDG3ucmLd.jpeg",
+    "title_ar": "PRX Part 3 — تدريب a Text-to-Image نموذج in 24h!",
+    "summary_ar": "In the last two posts (Part 1 and Part 2), we explored a wide range of architectural and تدريب tricks for diffusion models. We tried to evaluate each idea..."
   },
   {
     "id": "separating-intelligence",
@@ -1134,10 +1182,7 @@
     "date": "2026-02-10T02:30:00.000Z",
     "url": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
     "tag": "Security",
-    "summary": "We’re sharing our latest updates designed to support families, kids and teens in the digital world.",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Helpingkidsteens_Social.width-1300.png",
-    "title_ar": "تحديث رسمي: Helping kids and teens learn and grow online on Safer Internet Day",
-    "summary_ar": "تحديث رسمي: We’re sharing our latest updates designed to support families, kids and teens in the digital world."
+    "summary": "We’re sharing our latest updates designed to support families, kids and teens in the digital world."
   },
   {
     "id": "https://developer.nvidia.com/blog/automating-inference-optimizations-with-nvidia-tensorrt-llm-autodeploy/",
@@ -1177,7 +1222,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwEzTgge&_nc_oc=AdlKEA30MBasTwfLm-J06u8S4gbhGB7wp4Uvt_fmBOXlX_cXaGxRGaBmV37o0Ema-_Q&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=WyrhYa7-W2TY2hxk3394FQ&_nc_ss=8&oh=00_AfxSGUM_pg7fiHTHTA_S1WkRx8FjY2f8e8o7oCn5PMut-A&oe=69C161BF",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwExv5S_&_nc_oc=AdkTWjjvAiPBOooW18aGBxRY93T_rjhcCQt80mpcBiop72PUqvsE0YM7wQ-jKF8mUik&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=BbHOTzv72etqmMH3X0rMNQ&_nc_ss=8&oh=00_AfzhAT9MUxNQVhn0WKjYJdZUzRrl1_hRFTTiql4MNyFyRA&oe=69C161BF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -1234,6 +1279,15 @@
     "url": "https://developer.nvidia.com/blog/how-to-build-license-compliant-synthetic-data-pipelines-for-ai-model-distillation/",
     "tag": "Engineering",
     "summary": "Specialized AI models are built to perform specific tasks or solve particular problems. But if you’ve ever tried to fine-tune or distill a domain-spec"
+  },
+  {
+    "id": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
+    "company": "Google / Gemini",
+    "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+    "date": "2026-02-05T17:00:00.000Z",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
+    "tag": "News",
+    "summary": "Learn how Google's NAI framework uses AI to make technology more adaptive, inclusive and helpful for everyone."
   },
   {
     "id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
@@ -1327,18 +1381,6 @@
     "url": "https://openai.com/index/introducing-gpt-5-3-codex",
     "tag": "Release",
     "summary": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work"
-  },
-  {
-    "id": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
-    "company": "Google / Gemini",
-    "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
-    "date": "2026-02-05T00:00:00.000Z",
-    "url": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
-    "tag": "Case Study",
-    "summary": "Learn how Google's NAI framework uses AI to make technology more adaptive, inclusive and helpful for everyone.",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Natively_Adaptive_Interfaces_Social.width-1300.png",
-    "title_ar": "Natively Adaptive Interfaces: A جديد framework for AI accessibility",
-    "summary_ar": "تحديث رسمي: Learn how Google's NAI framework uses AI to make technology more adaptive, inclusive and helpful for everyone."
   },
   {
     "id": "https://developer.nvidia.com/blog/build-with-kimi-k2-5-multimodal-vlm-using-nvidia-gpu-accelerated-endpoints/",
@@ -1473,24 +1515,6 @@
     "summary": "In LLM training, Expert Parallel (EP) communication for hyperscale mixture-of-experts (MoE) models is challenging. EP communication is essentially all"
   },
   {
-    "id": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
-    "company": "Google / Gemini",
-    "title": "How we’re helping preserve the genetic information of endangered species with AI",
-    "date": "2026-02-02T18:00:00.000Z",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
-    "tag": "Engineering",
-    "summary": "Scientists are working to sequence the genome of every known species on Earth."
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
-    "company": "Google / Gemini",
-    "title": "Advancing AI benchmarking with Game Arena",
-    "date": "2026-02-02T17:00:00.000Z",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
-    "tag": "Research",
-    "summary": "We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Flash top our chess leaderboard."
-  },
-  {
     "id": "https://openai.com/index/snowflake-partnership",
     "company": "OpenAI",
     "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
@@ -1507,18 +1531,6 @@
     "url": "https://openai.com/index/introducing-the-codex-app",
     "tag": "News",
     "summary": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running"
-  },
-  {
-    "id": "https://huggingface.co/blog/daggr",
-    "company": "Hugging Face",
-    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
-    "date": "2026-01-31T08:32:06.000Z",
-    "url": "https://huggingface.co/blog/daggr",
-    "tag": "Release",
-    "summary": "If you've built AI applications that combine multiple models or processing steps, you know the pain: chaining API calls, debugging pipelines, and losing trac...",
-    "image": "https://huggingface.co/blog/assets/daggr/thumbnail.png",
-    "title_ar": "نُقدم لكم Daggr: Chain apps programmatically, inspect visually",
-    "summary_ar": "تحديث رسمي: If you've built AI applications that combine multiple models or processing steps, you know the pain: chaining API calls, debugging pipelines, and losing trac..."
   },
   {
     "id": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/",
@@ -1585,6 +1597,14 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/genie-3__project-genie__hero-film_social-shar.width-1300.jpg",
     "title_ar": "تحديث رسمي: Project Genie: Experimenting with infinite, interactive worlds",
     "summary_ar": "تحديث رسمي: Google AI Ultra subscribers in the U.S. can now try out Project Genie."
+  },
+  {
+    "id": "https://huggingface.co/blog/daggr",
+    "company": "Hugging Face",
+    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+    "date": "2026-01-29T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/daggr",
+    "tag": "News"
   },
   {
     "id": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/",
@@ -2406,7 +2426,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwEuPeyJ&_nc_oc=AdlOlGEohYeeBLyelHiqibJBl8uncU_1aapaTO1pSrxmjqqCJgiypqn2h6ET3f_a0fo&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=GFb21lYdRC5eCnMDryCQPQ&_nc_ss=8&oh=00_Afy7grL2dfxA3cj4Tw3u72REw0gqmMSxrScYi7PMrOXnVA&oe=69C16AF7",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwFejBti&_nc_oc=AdkQ6NdSGZOIWt18URQHPBS-lmED2OPcxJOBIsV6F7V3MqkNhhke_YTfKa82_8rQ2JM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=zd6FHcCTVnQ_2TS5WWIDEw&_nc_ss=8&oh=00_Afx2QzGGMRfu8YksW5QwlFZ6gcxoopzOLOQGLwsPU996Ng&oe=69C16AF7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2418,7 +2438,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwGovayc&_nc_oc=AdkCoDYYFuFnbh770lB0G1gLgSbmXpO9PqoPu6PH2vzF7fVJrzemijyl76cBlH5qEBQ&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=AdF-0TMi9BZs0BYHc1OY1A&_nc_ss=8&oh=00_AfzkNLlV-9AYvE0lbkn-2-I8jdOXMKuoRIVNavo_dcO-Zw&oe=69C14F17",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwFIHo-h&_nc_oc=AdnJ-po-XKhEqQ9vgDaFc3lvhEQhzH8mSlOqhzeF-5FCCNljPGNHa_nbYrySS2vyiQU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=TattW_ljfYv0QwC2NckPyw&_nc_ss=8&oh=00_AfzTE0bvPDNZvZNpjXSQkXQuelsHAlybfgfCcy1XCUy0kg&oe=69C14F17",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2602,7 +2622,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwHKnznS&_nc_oc=AdlnGXZtp3K5Dx_CBcfS1UCHs5CaLpOJn20_ntowlklk_Xz2-w_sFKcR7JzLPJ76pXY&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=GiufGugWUuUsXeU7ofCK7A&_nc_ss=8&oh=00_AfxDQwtp-ogrEF3H9MkqVteEt2ZRJ-rbUhsJLPrRaP7wCg&oe=69C14CDB",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwE44l0c&_nc_oc=AdmE-tUhUgcdTCOLi0UMDicZyI7_kybmb4tzdXxgNN5JDk_6NlGaHDabSQfZJ06UMog&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=UOUG4YRnStXK4ncOqjK5vA&_nc_ss=8&oh=00_AfypD6PoyCdg3qVItLiPp-iETV7ULUP4ZbMXG48YX2T1cg&oe=69C14CDB",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -2848,6 +2868,15 @@
     "url": "https://developer.nvidia.com/blog/better-bug-detection-how-compile-time-instrumentation-for-compute-sanitizer-enhances-memory-safety/",
     "tag": "Engineering",
     "summary": "CUDA C++ is standard C++ with extensions that enable functions to run on many parallel threads on a GPU. It has facilitated widespread adoption while "
+  },
+  {
+    "id": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
+    "company": "Google / Gemini",
+    "title": "Strengthening our partnership with the UK government to support prosperity and security in the AI era",
+    "date": "2025-12-10T14:59:21.000Z",
+    "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
+    "tag": "Security",
+    "summary": "Deepening our partnership with the UK government to support prosperity and security in the AI era"
   },
   {
     "id": "https://openai.com/index/strengthening-cyber-resilience",
@@ -3240,18 +3269,6 @@
     "summary_ar": "Google DeepMind and the UK AI أمن Institute (AISI) strengthen collaboration through a جديد أبحاث شراكة, focusing on critical سلامة أبحاث are..."
   },
   {
-    "id": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
-    "company": "Google / Gemini",
-    "title": "Our partnership with the UK government",
-    "date": "2025-12-01T00:00:00.000Z",
-    "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
-    "tag": "Security",
-    "summary": "We're collaborating with the UK government to accelerate progress in science, education, national security and more.",
-    "image": "https://lh3.googleusercontent.com/9ovdV4CyNmELMyuOSj2ZpyzRnJymh1gWQpzYVfd0oDzN82i8p08x_JRnArOWGge9IxvraD6ZRxYWD3pKNB0hhhueSmVHHn1xY4iXAOi2v7b0IYb8iw=w1200-h630-n-nu-rw",
-    "title_ar": "Our شراكة with the UK government",
-    "summary_ar": "We're collaborating with the UK government to accelerate progress in science, education, national أمن and more."
-  },
-  {
     "id": "https://huggingface.co/blog/gradio-html-one-shot-apps",
     "company": "Hugging Face",
     "title": "One-Shot Any Web App with Gradio's gr.HTML",
@@ -3440,7 +3457,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=jm5UtpG9JskQ7kNvwFP8ROc&_nc_oc=AdmB-cDLszI02lA4Ul4C05MdN3RgMmmYF0gCcZnrvkKDh9ap8uRtEBURJC2a7SHLs00&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=rhpHPa-45zkcYl05UdJHLQ&_nc_ss=8&oh=00_Afz87caLGYLa8NXJVm59QCw4tVR7mRH1jVe04OAdN9n1Fw&oe=69C13A2B",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=jm5UtpG9JskQ7kNvwGXV7jp&_nc_oc=AdkcuPX2hVCAt938rzjqIlZZMVSSYA8w-BQWYKkPoJr5mGwwQiKXDoYEPkQt0sMUpAY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=dsf1fKgeo0N_QDs4o25R5g&_nc_ss=8&oh=00_Afy7ITW_snO4QVQJzGvuEh-5Jkv2zE4Er2JgIbvRAlG1QA&oe=69C1726B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
