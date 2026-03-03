@@ -1,5 +1,41 @@
 [
   {
+    "id": "4474a7de670873c4ce044cd6293375ae874eeddb",
+    "company": "Amazon",
+    "title": "Building a scalable virtual try-on solution usin",
+    "date": "2026-03-03T16:23:30.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/",
+    "tag": "Engineering",
+    "summary": "In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to help get...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/03/ml-19300-1120x630.png",
+    "title_ar": "بناء a scalable virtual try-on solution usin",
+    "summary_ar": "تحديث رسمي: In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to help get..."
+  },
+  {
+    "id": "bac610ff2bd913d55f3af2f907c355be87542443",
+    "company": "Amazon",
+    "title": "How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks usin",
+    "date": "2026-03-03T16:18:30.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/",
+    "tag": "Engineering",
+    "summary": "This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they implemente...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/03/ml-19734-1120x630.png",
+    "title_ar": "تحديث رسمي: How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks usin",
+    "summary_ar": "تحديث رسمي: This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they implemente..."
+  },
+  {
+    "id": "09209e0e7d7a52416b2d2a4398f50bc3380a5b00",
+    "company": "Amazon",
+    "title": "How Tines enhances security analysis wit",
+    "date": "2026-03-03T16:15:06.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-tines-enhances-security-analysis-with-amazon-quick-suite/",
+    "tag": "Security",
+    "summary": "In this post, we show you how to connect Quick Suite with Tines to securely retrieve, analyze, and visualize enterprise data from any security or IT system. ...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/03/ml-20134-1120x630.png",
+    "title_ar": "How Tines enhances أمن analysis wit",
+    "summary_ar": "In this post, we show you كيفية connect Quick Suite with Tines to securely retrieve, analyze, and visualize مؤسسات data from any أمن or IT نظام. ..."
+  },
+  {
     "id": "separating-intelligence",
     "company": "Apple",
     "title": "On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment",
@@ -542,14 +578,11 @@
   {
     "id": "610d64b012573b6c36fa2c596c49212fcd7f4757",
     "company": "Amazon",
-    "title": "Introducin",
+    "title": "Introducing Amazon Bedrock global cross-Region inference for Anthropic’s Claude models in the Middle East Regions (UAE and Bahrain)",
     "date": "2026-02-24T15:33:51.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-global-cross-region-inference-for-anthropics-claude-models-in-the-middle-east-regions/",
     "tag": "Engineering",
-    "summary": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 throug...",
-    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/24/ml-20333-1120x630.png",
-    "title_ar": "تحديث رسمي: Introducin",
-    "summary_ar": "تحديث رسمي: We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 throug..."
+    "summary": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5"
   },
   {
     "id": "beyond-a-single-extractor",
@@ -606,10 +639,7 @@
     "date": "2026-02-23T23:20:37.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/scaling-data-annotation-using-vision-language-models-to-power-physical-ai-systems/",
     "tag": "Engineering",
-    "summary": "In this post, we examine how Bedrock Robotics tackles this challenge. By joining the AWS Physical AI Fellowship, the startup partnered with the AWS Generativ...",
-    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/23/ml-20346-1120x630.png",
-    "title_ar": "توسيع نطاق data annotation using رؤية-لغة models to power physical AI systems",
-    "summary_ar": "تحديث رسمي: In this post, we examine how Bedrock Robotics tackles this challenge. By joining the AWS Physical AI Fellowship, the startup partnered with the AWS Generativ..."
+    "summary": "In this post, we examine how Bedrock Robotics tackles this challenge. By joining the AWS Physical AI Fellowship, the startup partnered with the AWS Ge"
   },
   {
     "id": "https://developer.nvidia.com/blog/using-nvfp4-low-precision-model-training-for-higher-throughput-without-losing-accuracy/",
@@ -626,14 +656,11 @@
   {
     "id": "03ce9f4b3515b2dd16a3a38287be6358160d13cc",
     "company": "Amazon",
-    "title": "How Sonrai use",
+    "title": "How Sonrai uses Amazon SageMaker AI to accelerate precision medicine trials",
     "date": "2026-02-23T17:31:45.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/how-sonrai-uses-amazon-sagemaker-ai-to-accelerate-precision-medicine-trials/",
-    "tag": "News",
-    "summary": "In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that addresse...",
-    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/23/ML-19358-1120x630.png",
-    "title_ar": "تحديث رسمي: How Sonrai use",
-    "summary_ar": "تحديث رسمي: In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that addresse..."
+    "tag": "Case Study",
+    "summary": "In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that a"
   },
   {
     "id": "f452a6551d9477051ffb821edb1d8fc3bbedf56a",
@@ -700,33 +727,6 @@
     "image": "https://huggingface.co/blog/assets/openenv-turing/thumbnail.png",
     "title_ar": "OpenEnv in Practice: Evaluating أداة-Using Agents in Real-World Environments",
     "summary_ar": "تحديث رسمي: OpenEnv is an open-source framework from Meta and Hugging Face designed to address this challenge by standardizing how agents interact with real environments..."
-  },
-  {
-    "id": "96a1627efdc06412b2cdbcb4f67952843bf54492",
-    "company": "Amazon",
-    "title": "Amazon SageMaker AI in 2025, a year in review part 1: Flexible Training Plans and improvements to price performance for inference workloads",
-    "date": "2026-02-20T20:26:47.000Z",
-    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/",
-    "tag": "Pricing",
-    "summary": "In 2025, Amazon SageMaker AI saw dramatic improvements to core infrastructure offerings along four dimensions: capacity, price performance, observabil"
-  },
-  {
-    "id": "f756ea282e66709ee5e3cc86e5b282b32f0f670c",
-    "company": "Amazon",
-    "title": "Amazon SageMaker AI in 2025, a year in review part 2: Improved observability and enhanced features for SageMaker AI model customization and hosting",
-    "date": "2026-02-20T20:26:30.000Z",
-    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-2-improved-observability-and-enhanced-features-for-sagemaker-ai-model-customization-and-hosting/",
-    "tag": "News",
-    "summary": "In 2025, Amazon SageMaker AI made several improvements designed to help you train, tune, and host generative AI workloads. In Part 1 of this series, w"
-  },
-  {
-    "id": "bb74441898c317f44a8aa3090000d225d9613175",
-    "company": "Amazon",
-    "title": "Integrate external tools with Amazon Quick Agents using Model Context Protocol (MCP)",
-    "date": "2026-02-20T16:26:21.000Z",
-    "url": "https://aws.amazon.com/blogs/machine-learning/integrate-external-tools-with-amazon-quick-agents-using-model-context-protocol-mcp/",
-    "tag": "News",
-    "summary": "In this post, you’ll use a six-step checklist to build a new MCP server or validate and adjust an existing MCP server for Amazon Quick integration. Th"
   },
   {
     "id": "https://huggingface.co/blog/ggml-joins-hf",
@@ -1177,7 +1177,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwGnHj7L&_nc_oc=Adk8IXicFX9b7lhO9YTud-OwbZfUTbYA1916UhyS_-Unx0NfAQHAXw4Socl-1K9lY4s&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=aoHXcuIi3c52WtzeSN8D2w&_nc_ss=8&oh=00_AfzimrV173smzf-t3bxYW41Kr3m_aMqZ9SUGQIPrhxOMHw&oe=69C161BF",
+    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwEzTgge&_nc_oc=AdlKEA30MBasTwfLm-J06u8S4gbhGB7wp4Uvt_fmBOXlX_cXaGxRGaBmV37o0Ema-_Q&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=WyrhYa7-W2TY2hxk3394FQ&_nc_ss=8&oh=00_AfxSGUM_pg7fiHTHTA_S1WkRx8FjY2f8e8o7oCn5PMut-A&oe=69C161BF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -1557,15 +1557,6 @@
     "summary": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes"
   },
   {
-    "id": "https://openai.com/index/taisei",
-    "company": "OpenAI",
-    "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
-    "date": "2026-01-29T00:00:00.000Z",
-    "url": "https://openai.com/index/taisei",
-    "tag": "News",
-    "summary": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business."
-  },
-  {
     "id": "https://openai.com/index/retiring-gpt-4o-and-older-models",
     "company": "OpenAI",
     "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
@@ -1573,6 +1564,15 @@
     "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
     "tag": "News",
     "summary": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mi"
+  },
+  {
+    "id": "https://openai.com/index/taisei",
+    "company": "OpenAI",
+    "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+    "date": "2026-01-29T00:00:00.000Z",
+    "url": "https://openai.com/index/taisei",
+    "tag": "News",
+    "summary": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business."
   },
   {
     "id": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
@@ -1614,15 +1614,6 @@
     "summary": "Advances in AI architectures have unlocked multimodal functionality, enabling transformer models to process multiple forms of data in the same context"
   },
   {
-    "id": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
-    "company": "OpenAI",
-    "title": "The next chapter for AI in the EU",
-    "date": "2026-01-28T01:00:00.000Z",
-    "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
-    "tag": "News",
-    "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe"
-  },
-  {
     "id": "https://openai.com/index/emea-youth-and-wellbeing-grant",
     "company": "OpenAI",
     "title": "EMEA Youth & Wellbeing Grant",
@@ -1630,6 +1621,15 @@
     "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
     "tag": "News",
     "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI."
+  },
+  {
+    "id": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+    "company": "OpenAI",
+    "title": "The next chapter for AI in the EU",
+    "date": "2026-01-28T01:00:00.000Z",
+    "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+    "tag": "News",
+    "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe"
   },
   {
     "id": "https://openai.com/index/ai-agent-link-safety",
@@ -1691,15 +1691,6 @@
     "tag": "News"
   },
   {
-    "id": "https://openai.com/index/trustbank",
-    "company": "OpenAI",
-    "title": "Powering tax donations with AI powered personalized recommendations",
-    "date": "2026-01-27T00:00:00.000Z",
-    "url": "https://openai.com/index/trustbank",
-    "tag": "Corporate",
-    "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furus"
-  },
-  {
     "id": "https://openai.com/index/introducing-prism",
     "company": "OpenAI",
     "title": "Introducing Prism",
@@ -1707,6 +1698,15 @@
     "url": "https://openai.com/index/introducing-prism",
     "tag": "News",
     "summary": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place."
+  },
+  {
+    "id": "https://openai.com/index/trustbank",
+    "company": "OpenAI",
+    "title": "Powering tax donations with AI powered personalized recommendations",
+    "date": "2026-01-27T00:00:00.000Z",
+    "url": "https://openai.com/index/trustbank",
+    "tag": "Corporate",
+    "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furus"
   },
   {
     "id": "https://developer.nvidia.com/blog/adaptive-inference-in-nvidia-tensorrt-for-rtx-enables-automatic-optimization/",
@@ -2309,15 +2309,6 @@
     "summary_ar": "This year saw جديد AI models, transformative products and جديد breakthroughs in science and robotics."
   },
   {
-    "id": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-    "company": "OpenAI",
-    "title": "Continuously hardening ChatGPT Atlas against prompt injection",
-    "date": "2025-12-22T00:00:00.000Z",
-    "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-    "tag": "News",
-    "summary": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive"
-  },
-  {
     "id": "https://openai.com/index/one-in-a-million-customers",
     "company": "OpenAI",
     "title": "One in a million: celebrating the customers shaping AI’s future",
@@ -2325,6 +2316,15 @@
     "url": "https://openai.com/index/one-in-a-million-customers",
     "tag": "News",
     "summary": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companie"
+  },
+  {
+    "id": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+    "company": "OpenAI",
+    "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+    "date": "2025-12-22T00:00:00.000Z",
+    "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+    "tag": "News",
+    "summary": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive"
   },
   {
     "id": "https://developer.nvidia.com/blog/accelerating-ai-powered-chemistry-and-materials-science-simulations-with-nvidia-alchemi-toolkit-ops/",
@@ -2406,7 +2406,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwE-F2We&_nc_oc=AdnSfwicT3AzO9EAM52mPMLDCjGmu41TRyLZfrtFWPNCfpKS8U01OqWlh1gpTLv68gU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=ZufJSDc93lsUFQ37zUcMog&_nc_ss=8&oh=00_AfzSwfYTHjEVMpNoMQDp5Lcct0HyG265hPLasOOHBLISMw&oe=69C132B7",
+    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwEuPeyJ&_nc_oc=AdlOlGEohYeeBLyelHiqibJBl8uncU_1aapaTO1pSrxmjqqCJgiypqn2h6ET3f_a0fo&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=GFb21lYdRC5eCnMDryCQPQ&_nc_ss=8&oh=00_Afy7grL2dfxA3cj4Tw3u72REw0gqmMSxrScYi7PMrOXnVA&oe=69C16AF7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2418,7 +2418,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwGVWSnW&_nc_oc=AdknYN_JHLgIJiR-imyNq_AlM7tjHwLX7FelSjXVfAVGyDcz4oMKnTPjazj-INtEXGY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=sSGUydJjdI4aqrXy-PDjvA&_nc_ss=8&oh=00_AfzTkcd2a6mmIaSuFxOuZF_Vscv5iGPCsP5ZyY7YCg6JgQ&oe=69C14F17",
+    "image": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwGovayc&_nc_oc=AdkCoDYYFuFnbh770lB0G1gLgSbmXpO9PqoPu6PH2vzF7fVJrzemijyl76cBlH5qEBQ&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=AdF-0TMi9BZs0BYHc1OY1A&_nc_ss=8&oh=00_AfzkNLlV-9AYvE0lbkn-2-I8jdOXMKuoRIVNavo_dcO-Zw&oe=69C14F17",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2602,7 +2602,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwFO2ifa&_nc_oc=Adk11iddFAgRzkk4CGGjsaj3N0AdKKUPpE-UXrFEEcNGWEhCwKVMEgFv7xVR9DBX7Ls&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=p5G4lNwGSn1tPCim8ibtLg&_nc_ss=8&oh=00_AfxoFWAEFYgi716SJt1LqLPe8pvqVt-oo_54n9X1L_LF6Q&oe=69C14CDB",
+    "image": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwHKnznS&_nc_oc=AdlnGXZtp3K5Dx_CBcfS1UCHs5CaLpOJn20_ntowlklk_Xz2-w_sFKcR7JzLPJ76pXY&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=GiufGugWUuUsXeU7ofCK7A&_nc_ss=8&oh=00_AfxDQwtp-ogrEF3H9MkqVteEt2ZRJ-rbUhsJLPrRaP7wCg&oe=69C14CDB",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3440,7 +3440,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=jm5UtpG9JskQ7kNvwGM-Y9T&_nc_oc=AdnsaIAweACEZWr17Vr2p3t3Nc71Z3HHlX5_KpRLQsGM9FFRv-tTExLdL_BYrODXd48&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=CrymrqyQUixOgOTG5X3NZA&_nc_ss=8&oh=00_Afwk1kBpKjOoLRpEriyixPSKg5EGRUJ5JuQ7BhGSMp22MQ&oe=69C13A2B",
+    "image": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=jm5UtpG9JskQ7kNvwFP8ROc&_nc_oc=AdmB-cDLszI02lA4Ul4C05MdN3RgMmmYF0gCcZnrvkKDh9ap8uRtEBURJC2a7SHLs00&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=rhpHPa-45zkcYl05UdJHLQ&_nc_ss=8&oh=00_Afz87caLGYLa8NXJVm59QCw4tVR7mRH1jVe04OAdN9n1Fw&oe=69C13A2B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
