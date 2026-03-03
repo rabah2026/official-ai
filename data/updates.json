@@ -126,10 +126,7 @@
     "date": "2026-03-03T00:00:00.000Z",
     "url": "https://machinelearning.apple.com/research/separating-intelligence",
     "tag": "Research",
-    "summary": "With the increased deployment of large language models (LLMs), one concern is their potential misuse for generating harmful content. Our…",
-    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-    "title_ar": "On the Impossibility of Separating ذكاء from Judgment: The Computational Intractability of Filtering for AI Alignment",
-    "summary_ar": "With the increased deployment of large لغة models (LLMs), one concern is their potential misuse for generating harmful content. Our…"
+    "summary": "With the increased deployment of large language models (LLMs), one concern is their potential misuse for generating harmful content. Our work studies "
   },
   {
     "id": "f9440a66ce67c0bf41d017c8b67e1c92a3d5d6b5",
@@ -168,18 +165,6 @@
     "summary_ar": "In this post, we will show you كيفية configure Amazon Bedrock Guardrails for efficient أداء, implement best practices to protect your applications, a..."
   },
   {
-    "id": "https://developer.nvidia.com/blog/5-new-digital-twin-products-developers-can-use-to-build-6g-networks/",
-    "company": "NVIDIA",
-    "title": "5 New Digital Twin Products Developers Can Use to Build 6G Networks",
-    "date": "2026-03-01T07:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/5-new-digital-twin-products-developers-can-use-to-build-6g-networks/",
-    "tag": "Engineering",
-    "summary": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: how to design, train, and validate AI-native networks that are too complex to…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/image6.webp",
-    "title_ar": "5 جديد Digital Twin Products Developers Can Use to Build 6G Networks",
-    "summary_ar": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: كيفية design, train, and validate AI-native networks that are too complex to…"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
     "company": "NVIDIA",
     "title": "Building Telco Reasoning Models for Autonomous Networks wit",
@@ -190,6 +175,18 @@
     "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/ai-reasoning-networking.webp",
     "title_ar": "بناء Telco Reasoning Models for Autonomous Networks wit",
     "summary_ar": "تحديث رسمي: Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications…"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/5-new-digital-twin-products-developers-can-use-to-build-6g-networks/",
+    "company": "NVIDIA",
+    "title": "5 New Digital Twin Products Developers Can Use to Build 6G Networks",
+    "date": "2026-03-01T07:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/5-new-digital-twin-products-developers-can-use-to-build-6g-networks/",
+    "tag": "Engineering",
+    "summary": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: how to design, train, and validate AI-native networks that are too complex to…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/image6.webp",
+    "title_ar": "5 جديد Digital Twin Products Developers Can Use to Build 6G Networks",
+    "summary_ar": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: كيفية design, train, and validate AI-native networks that are too complex to…"
   },
   {
     "id": "https://openai.com/index/continuing-microsoft-partnership",
@@ -1008,6 +1005,18 @@
     "summary_ar": "مؤسسات data is inherently complex: real-world documents are متعدد الأنماط, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms…"
   },
   {
+    "id": "https://www.anthropic.com/news/anthropic-infosys",
+    "company": "Anthropic",
+    "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+    "date": "2026-02-17T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/anthropic-infosys",
+    "tag": "News",
+    "summary": "Anthropic and Infosys, a global leader in next-generation digital services and consulting founded and headquartered in Bengaluru, today announced a collabora...",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&backgroundColor=sky",
+    "title_ar": "تحديث رسمي: Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+    "summary_ar": "Anthropic and Infosys, a عالمي leader in next-generation digital services and consulting founded and headquartered in Bengaluru, today announced a collabora..."
+  },
+  {
     "id": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
     "company": "Hugging Face",
     "title": "Custom Kernels for All from Codex and Claude",
@@ -1228,7 +1237,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwGTZ8Nt&_nc_oc=AdmYgYZkNPxrz_kk5ezew2VMnQ2qco1e6bPw_knjA2OL16AbW3-U5MKumAl6VIbNnhQ&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=IJnl7hVzIo57ogA7zb0-4Q&_nc_ss=8&oh=00_Afz-o10-7QDfpXkASipSUpIHVvw-mWacQX3LLNupzzzl4g&oe=69C161BF",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwH-64pI&_nc_oc=AdnasKWMyVxw_ZV-TI3DIqVdVXKx-GUqo25ec_7AR5gSWBem_3hMhfgcyUaWIYhZjOc&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=V0ohHYOv-oS2e66G3_W5zA&_nc_ss=8&oh=00_AfwTfGiAnzzQ_OMeR__pX80utO7bTH33PUIPyYpGlsSloQ&oe=69C161BF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2432,7 +2441,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwGuYVLW&_nc_oc=Adl3cq8ugjYS7Sv3NVqaQ8FC-0cKv6fRVnSlFYg7xpbdf1DDiACbNMZyrVKI0pKgtfM&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=VqYJna70Nv5S_0lJyu2A5g&_nc_ss=8&oh=00_AfwX-Tbs8CdqW1vueSnQboyme02agB7d-OAB3tzX-qM4Yw&oe=69C16AF7",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwFBJR3U&_nc_oc=AdmjdNZ9bpFtHpZOuhcpGT1ZQYXBihatXaS5KjfZgFXKznlaEaeeP-zvqPUIKSNQ9Bc&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MKVJpeq8-HB_VyOVVekguA&_nc_ss=8&oh=00_AfzawSeIsUskCb76JbtdHlRUJYo5I-A_rFItg2QjySOp-w&oe=69C16AF7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2444,7 +2453,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwFD_ZgL&_nc_oc=Adm9axXtFP21DWO8fiGaMYEAKoJdT2YO7yoBHQ2rHkxUmkvPwf_39c1ZWi_6vgoeaNg&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=yKLofOcET6UqMDxnr1yONg&_nc_ss=8&oh=00_Afwso8cK80Ic0JkqcnUwdZFqbIZy_kVLO6CClKbnmTIVyw&oe=69C18757",
+    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwH_3Mbd&_nc_oc=AdnSfTNovStY0teT908Wqx2VuX-3NhXGdFi9_za0G1SFcDbogI1pqWVxb3v9sdQHmLM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=E2WMH7PlQJrTrTXOqYG3ZQ&_nc_ss=8&oh=00_AfyI34yOjmMV6zi-YWgoKqrsmIGqVRSCUkY7WRGve6d4Yw&oe=69C18757",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2628,7 +2637,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwF9b1Rd&_nc_oc=AdkS_aifXxZUkB5KYytODRVVuwJeCOQCeXXDEpdESKPb_RPZXc3QgVsCkYfljyr56DQ&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=-uNOjPHJnXa52zW8e4KWLA&_nc_ss=8&oh=00_AfzPBSvCv-QFSWHAWoYnMwyCAwoBhtJenPIGgJ6Lyj4n8g&oe=69C1851B",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwGnp-OZ&_nc_oc=AdnEOUXxp4lxx_Go5pKvxvV73YLhsE_FqvssyojhYavV8onMmr2TE1pEEldE7irrxus&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=wL6hW79qICiq5X68zYm3cQ&_nc_ss=8&oh=00_Afzxgx384dhfx0VkyYxf6Krp6PiNDAB4pDTI3HQeb1OjRw&oe=69C1851B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -2668,15 +2677,6 @@
     "tag": "Research"
   },
   {
-    "id": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
-    "company": "NVIDIA",
-    "title": "How to Train Scientific Agents with Reinforcement Learning",
-    "date": "2025-12-15T14:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
-    "tag": "Engineering",
-    "summary": "The scientific process can be repetitive and tedious, with researchers spending hours digging through papers, managing experiment workflows, or wrangl"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
     "company": "NVIDIA",
     "title": "Inside NVIDIA Nemotron 3: Techniques, Tools, and Data That Make It Efficient and Accurate",
@@ -2684,6 +2684,15 @@
     "url": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
     "tag": "Engineering",
     "summary": "Agentic AI systems increasingly rely on collections of cooperating agents—retrievers, planners, tool executors, verifiers—working together across larg"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
+    "company": "NVIDIA",
+    "title": "How to Train Scientific Agents with Reinforcement Learning",
+    "date": "2025-12-15T14:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
+    "tag": "Engineering",
+    "summary": "The scientific process can be repetitive and tedious, with researchers spending hours digging through papers, managing experiment workflows, or wrangl"
   },
   {
     "id": "https://developer.nvidia.com/blog/enabling-horizontal-autoscaling-of-enterprise-rag-components-on-kubernetes/",
@@ -3463,7 +3472,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=jm5UtpG9JskQ7kNvwHbLnq8&_nc_oc=AdkVVxgjjqhFtShXruBuoBe1V1bsMIDmHjnmQjiRva3Qu9tPPEzhm0t9XcWwF2umoDU&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=H1VJ5218yoiD1u9mXhdhTw&_nc_ss=8&oh=00_Afz6uHSdf8Euyc8rH3dH_4BEfCVED2KEvwWGa8ZYFQMMJg&oe=69C1726B",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=jm5UtpG9JskQ7kNvwFM3Hmy&_nc_oc=Adk1V_lxGo-rb0b0UWSZ1z4Mmg1iz0FEGIWeF9kgR77VZmJlPj8pB5h8diBK01IRdyw&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=0SVjSPs03RBF5MLI9KdNOg&_nc_ss=8&oh=00_AfxvodrE9chJTuu29JbESTJqQIXFT8Gk37fbnaVfAD81Aw&oe=69C1726B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
