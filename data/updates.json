@@ -144,6 +144,18 @@
     "summary_ar": "In the last two posts (Part 1 and Part 2), we explored a wide range of architectural and تدريب tricks for diffusion models. We tried to evaluate each idea..."
   },
   {
+    "id": "hallucination-span-detection",
+    "company": "Apple",
+    "title": "Learning to Reason for Hallucination Span Detection",
+    "date": "2026-03-03T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/hallucination-span-detection",
+    "tag": "Research",
+    "summary": "Large language models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: Learning to Reason for Hallucination Span Detection",
+    "summary_ar": "Large لغة models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…"
+  },
+  {
     "id": "embridge",
     "company": "Apple",
     "title": "EMBridge: Enhancing Gesture Generalization from EMG Signals through Cross-Modal Representation Learning",
@@ -705,18 +717,6 @@
     "summary_ar": "تحديث رسمي: PyTorch \\texttt{2.x} introduces a compiler designed to accelerate deep learning programs. However, for machine learning researchers…"
   },
   {
-    "id": "amuse",
-    "company": "Apple",
-    "title": "AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding",
-    "date": "2026-02-24T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/amuse",
-    "tag": "Research",
-    "summary": "Recent multimodal large language models (MLLMs) such as GPT-4o and Qwen3-Omni show strong perception but struggle in multi-speaker…",
-    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-    "title_ar": "AMUSE: صوت-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding",
-    "summary_ar": "Recent متعدد الأنماط large لغة models (MLLMs) such as GPT-4o and Qwen3-Omni show strong perception but struggle in multi-speaker…"
-  },
-  {
     "id": "1d76b47b2cabc23cb671f0e8eabfe1fa3a73073b",
     "company": "Amazon",
     "title": "Scaling data annotation using vision-language models to power physical AI systems",
@@ -1261,7 +1261,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwGgS9NO&_nc_oc=Adnt7vB3Z_vTP4blGw9-079yjUPCnvkcMi5j5hXPbeTCcyadMLQWAFBCBapnu-JmUio&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=U229P0KwGN-ne1phTdavAg&_nc_ss=8&oh=00_AfwvOQc6algZdQzcsZmP2I-9Bo-ZLuCVf7UPfLE-cyxpcw&oe=69C199FF",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwHi67yR&_nc_oc=AdnaJYB2ZXEN9HGNL85zVf6ecXfpxQXHPMdbZVEPOjFwP6DJphjwAj1Exu343Vf_Ly0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=4e9_ZzRxQvIRqO89w-OrZg&_nc_ss=8&oh=00_AfwKX1Rlvqf2rYh9FJP1r86zsFAHthCpYphGj5iD4yVsTA&oe=69C199FF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2462,7 +2462,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwFQRibK&_nc_oc=Admy-fv7xGrRVWN7k1mOazm22z5MQ8XS1oAvHYzu-51R-mJ0vjngxQuAeKcbQ0zYd_w&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=GsPQpyvHpln1UgLhFJmO1A&_nc_ss=8&oh=00_AfwnybK7yYlpqDtPgGrnznE95nKkTFbZ9k48CLIqgyWk2g&oe=69C1A337",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwHFcRRu&_nc_oc=AdlgZYKmZfPlMep3ncYfcTW7119uQ0IBUpaUkcpxFFdJgRo9o6J_WLi-OT6rZm_ugnE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=cZChTPAfH4nMM0NuzeaWCw&_nc_ss=8&oh=00_AfxN_e6AWvi_TgNEmEUk4g0Glu_iLBskF_oIrzSLE_FREQ&oe=69C1A337",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2474,7 +2474,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwH1_nQK&_nc_oc=AdkclL1PLpXVYb3UNc_80UhidKwHXqa80uSU_3PmyfH70t4BUBAxH9DlagLdds7HdRI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=20RkAmh9OgQjLV5dPHluGA&_nc_ss=8&oh=00_AfxPJ05vw_jT1PhwzDz984a2IsTJ6lb6uoLynSRIxVIqgg&oe=69C1BF97",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwH7ccUh&_nc_oc=Adki-nJ6PDmvIjRbCy66MGhyXOWbqB5A-30OAp2HOKF0kcfRBL6KAEFID5E38BguwvQ&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=ZbPQxUPo01zth0FDrHmTHQ&_nc_ss=8&oh=00_AfyA4xcsnviO3RYjH7tyGkci2XY2CbIpsQZJ12ApTWHYYg&oe=69C1BF97",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2658,7 +2658,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwGZtsC5&_nc_oc=Adn72a-_rplEJ1GMhjT7U8FfCGlEngHITtmeFx1s-SEbo6Scxd9DvZ5A-lSF7PkXQ0Q&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=XWoDdoTWWSoBp6ouxpNwfA&_nc_ss=8&oh=00_AfwxESRZXlduVzEr6ypLX37yNsq-SkZvbuIfEYLjnkgnSA&oe=69C1BD5B",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwEpe49N&_nc_oc=AdkMNAfeOAKswGNvCA_oFydGlfLKIsBFxw8zGCwgDp6Su4FgF5XyEJf-PkZ9YV58xyI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=wXeHZs3LfxnIF-telxMh4g&_nc_ss=8&oh=00_AfxgexOLaW_Yp6CMeLFBn98y8DU5gFPSKhP1PIWHZHKaHA&oe=69C1BD5B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3475,7 +3475,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwH6XJK_&_nc_oc=AdlyYJlrqBWcH7DZsGOAsYApOQ_NzI7xTIDCRKYdUKqOW4qMSZIctv4Xy3vNplwM_es&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=nMmQbS0YG_J7eUMBK7qV6Q&_nc_ss=8&oh=00_AfyAXWS2oW5ia0sOIuwt6JOdWbzh3ORalzLqOx77nnpMlw&oe=69C1AAAB",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwFeOifZ&_nc_oc=AdlW_nT28QoRlliLFUCYzTwnp4NyxTBx9Cg5d-D55oXci8nt5y5ajFb68i5KXXFW3ss&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=3ieSx8Pq9rEBDPpxAIttCQ&_nc_ss=8&oh=00_AfyvMhij1FGOBX9xFFNffwmvb-BwvmMPqxbjDGRQNDV7gg&oe=69C1AAAB",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
