@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/how-to-minimize-game-runtime-inference-costs-with-coding-agents/",
+    "company": "NVIDIA",
+    "title": "How to Minimize Game Runtime Inference Costs with Coding Agents",
+    "date": "2026-03-03T19:49:57.000Z",
+    "url": "https://developer.nvidia.com/blog/how-to-minimize-game-runtime-inference-costs-with-coding-agents/",
+    "tag": "Engineering",
+    "summary": "NVIDIA ACE is a suite of technologies for building AI agents for gaming. ACE provides ready-to-integrate cloud and on-device AI models for every part of in-g...",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Inference-Game-Agents.webp",
+    "title_ar": "كيفية Minimize Game Runtime استنتاج Costs with Coding Agents",
+    "summary_ar": "NVIDIA ACE is a suite of technologies for بناء AI agents for gaming. ACE provides ready-to-integrate سحابة and on-device AI models for every part of in-g..."
+  },
+  {
     "id": "https://developer.nvidia.com/blog/cutile-jl-brings-nvidia-cuda-tile-based-programming-to-julia/",
     "company": "NVIDIA",
     "title": "cuTile.jl Bring",
@@ -1217,14 +1229,11 @@
   {
     "id": "https://developer.nvidia.com/blog/automating-inference-optimizations-with-nvidia-tensorrt-llm-autodeploy/",
     "company": "NVIDIA",
-    "title": "Automating Inference Optimizations wit",
+    "title": "Automating Inference Optimizations with NVIDIA TensorRT LLM AutoDeploy",
     "date": "2026-02-09T18:30:00.000Z",
     "url": "https://developer.nvidia.com/blog/automating-inference-optimizations-with-nvidia-tensorrt-llm-autodeploy/",
     "tag": "Engineering",
-    "summary": "NVIDIA TensorRT LLM enables developers to build high-performance inference engines for large language models (LLMs), but deploying a new architecture…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/llm-optimize-deploy-1.png",
-    "title_ar": "Automating استنتاج Optimizations wit",
-    "summary_ar": "NVIDIA TensorRT LLM enables developers to build high-أداء استنتاج engines for large لغة models (LLMs), but deploying a جديد architecture…"
+    "summary": "NVIDIA TensorRT LLM enables developers to build high-performance inference engines for large language models (LLMs), but deploying a new architecture."
   },
   {
     "id": "https://openai.com/index/testing-ads-in-chatgpt",
@@ -1252,7 +1261,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwGStsMe&_nc_oc=AdlP3VG8_7iPM4eE_NiCdmPoznYIZOZqzGoBVA-15qsQ1Aszkm40ALV34U8SkJiQ6Yw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=QvfKsk2jVCrgJcE8SFBG1w&_nc_ss=8&oh=00_AfztjW8ndXSRD9SnCXeDLDvUQzT53LE6k6gh7nrjEjT5-A&oe=69C161BF",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=waCuPm9WF-kQ7kNvwEiaLOg&_nc_oc=AdmHwmVzDdtfTX9HfwAbXs_Mlsb9_GSMfGQPf8ZCGRFiPZoNlHK4eUFSuWoRPFmaGbM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=chfmH_vcFPx4FNe0d0Hpwg&_nc_ss=8&oh=00_AfyRHhcecXgOawPjfKf_eC7x0QBQ4Et98VTEE5adD2TWaw&oe=69C199FF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2453,7 +2462,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwFqfmEY&_nc_oc=AdlSv7H-BJDek_XBn-3cqyOy0IXxHAjhNJ3mCuQmLSvJ3zT-C4EHkWltgfSU8BZhAtM&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=In67mc7QVH_fYmY-OQqNZg&_nc_ss=8&oh=00_AfytATOXuKVTyZqI9iRaKtbPea2E4kczYECCHLuPGV-ZFQ&oe=69C16AF7",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=VRb0-q69yr0Q7kNvwE_Mx7m&_nc_oc=AdkZsqjm0czuP6LBHIFEuweJO3hIFx4ysaFzFBShZAXwoU58ZkbV8xUkGzJPKMkwI1c&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=gQrITTcg0ehnWgzzGx15LQ&_nc_ss=8&oh=00_AfwEeJE2UAE5gic3fSD5SKep7rir4ftmvcxOi22qtlUpvA&oe=69C16AF7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2465,7 +2474,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwHlka0u&_nc_oc=AdkBZlPDf99oIK-Tb6VrNwNLYA8mrk3DxSBuFz7rbcvNoTWMen_YGcgRvwdq_7Xz9uw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ewkkfslwh0WVlLneFnaGSA&_nc_ss=8&oh=00_Afx5CViQ39Y2bzna3yV8qspOvakFixOqaD5h6wgiKH5m1g&oe=69C18757",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwGczX3Q&_nc_oc=AdluuuGdEbI7IBOeZX4Fs2-_KzT55rSQJlVsCDZF44cVyNcalghmPs4DH9ZV2-bHfSI&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=1j1oSVc-bipM-338h576FA&_nc_ss=8&oh=00_AfwXa3_04Y5u-tdXuOUGlNmuegTum1nb-aw9Mw_c87OZgA&oe=69C18757",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2649,7 +2658,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwEEFkup&_nc_oc=Adl3Sl1fzZy7ijTYguocZTzxOE3f8Zjn3tlbSa7jmlBxHZBIkz5Zx0Hnoy5CdeY-VgQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=bD1ne_qT3PwMM6oB8nzrDw&_nc_ss=8&oh=00_AfyR3h6kDSWP1fAtU4xVnDU3-UDmAeVfjt5ogKnSPsIjdw&oe=69C1851B",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwE39Ejx&_nc_oc=AdmCQVOYqGhdU7ddj55OzybEDWxEpcYJ_I9Q76_6sqslsW7N1d7j2TYUyS3X4aQ6eGs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=dBD3jZw-Tq5EYvJsgd0RQA&_nc_ss=8&oh=00_AfwDChQiDDYya5rkMjRXdBCQn4W2Bit1ltUobYhhUh7wEw&oe=69C1851B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3416,15 +3425,6 @@
     "tag": "News"
   },
   {
-    "id": "https://developer.nvidia.com/blog/build-and-run-secure-data-driven-ai-agents/",
-    "company": "NVIDIA",
-    "title": "Build and Run Secure, Data-Driven AI Agents ",
-    "date": "2025-11-24T19:49:12.000Z",
-    "url": "https://developer.nvidia.com/blog/build-and-run-secure-data-driven-ai-agents/",
-    "tag": "Engineering",
-    "summary": "As generative AI advances, organizations need AI agents that are accurate, reliable, and informed by data specific to their business. The NVIDIA AI-Q "
-  },
-  {
     "id": "https://huggingface.co/blog/Tavily/tavily-deep-research",
     "company": "Hugging Face",
     "title": "Building Deep Research: How we Achieved State of the Art",
@@ -3475,7 +3475,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwFpIHJ3&_nc_oc=AdkWn6ZVq19quYfg0FX2FNjsb-uqt5BZQjzdFv0iOTzhMvA48-ULBXqbLLcTeSBFBtE&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=qsqzD0GhQnIybg_ZF__9WA&_nc_ss=8&oh=00_Afz6VLLnnLwtmTZVKqL0KRnqd5eJhx5vUPZFNUI-rjnWbg&oe=69C1726B",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwEoa_Wl&_nc_oc=AdlbF5xNBqarumKkXAckWjhVaDguSY7Vsiwk23jY6zp4ncXp3ohFAbGQbbFn7Xrpu9U&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=GoVM32LRNk0BF1bsE5Y6mg&_nc_ss=8&oh=00_AfzTUD0N-yQB9533OgGtOx6NMdgKUC-s4dD-eMSAnVlAMw&oe=69C1726B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
