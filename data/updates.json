@@ -168,18 +168,6 @@
     "summary_ar": "تحديث رسمي: GPT‑5.3 Instant is the newest addition to the GPT‑5 series. As described in our blog⁠, GPT‑5.3 Instant responds faster, delivers richer and better-contextual..."
   },
   {
-    "id": "https://openai.com/index/update-on-mental-health-related-work",
-    "company": "OpenAI",
-    "title": "An update on our mental health-related work",
-    "date": "2026-03-03T10:00:00.000Z",
-    "url": "https://openai.com/index/update-on-mental-health-related-work",
-    "tag": "Corporate",
-    "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation dev...",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/5f8IgncRFExuyLaAFTFDQ2/bccc3d5734693f094d7187d4fd1f720b/update-on-mental-health-related-work-SEO.png?w=1600&h=900&fit=fill",
-    "title_ar": "An تحديث on our mental health-related work",
-    "summary_ar": "OpenAI shares updates on its mental health سلامة work, including parental controls, trusted contacts, improved distress detection, and recent litigation dev..."
-  },
-  {
     "id": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
     "company": "Google / Gemini",
     "title": "Create new worlds in Project Genie with these 4 tips",
@@ -382,6 +370,15 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/2yH2OdPBInzY8AUPQ22cO2/8a249bb95d38502a1341c1e4f0a442fc/agreement-department-of-war.png?w=1600&h=900&fit=fill",
     "title_ar": "تحديث رسمي: Our agreement with the Department of War",
     "summary_ar": "Details on OpenAI’s contract with the Department of War, outlining سلامة red lines, legal protections, and how AI systems will be deployed in classified env..."
+  },
+  {
+    "id": "https://openai.com/index/update-on-mental-health-related-work",
+    "company": "OpenAI",
+    "title": "An update on our mental health-related work",
+    "date": "2026-02-27T00:00:00.000Z",
+    "url": "https://openai.com/index/update-on-mental-health-related-work",
+    "tag": "News",
+    "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigat"
   },
   {
     "id": "https://www.anthropic.com/news/statement-comments-secretary-war",
@@ -1294,7 +1291,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=ePrw1C5T9_YQ7kNvwEHdozt&_nc_oc=AdliMhbFvBDyOYANhI7jO88mThU0laSvR4qSsaw3iOI0qhUrM-H33j7K7UcgxhEULIs&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=wY1fBKYFqjhwg7hHQi_8mw&_nc_ss=8&oh=00_AfwcLz3IuoZ5N8II4sukcIUaiwaaS0EkZvv57V4me5PQEQ&oe=69C2EB7F",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=ePrw1C5T9_YQ7kNvwGutXvO&_nc_oc=AdkGsvgKpW6Xa39jMvh-ytLbvEDSKA_IT-E6iYzYDRKYvAi13ynMVGZZOayK9c4b8ZY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=7ESw1zYvKYCp9Up9x3ILGA&_nc_ss=8&oh=00_AfyHiqLFDERBUxxIC10OTFiDgaPtlguKki9fWhU1IHXCrQ&oe=69C2EB7F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2498,7 +2495,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=v2m65jCwIhoQ7kNvwF5cE1d&_nc_oc=AdmFRlH48YrhWUZ53d8XNBH5fhMGjEukAKoAgo6-hw3LUw3qoFRoxMS92D8wCbAG6H0&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=Z9hDMYTTl4LeTaXipAwEhQ&_nc_ss=8&oh=00_AfwaSSl8Qca0Gxfnmh1ojWWm36z52pyRigzN89uFQ8wuog&oe=69C2BC77",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=v2m65jCwIhoQ7kNvwHgJ_fK&_nc_oc=AdkepN1xjJpFktMLvin4ats2FlCQeHs3MRF6trQ1sWaY29npgHdKGHt8THTnlx35gfk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_DCTAgh1GA77sTu1R460UA&_nc_ss=8&oh=00_AfyF5AMWFuuhmokqKrpySfghm56Uv4pH5rL7_-13uu2OQg&oe=69C2BC77",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2510,7 +2507,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwGSWQUz&_nc_oc=Adn82FIkrcXemTfDwVWBqvnfMRCp-dFwT0XtSFodBedBUieo7sDyPdpu4n1vpGgbVw0&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=XC3WLr48VihB6IkKbsJ1mg&_nc_ss=8&oh=00_AfwQn8JBaXCcPT-KC8GKYDq83ebB16EulE1uzm08xBZMxQ&oe=69C2D8D7",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwHmy7mF&_nc_oc=AdlrnIlwChUiJcXjQ4eKeHtZlZG3z1jLkNFGoF8LaRhO9s19bdRfP2jFDeU119HseFw&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=96Mll74mvjrk9hNkWNJ9nA&_nc_ss=8&oh=00_AfxiSmUfusvqSY33vq9aSc2-6DzI-edvEDefO-Tkd6oUKQ&oe=69C2D8D7",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2694,7 +2691,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwEPC3cb&_nc_oc=AdkvYqtBMVzycTMSFSYvtreeaol7oJn63SCUkIjoBlVrdXu5gUDhvS-DMH2bdHdeLIg&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=ygwJt8vBbvYHGkFw0-AndQ&_nc_ss=8&oh=00_Afzzr29hXyWPfwpaQK6IMGcYsYKFF7D19X-_fPu7YGc8JQ&oe=69C2D69B",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwEhdknF&_nc_oc=AdlhyBA-Lhn1z9l2Rg9giqoHC6oFzq9tIwFb_uif8LeqgHfYqqJyJ6QUxrm1rdVMcns&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=-04ae4pMBI0kU4_fP_S_vg&_nc_ss=8&oh=00_AfzD_2BogX8_hCRnqsVl1BHfmc17YlCA7pW99EecS_vw6A&oe=69C2D69B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3502,7 +3499,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwGtx6yb&_nc_oc=Adl7I7xjHCCgePKtn4kH1Rv1C7TJRahB-qv8j6C0fnltVs04l6YBVrvvYqCiwEviMOU&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=cPiIlVkRcAJMi0_H0ewwRw&_nc_ss=8&oh=00_Afxwvuv2rD35llLjWNlca92Huz54ax1yEe--Ufe7SccB_Q&oe=69C2C3EB",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwH-BxyY&_nc_oc=AdnRM13GnfS8h2o4ZE2zH9KgU3P-4ahxLefPV49BMRWBj3lLZnfCxaeknbJzUkIH9lA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=L1nz_dLRZTApLYl84ITVFQ&_nc_ss=8&oh=00_AfwxY07mrnNZ3AVjSt33aHIA9q1Oy8Jb0-uPVSoMndulKA&oe=69C2C3EB",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
