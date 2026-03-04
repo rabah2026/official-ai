@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+    "company": "Google / Gemini",
+    "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+    "date": "2026-03-04T17:00:00.000Z",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+    "tag": "Release",
+    "summary": "Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-1440x810.png",
+    "title_ar": "تحديث رسمي: Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+    "summary_ar": "تحديث رسمي: Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools."
+  },
+  {
     "id": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
     "company": "NVIDIA",
     "title": "Tuning Flash Attention for Peak Performance i",
@@ -22,6 +34,42 @@
     "image": "https://cdn-uploads.huggingface.co/production/uploads/68e529af513e724edd8702f6/zMyALdakGbN6SDG3ucmLd.jpeg",
     "title_ar": "PRX Part 3 — تدريب a Text-to-Image نموذج in 24h!",
     "summary_ar": "In the last two posts (Part 1 and Part 2), we explored a wide range of architectural and تدريب tricks for diffusion models. We tried to evaluate each idea..."
+  },
+  {
+    "id": "https://openai.com/index/pacific-northwest-national-laboratory",
+    "company": "OpenAI",
+    "title": "Pacific Northwest National Laboratory an",
+    "date": "2026-03-04T00:00:00.000Z",
+    "url": "https://openai.com/index/pacific-northwest-national-laboratory",
+    "tag": "Research",
+    "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3gCnMkzhexb7PShZXI1xUl/cf832643b578bd9c236f78fc386b652f/oai_PNNL_Hero_Feb_16x9.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Pacific Northwest National Laboratory an",
+    "summary_ar": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a جديد benchmark evaluating how AI coding agents can accelerate federal permitting—..."
+  },
+  {
+    "id": "https://openai.com/index/figma-partnership",
+    "company": "OpenAI",
+    "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+    "date": "2026-03-04T00:00:00.000Z",
+    "url": "https://openai.com/index/figma-partnership",
+    "tag": "Corporate",
+    "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate ...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4y6fnHMSqylFSKLFBqjPWT/54b67a1cc26b4b1abb00310255ff28bb/Figma.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: OpenAI Codex and Figma launch seamless code-to-design experience",
+    "summary_ar": "OpenAI and Figma launch a جديد Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate ..."
+  },
+  {
+    "id": "https://openai.com/index/frontier-alliance-partners",
+    "company": "OpenAI",
+    "title": "Introducing Frontier Alliances",
+    "date": "2026-03-04T00:00:00.000Z",
+    "url": "https://openai.com/index/frontier-alliance-partners",
+    "tag": "News",
+    "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/7nMPgWMbTxfyWioeUWKO4d/45488e00bb74872b4d072e0e06c64aa8/Frontier_alliance.png?w=1600&h=900&fit=fill",
+    "title_ar": "نُقدم لكم Frontier Alliances",
+    "summary_ar": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable وكيل deployments."
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-minimize-game-runtime-inference-costs-with-coding-agents/",
@@ -499,45 +547,9 @@
     "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
     "tag": "News",
     "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6P3qpFT3riD5SElLwe1uN5/9402c91bb39208dbd468c3e410f44911/OAI_New_tools_for_understanding_AIand_learning_outcomes_SEO_16x9.png?w=1600&h=900&fit=fill",
     "title_ar": "جديد tools for understanding AI and learning outcomes",
     "summary_ar": "تحديث رسمي: OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time."
-  },
-  {
-    "id": "https://openai.com/index/figma-partnership",
-    "company": "OpenAI",
-    "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
-    "date": "2026-02-26T10:00:00.000Z",
-    "url": "https://openai.com/index/figma-partnership",
-    "tag": "Corporate",
-    "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate ...",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4y6fnHMSqylFSKLFBqjPWT/54b67a1cc26b4b1abb00310255ff28bb/Figma.png?w=1600&h=900&fit=fill",
-    "title_ar": "تحديث رسمي: OpenAI Codex and Figma launch seamless code-to-design experience",
-    "summary_ar": "OpenAI and Figma launch a جديد Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate ..."
-  },
-  {
-    "id": "https://openai.com/index/frontier-alliance-partners",
-    "company": "OpenAI",
-    "title": "Introducing Frontier Alliances",
-    "date": "2026-02-26T10:00:00.000Z",
-    "url": "https://openai.com/index/frontier-alliance-partners",
-    "tag": "News",
-    "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/7nMPgWMbTxfyWioeUWKO4d/45488e00bb74872b4d072e0e06c64aa8/Frontier_alliance.png?w=1600&h=900&fit=fill",
-    "title_ar": "نُقدم لكم Frontier Alliances",
-    "summary_ar": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable وكيل deployments."
-  },
-  {
-    "id": "https://openai.com/index/pacific-northwest-national-laboratory",
-    "company": "OpenAI",
-    "title": "Pacific Northwest National Laboratory an",
-    "date": "2026-02-26T06:00:00.000Z",
-    "url": "https://openai.com/index/pacific-northwest-national-laboratory",
-    "tag": "Research",
-    "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—...",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/3gCnMkzhexb7PShZXI1xUl/cf832643b578bd9c236f78fc386b652f/oai_PNNL_Hero_Feb_16x9.png?w=1600&h=900&fit=fill",
-    "title_ar": "تحديث رسمي: Pacific Northwest National Laboratory an",
-    "summary_ar": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a جديد benchmark evaluating how AI coding agents can accelerate federal permitting—..."
   },
   {
     "id": "61a60ca498d929c7ad189e9f5d619a92ba5ff859",
@@ -1230,10 +1242,7 @@
     "date": "2026-02-10T17:00:00.000Z",
     "url": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
     "tag": "News",
-    "summary": "Learn more about Google Photos’ new Ask button as well as other functions of its Ask Photos feature.",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2025-Travel-Trends_SS.width-1300.jpg",
-    "title_ar": "تحديث رسمي: 9 fun questions to try asking Google Photos",
-    "summary_ar": "Learn more about Google Photos’ جديد Ask button as well as other functions of its Ask Photos feature."
+    "summary": "Learn more about Google Photos’ new Ask button as well as other functions of its Ask Photos feature."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
@@ -1279,7 +1288,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=ePrw1C5T9_YQ7kNvwEpsfxc&_nc_oc=AdldVMoyQjR_6uoG99hO0RPo1RtOX_tG-p4BGfs2XCgx0pj7taWVTeMrdJheRXml2z4&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=Vh_24Z3dV-0851hl1BAm0g&_nc_ss=8&oh=00_Afx56s1dbI2MuKa4RFB2SUISF0uGqBheVyTlwXGk3X-g_w&oe=69C2B33F",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=ePrw1C5T9_YQ7kNvwH7l67J&_nc_oc=AdmkLl-N6nRmOtsmGntytMhs8gVV50cFSA7pb9SeIzqFep4WEzA8Rq3EoBRnDs2IMMA&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ITgMcZrogkmG9_YNNHTD3Q&_nc_ss=8&oh=00_AfyeknZbxJp_RuLgz4YjCzHGjeBdTDXFYKuUVm9xD8_hRw&oe=69C2B33F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -1444,15 +1453,6 @@
     "url": "https://developer.nvidia.com/blog/build-with-kimi-k2-5-multimodal-vlm-using-nvidia-gpu-accelerated-endpoints/",
     "tag": "Engineering",
     "summary": "Kimi K2.5 is the newest open vision language model (VLM) from the Kimi family of models. Kimi K2.5 is a general-purpose multimodal model that excels i"
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
-    "company": "Google / Gemini",
-    "title": "The latest AI news we announced in January",
-    "date": "2026-02-04T16:55:00.000Z",
-    "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
-    "tag": "News",
-    "summary": "Google AI announcements from January"
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-build-a-document-processing-pipeline-for-rag-with-nemotron/",
@@ -2480,7 +2480,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=v2m65jCwIhoQ7kNvwEIq4Iq&_nc_oc=AdnT4xAzZwA0_kuXD-fZ3g2uDHbU0FrunBsK0TbCoM0-e2DOGlvCaVk5bg4GxdNS7R0&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=fUX8symreUXhttWU8qavSQ&_nc_ss=8&oh=00_Afxp-fcmz4dEQCx4yRF0kngA7yFFHqMhADfbP4WuXbT8dw&oe=69C2BC77",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=v2m65jCwIhoQ7kNvwFZVIsc&_nc_oc=AdntPDWOmw_K2m1thnrlv5Vkz8WbsiQ661r0oeikiR_xlAdNnNjCe6cA4p5ce0EHr1I&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=u_mXWeA9HNhwBVTE1__9tg&_nc_ss=8&oh=00_AfwzWp3kYbU5W_uq1Mx-6RQxfMdNa0McBTkKnZw99LkDJw&oe=69C2BC77",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2492,7 +2492,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwG4q6TO&_nc_oc=Adlfw6fT9uJ9ehNqyA6eyGkN4weFhtxZL1KzXAwhV13HAXwmUkgDVnFZwEIzWKsAvqY&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=wXhIO9AgwDkT6IjcwqyHUA&_nc_ss=8&oh=00_Afx3TLb4m1N5TFj9vdTb3lx1RyKttuJHzd-wRQ0MkqyL_A&oe=69C2A097",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=m0_29qBnb5cQ7kNvwEB4ml4&_nc_oc=Adl9SE5xdF68iHS5nqZZL5eR40SJFVA7E_NCJhI-DpKP_EOucy0xV5uuxaCumK10Fuo&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ruhSOSV_zvrvAb7ufkRAow&_nc_ss=8&oh=00_AfwRkVHjl5poO_5GYP7roeV_So_lKd2dY5qquRnSZgusLQ&oe=69C2A097",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2676,7 +2676,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwFCb2Gl&_nc_oc=AdnP_2zxT1_CaoI9_KaXUZQKqWOUMQj1qxPxgwWsjB-pREw4Lk3v7_0qxZ9Kgv2ePp4&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=FFhWHEHqI-Zor9LCpu6fMw&_nc_ss=8&oh=00_AfyKc6rpXl4UJ9CmLOX9HqfgS8gZVwEX-sV2NAV9-EC3Dg&oe=69C29E5B",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=czTZjGCH4LoQ7kNvwEN33Pl&_nc_oc=AdnKILxFfY48cYKzKtVK-_2CY8DVs755Sbd3jd5NCVldihvYB0fTa2R5gXgfuuC_3WU&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=9Xv1SuLIVF4NFIwTcGDjzw&_nc_ss=8&oh=00_AfzopetrCKs4UMdIcId0O7ZVYdz-VvvURkv7gG5gXUCbJg&oe=69C29E5B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3484,7 +3484,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwFSmVqH&_nc_oc=AdnW3Vn4RR6FxoqdL7Siq8WsK4aNQVQO-Njb4notbtUtW44bqHaEGepfirc-tDACKsA&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=YLeax7dvk1xPmNhlmrVUbg&_nc_ss=8&oh=00_AfyltUiFxvt-CnRlpxFnugnIRbd0wBEIHpV0kFWousOKWA&oe=69C28BAB",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwGaccrM&_nc_oc=Adn2VlMDKHX7F16eEGQGbpJGww7ov47bW3Rad-r9o_blNXLDkMAeKnmTw7I_sC90DUU&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=sSBNyarGEm2A7Op6sq9asg&_nc_ss=8&oh=00_Afw39iBC70ouXVxSLSTA9zuz2-rOdavO6gc7vHBPVeG9Pg&oe=69C2C3EB",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
