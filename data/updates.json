@@ -19,7 +19,7 @@
     "url": "https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance/",
     "tag": "Engineering",
     "summary": "Large language models (LLMs) are revolutionizing the financial trading landscape by enabling sophisticated analysis of vast amounts of unstructured data to…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/model-TensorRT.webp",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/fsi-kv-trading-in-office-1-4350800.webp",
     "title_ar": "NVIDIA Blackwell Sets STAC-AI Record for LLM استنتاج in Finance",
     "summary_ar": "Large لغة models (LLMs) are revolutionizing the financial trading landscape by enabling sophisticated analysis of vast amounts of unstructured data to…"
   },
@@ -34,6 +34,18 @@
     "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Floating-Point-CUB.webp",
     "title_ar": "تحديث رسمي: Controlling Floating-Point Determinism i",
     "summary_ar": "تحديث رسمي: A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property…"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
+    "company": "NVIDIA",
+    "title": "Tuning Flash Attention for Peak Performance i",
+    "date": "2026-03-05T17:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
+    "tag": "Engineering",
+    "summary": "In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: Environment requirements: See the quickstart…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/CUDA-Tile-Flash-Attention.webp",
+    "title_ar": "Tuning Flash Attention for Peak أداء i",
+    "summary_ar": "تحديث رسمي: In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: Environment requirements: See the quickstart…"
   },
   {
     "id": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
@@ -212,18 +224,6 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-1440x810.png",
     "title_ar": "تحديث رسمي: Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
     "summary_ar": "تحديث رسمي: Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools."
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
-    "company": "NVIDIA",
-    "title": "Tuning Flash Attention for Peak Performance i",
-    "date": "2026-03-04T17:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
-    "tag": "Engineering",
-    "summary": "In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: Environment requirements: See the quickstart…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/CUDA-Tile-Flash-Attention.webp",
-    "title_ar": "Tuning Flash Attention for Peak أداء i",
-    "summary_ar": "تحديث رسمي: In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: Environment requirements: See the quickstart…"
   },
   {
     "id": "https://huggingface.co/blog/Photoroom/prx-part3",
@@ -1403,7 +1403,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=ePrw1C5T9_YQ7kNvwG7iEJ4&_nc_oc=Adkr9sldhX_ktiSsPmqbunq2Df2xfAB1uH5Gk9TZyzP9v-9UTVUvAmid7muCMNWD-II&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oB1mvUvE5kCwgswfikshNQ&_nc_ss=8&oh=00_Afzd3J4572hD0ieW2GR0bvtNNnbuqCUVun4MPDyBB3cB0g&oe=69C404BF",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=ePrw1C5T9_YQ7kNvwFrdLrO&_nc_oc=AdmVl2jkEJM05QLxzSH1DUjJiSqKa-261pHGFlIfsvh00atSzRnMlAeUX8XsCYC_Hos&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=7MPb2Wrpvv2tMGKcfHQsRw&_nc_ss=8&oh=00_AfxvDcrFeVOnRy1ju8aHmxe49dcxuuvc6oYmzPhLBBX4UA&oe=69C43CFF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2569,7 +2569,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=v2m65jCwIhoQ7kNvwH7FyGB&_nc_oc=AdnDXJJlVqQ4qI-DPDxEAr5WlsyI7Xpm4DJRA0Nm299jaFtHC5pC1Zp_j6CDrz-syVY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=xC_g-4oFWcAf6Y6VxsD73Q&_nc_ss=8&oh=00_AfytxmWwIgGInuX12nxuTlYRT-6Kj2VCashSYWi0xmVSOQ&oe=69C40DF7",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=v2m65jCwIhoQ7kNvwGMK-Ml&_nc_oc=AdnBSbPLVUDa-VgECDKj5yYND_osyu9W7yJl3M-L8DXa8_MbP14w-idXWSy9RwIYsHM&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=-yXTve8UEakpBNI8-5wuyw&_nc_ss=8&oh=00_AfyqIhi6bBgOZ_stDYkjmQxBqVWlSptwii3twOdFL_OVHw&oe=69C40DF7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2581,7 +2581,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=tyuHhrTHhq0Q7kNvwE6Tg9h&_nc_oc=Adl2VuIFWGL2q_8BtjEaWdvvSASfC_TZQmV5A5xEJQ5tRf09F-4JkboUujRMSHZa7XM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=TH69-kAbjethTRLKrgE-Pw&_nc_ss=8&oh=00_Afx9WgmlPY-oTokOlR2mFdCSzsdE7r9cIBJOBfyMwhar7g&oe=69C42A57",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=tyuHhrTHhq0Q7kNvwGvHBOe&_nc_oc=AdkbwoZz-fuPNpKBTgMXo5sgaVJwSy7ViFfaEMbif3AbIS_mgJEHakltPCIpCrgqK2M&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=2rMmM40DEPohlSsOGtoyfA&_nc_ss=8&oh=00_AfzA-U6mXXunQzKbouhIR8aH9iWyvBl1NNrMSz9Rx83ehw&oe=69C42A57",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2765,7 +2765,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=OHaM_rNsGukQ7kNvwHIxoIM&_nc_oc=Adm9KYIf-5bukuBnH-hvDilLoQtuoGRJuc7_4mTuboi9WJOwJqWIXk1NUVZ7gB8CxdY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=HOlwJrIfq4p4HAsjFmTdTQ&_nc_ss=8&oh=00_Afz0-bGNonMZ05uIeZiGJkM5M4gWrzOJwyoSi4RIYmcV5Q&oe=69C4281B",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=OHaM_rNsGukQ7kNvwGOPhaV&_nc_oc=Adna-cvm5d-pNNK6LWSlR3CLDxyHu9tKHt7hSL3mkq_ubeWJq_NeS3IGzpPDEyOOypg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=hbNrFdk2QOoikticGtkI4w&_nc_ss=8&oh=00_Afy5OfSLIrVeX3PB9qttjjWBsaTQBtxNAOqZPeDZqBIvUA&oe=69C4281B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3555,7 +3555,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwEw6zR7&_nc_oc=AdlAUYLoq8yeUHB_RiGDUNs5GQeTZGvcrpqA4HTHVuTDqRGOeGi0bDR_px3J9L_b3XE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=1b0Ki59J71qJADQzaGV6-Q&_nc_ss=8&oh=00_Afz6lAA429gauPgYTZxyP_7zHf1Mff-RZLBlQFd3iN5vBQ&oe=69C4156B",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwEebtUy&_nc_oc=AdlKxm4Ge5FrCdTHfOvFUsFawiVM8FR9VAP8bl45NxPpHWr8_xf6iffbMNIuXiqyRew&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=4eYXg2oE1gA-TlOjq7ZthQ&_nc_ss=8&oh=00_Afyo1m7PrM0RMpMilavikUNVcQdsdq9GPlSbJ5FMRr_GhQ&oe=69C4156B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
