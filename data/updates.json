@@ -84,6 +84,18 @@
     "summary_ar": "تحديث رسمي: AI models can now independently identify high-severity vulnerabilities in complex software. As we recently documented, Claude found more than 500 zero-day vu..."
   },
   {
+    "id": "https://huggingface.co/blog/nvidia/model-evaluation-skill",
+    "company": "Hugging Face",
+    "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills",
+    "date": "2026-03-06T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/nvidia/model-evaluation-skill",
+    "tag": "Research",
+    "summary": "Built on the NVIDIA NeMo Evaluator library, it allows developers to configure, run, and monitor evaluations directly within Cursor, or any other preferred ag...",
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/model-evaluation-skill.png",
+    "title_ar": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator وكيل Skills",
+    "summary_ar": "Built on the NVIDIA NeMo Evaluator مكتبة, it allows developers to configure, run, and monitor evaluations directly within Cursor, or any other preferred ag..."
+  },
+  {
     "id": "genctrl",
     "company": "Apple",
     "title": "GenCtrl — A Formal Controllability Toolkit for Generative Models",
@@ -683,18 +695,6 @@
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
     "title_ar": "توسيع نطاق Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments",
     "summary_ar": "تحديث رسمي: Large-scale commercial search systems optimize for relevance to drive successful sessions that help users find what they are looking for. To…"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
-    "company": "Hugging Face",
-    "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
-    "date": "2026-02-26T20:02:09.000Z",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
-    "tag": "News",
-    "summary": "The rapid evolution of reasoning accuracy and efficiency has made these models ideal for edge devices. The NVIDIA Jetson family, ranging from the high-perfor...",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/658e083904cd2b7fd5f530d6/Xworh4zDVoJFmrj54rBmO.png",
-    "title_ar": "Deploying مصدر مفتوح رؤية لغة Models (VLM) on Jetson",
-    "summary_ar": "تحديث رسمي: The rapid evolution of reasoning accuracy and efficiency has made these models ideal for edge devices. The NVIDIA Jetson family, ranging from the high-perfor..."
   },
   {
     "id": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
@@ -1463,7 +1463,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=ePrw1C5T9_YQ7kNvwHIkzpn&_nc_oc=Adm1zqQszEYiK8JGa7WXlQqF5Fp6f4cqdGb3Dr4Q0tehxi-tMzr6tYOeTXRhZsHdYD4&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=jycg8nSyDvNbaQANMq9PZA&_nc_ss=8&oh=00_AfxOj98DSUiSc794DydQ4Zk2oC6XNw8WePUyLAYD8c-xdA&oe=69C5563F",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=ePrw1C5T9_YQ7kNvwH_SCtB&_nc_oc=AdkNDvIYxTCLnJHmzFtApxlXoV62w3FMZIbA4P7c75LPROPUqagQnVNsryV_SkjdpDw&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=8MpnPc-gKFUl0HlaqxXmUQ&_nc_ss=8&oh=00_AfyQ-1BBtR-7rjs5Gfi12XoCdFTCHp8ClkmmC0t9GRCU5Q&oe=69C5563F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2620,7 +2620,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=v2m65jCwIhoQ7kNvwEq3eIK&_nc_oc=AdkiIpF48IEdrhgS-7xuU32aB-d4waSpwuwOMKy6YWFojEheuKnkjUrQM7D6yvlJgV4&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=m0DfHiF6VGJUtBtFHN36Yw&_nc_ss=8&oh=00_Afzwyg6wGz7BRAkeMczho3T4bk--i9QrVxV31XInyuXUBg&oe=69C55F77",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=v2m65jCwIhoQ7kNvwHla7xv&_nc_oc=AdltRsVffelRAtljtK9KF9MyKHZ4GFE9ghkzUYPdl-yCV03rZDsPSUTYZrn2jYgzfYA&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=U5fg40_NjGXYRTrETHkh9w&_nc_ss=8&oh=00_AfyU6UPhTFa-KAiOfimabPXyqF9Y30I5UAbC5SJCmKyxbg&oe=69C55F77",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2632,7 +2632,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=tyuHhrTHhq0Q7kNvwGgPjyt&_nc_oc=AdkFqmuIufjmLgy66HMpuDdQ_rtkA3LPOKh-DkA5QuFaAkTJ7BuVn51effkGmq-wfdU&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=WltjZxcXHzoz_kCz3t4F1Q&_nc_ss=8&oh=00_AfzZZXHv_b_u952G_1KmbHAOMtN_mVavO0NFQw42fbVTGg&oe=69C54397",
+    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=tyuHhrTHhq0Q7kNvwEAgTri&_nc_oc=AdmmGRF7LF6oA_4faypcu_aMoWSyNieTGGaWECKjkXMLvGsTffurCg4SjhOoKFz9tmM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=wbKOjX-qqIGaFjINI1u2ow&_nc_ss=8&oh=00_AfwP_92fXOAolcgp82LsXSW25mtHMIYSp2KnNHD0Xa5RNg&oe=69C57BD7",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2816,7 +2816,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=OHaM_rNsGukQ7kNvwFJnS6E&_nc_oc=AdlRvT97Ll9cXVREaH-2tZSXZhOGtHmeTdTq-SuhP90bs8nJvUyr-xZBPS7iXif4wDo&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=3lS90idTD5TEqKDKjuqOuA&_nc_ss=8&oh=00_AfxP0d5dWnnRXddlVhuac4Tj3la9neTJ6CZwYoeL95Nm_Q&oe=69C5799B",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=OHaM_rNsGukQ7kNvwG0Vx6n&_nc_oc=Adlvg5xb-Id58rPekHg_Vx1r0E1tSMNrogLMPykq-4bxfWizj_qmof5pJWwEiIecU2I&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=NBDkFUzjuV0M_8Ui3m5ITw&_nc_ss=8&oh=00_AfwRQOmG_YpAqWX5El7NAowNjBNrJQ7516frJFvAJEFa6A&oe=69C5799B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3606,7 +3606,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwE6TIgZ&_nc_oc=Adk1Mv3mKDyoXRnDdwdWeiu1IaabHnsUgp1t8Eu1OQuCLlBY9mnLRAdweAqq7JhsRic&_nc_zt=14&_nc_ht=scontent-lhr6-2.xx&_nc_gid=rOhFHU3Pezfid7HDXRmVQg&_nc_ss=8&oh=00_Afwgh1Pi1TitQAeLawLheORVpVs41JaD86SZPNyu9GMbow&oe=69C566EB",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=AlO1JXBZ5b4Q7kNvwEHy6oL&_nc_oc=AdkINvYbK-cKIKRuoY35xibgIth5awIC4j1dSvaUdyZppVXoDErvpJXJbjnfQPPDBZs&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=oeaBusYMWl_73NhdwjUg6Q&_nc_ss=8&oh=00_Afz8SA7cC93uPm5ZbeveeTTKlfM9FekXJf7wmduM4NEmQg&oe=69C566EB",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
