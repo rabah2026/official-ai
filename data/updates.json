@@ -99,16 +99,11 @@
     "title": "GPT-5.4 Thinking System Card",
     "date": "2026-03-05T10:00:00.000Z",
     "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-    "tag": "News"
-  },
-  {
-    "id": "https://openai.com/index/introducing-gpt-5-4",
-    "company": "OpenAI",
-    "title": "Introducing GPT-5.4",
-    "date": "2026-03-05T10:00:00.000Z",
-    "url": "https://openai.com/index/introducing-gpt-5-4",
-    "tag": "Release",
-    "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool s"
+    "tag": "News",
+    "summary": "GPT‑5.4 Thinking is the latest reasoning model in the GPT‑5 series, and explained in our blog⁠. The comprehensive safety mitigation approach for this model i...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5t4zXynvPxIHXdXQMxiAwm/917d03bceb6cc7513cd2b34b7df46fe5/5.4_Thinking_System_Card_SEO.png?w=1600&h=900&fit=fill",
+    "title_ar": "GPT-5.4 Thinking نظام Card",
+    "summary_ar": "GPT‑5.4 Thinking is the latest reasoning نموذج in the GPT‑5 series, and explained in our blog⁠. The comprehensive سلامة mitigation approach for this نموذج i..."
   },
   {
     "id": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
@@ -117,7 +112,10 @@
     "date": "2026-03-05T10:00:00.000Z",
     "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
     "tag": "News",
-    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeg"
+    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/1uuAgWlWOgYMZuyLDaVFVL/af9711812b0868d52b15270a25f99913/OAI_Reasoning_Models_Struggle_to_Control_their_Chains_of_Thought__and_that%C3%A2__s_Good_SEO_16x9.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Reasoning models struggle to control their chains of thought, and that’s good",
+    "summary_ar": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI سلامة safeguard."
   },
   {
     "id": "https://openai.com/index/chatgpt-for-excel",
@@ -156,15 +154,6 @@
     "summary_ar": "تحديث رسمي: can you help me with the trajectory calculations for a really long-distance archery scenario?"
   },
   {
-    "id": "https://openai.com/index/ai-education-opportunity",
-    "company": "OpenAI",
-    "title": "Ensuring AI use in education leads to opportunity",
-    "date": "2026-03-05T09:00:00.000Z",
-    "url": "https://openai.com/index/ai-education-opportunity",
-    "tag": "News",
-    "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity."
-  },
-  {
     "id": "https://openai.com/index/understanding-ai-and-learning-outcomes",
     "company": "OpenAI",
     "title": "New tools for understanding AI and learning outcomes",
@@ -175,6 +164,18 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/6P3qpFT3riD5SElLwe1uN5/9402c91bb39208dbd468c3e410f44911/OAI_New_tools_for_understanding_AIand_learning_outcomes_SEO_16x9.png?w=1600&h=900&fit=fill",
     "title_ar": "جديد tools for understanding AI and learning outcomes",
     "summary_ar": "تحديث رسمي: OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time."
+  },
+  {
+    "id": "https://openai.com/index/introducing-gpt-5-4",
+    "company": "OpenAI",
+    "title": "Introducing GPT-5.4",
+    "date": "2026-03-05T00:00:00.000Z",
+    "url": "https://openai.com/index/introducing-gpt-5-4",
+    "tag": "Research",
+    "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, ...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/261kYlzPT8cBKoynLi35ct/14e3cae5d20ab9349af93f6b034c2947/5.4_Thinking_Hero___SEO.png?w=1600&h=900&fit=fill",
+    "title_ar": "نُقدم لكم GPT-5.4",
+    "summary_ar": "نُقدم لكم GPT-5.4, OpenAI’s most most capable and efficient frontier نموذج for professional work, with state-of-the-art coding, computer use, أداة search, ..."
   },
   {
     "id": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
@@ -283,6 +284,18 @@
     "image": "https://cdn-uploads.huggingface.co/production/uploads/68e529af513e724edd8702f6/zMyALdakGbN6SDG3ucmLd.jpeg",
     "title_ar": "PRX Part 3 — تدريب a Text-to-Image نموذج in 24h!",
     "summary_ar": "In the last two posts (Part 1 and Part 2), we explored a wide range of architectural and تدريب tricks for diffusion models. We tried to evaluate each idea..."
+  },
+  {
+    "id": "https://openai.com/index/ai-education-opportunity",
+    "company": "OpenAI",
+    "title": "Ensuring AI use in education leads to opportunity",
+    "date": "2026-03-04T00:00:00.000Z",
+    "url": "https://openai.com/index/ai-education-opportunity",
+    "tag": "News",
+    "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6qY7eyvVrPtwOMwQUPzqOO/55ab458c03157e061c83215cf215e51a/IMG_0185.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Ensuring AI use in education leads to opportunity",
+    "summary_ar": "OpenAI shares جديد tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity."
   },
   {
     "id": "https://developer.nvidia.com/blog/how-to-minimize-game-runtime-inference-costs-with-coding-agents/",
@@ -1417,7 +1430,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=ePrw1C5T9_YQ7kNvwGtR60W&_nc_oc=AdmRJD_AXKDDPFEJdjV8SrwzriWsYX8uQd3IgkiuK1ed7QEQJzqoEMcz5yPwfjlIJxA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=W8YMppBELiV_1V1b_Ic8Pg&_nc_ss=8&oh=00_AfxKwtnnFN5XAh0uQfSHUUTfAy2WVkDx_YpVTbp29db1mQ&oe=69C4E5BF",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=ePrw1C5T9_YQ7kNvwEoYXMY&_nc_oc=AdkbYNV56ylPuNRkfb8LIVVoU_00ado0X7PMkx-ofFvForSi8sF1q_OaUVU7Dv7kTy4&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=4H-ujLJzeDy412apBHn6mA&_nc_ss=8&oh=00_Afx7a4ZxwLR9kPkfVtyMoszNVv63R9LMGGjDu_Y92hLr1Q&oe=69C4E5BF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2583,7 +2596,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=v2m65jCwIhoQ7kNvwFSo8G5&_nc_oc=AdkrFgGdieRwPVWdraKYWISf0B9iu6KQEVr7L3AsWD-hBymTFVTxFwgzSZIV09AqNX8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=WJc_ZFQk7ZvNJdRszngpJQ&_nc_ss=8&oh=00_AfyVAMDQpsvTSZaOgFd4ay3LNVe8eoEGoxjKI9OX4M1cdA&oe=69C4B6B7",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=v2m65jCwIhoQ7kNvwGS7uYn&_nc_oc=Adm4RNUULNXksr8x6T98uSfxhW8wTdRV_Ior_RFx5H-QDm55_fXDPmiJsk0_RUvmBmE&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=mzDRk_rayuxzr2mZXATnvQ&_nc_ss=8&oh=00_AfwU3yKLiShEEzUv2qyEikxlc5YKlzBigZPqhgetfEkaXA&oe=69C4B6B7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2595,7 +2608,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=tyuHhrTHhq0Q7kNvwFEG6BQ&_nc_oc=AdkSJvmG0jzVaBzU4pSfFyuvbHShv8d3WHURXuZKlkaxFF38k8YE-GKTD3RuP6iThBo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=dF74xXLf-S8fFpmS9OMIxA&_nc_ss=8&oh=00_AfzyoP6-OtmzEr8ql0o1N6-u7mTPPAoZONEsOpIG8ohEzA&oe=69C4D317",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=tyuHhrTHhq0Q7kNvwEU8QmC&_nc_oc=AdkLTH_H8Y2jY1dgOcDYP1fLkCslFQB67XWxf_MYrnrUBdYcO7g49w5kSMBkPpjMayA&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=cHW9twKaUi58H_WHklFKgw&_nc_ss=8&oh=00_AfxGxJro1u34dv67Dfo1N9o-0g0ks7SP7Z6NctYhPKr3-g&oe=69C4D317",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2779,7 +2792,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=OHaM_rNsGukQ7kNvwHkVGrF&_nc_oc=AdloxMvqfzNfFhxzsNFE0aID2mPyo1LfBn4GhM-i7Z6fRfbyazvojEe7JE5Oe26mCrw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=yVuiFCQ86LLSNQz1NnHZZg&_nc_ss=8&oh=00_AfyThEs4wt6KOqvBE86LOygkPae4zsbrJEnmfl1PGZkAMQ&oe=69C4D0DB",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=OHaM_rNsGukQ7kNvwG6B5cY&_nc_oc=Adk4mXuEYdTzOkZw8wIWeHpHb3d_PTUS4Jma1iTH32RU3cOIQUtn4WihYd1Y2CWsAQo&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=iBkC-3hLtwB1agWWEVuuZA&_nc_ss=8&oh=00_Afw4VQs8Ep8OJiJGJHaEs0Zdw_3GvhP6C1kpQsIS6JSk8A&oe=69C4D0DB",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3569,7 +3582,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwGuhUJb&_nc_oc=AdkUAfBS98q5pCHfhC73GclszveHT3XInp63KXaLMtL-YA-LunWpcRNT9Z2QivxPDow&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=0HtHRrYt3KBh1AgEOq44yQ&_nc_ss=8&oh=00_AfwX9GUgWNofw8V9mHHUENzjn20y1pfGNoinSuJt2_zA9Q&oe=69C4BE2B",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwGZmZlb&_nc_oc=AdmZWh5Y9yunkGkmCdC2whf5htXqT60UfyTp44215VBsAnvdoCN6pEjmknJ__erEesE&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=sHLKvUk1dvMvIoClUF6iXQ&_nc_ss=8&oh=00_AfwihvrhhgEc5kvXIP9bySOyLrrMkqjTVelOjMgqUwxuqg&oe=69C4BE2B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
