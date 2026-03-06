@@ -99,11 +99,16 @@
     "title": "GPT-5.4 Thinking System Card",
     "date": "2026-03-05T10:00:00.000Z",
     "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-    "tag": "News",
-    "summary": "GPT‑5.4 Thinking is the latest reasoning model in the GPT‑5 series, and explained in our blog⁠. The comprehensive safety mitigation approach for this model i...",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/5t4zXynvPxIHXdXQMxiAwm/917d03bceb6cc7513cd2b34b7df46fe5/5.4_Thinking_System_Card_SEO.png?w=1600&h=900&fit=fill",
-    "title_ar": "GPT-5.4 Thinking نظام Card",
-    "summary_ar": "GPT‑5.4 Thinking is the latest reasoning نموذج in the GPT‑5 series, and explained in our blog⁠. The comprehensive سلامة mitigation approach for this نموذج i..."
+    "tag": "News"
+  },
+  {
+    "id": "https://openai.com/index/introducing-gpt-5-4",
+    "company": "OpenAI",
+    "title": "Introducing GPT-5.4",
+    "date": "2026-03-05T10:00:00.000Z",
+    "url": "https://openai.com/index/introducing-gpt-5-4",
+    "tag": "Release",
+    "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool s"
   },
   {
     "id": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
@@ -112,10 +117,7 @@
     "date": "2026-03-05T10:00:00.000Z",
     "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
     "tag": "News",
-    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/1uuAgWlWOgYMZuyLDaVFVL/af9711812b0868d52b15270a25f99913/OAI_Reasoning_Models_Struggle_to_Control_their_Chains_of_Thought__and_that%C3%A2__s_Good_SEO_16x9.png?w=1600&h=900&fit=fill",
-    "title_ar": "تحديث رسمي: Reasoning models struggle to control their chains of thought, and that’s good",
-    "summary_ar": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI سلامة safeguard."
+    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeg"
   },
   {
     "id": "https://openai.com/index/chatgpt-for-excel",
@@ -154,6 +156,15 @@
     "summary_ar": "تحديث رسمي: can you help me with the trajectory calculations for a really long-distance archery scenario?"
   },
   {
+    "id": "https://openai.com/index/ai-education-opportunity",
+    "company": "OpenAI",
+    "title": "Ensuring AI use in education leads to opportunity",
+    "date": "2026-03-05T09:00:00.000Z",
+    "url": "https://openai.com/index/ai-education-opportunity",
+    "tag": "News",
+    "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity."
+  },
+  {
     "id": "https://openai.com/index/understanding-ai-and-learning-outcomes",
     "company": "OpenAI",
     "title": "New tools for understanding AI and learning outcomes",
@@ -164,18 +175,6 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/6P3qpFT3riD5SElLwe1uN5/9402c91bb39208dbd468c3e410f44911/OAI_New_tools_for_understanding_AIand_learning_outcomes_SEO_16x9.png?w=1600&h=900&fit=fill",
     "title_ar": "جديد tools for understanding AI and learning outcomes",
     "summary_ar": "تحديث رسمي: OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time."
-  },
-  {
-    "id": "https://openai.com/index/introducing-gpt-5-4",
-    "company": "OpenAI",
-    "title": "Introducing GPT-5.4",
-    "date": "2026-03-05T00:00:00.000Z",
-    "url": "https://openai.com/index/introducing-gpt-5-4",
-    "tag": "Research",
-    "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, ...",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/261kYlzPT8cBKoynLi35ct/14e3cae5d20ab9349af93f6b034c2947/5.4_Thinking_Hero___SEO.png?w=1600&h=900&fit=fill",
-    "title_ar": "نُقدم لكم GPT-5.4",
-    "summary_ar": "نُقدم لكم GPT-5.4, OpenAI’s most most capable and efficient frontier نموذج for professional work, with state-of-the-art coding, computer use, أداة search, ..."
   },
   {
     "id": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
@@ -286,18 +285,6 @@
     "summary_ar": "In the last two posts (Part 1 and Part 2), we explored a wide range of architectural and تدريب tricks for diffusion models. We tried to evaluate each idea..."
   },
   {
-    "id": "https://openai.com/index/ai-education-opportunity",
-    "company": "OpenAI",
-    "title": "Ensuring AI use in education leads to opportunity",
-    "date": "2026-03-04T00:00:00.000Z",
-    "url": "https://openai.com/index/ai-education-opportunity",
-    "tag": "News",
-    "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6qY7eyvVrPtwOMwQUPzqOO/55ab458c03157e061c83215cf215e51a/IMG_0185.png?w=1600&h=900&fit=fill",
-    "title_ar": "تحديث رسمي: Ensuring AI use in education leads to opportunity",
-    "summary_ar": "OpenAI shares جديد tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity."
-  },
-  {
     "id": "https://developer.nvidia.com/blog/how-to-minimize-game-runtime-inference-costs-with-coding-agents/",
     "company": "NVIDIA",
     "title": "How to Minimize Game Runtime Inference Costs with Coding Agents",
@@ -404,6 +391,42 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_2_social.width-1300.png",
     "title_ar": "Create جديد worlds in Project Genie with these 4 tips",
     "summary_ar": "Learn more about Google DeepMind’s Project Genie and كيفية write prompts to create your own worlds."
+  },
+  {
+    "id": "hallucination-span-detection",
+    "company": "Apple",
+    "title": "Learning to Reason for Hallucination Span Detection",
+    "date": "2026-03-03T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/hallucination-span-detection",
+    "tag": "Research",
+    "summary": "Large language models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: Learning to Reason for Hallucination Span Detection",
+    "summary_ar": "Large لغة models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…"
+  },
+  {
+    "id": "embridge",
+    "company": "Apple",
+    "title": "EMBridge: Enhancing Gesture Generalization from EMG Signals through Cross-Modal Representation Learning",
+    "date": "2026-03-03T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/embridge",
+    "tag": "Research",
+    "summary": "Hand gesture classification using high-quality structured data such as videos, im-\nages, and hand skeletons is a well-explored problem in…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: EMBridge: Enhancing Gesture Generalization from EMG Signals through Cross-Modal Representation Learning",
+    "summary_ar": "تحديث رسمي: Hand gesture classification using high-quality structured data such as videos, im-\nages, and hand skeletons is a well-explored problem in…"
+  },
+  {
+    "id": "separating-intelligence",
+    "company": "Apple",
+    "title": "On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment",
+    "date": "2026-03-03T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/separating-intelligence",
+    "tag": "Research",
+    "summary": "With the increased deployment of large language models (LLMs), one concern is their potential misuse for generating harmful content. Our…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "On the Impossibility of Separating ذكاء from Judgment: The Computational Intractability of Filtering for AI Alignment",
+    "summary_ar": "With the increased deployment of large لغة models (LLMs), one concern is their potential misuse for generating harmful content. Our…"
   },
   {
     "id": "f9440a66ce67c0bf41d017c8b67e1c92a3d5d6b5",
@@ -563,6 +586,30 @@
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/04e461ada1956ddd7390fe7053f8eb865a7ec26c-4800x2520.png",
     "title_ar": "تحديث رسمي: Statement on the comments from Secretary of War Pete Hegseth",
     "summary_ar": "تحديث رسمي: Anthropic's response to the Secretary of War and advice for customers"
+  },
+  {
+    "id": "we-notice",
+    "company": "Apple",
+    "title": "The Way We Notice, That’s What Really Matters: Instantiating UI Components with Distinguishing Variations",
+    "date": "2026-02-27T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/we-notice",
+    "tag": "Research",
+    "summary": "Front-end developers author UI components to be broadly reusable by parameterizing visual and behavioral properties. While flexible, this…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: The Way We Notice, That’s What Really Matters: Instantiating UI Components with Distinguishing Variations",
+    "summary_ar": "تحديث رسمي: Front-end developers author UI components to be broadly reusable by parameterizing visual and behavioral properties. While flexible, this…"
+  },
+  {
+    "id": "augmenting-app",
+    "company": "Apple",
+    "title": "Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments",
+    "date": "2026-02-27T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/augmenting-app",
+    "tag": "Research",
+    "summary": "Large-scale commercial search systems optimize for relevance to drive successful sessions that help users find what they are looking for. To…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "توسيع نطاق Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments",
+    "summary_ar": "تحديث رسمي: Large-scale commercial search systems optimize for relevance to drive successful sessions that help users find what they are looking for. To…"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
@@ -784,6 +831,42 @@
     "summary_ar": "People are using Claude for increasingly complex work—writing and running code across entire repositories, synthesizing أبحاث from dozens of sources, and ..."
   },
   {
+    "id": "constructive-circuit-amplification",
+    "company": "Apple",
+    "title": "Constructive Circuit Amplification: Improving Math Reasoning in LLMs via Targeted Sub-Network Updates",
+    "date": "2026-02-25T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/constructive-circuit-amplification",
+    "tag": "Research",
+    "summary": "Prior studies investigating the internal workings of LLMs have uncovered sparse subnetworks, often referred to as circuits, that are…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "Constructive Circuit Amplification: Improving Math Reasoning in LLMs via Targeted Sub-شبكة Updates",
+    "summary_ar": "تحديث رسمي: Prior studies investigating the internal workings of LLMs have uncovered sparse subnetworks, often referred to as circuits, that are…"
+  },
+  {
+    "id": "automated-recycling-identification-system",
+    "company": "Apple",
+    "title": "A.R.I.S.: Automated Recycling Identification System for E-Waste Classification Using Deep Learning",
+    "date": "2026-02-25T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/automated-recycling-identification-system",
+    "tag": "Research",
+    "summary": "Traditional electronic recycling processes suffer from significant resource loss due to inadequate material separation and identification…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "A.R.I.S.: Automated Recycling Identification نظام for E-Waste Classification Using Deep Learning",
+    "summary_ar": "تحديث رسمي: Traditional electronic recycling processes suffer from significant resource loss due to inadequate material separation and identification…"
+  },
+  {
+    "id": "closing-the-gap",
+    "company": "Apple",
+    "title": "Closing the Gap Between Text and Speech Understanding in LLMs",
+    "date": "2026-02-25T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/closing-the-gap",
+    "tag": "Research",
+    "summary": "Large Language Models (LLMs) can be adapted to extend their text capabilities to speech inputs. However, these speech-adapted LLMs…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: Closing the Gap Between Text and Speech Understanding in LLMs",
+    "summary_ar": "Large لغة Models (LLMs) can be adapted to extend their text capabilities to speech inputs. However, these speech-adapted LLMs…"
+  },
+  {
     "id": "5a530267af19ba99525397189d16214bb54387f6",
     "company": "Amazon",
     "title": "Build an intelligent photo search using Amazon Rekognition, Amazon Neptune, and Amazon Bedrock",
@@ -827,6 +910,30 @@
     "url": "https://openai.com/index/arvind-kc-chief-people-officer",
     "tag": "Corporate",
     "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI."
+  },
+  {
+    "id": "beyond-a-single-extractor",
+    "company": "Apple",
+    "title": "Beyond a Single Extractor: Re-thinking HTML-to-Text Extraction for LLM Pretraining",
+    "date": "2026-02-24T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/beyond-a-single-extractor",
+    "tag": "Research",
+    "summary": "One of the first pre-processing steps for constructing web-scale LLM pretraining datasets involves extracting text from HTML. Despite the…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: Beyond a Single Extractor: Re-thinking HTML-to-Text Extraction for LLM Pretraining",
+    "summary_ar": "تحديث رسمي: One of the first pre-processing steps for constructing web-scale LLM pretraining datasets involves extracting text from HTML. Despite the…"
+  },
+  {
+    "id": "depyf-open",
+    "company": "Apple",
+    "title": "depyf: Open the Opaque Box of PyTorch Compiler for Machine Learning Researchers",
+    "date": "2026-02-24T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/depyf-open",
+    "tag": "Research",
+    "summary": "PyTorch \\texttt{2.x} introduces a compiler designed to accelerate deep learning programs. However, for machine learning researchers…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: depyf: Open the Opaque Box of PyTorch Compiler for Machine Learning Researchers",
+    "summary_ar": "تحديث رسمي: PyTorch \\texttt{2.x} introduces a compiler designed to accelerate deep learning programs. However, for machine learning researchers…"
   },
   {
     "id": "https://developer.nvidia.com/blog/using-nvfp4-low-precision-model-training-for-higher-throughput-without-losing-accuracy/",
@@ -1310,7 +1417,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=ePrw1C5T9_YQ7kNvwF0t0GF&_nc_oc=AdkmgorD-KDkRc2bKcfxV5y28SuhRMenze3bMr2QPzdM4d-_4H_UciX3nTCc0T1rBlQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=_hxn9Y67djHuL1htH9rlZA&_nc_ss=8&oh=00_AfzXAo3sYViWG-rG4LxkSsUoi_BEx4KJXRiIN7rlCdM1qQ&oe=69C4AD7F",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=ePrw1C5T9_YQ7kNvwGtR60W&_nc_oc=AdmRJD_AXKDDPFEJdjV8SrwzriWsYX8uQd3IgkiuK1ed7QEQJzqoEMcz5yPwfjlIJxA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=W8YMppBELiV_1V1b_Ic8Pg&_nc_ss=8&oh=00_AfxKwtnnFN5XAh0uQfSHUUTfAy2WVkDx_YpVTbp29db1mQ&oe=69C4E5BF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2476,7 +2583,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=v2m65jCwIhoQ7kNvwFpouBO&_nc_oc=Adk-rirKd4vHpw5Gbxnu3EH5X03r4e0lvzRy1KgmIj9NzuuggXGNfRrzRsQo0Eh1uWQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=nANhcAfxT7ylctZoQKc9BQ&_nc_ss=8&oh=00_AfzQIuSA_7gAfkQ2uG1EoeHCA0Uhzv2r9f44aN1xp3tO1g&oe=69C4B6B7",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=v2m65jCwIhoQ7kNvwFSo8G5&_nc_oc=AdkrFgGdieRwPVWdraKYWISf0B9iu6KQEVr7L3AsWD-hBymTFVTxFwgzSZIV09AqNX8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=WJc_ZFQk7ZvNJdRszngpJQ&_nc_ss=8&oh=00_AfyVAMDQpsvTSZaOgFd4ay3LNVe8eoEGoxjKI9OX4M1cdA&oe=69C4B6B7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2488,7 +2595,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=tyuHhrTHhq0Q7kNvwGJAErn&_nc_oc=Adko7F8UNul44wb-xLrc79K9ld1RkwnxLUc_Y2O1eJoYfs9_koywvMfndvTDcJCNWjs&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=YZLOzEZDn7fmDRwiso37iw&_nc_ss=8&oh=00_AfyzSfqv-lQ1h1hP0QWJ9tMYocE8RDEtH7n1xkuwagdP7w&oe=69C4D317",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=tyuHhrTHhq0Q7kNvwFEG6BQ&_nc_oc=AdkSJvmG0jzVaBzU4pSfFyuvbHShv8d3WHURXuZKlkaxFF38k8YE-GKTD3RuP6iThBo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=dF74xXLf-S8fFpmS9OMIxA&_nc_ss=8&oh=00_AfzyoP6-OtmzEr8ql0o1N6-u7mTPPAoZONEsOpIG8ohEzA&oe=69C4D317",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2672,7 +2779,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=OHaM_rNsGukQ7kNvwFpWzAb&_nc_oc=AdlTQTwvuUv2lxiMQnN9zrQXelk3BcV9DZr7_hkiFWyhcnFb5-9iBQYlvCM_szMqi7o&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=SCNV-Qxurjhi8AkFITadgQ&_nc_ss=8&oh=00_Afwvi3VN5tqWDLbfvKVDB3kzdohBivtp4d0oQeaN4JU14Q&oe=69C4D0DB",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=OHaM_rNsGukQ7kNvwHkVGrF&_nc_oc=AdloxMvqfzNfFhxzsNFE0aID2mPyo1LfBn4GhM-i7Z6fRfbyazvojEe7JE5Oe26mCrw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=yVuiFCQ86LLSNQz1NnHZZg&_nc_ss=8&oh=00_AfyThEs4wt6KOqvBE86LOygkPae4zsbrJEnmfl1PGZkAMQ&oe=69C4D0DB",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3462,7 +3569,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwGhqW8W&_nc_oc=AdnCzdICxNRX8Q38_z08A_E2eDa_vH28-UHaWeYY9dvRH6awpDHv_ttJ0YdHE0xc0SE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=CFBIDcSzaKMu2N7WZ-78uQ&_nc_ss=8&oh=00_AfzKuP-h_uVLp0Hz2zQotXM9uMEVhA7LjhUsNg-dGcKS5g&oe=69C4BE2B",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwGuhUJb&_nc_oc=AdkUAfBS98q5pCHfhC73GclszveHT3XInp63KXaLMtL-YA-LunWpcRNT9Z2QivxPDow&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=0HtHRrYt3KBh1AgEOq44yQ&_nc_ss=8&oh=00_AfwX9GUgWNofw8V9mHHUENzjn20y1pfGNoinSuJt2_zA9Q&oe=69C4BE2B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
