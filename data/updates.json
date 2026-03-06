@@ -94,18 +94,6 @@
     "summary_ar": "In this post, we'll walk through how Modular Diffusers works — from the familiar API to run a modular pipeline, to بناء fully custom blocks and composing..."
   },
   {
-    "id": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "company": "OpenAI",
-    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-    "date": "2026-03-05T10:00:00.000Z",
-    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "tag": "News",
-    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/1uuAgWlWOgYMZuyLDaVFVL/af9711812b0868d52b15270a25f99913/OAI_Reasoning_Models_Struggle_to_Control_their_Chains_of_Thought__and_that%C3%A2__s_Good_SEO_16x9.png?w=1600&h=900&fit=fill",
-    "title_ar": "تحديث رسمي: Reasoning models struggle to control their chains of thought, and that’s good",
-    "summary_ar": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI سلامة safeguard."
-  },
-  {
     "id": "https://openai.com/index/gpt-5-4-thinking-system-card",
     "company": "OpenAI",
     "title": "GPT-5.4 Thinking System Card",
@@ -116,6 +104,18 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/5t4zXynvPxIHXdXQMxiAwm/917d03bceb6cc7513cd2b34b7df46fe5/5.4_Thinking_System_Card_SEO.png?w=1600&h=900&fit=fill",
     "title_ar": "GPT-5.4 Thinking نظام Card",
     "summary_ar": "GPT‑5.4 Thinking is the latest reasoning نموذج in the GPT‑5 series, and explained in our blog⁠. The comprehensive سلامة mitigation approach for this نموذج i..."
+  },
+  {
+    "id": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "company": "OpenAI",
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "date": "2026-03-05T10:00:00.000Z",
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "tag": "News",
+    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/1uuAgWlWOgYMZuyLDaVFVL/af9711812b0868d52b15270a25f99913/OAI_Reasoning_Models_Struggle_to_Control_their_Chains_of_Thought__and_that%C3%A2__s_Good_SEO_16x9.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Reasoning models struggle to control their chains of thought, and that’s good",
+    "summary_ar": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI سلامة safeguard."
   },
   {
     "id": "https://openai.com/index/chatgpt-for-excel",
@@ -178,18 +178,6 @@
     "summary_ar": "نُقدم لكم GPT-5.4, OpenAI’s most most capable and efficient frontier نموذج for professional work, with state-of-the-art coding, computer use, أداة search, ..."
   },
   {
-    "id": "https://openai.com/index/introducing-the-adoption-news-channel",
-    "company": "OpenAI",
-    "title": "Introducing the Adoption news channel",
-    "date": "2026-03-05T00:00:00.000Z",
-    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-    "tag": "News",
-    "summary": "Practical insights and frameworks to turn AI progress into business advantage",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/2sFYvyNzcOJOzZ2B3VT8sN/7317b90a6eb9968b00d97f74618256a8/OAI_Introducing_the_Adoption_news_channel_16x9_SEO.png?w=1600&h=900&fit=fill",
-    "title_ar": "نُقدم لكم the Adoption news channel",
-    "summary_ar": "تحديث رسمي: Practical insights and frameworks to turn AI progress into business advantage"
-  },
-  {
     "id": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
     "company": "OpenAI",
     "title": "The five AI value models driving business reinvention",
@@ -200,6 +188,18 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/48FHdIK9VMlMr4I1Imtmjz/545d367833f9c21d9195e915af8d951f/OAI_The_five_AI_value_modelsdriving_business_reinvention_16x9_SEO.png?w=1600&h=900&fit=fill",
     "title_ar": "تحديث رسمي: The five AI value models driving business reinvention",
     "summary_ar": "تحديث رسمي: Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage."
+  },
+  {
+    "id": "https://openai.com/index/introducing-the-adoption-news-channel",
+    "company": "OpenAI",
+    "title": "Introducing the Adoption news channel",
+    "date": "2026-03-05T00:00:00.000Z",
+    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+    "tag": "News",
+    "summary": "Practical insights and frameworks to turn AI progress into business advantage",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2sFYvyNzcOJOzZ2B3VT8sN/7317b90a6eb9968b00d97f74618256a8/OAI_Introducing_the_Adoption_news_channel_16x9_SEO.png?w=1600&h=900&fit=fill",
+    "title_ar": "نُقدم لكم the Adoption news channel",
+    "summary_ar": "تحديث رسمي: Practical insights and frameworks to turn AI progress into business advantage"
   },
   {
     "id": "https://www.anthropic.com/news/where-stand-department-war",
@@ -502,28 +502,28 @@
     "summary_ar": "تحديث رسمي: Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications…"
   },
   {
-    "id": "https://openai.com/index/continuing-microsoft-partnership",
+    "id": "https://openai.com/index/amazon-partnership",
     "company": "OpenAI",
-    "title": "Joint Statement fro",
+    "title": "OpenAI and Amazon announce strategic partnership",
     "date": "2026-02-28T12:30:00.000Z",
-    "url": "https://openai.com/index/continuing-microsoft-partnership",
-    "tag": "Research",
-    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/5PIN2LMOSjRvtC7sw8FHAC/bc7719b0c18048c282f759be52bd4f51/Microsoft_Hero_Oct_16x9.png?w=1600&h=900&fit=fill",
-    "title_ar": "تحديث رسمي: Joint Statement fro",
-    "summary_ar": "Microsoft and OpenAI continue to work closely across أبحاث, هندسة, and product development, بناء on years of deep collaboration and shared success."
+    "url": "https://openai.com/index/amazon-partnership",
+    "tag": "Engineering",
+    "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI ...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/NUB0tjg5MC1XbgQzf6dxY/7f42b233c4a26095d47f65f71afc5e93/Amazon_1__1_.png?w=1600&h=900&fit=fill",
+    "title_ar": "OpenAI and Amazon announce strategic شراكة",
+    "summary_ar": "OpenAI and Amazon announce a strategic شراكة bringing OpenAI’s Frontier منصة to AWS, expanding AI بنية تحتية, custom models, and مؤسسات AI ..."
   },
   {
-    "id": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+    "id": "https://openai.com/index/scaling-ai-for-everyone",
     "company": "OpenAI",
-    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "title": "Scaling AI for everyone",
     "date": "2026-02-28T12:30:00.000Z",
-    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-    "tag": "News",
-    "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/5UfsQ8RCnpdXJAni6NjAXm/60e92f8f239c1b2412fc3225373e0d4c/Introducing_the_Stateful_Runtime_for_Agents_on_Amazon_Bedrock_1__1_.png?w=1600&h=900&fit=fill",
-    "title_ar": "نُقدم لكم the Stateful Runtime Environment for Agents in Amazon Bedrock",
-    "summary_ar": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, ذاكرة, and secure execution to multi-step AI workflows powered by OpenAI."
+    "url": "https://openai.com/index/scaling-ai-for-everyone",
+    "tag": "Engineering",
+    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3Y4GXqzAWchrROzpq6XujG/9ca9069048be653b1e0abd21fa110945/one_platfrom.png?w=1600&h=900&fit=fill",
+    "title_ar": "توسيع نطاق AI for everyone",
+    "summary_ar": "Today we’re إعلان عن $110B in جديد investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon."
   },
   {
     "id": "https://developer.nvidia.com/blog/develop-native-multimodal-agents-with-qwen3-5-vlm-using-nvidia-gpu-accelerated-endpoints/",
@@ -562,22 +562,22 @@
     "summary_ar": "Details on OpenAI’s contract with the Department of War, outlining سلامة red lines, legal protections, and how AI systems will be deployed in classified env..."
   },
   {
-    "id": "https://openai.com/index/scaling-ai-for-everyone",
+    "id": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
     "company": "OpenAI",
-    "title": "Scaling AI for everyone",
+    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
     "date": "2026-02-27T05:30:00.000Z",
-    "url": "https://openai.com/index/scaling-ai-for-everyone",
-    "tag": "Engineering",
-    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazo"
+    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+    "tag": "News",
+    "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by Open"
   },
   {
-    "id": "https://openai.com/index/amazon-partnership",
+    "id": "https://openai.com/index/continuing-microsoft-partnership",
     "company": "OpenAI",
-    "title": "OpenAI and Amazon announce strategic partnership",
+    "title": "Joint Statement from OpenAI and Microsoft",
     "date": "2026-02-27T05:30:00.000Z",
-    "url": "https://openai.com/index/amazon-partnership",
+    "url": "https://openai.com/index/continuing-microsoft-partnership",
     "tag": "Corporate",
-    "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterpr"
+    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and share"
   },
   {
     "id": "https://openai.com/index/update-on-mental-health-related-work",
@@ -1405,15 +1405,6 @@
     "summary": "NVIDIA TensorRT LLM enables developers to build high-performance inference engines for large language models (LLMs), but deploying a new architecture."
   },
   {
-    "id": "https://openai.com/index/testing-ads-in-chatgpt",
-    "company": "OpenAI",
-    "title": "Testing ads in ChatGPT",
-    "date": "2026-02-09T11:00:00.000Z",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "tag": "News",
-    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
-  },
-  {
     "id": "https://openai.com/index/bringing-chatgpt-to-genaimil",
     "company": "OpenAI",
     "title": "Bringing ChatGPT to GenAI.mil",
@@ -1423,6 +1414,15 @@
     "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams."
   },
   {
+    "id": "https://openai.com/index/testing-ads-in-chatgpt",
+    "company": "OpenAI",
+    "title": "Testing ads in ChatGPT",
+    "date": "2026-02-09T11:00:00.000Z",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "tag": "News",
+    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+  },
+  {
     "id": "https://ai.meta.com/blog/forest-research-dino/",
     "company": "Meta AI",
     "title": "Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
@@ -1430,7 +1430,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=ePrw1C5T9_YQ7kNvwHY_m-g&_nc_oc=Adl6ZnMN7br_pBUPZdMMG_dtqKkuCMaOBGBfp5dlcW-72_r8rmZinRLfhdBPkrFvAyA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=q-klapvH57d_2rWYl2Owmg&_nc_ss=8&oh=00_AfyYsLT4X2DZKD5Zqt5JxR63F4hjx2Gp3gA-5FXfiWZLrg&oe=69C4AD7F",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=ePrw1C5T9_YQ7kNvwEAkDB5&_nc_oc=Adn0vCDYvdAD3QIYpIerRWiHJOSlTjvwQ3kVHbFe2D-v8IyYcJlse7Llbf8KFKHrRhw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=zHc54iET_xDE9yaqWUpSBA&_nc_ss=8&oh=00_Afwn03-IKh_SWUvq-b1rUtmqnJeraLrgb-ZyOANsW2UDyg&oe=69C4AD7F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -1531,6 +1531,15 @@
     "summary": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance"
   },
   {
+    "id": "https://openai.com/index/navigating-health-questions",
+    "company": "OpenAI",
+    "title": "Navigating health questions with ChatGPT",
+    "date": "2026-02-05T00:00:00.000Z",
+    "url": "https://openai.com/index/navigating-health-questions",
+    "tag": "News",
+    "summary": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors."
+  },
+  {
     "id": "https://openai.com/index/introducing-gpt-5-3-codex",
     "company": "OpenAI",
     "title": "Introducing GPT-5.3-Codex",
@@ -1547,15 +1556,6 @@
     "url": "https://openai.com/index/gpt-5-3-codex-system-card",
     "tag": "News",
     "summary": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and prof"
-  },
-  {
-    "id": "https://openai.com/index/navigating-health-questions",
-    "company": "OpenAI",
-    "title": "Navigating health questions with ChatGPT",
-    "date": "2026-02-05T00:00:00.000Z",
-    "url": "https://openai.com/index/navigating-health-questions",
-    "tag": "News",
-    "summary": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors."
   },
   {
     "id": "https://developer.nvidia.com/blog/build-with-kimi-k2-5-multimodal-vlm-using-nvidia-gpu-accelerated-endpoints/",
@@ -2596,7 +2596,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=v2m65jCwIhoQ7kNvwFRcEVr&_nc_oc=Adnrwwz_5-RYYh4_pSvM_j0Exe7zSDojsnXEyajmFdmutHOWYdYhQdDdfszWESQN1dY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=TP9LicmkZcI_xn7LY8KAeQ&_nc_ss=8&oh=00_AfxlbbOI-wsyS7Unl8xgU3i3DuPJZVSbp1CERO4uCBYzeQ&oe=69C4B6B7",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=v2m65jCwIhoQ7kNvwExX2iy&_nc_oc=Adn3O8rT95H4GCBkupOO1-e-YCwnZo468fww5hjSt7gyZQWs2Nu3Ix-MnyWOka4oxqc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=nemcL0g-X31n9wnJmKuOOw&_nc_ss=8&oh=00_AfyG4NuqMt--Ik9BoGj7J5Dz73WWxOib7ME3FclYJXbPZg&oe=69C4B6B7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2608,7 +2608,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=tyuHhrTHhq0Q7kNvwGFXWG9&_nc_oc=AdnZRT2JHgps7_61ndz4N8YnAYuAS4FlwkG4Tubl8upmyAJbS-0-IJC3rxxBKyMgl18&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=LgEqkVxZyHiKeMmHDko4Lw&_nc_ss=8&oh=00_Afy9SfiFG_BDqv7oa5EPnTe5RHYFYFH7gY3TzJ2AtGssdw&oe=69C4D317",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=tyuHhrTHhq0Q7kNvwHTmolD&_nc_oc=AdmMN4oHDOUkYhTtOCas6bQejJlUquKlUMlYK0ii5VJUxESQw7oBTE6lyrea76Zdb5U&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=wj4sgpJgT7h2Nq0nbBLTeQ&_nc_ss=8&oh=00_Afz0ChoA25dOtpOmMu_B03ndcOSjLIlqlCRUXpjWRQncnQ&oe=69C4D317",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2792,7 +2792,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=OHaM_rNsGukQ7kNvwGL8Gwb&_nc_oc=AdmELVlmxHnryVBJGK4Wsn-ThD5_Xf83kgim5yIYXMrrYHaedaD8MGWmIAhIuDXepSw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=OpmhTWJVie5L325kkwEbPg&_nc_ss=8&oh=00_Afz7dAMU82z-tk0rFK5EXofc22aRGjZmdCPUhwWRFNI95g&oe=69C4D0DB",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=OHaM_rNsGukQ7kNvwFu5Lur&_nc_oc=AdklVBp-37cW3gkdAy_njwV8ohD2-3QSLtV6RqojE0gLF2W28_BlHD_tmL38to99d0w&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=X86eMqCAph3mZFkApshRbA&_nc_ss=8&oh=00_AfxlWytba8yya_C06kg6KfzcLqPuShCOODAtwbeK_bIlrg&oe=69C4D0DB",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3582,7 +3582,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwEghcfZ&_nc_oc=Adnj5mlDgK8vQU4-IGUBneCAGrCkq61V-Swg2sKAKau1DFsZoBWTrJYZiTZBq06bI5s&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=38hhdut_CxNiufy7dPqIIQ&_nc_ss=8&oh=00_AfymBDnKNNw4b1R9w8RIwu80RvE5Jhtb4dkl6rILcr3yow&oe=69C4BE2B",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=HRzzKGqNkYkQ7kNvwFIYIei&_nc_oc=Adlc6ttOX-XAM_WViCozYDoSV01phRNiuSphNj2S7reloGHhDe_taRl_UG-bezCnhFY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=ht5gxmAwoRmMXGJfreZunw&_nc_ss=8&oh=00_AfwjvhsTNqOnpZ2_HwyOFdu3FGghJ00ejgmTIBYPzqdD9g&oe=69C4BE2B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
