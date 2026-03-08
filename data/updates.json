@@ -12,6 +12,24 @@
     "summary_ar": "An overview of SpeciesNet, our open-source AI نموذج that is helping people around the world protect and conserve wildlife."
   },
   {
+    "id": "https://openai.com/index/codex-security-now-in-research-preview",
+    "company": "OpenAI",
+    "title": "Codex Security: now in research preview ",
+    "date": "2026-03-06T10:00:00.000Z",
+    "url": "https://openai.com/index/codex-security-now-in-research-preview",
+    "tag": "Security",
+    "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher co"
+  },
+  {
+    "id": "https://openai.com/index/descript",
+    "company": "OpenAI",
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "date": "2026-03-06T10:00:00.000Z",
+    "url": "https://openai.com/index/descript",
+    "tag": "News",
+    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural a"
+  },
+  {
     "id": "https://openai.com/index/balyasny-asset-management",
     "company": "OpenAI",
     "title": "How Balyasny Asset Management built an AI research engine for investing",
@@ -58,18 +76,6 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/l9JkI2hbnrr4QZb6LJJhT/85a843d06ba16a05e05e6450e20d762f/5.3_Instant_Hero___SEO__1_.png?w=1600&h=900&fit=fill",
     "title_ar": "تحديث رسمي: GPT-5.3 Instant: Smoother, more useful everyday conversations",
     "summary_ar": "تحديث رسمي: can you help me with the trajectory calculations for a really long-distance archery scenario?"
-  },
-  {
-    "id": "https://openai.com/index/descript",
-    "company": "OpenAI",
-    "title": "How Descript enables multilingual video dubbing at scale",
-    "date": "2026-03-06T07:00:00.000Z",
-    "url": "https://openai.com/index/descript",
-    "tag": "Case Study",
-    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across l...",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/3Wuw2Ti0DpqP7rKkFvpjbQ/e7e4e8d01c2c36e853da359422ccfe26/oai_descript_SEO.png?w=1600&h=900&fit=fill",
-    "title_ar": "How Descript enables multilingual فيديو dubbing at scale",
-    "summary_ar": "Descript uses OpenAI models to scale multilingual فيديو dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across l..."
   },
   {
     "id": "https://www.anthropic.com/news/mozilla-firefox-security",
@@ -200,18 +206,6 @@
     "image": "https://huggingface.co/blog/assets/modular-diffusers/thumbnail.png",
     "title_ar": "نُقدم لكم Modular Diffusers - Composable بناء Blocks for Diffusion Pipelines",
     "summary_ar": "In this post, we'll walk through how Modular Diffusers works — from the familiar API to run a modular pipeline, to بناء fully custom blocks and composing..."
-  },
-  {
-    "id": "https://openai.com/index/codex-security-now-in-research-preview",
-    "company": "OpenAI",
-    "title": "Codex Security: now in research preview",
-    "date": "2026-03-05T10:00:00.000Z",
-    "url": "https://openai.com/index/codex-security-now-in-research-preview",
-    "tag": "Security",
-    "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidenc...",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4QZG2snhmXd89vmtR2bRNf/c1bffbdf458cada105f3c0780de583e2/oai_Blog_Codex_Security_SEO_Open_Graph_16x9.png?w=1600&h=900&fit=fill",
-    "title_ar": "Codex أمن: now in أبحاث معاينة",
-    "summary_ar": "Codex أمن is an AI application أمن وكيل that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidenc..."
   },
   {
     "id": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
@@ -1445,7 +1439,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=coLMlhFnL38Q7kNvwEd6vTB&_nc_oc=Adl33w-QMYfQ0AQW1_5ubiEFW-x9o6YiIIoauFA83WuQZzxJVbbRbayHKd-OiDUT118&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=awmxZ5Fo-fo-rSoOKElHeA&_nc_ss=8&oh=00_Afw1RlEHMjTOovz840ep33nNmW2bPMmVmosYSGRVjpHzWw&oe=69C7C0FF",
+    "image": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=coLMlhFnL38Q7kNvwFtpnUh&_nc_oc=AdmMUgzzBXf7Gl7HhrB2OVkjndC-SAJ-jRrrulFkN6LhU8FQIwgKlDwt_OejAXLidb0&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=REpn5FRxWjtnZW3g0FZJDw&_nc_ss=8&oh=00_Afw_4r6U_W4W412DP-n1fAiSIM8RfEJgSlJ_xDg0w9Zmjw&oe=69C7C0FF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2606,7 +2600,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=5BC1H-LOW3UQ7kNvwGiLcEk&_nc_oc=Adm6y0dJ0qjY2N5Vcj-dtzy3ScgsEVebAe1BvXUwoD4uOuIqEJzzQQpxfBiksUTTuxY&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=N5Rg0Thj1_z91mGdwv_5CA&_nc_ss=8&oh=00_Afy3AT7SFUd3AvmohU0ev3Znhtg4_TA5lJAV3fzfRfO66Q&oe=69C7CA37",
+    "image": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=5BC1H-LOW3UQ7kNvwHFf7Qa&_nc_oc=Adl4CxObV4P5rOFPs6fNr6jCAQJ9Ems6w3gYzN9izmc9fLs4kCizuolILQWnJAfi3j8&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=AEmtXFfvRZPxFJ3kZFgmwg&_nc_ss=8&oh=00_AfyGwC_WdFmFzusjBpNhl4mdU5MJ3NxVf4IMTKPMZ5ic4w&oe=69C7CA37",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2618,7 +2612,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwFP8dCL&_nc_oc=AdkqlDpviGbVWI4xewxBdV3M4R9QHI7MMCUGybn4h5ReEegpH3jifqVDKLtWM-Fdbcs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ph6WgzXu-cpsFd-lfxfNtA&_nc_ss=8&oh=00_AfzrPZC8KSXkquzjR2RS9-UrqDeo75oCkPeQuiWBEOv7Ng&oe=69C7AE57",
+    "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwFUwLdO&_nc_oc=AdmkL4PqOQaAWq6DH60E1-nbLaqcBqMjA56jWkrcCeEcDJBitKT73TF7UIFTgEzY2-0&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=LXHxU7HQ-Ymz-fRdfk7vTw&_nc_ss=8&oh=00_AfxvaroB9EDOvVdtOwsBdcJpiFeXI0mfRqhIknK2aejlyA&oe=69C7AE57",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2802,7 +2796,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwHjtFfc&_nc_oc=AdmikwLA8NYrNqV5rG9q0QnVDhsKHMTtjptxGo4GQkiCivzm6MBiYlH96Q2L0QyV0Ko&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=mbLQNbZYKYWAPtZiScdw1A&_nc_ss=8&oh=00_AfwvTU7kuYt5ixumD2r4kJXozZNr3MZhO-y0FGQu6sUUWg&oe=69C7AC1B",
+    "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwHsZ4Y-&_nc_oc=AdkF91dtUdoTGqBto9MBWGqYsxU8y3jJqAoM0_214qFwKEAbkiimpbPKSSaHY9JqLD4&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=NXfRJLf1bAj6iILv6Gvvgg&_nc_ss=8&oh=00_AfyhereO0fDQuut31BheWuOu3CyxhGUQvCeICBvuqsjUJg&oe=69C7AC1B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3601,7 +3595,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=AlO1JXBZ5b4Q7kNvwEMa4ND&_nc_oc=AdmyBzzIV9d1i-8QfSzvqgQ7Tq8iPZpoUxBWFFKmT6bJJ02yiZ1hcgq8yAeq4EPVo3s&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=D7SwjT06S4QDFaLk4jB6zQ&_nc_ss=8&oh=00_AfyuHE1MsMIhpfDLfOGkMPo1eAdjXrhMAVGc40E6gWpTEw&oe=69C7D1AB",
+    "image": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=AlO1JXBZ5b4Q7kNvwH8UN00&_nc_oc=Adnw0cz0kocvsIk9wBvx9oC06rFn6zKUrb7rIrWjdtL1oOXVJR-cBWBchst3RCglbD8&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=XYlXuW0Kjy2bbP4m3IaBxA&_nc_ss=8&oh=00_AfwGVRIEl7hbG1spjT4nr25tV0kDZCvxibzBl-B71dAEjg&oe=69C7D1AB",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
