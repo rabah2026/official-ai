@@ -1483,7 +1483,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=coLMlhFnL38Q7kNvwFmdegB&_nc_oc=AdkKUTLbdT-CwagcFF4sJAgWkrWyV9R7KsR46ezzq2S036YlEWicTUleffVemwl0uOc&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=7LnWGoOuaXzyROJfQRv3rg&_nc_ss=8&oh=00_Afw1R5Rlh_uR6xVKe4kTODzur2WLgjpWJ3rzstEASNN2qQ&oe=69C94ABF",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=coLMlhFnL38Q7kNvwFhp6iy&_nc_oc=AdnJRG3V2pJQwCdJgQWp2wIcg37NMxMKz4NsqSpLI050eb-BdHusJP-8890fHRvQgv0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=8KkGbJBFMD19KMiBtFk-Mw&_nc_ss=8&oh=00_AfwXaCcqy_ZYA4S6xZbAKOrvM23ZhAwe2u8hEF7KOfjV4A&oe=69C94ABF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -1674,18 +1674,6 @@
     "summary_ar": "Precision diarization, real-time transcription, and a جديد صوت playground."
   },
   {
-    "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
-    "company": "Hugging Face",
-    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
-    "date": "2026-02-03T23:31:59.000Z",
-    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
-    "tag": "Corporate",
-    "summary": "In this third article, we examine paths and trajectories of prominent Chinese AI organizations, and posit future directions for open source.",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/63a369d98c0c89dcae3b8329/MOOv3ivvsii5OdJFcwIU5.webp",
-    "title_ar": "مستقبل the عالمي Open-Source AI Ecosystem: From DeepSeek to AI+",
-    "summary_ar": "In this third article, we examine paths and trajectories of prominent Chinese AI organizations, and posit future directions for مصدر مفتوح."
-  },
-  {
     "id": "https://developer.nvidia.com/blog/accelerating-long-context-model-training-in-jax-and-xla/",
     "company": "NVIDIA",
     "title": "Accelerating Long-Context Model Training in JAX and XLA",
@@ -1693,6 +1681,14 @@
     "url": "https://developer.nvidia.com/blog/accelerating-long-context-model-training-in-jax-and-xla/",
     "tag": "Engineering",
     "summary": "Large language models (LLMs) are rapidly expanding their context windows, with recent models supporting sequences of 128K tokens, 256K tokens, and bey"
+  },
+  {
+    "id": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+    "company": "Hugging Face",
+    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "date": "2026-02-03T15:03:19.000Z",
+    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+    "tag": "News"
   },
   {
     "id": "https://huggingface.co/blog/Photoroom/prx-part2",
@@ -2644,7 +2640,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=5BC1H-LOW3UQ7kNvwFSSiGj&_nc_oc=Adm0R0pnSJ06xaaile8yBxDvySx5VvQh4WewziuYkj4GfuC6zqqBG9XZzJpDubW8eiU&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=IVN0LduXqk5ces3hbUL0_w&_nc_ss=8&oh=00_AfyJRRNNTdR3VG37MOO1Uh2RE5wolENe0VSVSILeWEvOJA&oe=69C953F7",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=5BC1H-LOW3UQ7kNvwFl_VpL&_nc_oc=AdlNTpKnnIxVUAUs9-Q7Qw2w22OcLHZaa9uMdNffUCrFfcgWbeBU1wFnDyuPKHA026k&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=AyrQ-4YUonK7KVrEHP1K4g&_nc_ss=8&oh=00_AfycEd4NG2ZDHVTah8GOSdFoVH-qWgHp5A-Qp2Fk3l6HZw&oe=69C953F7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2656,7 +2652,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwEWywA8&_nc_oc=AdksbNJO6vFh3djcVz36yhTQJSeawDvZFpBM5hskT3S9emHaXrkBPmrOXRbzChlnjqA&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=a6e3m6CUr54LZRO_FQdkUQ&_nc_ss=8&oh=00_AfzHhtiBBWno-awLLRuqxSxzgPYJqVOBY8OUsBNSPWoinA&oe=69C93817",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwHwekkB&_nc_oc=AdkRuwX4hTXmhCYkAMxGPDSnXMnMao_rxkuVPXzqv7ALPp7IcFN2DBzudAFl8wmfJFw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=HES0am3BV3l2mTYhXZ-4TA&_nc_ss=8&oh=00_AfyGaQ69mWCF86k62Mn0BSrNPQd-UQ4Oxlp5LBDUlFUEXQ&oe=69C93817",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2840,7 +2836,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwEgL7nM&_nc_oc=AdlszrmavHPoF0tSGJCwLRvJsEQu5BA4oCOI0C5QXnSRaSVI8KlKh3lc0dSQ5lcnw3Y&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=Sf-6awObZupceWRSInfL3g&_nc_ss=8&oh=00_AfyHai7vP5npUAtT81TP8FlKAVRhWmuYuaXFOTuWwomrVA&oe=69C935DB",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwFijc0M&_nc_oc=AdkqUED7Z-NNyH6RHBjbq_WpkyNoOO_zngn8VytxLZDH3NyTSndkN04YhX-hHciBWe4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=jzDJ7E8r82usSEW7_bizAg&_nc_ss=8&oh=00_AfxtbT3WeDtwUDtUW-X6npb4djhUXQM5y2x6wX4flPAZNw&oe=69C935DB",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3609,7 +3605,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=AlO1JXBZ5b4Q7kNvwHnksG8&_nc_oc=AdnD13gJu6VUrYtHIjY7P_-wF-ZxgYSp1y0OyPKiI66Q-nF-J4RJM8BXq5ZF2iAVaV8&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=aIcs0eNRzTdEJEEvIVxf7A&_nc_ss=8&oh=00_Afy8CU3nPt9CjIR9t5AeywLYCYN_HvdZGPorjLz5Qb6I-w&oe=69C95B6B",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=AlO1JXBZ5b4Q7kNvwHxBXQ5&_nc_oc=AdmZgRAWjnY9qbLrBGl1NQCoim45ExBlnNR_teH4Numm70PxauG9ch70gDNUbFklAG0&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=_T0OEUg7KOVR7bwZ_lUykA&_nc_ss=8&oh=00_AfznfAg8dxXu19G3fzSUW0IaCqlxEjQt_WSgeBtYvn22eA&oe=69C95B6B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
@@ -4143,6 +4139,18 @@
     "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
     "tag": "Release",
     "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies."
+  },
+  {
+    "id": "https://huggingface.co/blog/lerobot-release-v050",
+    "company": "Hugging Face",
+    "title": "LeRobot v0.5.0: Scaling Every Dimension",
+    "date": "2025-10-29T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/lerobot-release-v050",
+    "tag": "Engineering",
+    "summary": "LeRobot v0.5.0 adds full Unitree G1 humanoid support (whole-body control models), new policies –including Pi0-FAST autoregressive VLAs and Real-Time Chunking...",
+    "image": "https://huggingface.co/blog/assets/lerobot-release-v050/thumbnail.png",
+    "title_ar": "LeRobot v0.5.0: توسيع نطاق Every Dimension",
+    "summary_ar": "LeRobot v0.5.0 adds full Unitree G1 humanoid support (whole-body control models), جديد policies –including Pi0-FAST autoregressive VLAs and Real-Time Chunking..."
   },
   {
     "id": "https://huggingface.co/blog/lerobotxnvidia-healthcare",
