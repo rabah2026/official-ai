@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/removing-the-guesswork-from-disaggregated-serving/",
+    "company": "NVIDIA",
+    "title": "Removing the Guesswork from Disaggregated Serving",
+    "date": "2026-03-09T16:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/removing-the-guesswork-from-disaggregated-serving/",
+    "tag": "Pricing",
+    "summary": "Deploying and optimizing large language models (LLMs) for high-performance, cost-effective serving can be an overwhelming engineering problem.",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/genai-mixture-of-experts-blog-3105601-1920x1080-1.webp",
+    "title_ar": "تحديث رسمي: Removing the Guesswork from Disaggregated Serving",
+    "summary_ar": "Deploying and optimizing large لغة models (LLMs) for high-أداء, cost-effective serving can be an overwhelming هندسة problem."
+  },
+  {
     "id": "https://huggingface.co/blog/moe-transformers",
     "company": "Hugging Face",
     "title": "Mixture of Experts (MoEs) in Transformers",
@@ -1270,10 +1282,7 @@
     "date": "2026-02-17T18:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
     "tag": "Engineering",
-    "summary": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/retrieval-augmented-generation.png",
-    "title_ar": "Build AI-Ready Knowledge Systems Using 5 Essential متعدد الأنماط RAG Capabilities",
-    "summary_ar": "مؤسسات data is inherently complex: real-world documents are متعدد الأنماط, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms…"
+    "summary": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages,"
   },
   {
     "id": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
@@ -1457,7 +1466,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=coLMlhFnL38Q7kNvwGCnR8m&_nc_oc=AdltTtR10tMEnz4PZzf6Gv-Y5_gYKNBS7jtdKvDYM9jlaGmDEzgxgOfW9IVFIjfJ5D0&_nc_zt=14&_nc_ht=scontent-sin6-2.xx&_nc_gid=MF3thlIzynLrVwb3QRH1mQ&_nc_ss=8&oh=00_AfyFCWzxallP3R5UOEW_MjyYDmOhjlhByOfHVZnIS2vw1Q&oe=69C9127F",
+    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=coLMlhFnL38Q7kNvwGrAIMw&_nc_oc=AdmuiUp93CWSsYz75qBTpRigIgWxw6J0FADupt6wDK5nUrusJZ0fXrQ2PwGgBDA3FbE&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=OwudrPaFxkbXmejFentivQ&_nc_ss=8&oh=00_AfxYWuR-hdpQB1V2p5cevmmMaNsPxybS6WmLD2Jw5DGH3A&oe=69C94ABF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2618,7 +2627,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=5BC1H-LOW3UQ7kNvwEvnBcC&_nc_oc=AdnLGuP-6NGWVjsItGG83V_HQVJddoA0xFrdFmEnKsD-niPxWrTqDUkt-h2Gom98Qy4&_nc_zt=14&_nc_ht=scontent-sin6-2.xx&_nc_gid=dU8W-qZunh2yCe04dJIjaA&_nc_ss=8&oh=00_AfyJtB3sOUvQfQHiWJOsYOYxuGWUXYY-tpQGKDo9tnYExg&oe=69C91BB7",
+    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=5BC1H-LOW3UQ7kNvwEB2QgF&_nc_oc=AdmvlPGUk4spmPggVMOjdjb8zJN3UNySQRzrbw28XbEf8HQRM1696ur1fTx3aFeddB0&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=mbPDI0LK09BFKBODqcTmmg&_nc_ss=8&oh=00_AfwrADm32fcH6uU1TuMacrS1S-2qPIAGsJ-HzrOs-3DQfg&oe=69C953F7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2630,7 +2639,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-sin6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwEKsTNd&_nc_oc=Admqnc6IK_CZKTNsbGIpuFKcNufjjNzhz3rB08CvsQtMWtbSUuaII7-7xMUQk3uZB7s&_nc_zt=14&_nc_ht=scontent-sin6-1.xx&_nc_gid=DnhWSgdBNab7VOJBU7pJ3Q&_nc_ss=8&oh=00_Afw8BNCM5Qflm7pibbQhuBcwxgLb6pMHdSG-rUCnRERSDQ&oe=69C93817",
+    "image": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwFZBHu2&_nc_oc=AdlyhcCPMlf2JICY9PmHRTe0DqX8_hL8bczBQJxd7wBaQboSfDxesJAqBm29KfICbFk&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=iW8gtuZWBJRBzLNDlq2xnA&_nc_ss=8&oh=00_AfycRJ7iEzS5KWo3ULemOSwYDa_6Hu08vjJe2KiH1hXBeQ&oe=69C93817",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2814,7 +2823,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwGCKKyC&_nc_oc=Adn5XCVa0OANY2yMpc8821jpK3W3co4hWvc3tHT5oiR4dQvvOrzG1UADAFsSynezHok&_nc_zt=14&_nc_ht=scontent-sin6-3.xx&_nc_gid=BGKFnYCgdfYvYFga5-dtFg&_nc_ss=8&oh=00_Afyop8toGAxQvOlOm4Uf5Tm_3pStYUcaedp5REi7ZJIbUg&oe=69C935DB",
+    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwGPr9p0&_nc_oc=AdnkNumIfeNHYFo859hftycNUl8lrF-5xysYixBY52Sy4hz6z0hN8a-wLa3eciozcxg&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=9M0nK5l9c9ogdieEQyEpuw&_nc_ss=8&oh=00_AfwLGTkXRqedB-t5rebzDDxbeUMx7KsrbLDiXT4zMIzaeg&oe=69C935DB",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -2854,15 +2863,6 @@
     "tag": "Research"
   },
   {
-    "id": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
-    "company": "NVIDIA",
-    "title": "Inside NVIDIA Nemotron 3: Techniques, Tools, and Data That Make It Efficient and Accurate",
-    "date": "2025-12-15T14:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
-    "tag": "Engineering",
-    "summary": "Agentic AI systems increasingly rely on collections of cooperating agents—retrievers, planners, tool executors, verifiers—working together across larg"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
     "company": "NVIDIA",
     "title": "How to Train Scientific Agents with Reinforcement Learning",
@@ -2870,6 +2870,15 @@
     "url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
     "tag": "Engineering",
     "summary": "The scientific process can be repetitive and tedious, with researchers spending hours digging through papers, managing experiment workflows, or wrangl"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
+    "company": "NVIDIA",
+    "title": "Inside NVIDIA Nemotron 3: Techniques, Tools, and Data That Make It Efficient and Accurate",
+    "date": "2025-12-15T14:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
+    "tag": "Engineering",
+    "summary": "Agentic AI systems increasingly rely on collections of cooperating agents—retrievers, planners, tool executors, verifiers—working together across larg"
   },
   {
     "id": "https://developer.nvidia.com/blog/enabling-horizontal-autoscaling-of-enterprise-rag-components-on-kubernetes/",
@@ -3392,15 +3401,6 @@
     "summary": "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward a"
   },
   {
-    "id": "https://developer.nvidia.com/blog/how-to-scale-data-generation-for-physical-ai-with-the-nvidia-cosmos-cookbook/",
-    "company": "NVIDIA",
-    "title": "How to Scale Data Generation for Physical AI with the NVIDIA Cosmos Cookbook",
-    "date": "2025-12-01T17:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/how-to-scale-data-generation-for-physical-ai-with-the-nvidia-cosmos-cookbook/",
-    "tag": "Engineering",
-    "summary": "Building powerful physical AI models requires diverse, controllable, and physically-grounded data at scale. Collecting large-scale, diverse real-world"
-  },
-  {
     "id": "https://openai.com/index/ai-mental-health-research-grants",
     "company": "OpenAI",
     "title": "Funding grants for new research into AI and mental health",
@@ -3601,7 +3601,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-sin2-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=AlO1JXBZ5b4Q7kNvwH2B6UX&_nc_oc=Adnc_91AbYt0FJpk1OTtqIJ5emj_Euher_CsJO9nFeHWeY62Mkdwx4CIx5o0Xq2zRQE&_nc_zt=14&_nc_ht=scontent-sin2-1.xx&_nc_gid=UycntErVlePT_GqgcULkrA&_nc_ss=8&oh=00_AfyXVL9TuLkcdcNQIpvZTgC1hykGUK6kZKt0cbqhc9pvTA&oe=69C9232B",
+    "image": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=AlO1JXBZ5b4Q7kNvwF5gbbh&_nc_oc=AdkbQnO5KXgF4aRp4M671dP_TtgljMVslfiDjGIXhDllv4yUXHovSyx2turC1EHNRXA&_nc_zt=14&_nc_ht=scontent-lhr6-2.xx&_nc_gid=JGOssHwvIz05lKXO4U408w&_nc_ss=8&oh=00_AfxvpVH5cda4VQYgcIVMTrI7Ueyq4pf4Tvd1QDXpeCFO5A&oe=69C9232B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
