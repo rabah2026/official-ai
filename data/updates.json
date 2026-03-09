@@ -1,5 +1,29 @@
 [
   {
+    "id": "0033d79c2e4120d07a0a30ce63e53ccca50a2414",
+    "company": "Amazon",
+    "title": "Run NVIDIA Nemotron 3 Nano as a fully managed serverless model o",
+    "date": "2026-03-09T20:48:46.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-nano-as-a-fully-managed-serverless-model-on-amazon-bedrock/",
+    "tag": "Release",
+    "summary": "We are excited to announce that NVIDIA’s Nemotron 3 Nano is now available as a fully managed and serverless model in Amazon Bedrock. This follows our earlier...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/09/ML-20305-1120x630.png",
+    "title_ar": "Run NVIDIA Nemotron 3 Nano as a fully managed serverless نموذج o",
+    "summary_ar": "We are excited to announce that NVIDIA’s Nemotron 3 Nano is now available as a fully managed and serverless نموذج in Amazon Bedrock. This follows our earlier..."
+  },
+  {
+    "id": "801637a0574ee0f1a31ce0533191d56ed5333501",
+    "company": "Amazon",
+    "title": "Access Anthropic Claude models in India o",
+    "date": "2026-03-09T20:44:13.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/access-anthropic-claude-models-in-india-on-amazon-bedrock-with-global-cross-region-inference/",
+    "tag": "Docs",
+    "summary": "In this post, you will discover how to use Amazon Bedrock's Global cross-Region Inference for Claude models in India. We will guide you through the capabilit...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/09/ml-20095-1120x630.png",
+    "title_ar": "تحديث رسمي: Access Anthropic Claude models in India o",
+    "summary_ar": "In this post, you will discover كيفية use Amazon Bedrock's عالمي cross-Region استنتاج for Claude models in India. We will guide you through the capabilit..."
+  },
+  {
     "id": "https://developer.nvidia.com/blog/implementing-falcon-h1-hybrid-architecture-in-nvidia-megatron-core/",
     "company": "NVIDIA",
     "title": "Implementing Falcon-H1 Hybrid Architecture i",
@@ -884,26 +908,20 @@
   {
     "id": "61a60ca498d929c7ad189e9f5d619a92ba5ff859",
     "company": "Amazon",
-    "title": "Efficiently serve dozens of fine-tuned models with vLLM o",
+    "title": "Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock",
     "date": "2026-02-25T20:56:13.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/",
-    "tag": "Engineering",
-    "summary": "In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations we perf...",
-    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/25/ML-20205-1120x630.png",
-    "title_ar": "تحديث رسمي: Efficiently serve dozens of fine-tuned models with vLLM o",
-    "summary_ar": "In this post, we explain how we implemented multi-LoRA استنتاج for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations we perf..."
+    "tag": "News",
+    "summary": "In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations "
   },
   {
     "id": "a924887ed9c94798cb934925ac949c00aea76df4",
     "company": "Amazon",
-    "title": "Building intelligent event agents usin",
+    "title": "Building intelligent event agents using Amazon Bedrock AgentCore and Amazon Bedrock Knowledge Bases",
     "date": "2026-02-25T19:51:08.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/",
     "tag": "Engineering",
-    "summary": "This post demonstrates how to quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intelligent ...",
-    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/25/ml-19838-1120x630.png",
-    "title_ar": "بناء intelligent event agents usin",
-    "summary_ar": "This post demonstrates كيفية quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intelligent ..."
+    "summary": "This post demonstrates how to quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intel"
   },
   {
     "id": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
@@ -1015,24 +1033,6 @@
     "url": "https://aws.amazon.com/blogs/machine-learning/train-codefu-7b-with-verl-and-ray-on-amazon-sagemaker-training-jobs/",
     "tag": "News",
     "summary": "In this post, we demonstrate how to train CodeFu-7B, a specialized 7-billion parameter model for competitive programming, using Group Relative Policy "
-  },
-  {
-    "id": "5092e0bb8e9676f66fd549cc8435fceeb222c9c3",
-    "company": "Amazon",
-    "title": "Generate structured output from LLMs with Dottxt Outlines in AWS",
-    "date": "2026-02-24T15:42:34.000Z",
-    "url": "https://aws.amazon.com/blogs/machine-learning/generate-structured-output-from-llms-with-dottxt-outlines-in-aws/",
-    "tag": "News",
-    "summary": "This post explores the implementation of Dottxt’s Outlines framework as a practical approach to implementing structured outputs using AWS Marketplace "
-  },
-  {
-    "id": "0b34c447d2a1aebf45620c1c5759bbeb5ea5d5be",
-    "company": "Amazon",
-    "title": "Global cross-Region inference for latest Anthropic Claude Opus, Sonnet and Haiku models on Amazon Bedrock in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
-    "date": "2026-02-24T15:38:22.000Z",
-    "url": "https://aws.amazon.com/blogs/machine-learning/global-cross-region-inference-for-latest-anthropic-claude-opus-sonnet-and-haiku-models-on-amazon-bedrock-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
-    "tag": "Engineering",
-    "summary": "In this post, we are exciting to announce availability of Global CRIS for customers in Thailand, Malaysia, Singapore, Indonesia, and Taiwan and give a"
   },
   {
     "id": "https://openai.com/index/arvind-kc-chief-people-officer",
@@ -1504,7 +1504,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=coLMlhFnL38Q7kNvwF07vu4&_nc_oc=AdmTeM0AVAH2tRFTiSNGYkOJsGyx14zdeLABLas-2YFeZxuIDq8THQGtzVqo4lrL2Fk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=tHhY-aB3yclbphpnW2kJKQ&_nc_ss=8&oh=00_Afx7gnf4dPqPDaiY0C_nvr3KG7s2DuI264rLzX4bQbGDnA&oe=69C982FF",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=coLMlhFnL38Q7kNvwHvsz2V&_nc_oc=Adn6v4T7e3OstbIMPJXKtCi1E19AhmBw2wvSTnbezqdp_mtKLEomqHCXje8-yGEdO7c&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=vKcpdemOHb1WHx-uVG1w9Q&_nc_ss=8&oh=00_Afxoviz0uBIXfK5m9MaRpiIK31Y31QcnBW-4HapW7XZcCQ&oe=69C982FF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2653,7 +2653,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=5BC1H-LOW3UQ7kNvwEaqvNm&_nc_oc=AdmJz6fRMoFrzEcseD-LYYJVQLncvSVxfo8sCabrEpJLXurGONF1c2JSs1aHiL7FLeU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hoV0RgGFWY90yE2T3F4P9Q&_nc_ss=8&oh=00_AfzjfQnaB9Q963eECZFAgrbo44ONEVzyHcsbbw8pjO5HcA&oe=69C953F7",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=5BC1H-LOW3UQ7kNvwFRyxns&_nc_oc=AdnS3WXMSl-vQzPYKA_Oo30DN-gl_eMnKL2SUWmv2Lo7tbT2l7b5BdAGn2rF51Y-Ny8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DVoi7q3u9z6-9pUgdZQ-2A&_nc_ss=8&oh=00_AfxRaWb271dbHfRJwQKf1t_ciGqQKQOoMdHmKTdY9BpTyA&oe=69C98C37",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2665,7 +2665,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwHKmTKi&_nc_oc=AdnMGwtVZoz2KrmfdbCeoHoE0f5tuNwAFhSSge7vq7v9Ee6liwZWbHs_iUTsx1uf5CI&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=ThO8CMPnv5g7ZK3afhrhzQ&_nc_ss=8&oh=00_Afxrdd-yHQEtuMk1UukKixMz5EvA_vKB8Tui0Toch2SzFA&oe=69C97057",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwF2tdaz&_nc_oc=AdnCFNwg_gqm6a0mNFKL1953SvdDQBHH9J6urq9ibpE5hIfSwjs_yJp0b2piNQ9yEEM&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=aCLyZ1g18mNRQD42V-OQhA&_nc_ss=8&oh=00_AfwGGulX98peEIn1_Jjazh7oVXAPyPbaWKzx5YyiUA9zng&oe=69C97057",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2849,7 +2849,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwGO0XqY&_nc_oc=AdmzcEdfKFj7Ry7LDW5JAOOim2DbQ6iM4Upjx7QHbpdHU6yUdoZgTp23uMlXx61rJ0E&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=DemFWx5zns6pejroG0H4Gw&_nc_ss=8&oh=00_AfwbIPlsdYxX6HK3ISMh8huapb0Te4B6Doj3ktX_4IEpEw&oe=69C96E1B",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwE-9bNG&_nc_oc=Adm83HOmZDTVvJznjx6mPpvCxDKD3YMiQPz7UJC43FDFTrzzsS32ZvwM22CL3TLZRWo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=uXDjSV5Cap9AzOsSAwngtw&_nc_ss=8&oh=00_AfzpSo75GkEhCAeDUIeQO10qP7XAMPvVuZQ4ojmLk5uH2g&oe=69C96E1B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3609,7 +3609,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=M5YaYk8wufIQ7kNvwGGHG_v&_nc_oc=Adlw888rRmBskFYX6e100c6XNZfhqoRIT6hKYAvcD-zo6mJ8A8okGSIuNsSIMAWUD1Y&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=EilGTdBRlrScFjvXKnWU4A&_nc_ss=8&oh=00_AfwnzOboowzYsXhb9nXev8xi_nH2e3Wpe3MTIqC9ELs6KA&oe=69C95B6B",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=M5YaYk8wufIQ7kNvwGL4Nq6&_nc_oc=Adm6y-S0noj0HexK8QDuwnQn3aePg_87-t0i4DJRlTxxrEPSNIhvyVjhpVoS3pOjw2Q&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=batMBBTw5DPW4i8v6VeV9A&_nc_ss=8&oh=00_AfymhkDXBt2F7jiYaWM4SZXYb7nGGpe4C6D5VdXb_dYi_Q&oe=69C95B6B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
