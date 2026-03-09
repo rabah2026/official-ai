@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/cuda-13-2-introduces-enhanced-cuda-tile-support-and-new-python-features/",
+    "company": "NVIDIA",
+    "title": "CUDA 13.2 Introduces Enhanced CUDA Tile Support and New Python Features",
+    "date": "2026-03-09T21:13:18.000Z",
+    "url": "https://developer.nvidia.com/blog/cuda-13-2-introduces-enhanced-cuda-tile-support-and-new-python-features/",
+    "tag": "Engineering",
+    "summary": "CUDA 13.2 arrives with a major update: NVIDIA CUDA Tile is now supported on devices of compute capability 8.X architectures (NVIDIA Ampere and NVIDIA Ada)…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/cube.png",
+    "title_ar": "CUDA 13.2 Introduces Enhanced CUDA Tile Support and جديد Python Features",
+    "summary_ar": "CUDA 13.2 arrives with a major تحديث: NVIDIA CUDA Tile is now supported on devices of حوسبة capability 8.X architectures (NVIDIA Ampere and NVIDIA Ada)…"
+  },
+  {
     "id": "0033d79c2e4120d07a0a30ce63e53ccca50a2414",
     "company": "Amazon",
     "title": "Run NVIDIA Nemotron 3 Nano as a fully managed serverless model o",
@@ -216,18 +228,6 @@
     "summary_ar": "تحديث رسمي: Learn more about AI Mode in Search’s query fan-out method for visual search."
   },
   {
-    "id": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
-    "company": "NVIDIA",
-    "title": "Tuning Flash Attention for Peak Performance i",
-    "date": "2026-03-05T17:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
-    "tag": "Engineering",
-    "summary": "In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: Environment requirements: See the quickstart…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/CUDA-Tile-Flash-Attention.webp",
-    "title_ar": "Tuning Flash Attention for Peak أداء i",
-    "summary_ar": "تحديث رسمي: In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: Environment requirements: See the quickstart…"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/controlling-floating-point-determinism-in-nvidia-cccl/",
     "company": "NVIDIA",
     "title": "Controlling Floating-Point Determinism i",
@@ -238,6 +238,18 @@
     "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Floating-Point-CUB.webp",
     "title_ar": "تحديث رسمي: Controlling Floating-Point Determinism i",
     "summary_ar": "تحديث رسمي: A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property…"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
+    "company": "NVIDIA",
+    "title": "Tuning Flash Attention for Peak Performance i",
+    "date": "2026-03-05T17:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
+    "tag": "Engineering",
+    "summary": "In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: Environment requirements: See the quickstart…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/CUDA-Tile-Flash-Attention.webp",
+    "title_ar": "Tuning Flash Attention for Peak أداء i",
+    "summary_ar": "تحديث رسمي: In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: Environment requirements: See the quickstart…"
   },
   {
     "id": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
@@ -1223,14 +1235,11 @@
   {
     "id": "https://developer.nvidia.com/blog/unlock-massive-token-throughput-with-gpu-fractioning-in-nvidia-runai/",
     "company": "NVIDIA",
-    "title": "Unlock Massive Token Throughput with GPU Fractioning i",
+    "title": "Unlock Massive Token Throughput with GPU Fractioning in NVIDIA Run:ai",
     "date": "2026-02-18T18:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/unlock-massive-token-throughput-with-gpu-fractioning-in-nvidia-runai/",
     "tag": "Engineering",
-    "summary": "As AI workloads scale, achieving high throughput, efficient resource usage, and predictable latency becomes essential. NVIDIA Run:ai addresses these challenges…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/06/run-ai-featured.png",
-    "title_ar": "تحديث رسمي: Unlock Massive Token Throughput with GPU Fractioning i",
-    "summary_ar": "تحديث رسمي: As AI workloads scale, achieving high throughput, efficient resource usage, and predictable latency becomes essential. NVIDIA Run:ai addresses these challenges…"
+    "summary": "As AI workloads scale, achieving high throughput, efficient resource usage, and predictable latency becomes essential. NVIDIA Run:ai addresses these c"
   },
   {
     "id": "https://developer.nvidia.com/blog/topping-the-gpu-mode-kernel-leaderboard-with-nvidia-cuda-compute/",
@@ -1504,7 +1513,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=coLMlhFnL38Q7kNvwHvsz2V&_nc_oc=Adn6v4T7e3OstbIMPJXKtCi1E19AhmBw2wvSTnbezqdp_mtKLEomqHCXje8-yGEdO7c&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=vKcpdemOHb1WHx-uVG1w9Q&_nc_ss=8&oh=00_Afxoviz0uBIXfK5m9MaRpiIK31Y31QcnBW-4HapW7XZcCQ&oe=69C982FF",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=coLMlhFnL38Q7kNvwGe5vrU&_nc_oc=AdnMgrUXFuaXCmmakgvNvUFRDH19756lgPI7XmEG3-P7BQgbhGdv5qqRM6omkLRuSvY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=cvtqrlnCMri1ipwBDbBPmQ&_nc_ss=8&oh=00_AfzUgsxiO-Kt0__en_oSZyURIhs3bZJt_roWLnKJDIUYMg&oe=69C982FF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2653,7 +2662,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=5BC1H-LOW3UQ7kNvwFRyxns&_nc_oc=AdnS3WXMSl-vQzPYKA_Oo30DN-gl_eMnKL2SUWmv2Lo7tbT2l7b5BdAGn2rF51Y-Ny8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DVoi7q3u9z6-9pUgdZQ-2A&_nc_ss=8&oh=00_AfxRaWb271dbHfRJwQKf1t_ciGqQKQOoMdHmKTdY9BpTyA&oe=69C98C37",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=5BC1H-LOW3UQ7kNvwG2etXy&_nc_oc=Adl6CJodp6l_xNtuzjYn4KxXtTAYgs2ze43UMaguh6NTf_qdsby0U2pU5aCgIclJjrc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MFB9VkG2UkdAJuYb9NGfrw&_nc_ss=8&oh=00_Afz94z4BSGB0fCvw7ESkMrCe8tVKuzxcaY_Anq07qt4hrA&oe=69C98C37",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2665,7 +2674,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwF2tdaz&_nc_oc=AdnCFNwg_gqm6a0mNFKL1953SvdDQBHH9J6urq9ibpE5hIfSwjs_yJp0b2piNQ9yEEM&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=aCLyZ1g18mNRQD42V-OQhA&_nc_ss=8&oh=00_AfwGGulX98peEIn1_Jjazh7oVXAPyPbaWKzx5YyiUA9zng&oe=69C97057",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwGSQqy7&_nc_oc=Adlzyn-02FFOcU5yRSs0zomhQrN_XIqWtPjaT8hAZiwSc8coiMDgUP_9MpvqwV9vzGQ&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=nxZIRLlcF7H-SqaPFPWekA&_nc_ss=8&oh=00_Afz6KcNqmdYnP8Mij2SHO0iwgnDB3MOU_mauJbjACOmjdA&oe=69C97057",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2849,7 +2858,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwE-9bNG&_nc_oc=Adm83HOmZDTVvJznjx6mPpvCxDKD3YMiQPz7UJC43FDFTrzzsS32ZvwM22CL3TLZRWo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=uXDjSV5Cap9AzOsSAwngtw&_nc_ss=8&oh=00_AfzpSo75GkEhCAeDUIeQO10qP7XAMPvVuZQ4ojmLk5uH2g&oe=69C96E1B",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwGAf0S8&_nc_oc=Adkiz7ybxm-nJRemKsOyvbRsHX_D8tJ97xtN-yQzzOh4JpTdTIxe-kNPCmI05mDH5WY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=aCuPpWef_73zQbxk5rKBsw&_nc_ss=8&oh=00_AfyIAnuVYsKlcrgt5QWyZAvVBqB0MKix3bCAABei6KvL7w&oe=69C96E1B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -2889,15 +2898,6 @@
     "tag": "Research"
   },
   {
-    "id": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
-    "company": "NVIDIA",
-    "title": "Inside NVIDIA Nemotron 3: Techniques, Tools, and Data That Make It Efficient and Accurate",
-    "date": "2025-12-15T14:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
-    "tag": "Engineering",
-    "summary": "Agentic AI systems increasingly rely on collections of cooperating agents—retrievers, planners, tool executors, verifiers—working together across larg"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
     "company": "NVIDIA",
     "title": "How to Train Scientific Agents with Reinforcement Learning",
@@ -2905,6 +2905,15 @@
     "url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
     "tag": "Engineering",
     "summary": "The scientific process can be repetitive and tedious, with researchers spending hours digging through papers, managing experiment workflows, or wrangl"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
+    "company": "NVIDIA",
+    "title": "Inside NVIDIA Nemotron 3: Techniques, Tools, and Data That Make It Efficient and Accurate",
+    "date": "2025-12-15T14:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/",
+    "tag": "Engineering",
+    "summary": "Agentic AI systems increasingly rely on collections of cooperating agents—retrievers, planners, tool executors, verifiers—working together across larg"
   },
   {
     "id": "https://developer.nvidia.com/blog/enabling-horizontal-autoscaling-of-enterprise-rag-components-on-kubernetes/",
@@ -3391,15 +3400,6 @@
     "summary": "The new Mistral 3 open model family delivers industry-leading accuracy, efficiency, and customization capabilities for developers and enterprises. Opt"
   },
   {
-    "id": "https://developer.nvidia.com/blog/aws-integrates-ai-infrastructure-with-nvidia-nvlink-fusion-for-trainium4-deployment/",
-    "company": "NVIDIA",
-    "title": "AWS Integrates AI Infrastructure with NVIDIA NVLink Fusion for Trainium4 Deployment",
-    "date": "2025-12-02T16:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/aws-integrates-ai-infrastructure-with-nvidia-nvlink-fusion-for-trainium4-deployment/",
-    "tag": "Engineering",
-    "summary": "As demand for AI continues to grow, hyperscalers are looking for ways to accelerate deployment of specialized AI infrastructure with the highest perfo"
-  },
-  {
     "id": "https://openai.com/index/mirakl",
     "company": "OpenAI",
     "title": "Inside Mirakl's agentic commerce vision",
@@ -3609,7 +3609,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=M5YaYk8wufIQ7kNvwGL4Nq6&_nc_oc=Adm6y-S0noj0HexK8QDuwnQn3aePg_87-t0i4DJRlTxxrEPSNIhvyVjhpVoS3pOjw2Q&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=batMBBTw5DPW4i8v6VeV9A&_nc_ss=8&oh=00_AfymhkDXBt2F7jiYaWM4SZXYb7nGGpe4C6D5VdXb_dYi_Q&oe=69C95B6B",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=M5YaYk8wufIQ7kNvwFbFOP1&_nc_oc=AdlSMyctYCxCXzhmbAHk4UZRdXqKVwU7l-yonsTi_bdA8-EYgbM4sp4wjxv4At1_wG8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=f8CQL1aurMekvktEmHFGKw&_nc_ss=8&oh=00_AfzuowehCjNAEWzA0GUT0evLuzY31KgnHtAY_YjJU7Bauw&oe=69C993AB",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
