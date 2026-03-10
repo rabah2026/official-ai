@@ -1167,6 +1167,18 @@
     "summary_ar": "Claude Code أمن is one step towards our goal of more secure codebases and a higher أمن baseline across the industry."
   },
   {
+    "id": "https://huggingface.co/blog/async-rl-training-landscape",
+    "company": "Hugging Face",
+    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+    "date": "2026-02-20T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/async-rl-training-landscape",
+    "tag": "News",
+    "summary": "Async RL training has emerged as the dominant paradigm for post-training at scale. Several trends in modern post-training have made synchronous training loop...",
+    "image": "https://huggingface.co/blog/assets/async-rl-landscape/thumbnail.png",
+    "title_ar": "تحديث رسمي: Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+    "summary_ar": "Async RL تدريب has emerged as the dominant paradigm for post-تدريب at scale. Several trends in modern post-تدريب have made synchronous تدريب loop..."
+  },
+  {
     "id": "https://developer.nvidia.com/blog/accelerating-data-processing-with-nvidia-multi-instance-gpu-and-numa-node-localization/",
     "company": "NVIDIA",
     "title": "Accelerating Data Processing wit",
@@ -1513,7 +1525,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwHudqIL&_nc_oc=AdkTdcSodOTdtOpyT6NtwEdPNYpOci_iLe5b6ZDieiDQNii8OXxkHcIIaRsZ3vLdmi8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Hj6jOd7qCe1uNLBFgbDIsg&_nc_ss=8&oh=00_AfzoA2xfEl76hRv4BK6uXbXEvGiL_ZiFaVhufEKfaLX1dg&oe=69CA2BBF",
+    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwGqJJMR&_nc_oc=Adk8PJNyk9Pz5lRvWTjJMqpl9gJOYcVeCacZgV9VlsNrOVWG1dRXpky3Hb43ABTnd4E&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=YEjDhpIzvXfb0GuMSfMZng&_nc_ss=8&oh=00_AfyuNCYZCjyMj-TMAc5vuOB7ggwQWDanFDQjxccNmKWpHQ&oe=69CA2BBF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -1536,18 +1548,6 @@
     "summary": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures witho"
   },
   {
-    "id": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
-    "company": "Hugging Face",
-    "title": "Introducing SyGra Studio",
-    "date": "2026-02-06T01:02:32.000Z",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
-    "tag": "News",
-    "summary": "Open Studio, click Create Flow, and Start/End nodes appear automatically. Before adding anything else:",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/603c6bf03249b99991dbcbd0/-W1T8msBfqXne33HFAgp7.png",
-    "title_ar": "نُقدم لكم SyGra Studio",
-    "summary_ar": "تحديث رسمي: Open Studio, click Create Flow, and Start/End nodes appear automatically. Before adding anything else:"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/how-to-build-license-compliant-synthetic-data-pipelines-for-ai-model-distillation/",
     "company": "NVIDIA",
     "title": "How to Build License-Compliant Synthetic Data Pipelines for AI Model Distillation",
@@ -1555,6 +1555,14 @@
     "url": "https://developer.nvidia.com/blog/how-to-build-license-compliant-synthetic-data-pipelines-for-ai-model-distillation/",
     "tag": "Engineering",
     "summary": "Specialized AI models are built to perform specific tasks or solve particular problems. But if you’ve ever tried to fine-tune or distill a domain-spec"
+  },
+  {
+    "id": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+    "company": "Hugging Face",
+    "title": "Introducing SyGra Studio",
+    "date": "2026-02-05T16:52:28.000Z",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+    "tag": "News"
   },
   {
     "id": "https://developer.nvidia.com/blog/how-painkiller-rtx-uses-generative-ai-to-modernize-game-assets-at-scale/",
@@ -2662,7 +2670,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwFuWswv&_nc_oc=AdkqTHkBbxf-JUv9tB3KpMJTVwFQ4cEoPmX3S4knjk48GmJJow9k7lfGuyy6TBj1ruw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Nl4QmjULdegovQCmG16V7A&_nc_ss=8&oh=00_Afx7rPbubn0qkBZ76laS2V2uYDzquIPj7LaXsYRUVt5kfA&oe=69CA34F7",
+    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwE09Ooz&_nc_oc=Adl2XO955sBDqBgj9tJMxenh7w4l1GXTlcQGDER188lTBZMkbzZQ3r5RkU22cKnMDy8&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=IteiJebDHdZWpaTMVWFYVQ&_nc_ss=8&oh=00_AfxCC-lNkp5vzeCLZGafNSjBKO-0VIeeKWkeHv520Y9hBQ&oe=69CA34F7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2674,7 +2682,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwFyFPyQ&_nc_oc=Adl7x9i5tX690NhJDX2ysdgAvkwY0v3HsdNWQ6_PYvqhwghOJXQ3AZ7TZEanwjmD58c&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=dUx3mQi8rFpMA_6qBXIx4w&_nc_ss=8&oh=00_AfxtmZwJQu-b_Tre9Q5sQEkcFN88tOkp4A5Dxn3qtjqwgw&oe=69CA1917",
+    "image": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwGGHAZR&_nc_oc=AdkAlMwFppqhTxcddBVqXvXrla6jfiBye98fbkwkbKxhpr-Sj51k9oYT2qoR6fgsoGU&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=TzIKozjw_eP0-Yek0qrtPQ&_nc_ss=8&oh=00_AfxXD1Nulqisc0qLAvbthO5uiOZGOEm1YNqZ1zO33Ra3JQ&oe=69CA1917",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2858,7 +2866,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwFVHFwU&_nc_oc=AdkzJhRsd3X_jgslVGkS5HV5uybW1UYXOgQwaZe359P6GqoC97N4WY5M5iowcmIQoIs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=PjhpURA_0IY6wBVZRlQwTQ&_nc_ss=8&oh=00_AfyP0Fsu0rHBswdWB9bX-riNUXQoFfYrAHs_xPRdaiI72w&oe=69CA16DB",
+    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwEhpXKU&_nc_oc=AdkTRjVzFQtfJPyKgIAkfPv0fLnq3Wa6Wz5-si03ADjF2pf1SHwD08htaooN0XoGaiE&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=S9-YlYtuLpcIQou_ncaHYw&_nc_ss=8&oh=00_AfxkIQMzhskj8S1zyrrW8eVm7aP0oMzf5dbne4zGQkW6kg&oe=69CA16DB",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3609,7 +3617,7 @@
     "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
     "tag": "News",
     "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=M5YaYk8wufIQ7kNvwEDV5XC&_nc_oc=Adm4qtTpQuF54lAnsqENm54U4xM370UBySJyoKb-IbUFI-ahvu-j1UiISfen4nXo0U8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=G_RPYjc8PJ7dK4X5LYHDxQ&_nc_ss=8&oh=00_Afw1fC123czoAUIEed_O1hy_vxdLXIOMrDivsiC5Wm-e_g&oe=69CA3C6B",
+    "image": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=M5YaYk8wufIQ7kNvwE5SmfV&_nc_oc=AdlVyjSA0-syT6GkeuKBUpdm9XPnWTG2gSY2KeS77RHmXUhOVmKlKvuV6imp8lTVtuo&_nc_zt=14&_nc_ht=scontent-lhr6-2.xx&_nc_gid=Anl1N1FoSEqFqInQo0zwOg&_nc_ss=8&oh=00_AfxYzJ1LGxrw-ne2UdJnnFgwYOTzrmt4xBBeFD0b66Yy3Q&oe=69CA3C6B",
     "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
     "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
