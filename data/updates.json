@@ -48,6 +48,30 @@
     "summary_ar": "Today we announced جديد تجريبي features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — ju..."
   },
   {
+    "id": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "company": "OpenAI",
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "date": "2026-03-10T11:00:00.000Z",
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "tag": "News",
+    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/1uuAgWlWOgYMZuyLDaVFVL/af9711812b0868d52b15270a25f99913/OAI_Reasoning_Models_Struggle_to_Control_their_Chains_of_Thought__and_that%C3%A2__s_Good_SEO_16x9.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Reasoning models struggle to control their chains of thought, and that’s good",
+    "summary_ar": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI سلامة safeguard."
+  },
+  {
+    "id": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+    "company": "OpenAI",
+    "title": "Extending single-minus amplitudes to gravitons",
+    "date": "2026-03-10T11:00:00.000Z",
+    "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+    "tag": "News",
+    "summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/EeranjBSfKC928pggXMwV/617a27a19ab63c20f33b076c2d7ebfc6/Graviton__SEO_card.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Extending single-minus amplitudes to gravitons",
+    "summary_ar": "A جديد preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity."
+  },
+  {
     "id": "https://openai.com/index/codex-security-now-in-research-preview",
     "company": "OpenAI",
     "title": "Codex Security: now in research preview",
@@ -91,7 +115,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=FewaOqmQQn4Q7kNvwGnXaYd&_nc_oc=Adk_dTvPBf_imnIyPcC2mSSQXFmGnRnyA9r9rVAgh-8IM9j4p35F68NJfz9tEeih-nE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=mLhwscYfSPtwIb33-uyKEw&_nc_ss=8&oh=00_Afy_ft88LO53BAs5wJXkafbjUBxIO6KkD09Qppkob8BVvw&oe=69CAA746",
+    "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=FewaOqmQQn4Q7kNvwHjkG79&_nc_oc=AdmnUf46bdpwqha1krlXOZJqE-2_Xdi2DMkQ6ZK9GBdZMcZxBV9T7kfOTc25szVyjxE&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=Rq0bC-nulVgRKgpZS0CL7A&_nc_ss=8&oh=00_AfwOjefQ6XlFFfg_dbPnI5ZWSSliBYQSulOwzjUl__s4kQ&oe=69CAA746",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -264,18 +288,6 @@
     "summary_ar": "Current face فيديو forgery detectors use wide or dual-stream backbones. We show that a single, lightweight fusion of two handcrafted cues…"
   },
   {
-    "id": "semidiscrete-couplings",
-    "company": "Apple",
-    "title": "Flow Matching with Semidiscrete Couplings",
-    "date": "2026-03-06T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/semidiscrete-couplings",
-    "tag": "Research",
-    "summary": "Flow models parameterized as time-dependent velocity fields can generate data from noise by integrating an ODE. These models are often…",
-    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-    "title_ar": "تحديث رسمي: Flow Matching with Semidiscrete Couplings",
-    "summary_ar": "تحديث رسمي: Flow models parameterized as time-dependent velocity fields can generate data from noise by integrating an ODE. These models are often…"
-  },
-  {
     "id": "genctrl",
     "company": "Apple",
     "title": "GenCtrl — A Formal Controllability Toolkit for Generative Models",
@@ -286,6 +298,18 @@
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
     "title_ar": "GenCtrl — A Formal Controllability مجموعة أدوات for Generative Models",
     "summary_ar": "تحديث رسمي: As generative models become ubiquitous, there is a critical need for fine-grained control over the generation process. Yet, while controlled…"
+  },
+  {
+    "id": "semidiscrete-couplings",
+    "company": "Apple",
+    "title": "Flow Matching with Semidiscrete Couplings",
+    "date": "2026-03-06T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/semidiscrete-couplings",
+    "tag": "Research",
+    "summary": "Flow models parameterized as time-dependent velocity fields can generate data from noise by integrating an ODE. These models are often…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: Flow Matching with Semidiscrete Couplings",
+    "summary_ar": "تحديث رسمي: Flow models parameterized as time-dependent velocity fields can generate data from noise by integrating an ODE. These models are often…"
   },
   {
     "id": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
@@ -382,18 +406,6 @@
     "summary_ar": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, سلامة steerability, and resistance to prompt injection attacks."
   },
   {
-    "id": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "company": "OpenAI",
-    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-    "date": "2026-03-05T10:00:00.000Z",
-    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "tag": "News",
-    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/1uuAgWlWOgYMZuyLDaVFVL/af9711812b0868d52b15270a25f99913/OAI_Reasoning_Models_Struggle_to_Control_their_Chains_of_Thought__and_that%C3%A2__s_Good_SEO_16x9.png?w=1600&h=900&fit=fill",
-    "title_ar": "تحديث رسمي: Reasoning models struggle to control their chains of thought, and that’s good",
-    "summary_ar": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI سلامة safeguard."
-  },
-  {
     "id": "https://openai.com/index/gpt-5-4-thinking-system-card",
     "company": "OpenAI",
     "title": "GPT-5.4 Thinking System Card",
@@ -404,18 +416,6 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/5t4zXynvPxIHXdXQMxiAwm/917d03bceb6cc7513cd2b34b7df46fe5/5.4_Thinking_System_Card_SEO.png?w=1600&h=900&fit=fill",
     "title_ar": "GPT-5.4 Thinking نظام Card",
     "summary_ar": "GPT‑5.4 Thinking is the latest reasoning نموذج in the GPT‑5 series, and explained in our blog⁠. The comprehensive سلامة mitigation approach for this نموذج i..."
-  },
-  {
-    "id": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
-    "company": "OpenAI",
-    "title": "Extending single-minus amplitudes to gravitons",
-    "date": "2026-03-05T10:00:00.000Z",
-    "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
-    "tag": "News",
-    "summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/EeranjBSfKC928pggXMwV/617a27a19ab63c20f33b076c2d7ebfc6/Graviton__SEO_card.png?w=1600&h=900&fit=fill",
-    "title_ar": "تحديث رسمي: Extending single-minus amplitudes to gravitons",
-    "summary_ar": "A جديد preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity."
   },
   {
     "id": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
@@ -536,6 +536,15 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/6qY7eyvVrPtwOMwQUPzqOO/55ab458c03157e061c83215cf215e51a/IMG_0185.png?w=1600&h=900&fit=fill",
     "title_ar": "تحديث رسمي: Ensuring AI use in education leads to opportunity",
     "summary_ar": "OpenAI shares جديد tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity."
+  },
+  {
+    "id": "https://openai.com/index/axios-allison-murphy",
+    "company": "OpenAI",
+    "title": "How Axios uses AI to help deliver high-impact local journalism ",
+    "date": "2026-03-04T00:00:00.000Z",
+    "url": "https://openai.com/index/axios-allison-murphy",
+    "tag": "Case Study",
+    "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local jou"
   },
   {
     "id": "https://openai.com/index/understanding-ai-and-learning-outcomes",
@@ -659,16 +668,16 @@
     "summary_ar": "Learn more about Google DeepMind’s Project Genie and كيفية write prompts to create your own worlds."
   },
   {
-    "id": "embridge",
+    "id": "hallucination-span-detection",
     "company": "Apple",
-    "title": "EMBridge: Enhancing Gesture Generalization from EMG Signals through Cross-Modal Representation Learning",
+    "title": "Learning to Reason for Hallucination Span Detection",
     "date": "2026-03-03T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/embridge",
+    "url": "https://machinelearning.apple.com/research/hallucination-span-detection",
     "tag": "Research",
-    "summary": "Hand gesture classification using high-quality structured data such as videos, im-\nages, and hand skeletons is a well-explored problem in…",
+    "summary": "Large language models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…",
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-    "title_ar": "تحديث رسمي: EMBridge: Enhancing Gesture Generalization from EMG Signals through Cross-Modal Representation Learning",
-    "summary_ar": "تحديث رسمي: Hand gesture classification using high-quality structured data such as videos, im-\nages, and hand skeletons is a well-explored problem in…"
+    "title_ar": "تحديث رسمي: Learning to Reason for Hallucination Span Detection",
+    "summary_ar": "Large لغة models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…"
   },
   {
     "id": "separating-intelligence",
@@ -683,16 +692,16 @@
     "summary_ar": "With the increased deployment of large لغة models (LLMs), one concern is their potential misuse for generating harmful content. Our…"
   },
   {
-    "id": "hallucination-span-detection",
+    "id": "embridge",
     "company": "Apple",
-    "title": "Learning to Reason for Hallucination Span Detection",
+    "title": "EMBridge: Enhancing Gesture Generalization from EMG Signals through Cross-Modal Representation Learning",
     "date": "2026-03-03T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/hallucination-span-detection",
+    "url": "https://machinelearning.apple.com/research/embridge",
     "tag": "Research",
-    "summary": "Large language models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…",
+    "summary": "Hand gesture classification using high-quality structured data such as videos, im-\nages, and hand skeletons is a well-explored problem in…",
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-    "title_ar": "تحديث رسمي: Learning to Reason for Hallucination Span Detection",
-    "summary_ar": "Large لغة models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…"
+    "title_ar": "تحديث رسمي: EMBridge: Enhancing Gesture Generalization from EMG Signals through Cross-Modal Representation Learning",
+    "summary_ar": "تحديث رسمي: Hand gesture classification using high-quality structured data such as videos, im-\nages, and hand skeletons is a well-explored problem in…"
   },
   {
     "id": "f9440a66ce67c0bf41d017c8b67e1c92a3d5d6b5",
@@ -1560,7 +1569,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwH4iZfh&_nc_oc=AdkRRsge48pYfxYlt4f0GG4Ij4Y2CwP0gm9y0S-fn4JsP7emYXwPjdwvksnQSbv94Sc&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=Ln2RHxZus67LTHSnOMq2uA&_nc_ss=8&oh=00_AfxIx6XUElxpFhXohgD5l2VqCLEKVJh4r0uB2DC6pQigTQ&oe=69CA9C3F",
+    "image": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwGHaE9h&_nc_oc=AdlE-TVjbdCpNH4LMVyyZzc4R8DuHtCKlvyvfNz-dhSxTnDPRPuPeAdzE49LihL4kuE&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=ECBl0XwqnO7JPc_w9zH9GQ&_nc_ss=8&oh=00_Afy9Ez_EXUm09XvTEPPEsrBHEleBLk5LwmulYghb34mHCw&oe=69CA9C3F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -1696,18 +1705,6 @@
     "url": "https://openai.com/index/unlocking-the-codex-harness",
     "tag": "Engineering",
     "summary": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diff"
-  },
-  {
-    "id": "https://openai.com/index/axios-allison-murphy",
-    "company": "OpenAI",
-    "title": "How Axios uses AI to help deliver high-impact local journalism",
-    "date": "2026-02-04T00:00:00.000Z",
-    "url": "https://openai.com/index/axios-allison-murphy",
-    "tag": "Case Study",
-    "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism...",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4Sy9STpO47cS5wGOZDCUeo/e16403170cddc3cf8608d39ed2fbb250/EF_Ep19_16.9.png?w=1600&h=900&fit=fill",
-    "title_ar": "تحديث رسمي: How Axios uses AI to help deliver high-impact local journalism",
-    "summary_ar": "تقرير جديد حول Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism..."
   },
   {
     "id": "https://openai.com/index/vfl-wolfsburg",
@@ -2713,7 +2710,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwHxI31-&_nc_oc=AdmAWtV-ewIuOj1rCtRvotmeDLnWurgncudCTK49XVGnG_1cGMaYmSej0AVOrvUNf-A&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=xcuiKGqWQSrPfDbwljOopw&_nc_ss=8&oh=00_AfyNJwJ4-DxKV58FMzliOiUZHrOLDseW1sQAY2MbQAZfiw&oe=69CAA577",
+    "image": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwH1qwb8&_nc_oc=Adnm2axzRjNJq7kKJjlL3bx7xv3Meq6APetxOrrPpdwJBsafCD12r5gU0UG3jN4z8Jg&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=Ho3BqznvTtptq22ZHSLzbA&_nc_ss=8&oh=00_AfyT1_lzwnOKnMLr_yrVFrKZSNJ3Z9RgTtPRt4po3U1wiQ&oe=69CAA577",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2725,7 +2722,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwGlkv3u&_nc_oc=AdnHuanDPizxTF44gmx-FUJc-OLyu_NTq24HbEuS3uC4Vir66sRXPQ38u_l8jzDi1a8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=nEfnoL5ay3UJfuZgacEV7Q&_nc_ss=8&oh=00_AfxR5IuYP6RvASk0UQHJ4G08rumIsr4wejXUMdUcvD51jg&oe=69CA8997",
+    "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwGyHJG3&_nc_oc=AdnI0IRCe-XKBhpXTrS3Qisk1ONPVPDGkWUfgLKS1wMK0LLr7tFJF5xTDEjEzomY3e0&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=3kwDErpgDjnEUHeEk0z6gQ&_nc_ss=8&oh=00_AfzA6NpiQfRprMulgZWbQcEp5QO-iadyrsk8-cgUtwvbSQ&oe=69CAC1D7",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2909,7 +2906,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwEYuXpz&_nc_oc=Adl5gJ4KeWodIaOEGyjHXfoYSDyr9jfOsNu9eXYlY9YXIO_uEDiu6a3Y9lTDMvxZpL8&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=GXpgVmu6WYtXDQQ6SZBOYA&_nc_ss=8&oh=00_AfwsB0vuywRQk6K-tifpMtSdnv687NxuS3gG630pXR_CeQ&oe=69CA875B",
+    "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwEUe8cg&_nc_oc=AdnRGBd1AM70NfAyGZCleL-2iHgOHtycOEMmnpVo9AJUpNhx5T3B__SXlS9rQNtN5s0&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=X96-dV7GE2tfukbIfyv2lw&_nc_ss=8&oh=00_Afw9ZLuaXhHFIHJPOXzcKZBE9sjr9b2UXGpIfu1YK3nm9w&oe=69CABF9B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
