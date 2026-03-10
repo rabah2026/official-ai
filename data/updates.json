@@ -115,7 +115,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=FewaOqmQQn4Q7kNvwHq3mNQ&_nc_oc=AdmTUwhZUOL3j7JjjmrchT-VEI8yMuXjU8DzXccrQ8PD-BNyt2nCCTFtHnjBZJdpQnw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=yxHwknClhd6diTpR0QFfXQ&_nc_ss=8&oh=00_AfxFIjRKZ03BNZrf-so41JkvjqYD9pkRppBBZ7MDvvqB-A&oe=69CAA746",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=FewaOqmQQn4Q7kNvwEczOI5&_nc_oc=Adl0zAEv6AHYQ6Ya8ImhrnvnZTma4duyVgiOnBq7_Th3E8PKKDFy-j7imET7bCjHwdU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=U5yR3yf8wLweQ5bMgJlZDg&_nc_ss=8&oh=00_AfxMCcG4sgsX0K2cEwPiqsi1g_2PGOa5jsNURk74RIo1jQ&oe=69CADF86",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -536,6 +536,15 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/6qY7eyvVrPtwOMwQUPzqOO/55ab458c03157e061c83215cf215e51a/IMG_0185.png?w=1600&h=900&fit=fill",
     "title_ar": "تحديث رسمي: Ensuring AI use in education leads to opportunity",
     "summary_ar": "OpenAI shares جديد tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity."
+  },
+  {
+    "id": "https://openai.com/index/axios-allison-murphy",
+    "company": "OpenAI",
+    "title": "How Axios uses AI to help deliver high-impact local journalism ",
+    "date": "2026-03-04T00:00:00.000Z",
+    "url": "https://openai.com/index/axios-allison-murphy",
+    "tag": "Case Study",
+    "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local jou"
   },
   {
     "id": "https://openai.com/index/understanding-ai-and-learning-outcomes",
@@ -1556,7 +1565,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwE61soK&_nc_oc=AdnmdVCyvu_oB-MMwos6RGQyyDiuDxvc7oPLAVwHEo1gN-Eo6pOX42ARHt3-KIH0-t4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=nYCaJyVyVPvmvtFRHoOY9g&_nc_ss=8&oh=00_Afxnl64yyx76ZSdfxaUJUzy8tbQFgotpSUu_FIKtjc1nTQ&oe=69CAD47F",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwFrmqIM&_nc_oc=AdmppWxsvPHokrSIbkq5hoGM2cKM6MsUw99z1eu3TBZZQv1OQ_ITnzelpGdTHM3hY2E&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=aWPSXBhvVIlpvl_-jQ5q7A&_nc_ss=8&oh=00_AfyFJf3BDvXfJTEgdaJb67iL-ZIQVr9XXFpk-p7UWI-xKA&oe=69CAD47F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -1692,18 +1701,6 @@
     "url": "https://openai.com/index/unlocking-the-codex-harness",
     "tag": "Engineering",
     "summary": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diff"
-  },
-  {
-    "id": "https://openai.com/index/axios-allison-murphy",
-    "company": "OpenAI",
-    "title": "How Axios uses AI to help deliver high-impact local journalism",
-    "date": "2026-02-04T00:00:00.000Z",
-    "url": "https://openai.com/index/axios-allison-murphy",
-    "tag": "Case Study",
-    "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism...",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4Sy9STpO47cS5wGOZDCUeo/e16403170cddc3cf8608d39ed2fbb250/EF_Ep19_16.9.png?w=1600&h=900&fit=fill",
-    "title_ar": "تحديث رسمي: How Axios uses AI to help deliver high-impact local journalism",
-    "summary_ar": "تقرير جديد حول Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism..."
   },
   {
     "id": "https://openai.com/index/vfl-wolfsburg",
@@ -1917,15 +1914,6 @@
     "summary": "Advances in AI architectures have unlocked multimodal functionality, enabling transformer models to process multiple forms of data in the same context"
   },
   {
-    "id": "https://openai.com/index/emea-youth-and-wellbeing-grant",
-    "company": "OpenAI",
-    "title": "EMEA Youth & Wellbeing Grant",
-    "date": "2026-01-28T01:00:00.000Z",
-    "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
-    "tag": "News",
-    "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI."
-  },
-  {
     "id": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
     "company": "OpenAI",
     "title": "The next chapter for AI in the EU",
@@ -1933,6 +1921,15 @@
     "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
     "tag": "News",
     "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe"
+  },
+  {
+    "id": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+    "company": "OpenAI",
+    "title": "EMEA Youth & Wellbeing Grant",
+    "date": "2026-01-28T01:00:00.000Z",
+    "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+    "tag": "News",
+    "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI."
   },
   {
     "id": "https://openai.com/index/ai-agent-link-safety",
@@ -2612,15 +2609,6 @@
     "summary_ar": "This year saw جديد AI models, transformative products and جديد breakthroughs in science and robotics."
   },
   {
-    "id": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-    "company": "OpenAI",
-    "title": "Continuously hardening ChatGPT Atlas against prompt injection",
-    "date": "2025-12-22T00:00:00.000Z",
-    "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-    "tag": "News",
-    "summary": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive"
-  },
-  {
     "id": "https://openai.com/index/one-in-a-million-customers",
     "company": "OpenAI",
     "title": "One in a million: celebrating the customers shaping AI’s future",
@@ -2628,6 +2616,15 @@
     "url": "https://openai.com/index/one-in-a-million-customers",
     "tag": "News",
     "summary": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companie"
+  },
+  {
+    "id": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+    "company": "OpenAI",
+    "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+    "date": "2025-12-22T00:00:00.000Z",
+    "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+    "tag": "News",
+    "summary": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive"
   },
   {
     "id": "https://developer.nvidia.com/blog/accelerating-ai-powered-chemistry-and-materials-science-simulations-with-nvidia-alchemi-toolkit-ops/",
@@ -2648,6 +2645,15 @@
     "summary": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findin"
   },
   {
+    "id": "https://openai.com/index/updating-model-spec-with-teen-protections",
+    "company": "OpenAI",
+    "title": "Updating our Model Spec with teen protections",
+    "date": "2025-12-18T11:00:00.000Z",
+    "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
+    "tag": "News",
+    "summary": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance ground"
+  },
+  {
     "id": "https://openai.com/index/us-department-of-energy-collaboration",
     "company": "OpenAI",
     "title": "Deepening our collaboration with the U.S. Department of Energy",
@@ -2666,13 +2672,13 @@
     "summary": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vet"
   },
   {
-    "id": "https://openai.com/index/updating-model-spec-with-teen-protections",
+    "id": "https://openai.com/index/introducing-gpt-5-2-codex",
     "company": "OpenAI",
-    "title": "Updating our Model Spec with teen protections",
-    "date": "2025-12-18T11:00:00.000Z",
-    "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
-    "tag": "News",
-    "summary": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance ground"
+    "title": "Introducing GPT-5.2-Codex",
+    "date": "2025-12-18T00:00:00.000Z",
+    "url": "https://openai.com/index/introducing-gpt-5-2-codex",
+    "tag": "Release",
+    "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity ca"
   },
   {
     "id": "https://openai.com/index/gpt-5-2-codex-system-card",
@@ -2693,15 +2699,6 @@
     "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity ca"
   },
   {
-    "id": "https://openai.com/index/introducing-gpt-5-2-codex",
-    "company": "OpenAI",
-    "title": "Introducing GPT-5.2-Codex",
-    "date": "2025-12-18T00:00:00.000Z",
-    "url": "https://openai.com/index/introducing-gpt-5-2-codex",
-    "tag": "Release",
-    "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity ca"
-  },
-  {
     "id": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "company": "Meta AI",
     "title": "How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
@@ -2709,7 +2706,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwHNDW4k&_nc_oc=AdnUR3wT4KkAeyxcPW2B-AnPjadXITSbimMed2XHEWokd3uVg17XEd_vF9JcvesVh_k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=fDMgDP2rrcwchxmizEGlug&_nc_ss=8&oh=00_AfxNU9CqRfRbnpiKs9Rkx9XU4aBzk0f0unJpGq9FQJYXzg&oe=69CAA577",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwGUrFz_&_nc_oc=AdlhoWPKqBtTe9bFQgLzHnfTRBJ8mtB9LMp9DNOS459tqMVTMyTnBRXFPxAexy6v2Pk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=NevZZkmuIBV329N__ybgYQ&_nc_ss=8&oh=00_AfxHggrmKABBb1PqOMJHEcwPCy9YzA1uWxrTSg2G-wKsaA&oe=69CADDB7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2721,7 +2718,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwEKXeVH&_nc_oc=AdnWkR2CGPanJSKHPh1pdRCvBdCEsNjuoBmBS3OVQCe0MJ013bQ-DlACuJoZbP2vXuY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=WCgcZ_V9v54DtTZQBroGfQ&_nc_ss=8&oh=00_AfwqC0FyuxpwkRSbc_WsGZ2-toz3tHMyu87chJu3t1soVw&oe=69CAC1D7",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwFbHAr3&_nc_oc=Adk_HKeQ3pOpYqjQCARXNRgC0WMW3Eh4XCovoOxO1wEj3k_MIDCNAB3PmUMskyF1JoA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=YBWIYlnQsOBm0YjIBKnOXg&_nc_ss=8&oh=00_Afx2p47ApoI0rkr3veuSeYg8qxvUQdZlwplwChH4QW31Qw&oe=69CAC1D7",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2905,7 +2902,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwHSVjhX&_nc_oc=Adm5jWr_9C_mjgv9WB_B88vBW9TF4t6KS6QKmB-shDRMfcd_78TwGFec8u1IlV02IYA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-3WTpREIb6qIioG5CbwG0Q&_nc_ss=8&oh=00_AfwvwU6NZVUzhSzx-QYimiXzzYkihQhao7y9xNhq_pSr1A&oe=69CABF9B",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwGJzYjs&_nc_oc=Adke8Fe_OMXfz5BV7lHX2sWuc5EUrOUsKXgy-nAy4Jz9ph_kf385ANQ_9he45bxHohU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=rbmcbXNL_D5SH7lt-aQuVA&_nc_ss=8&oh=00_Afzgwnbhuf7_gwCIHOqsiBMLl79Rsnst6FXL8-due6ViGg&oe=69CABF9B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3091,15 +3088,6 @@
     "summary": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research"
   },
   {
-    "id": "https://openai.com/index/disney-sora-agreement",
-    "company": "OpenAI",
-    "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
-    "date": "2025-12-11T00:00:00.000Z",
-    "url": "https://openai.com/index/disney-sora-agreement",
-    "tag": "News",
-    "summary": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short video"
-  },
-  {
     "id": "https://openai.com/index/podium",
     "company": "OpenAI",
     "title": "Increasing revenue 300% by bringing AI to SMBs",
@@ -3118,13 +3106,13 @@
     "summary": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that desc"
   },
   {
-    "id": "https://openai.com/index/introducing-gpt-5-2",
+    "id": "https://openai.com/index/disney-sora-agreement",
     "company": "OpenAI",
-    "title": "Introducing GPT-5.2",
+    "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
     "date": "2025-12-11T00:00:00.000Z",
-    "url": "https://openai.com/index/introducing-gpt-5-2",
-    "tag": "Release",
-    "summary": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and v"
+    "url": "https://openai.com/index/disney-sora-agreement",
+    "tag": "News",
+    "summary": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short video"
   },
   {
     "id": "https://openai.com/index/ten-years",
@@ -3134,6 +3122,15 @@
     "url": "https://openai.com/index/ten-years",
     "tag": "News",
     "summary": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons "
+  },
+  {
+    "id": "https://openai.com/index/introducing-gpt-5-2",
+    "company": "OpenAI",
+    "title": "Introducing GPT-5.2",
+    "date": "2025-12-11T00:00:00.000Z",
+    "url": "https://openai.com/index/introducing-gpt-5-2",
+    "tag": "Release",
+    "summary": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and v"
   },
   {
     "id": "https://huggingface.co/blog/hf-skills-training-codex",
@@ -3234,15 +3231,6 @@
     "summary": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for t"
   },
   {
-    "id": "https://openai.com/index/commonwealth-bank-of-australia",
-    "company": "OpenAI",
-    "title": "Building AI fluency at scale with ChatGPT Enterprise",
-    "date": "2025-12-09T00:00:00.000Z",
-    "url": "https://openai.com/index/commonwealth-bank-of-australia",
-    "tag": "News",
-    "summary": "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve custom"
-  },
-  {
     "id": "https://openai.com/index/openai-appoints-denise-dresser",
     "company": "OpenAI",
     "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
@@ -3250,6 +3238,15 @@
     "url": "https://openai.com/index/openai-appoints-denise-dresser",
     "tag": "Corporate",
     "summary": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help "
+  },
+  {
+    "id": "https://openai.com/index/commonwealth-bank-of-australia",
+    "company": "OpenAI",
+    "title": "Building AI fluency at scale with ChatGPT Enterprise",
+    "date": "2025-12-09T00:00:00.000Z",
+    "url": "https://openai.com/index/commonwealth-bank-of-australia",
+    "tag": "News",
+    "summary": "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve custom"
   },
   {
     "id": "https://openai.com/index/deutsche-telekom-collaboration",
