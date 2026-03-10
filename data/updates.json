@@ -1,5 +1,41 @@
 [
   {
+    "id": "1ddff6acbfc1624a0069de1d46fde1b3c0f3c404",
+    "company": "Amazon",
+    "title": "Accelerate custom LLM deployment: Fine-tune with Oumi and deploy t",
+    "date": "2026-03-10T15:42:16.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-custom-llm-deployment-fine-tune-with-oumi-and-deploy-to-amazon-bedrock/",
+    "tag": "Engineering",
+    "summary": "In this post, we show how to fine-tune a Llama model using Oumi on Amazon EC2 (with the option to create synthetic data using Oumi), store artifacts in Amazo...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/10/ML-19994-1120x630.png",
+    "title_ar": "تحديث رسمي: Accelerate custom LLM deployment: Fine-tune with Oumi and deploy t",
+    "summary_ar": "In this post, we show كيفية fine-tune a Llama نموذج using Oumi on Amazon EC2 (with the option to create synthetic data using Oumi), store artifacts in Amazo..."
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/nvidia-rtx-innovations-are-powering-the-next-era-of-game-development/",
+    "company": "NVIDIA",
+    "title": "NVIDIA RTX Innovations Are Powering the Next Era of Game Development",
+    "date": "2026-03-10T15:30:00.000Z",
+    "url": "https://developer.nvidia.com/blog/nvidia-rtx-innovations-are-powering-the-next-era-of-game-development/",
+    "tag": "Research",
+    "summary": "NVIDIA RTX ray tracing and AI-powered neural rendering technologies are redefining how games are made, enabling a new standard for visuals and performance.",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/foliage-mountain-gif-500x282.gif",
+    "title_ar": "تحديث رسمي: NVIDIA RTX Innovations Are Powering the Next Era of Game Development",
+    "summary_ar": "NVIDIA RTX ray tracing and AI-powered neural rendering technologies are redefining how games are made, enabling a جديد standard for visuals and أداء."
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/reliable-ai-coding-for-unreal-engine-improving-accuracy-and-reducing-token-costs/",
+    "company": "NVIDIA",
+    "title": "Reliable AI Coding for Unreal Engine: Improving Accuracy and Reducing Token Costs",
+    "date": "2026-03-10T15:30:00.000Z",
+    "url": "https://developer.nvidia.com/blog/reliable-ai-coding-for-unreal-engine-improving-accuracy-and-reducing-token-costs/",
+    "tag": "Engineering",
+    "summary": "Agentic code assistants are moving into daily game development as studios build larger worlds, ship more DLCs, and support distributed teams.",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Reliable-AI-Coding-e1772828712460.webp",
+    "title_ar": "تحديث رسمي: Reliable AI Coding for Unreal Engine: Improving Accuracy and Reducing Token Costs",
+    "summary_ar": "تحديث رسمي: Agentic code assistants are moving into daily game development as studios build larger worlds, ship more DLCs, and support distributed teams."
+  },
+  {
     "id": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
     "company": "Google / Gemini",
     "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
@@ -10,6 +46,18 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blog_Hero_2436x.max-1440x810.png",
     "title_ar": "Gemini in Google Sheets just achieved state-of-the-art أداء.",
     "summary_ar": "Today we announced جديد تجريبي features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — ju..."
+  },
+  {
+    "id": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
+    "company": "Meta AI",
+    "title": "Mapping the World's Forests with Greater Precision: Introducing Canopy Height Maps v2",
+    "date": "2026-03-10T00:00:00.000Z",
+    "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
+    "tag": "Corporate",
+    "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
+    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=FewaOqmQQn4Q7kNvwGqaw-o&_nc_oc=AdlFAQRnltEAU4YE3xcWIdY-z4v3rgSVwuMtmGo9JQfaK0tDWZfuyzR1ZtTTj7_5iag&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=v_Jq8GdvxHTUSJyLiBEZAA&_nc_ss=8&oh=00_Afwg6M8Rv9OSxsH9h6sDlg454_P9wZ52pUEh76w9aMiCeQ&oe=69CA6F06",
+    "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
+    "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
   {
     "id": "https://developer.nvidia.com/blog/cuda-13-2-introduces-enhanced-cuda-tile-support-and-new-python-features/",
@@ -240,18 +288,6 @@
     "summary_ar": "تحديث رسمي: Learn more about AI Mode in Search’s query fan-out method for visual search."
   },
   {
-    "id": "https://developer.nvidia.com/blog/controlling-floating-point-determinism-in-nvidia-cccl/",
-    "company": "NVIDIA",
-    "title": "Controlling Floating-Point Determinism i",
-    "date": "2026-03-05T17:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/controlling-floating-point-determinism-in-nvidia-cccl/",
-    "tag": "Engineering",
-    "summary": "A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Floating-Point-CUB.webp",
-    "title_ar": "تحديث رسمي: Controlling Floating-Point Determinism i",
-    "summary_ar": "تحديث رسمي: A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property…"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
     "company": "NVIDIA",
     "title": "Tuning Flash Attention for Peak Performance i",
@@ -262,6 +298,18 @@
     "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/CUDA-Tile-Flash-Attention.webp",
     "title_ar": "Tuning Flash Attention for Peak أداء i",
     "summary_ar": "تحديث رسمي: In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: Environment requirements: See the quickstart…"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/controlling-floating-point-determinism-in-nvidia-cccl/",
+    "company": "NVIDIA",
+    "title": "Controlling Floating-Point Determinism i",
+    "date": "2026-03-05T17:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/controlling-floating-point-determinism-in-nvidia-cccl/",
+    "tag": "Engineering",
+    "summary": "A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Floating-Point-CUB.webp",
+    "title_ar": "تحديث رسمي: Controlling Floating-Point Determinism i",
+    "summary_ar": "تحديث رسمي: A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property…"
   },
   {
     "id": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
@@ -870,10 +918,7 @@
     "date": "2026-02-26T17:45:59.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
     "tag": "Engineering",
-    "summary": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model sup...",
-    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/26/ml-20229-1120x630.png",
-    "title_ar": "Large نموذج استنتاج container – latest capabilities and أداء enhancements",
-    "summary_ar": "AWS recently released significant updates to the Large نموذج استنتاج (LMI) container, delivering comprehensive أداء improvements, expanded نموذج sup..."
+    "summary": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded mo"
   },
   {
     "id": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
@@ -1050,15 +1095,6 @@
     "summary": "In this post, we show you how to build a comprehensive photo search system using the AWS Cloud Development Kit (AWS CDK) that integrates Amazon Rekogn"
   },
   {
-    "id": "2ec43fe7e44c8ceaad0ccd466c69a01bfb1252bf",
-    "company": "Amazon",
-    "title": "Train CodeFu-7B with veRL and Ray on Amazon SageMaker Training jobs",
-    "date": "2026-02-24T15:46:50.000Z",
-    "url": "https://aws.amazon.com/blogs/machine-learning/train-codefu-7b-with-verl-and-ray-on-amazon-sagemaker-training-jobs/",
-    "tag": "News",
-    "summary": "In this post, we demonstrate how to train CodeFu-7B, a specialized 7-billion parameter model for competitive programming, using Group Relative Policy "
-  },
-  {
     "id": "https://openai.com/index/arvind-kc-chief-people-officer",
     "company": "OpenAI",
     "title": "Arvind KC appointed Chief People Officer",
@@ -1074,10 +1110,7 @@
     "date": "2026-02-23T18:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/using-nvfp4-low-precision-model-training-for-higher-throughput-without-losing-accuracy/",
     "tag": "Engineering",
-    "summary": "As the sizes of AI models and datasets continue to increase, relying only on higher-precision BF16 training is no longer sufficient. Key challenges such as…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/best-models-trained.jpg",
-    "title_ar": "Using NVFP4 Low-Precision نموذج تدريب for Higher Throughput Without Losing Accuracy",
-    "summary_ar": "As the sizes of AI models and datasets continue to increase, relying only on higher-precision BF16 تدريب is no longer sufficient. Key challenges such as…"
+    "summary": "As the sizes of AI models and datasets continue to increase, relying only on higher-precision BF16 training is no longer sufficient. Key challenges su"
   },
   {
     "id": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
@@ -1193,14 +1226,11 @@
   {
     "id": "https://developer.nvidia.com/blog/accelerating-data-processing-with-nvidia-multi-instance-gpu-and-numa-node-localization/",
     "company": "NVIDIA",
-    "title": "Accelerating Data Processing wit",
+    "title": "Accelerating Data Processing with NVIDIA Multi-Instance GPU and NUMA Node Localization",
     "date": "2026-02-19T17:30:00.000Z",
     "url": "https://developer.nvidia.com/blog/accelerating-data-processing-with-nvidia-multi-instance-gpu-and-numa-node-localization/",
     "tag": "Engineering",
-    "summary": "NVIDIA flagship data center GPUs in the NVIDIA Ampere, NVIDIA Hopper, and NVIDIA Blackwell families all feature non-uniform memory access (NUMA) behaviors…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/multicolored-bulging-cube-1.jpg",
-    "title_ar": "تسريع Data Processing wit",
-    "summary_ar": "NVIDIA flagship data center GPUs in the NVIDIA Ampere, NVIDIA Hopper, and NVIDIA Blackwell families all feature non-uniform ذاكرة access (NUMA) behaviors…"
+    "summary": "NVIDIA flagship data center GPUs in the NVIDIA Ampere, NVIDIA Hopper, and NVIDIA Blackwell families all feature non-uniform memory access (NUMA) behav"
   },
   {
     "id": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
@@ -1525,7 +1555,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwEUP--l&_nc_oc=AdnpLpHti3i1Tv4NNPzGzHLhYrnRzOu0DJ625xIZAWc5Vhn1WY_9IFfBBqB5YO9bK3Q&_nc_zt=14&_nc_ht=scontent-sin6-2.xx&_nc_gid=AKVDZ3gVhX9kDwt0_nPZ5Q&_nc_ss=8&oh=00_AfykF3DpwxO7Dmnng2EcowBhy-fo5M9LeDfrPm2VxMplnw&oe=69CA63FF",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwEwfQuP&_nc_oc=Adlf5Ntsf5-sXNkPBU3jZg709qt08oUX6yBilhWW-R9tRGu8k8hrAU3TwNF8zMKxBz4&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=J9AWjK7N91V-7emF5ff6Og&_nc_ss=8&oh=00_AfwSmSPNoIc5nX3-zYbHZNoX-lhO1L6aoljCJc-xUEsebA&oe=69CA63FF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2670,7 +2700,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwFZo12N&_nc_oc=Admz9agFgo_vb3lY1GTRnrwz_yKVlJsoNpIygVezdcrpC9LTtCkJQpjvcA-O48ZWyRk&_nc_zt=14&_nc_ht=scontent-sin6-2.xx&_nc_gid=c-eyw52qn8vrCn3tTOJq0A&_nc_ss=8&oh=00_Afwa5WlY5AJPTVN0vDeyWrdlV26laWt3V0Fxpow5jwutVg&oe=69CA6D37",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwFCAe7J&_nc_oc=AdnR3LUQmFwNf40gQzX_LqtMy-IrL6i2kePXZu6nHeH_tPNy8K2I4ryyDNRcoA918Bo&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=JQVEDt_VDwGxngcWSm9r6g&_nc_ss=8&oh=00_AfwpYPIh5xuwF_RslHgfHkqyIVQQyTZ7VZ75lWvNSfCCIA&oe=69CA6D37",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2682,7 +2712,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-sin6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwEnFaiQ&_nc_oc=Adnw4QVsBgCeuQttvs5qKT1t5iumS_VXZb5lgeEGHyjRxmxqRtcYaJvWHk5iyUBpNSQ&_nc_zt=14&_nc_ht=scontent-sin6-1.xx&_nc_gid=LDqo_yjtOQG1J1cTqK8Kzw&_nc_ss=8&oh=00_Afwv3ckIxjBwMaiw1A-_esrGwgoP4uj8Y_9OWpN7T1WKlA&oe=69CA8997",
+    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwENe2QM&_nc_oc=AdkzzUuthJ00jJaYGRfJTgjPWT8FCPaKANVSz6D4Lh68ok3Md2fq3O8GHEu702E896c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=aeLgBOJTXyXj_6oz5nzyJA&_nc_ss=8&oh=00_AfxIH1H4JpjAUIEQy4Y1dtSXcAWMEWHJP4MK-h8Wc6cQKw&oe=69CA8997",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2866,7 +2896,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwGWyNtj&_nc_oc=Adn4hSS8M1YAamnAkAiNC0m4zPL53307OzOu450-Df4qwqeDjso8bO5C1LqY531FFZ0&_nc_zt=14&_nc_ht=scontent-sin6-3.xx&_nc_gid=nvU5uf8oPo-nQ9gt_n7y7g&_nc_ss=8&oh=00_Afx999UZ_Gvrf3rzUGIb0Gl6SFS64reWLiTmU2dY6xjKdw&oe=69CA875B",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwHoAeGX&_nc_oc=Admxzk88Y13yuxn9jz-MOcSu5WAC7rl5XWvR0S3IPIUgiQRkNYGWF-rAWzJA7B64p20&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=YsecXW0vnMoXOZwuHgES_g&_nc_ss=8&oh=00_AfwwkKlL8epoiO3ZPmUx_zGFr_T5X6nJqlDs_rlyQCQr7g&oe=69CA875B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3041,6 +3071,15 @@
     "url": "https://openai.com/index/gpt-5-2-for-science-and-math",
     "tag": "Research",
     "summary": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. T"
+  },
+  {
+    "id": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+    "company": "Google / Gemini",
+    "title": "Deepening our partnership with the UK AI Security Institute",
+    "date": "2025-12-11T00:06:40.000Z",
+    "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+    "tag": "Security",
+    "summary": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research"
   },
   {
     "id": "https://openai.com/index/podium",
@@ -3390,24 +3429,6 @@
     "summary": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supportin"
   },
   {
-    "id": "https://developer.nvidia.com/blog/accelerating-real-time-financial-decisions-with-quantitative-portfolio-optimization/",
-    "company": "NVIDIA",
-    "title": "Accelerating Real-Time Financial Decisions with Quantitative Portfolio Optimization",
-    "date": "2025-12-02T18:51:00.000Z",
-    "url": "https://developer.nvidia.com/blog/accelerating-real-time-financial-decisions-with-quantitative-portfolio-optimization/",
-    "tag": "Engineering",
-    "summary": "Financial portfolio optimization is a difficult yet essential task that has been consistently challenged by a trade-off between computational speed an"
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/nvidia-accelerated-mistral-3-open-models-deliver-efficiency-accuracy-at-any-scale/",
-    "company": "NVIDIA",
-    "title": "NVIDIA-Accelerated Mistral 3 Open Models Deliver Efficiency, Accuracy at Any Scale ",
-    "date": "2025-12-02T18:10:02.000Z",
-    "url": "https://developer.nvidia.com/blog/nvidia-accelerated-mistral-3-open-models-deliver-efficiency-accuracy-at-any-scale/",
-    "tag": "Engineering",
-    "summary": "The new Mistral 3 open model family delivers industry-leading accuracy, efficiency, and customization capabilities for developers and enterprises. Opt"
-  },
-  {
     "id": "https://openai.com/index/mirakl",
     "company": "OpenAI",
     "title": "Inside Mirakl's agentic commerce vision",
@@ -3463,18 +3484,6 @@
     "image": "https://lh3.googleusercontent.com/YElycD2T8J2GDnFczuvtRJbPHGUMWPZiT-sLhQdv0ngl9hX0-Y4-KsOWaQxpUuwBCLrjW0FnWncfwgVP6TySgyUPjqyqd7x4czAJbGrRvTlhiV87sA=w1200-h630-n-nu-rw",
     "title_ar": "Google DeepMind Partnerships in India: توسيع نطاق AI in science and education",
     "summary_ar": "Google DeepMind announces جديد AI partnerships in India to advance scientific أبحاث, empower students with interactive Gemini-powered learning, and support..."
-  },
-  {
-    "id": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
-    "company": "Google / Gemini",
-    "title": "Deepening AI Safety Research with UK AI Security Institute (AISI)",
-    "date": "2025-12-01T00:00:00.000Z",
-    "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
-    "tag": "Security",
-    "summary": "Google DeepMind and the UK AI Security Institute (AISI) strengthen collaboration through a new research partnership, focusing on critical safety research are...",
-    "image": "https://lh3.googleusercontent.com/AMN7wwGsZm8pTcW-nitk9SkxhXFSiFV4aM44e4NzZlbm0MgdLCUYrhsW312j9DpOvtiBv9COlSOTf90tsFp0FuBQ_ggpm-ft4IZrtPo95uC8B73mgw=w1200-h630-n-nu-rw",
-    "title_ar": "Deepening AI سلامة أبحاث with UK AI أمن Institute (AISI)",
-    "summary_ar": "Google DeepMind and the UK AI أمن Institute (AISI) strengthen collaboration through a جديد أبحاث شراكة, focusing on critical سلامة أبحاث are..."
   },
   {
     "id": "https://huggingface.co/blog/gradio-html-one-shot-apps",
@@ -3608,18 +3617,6 @@
     "url": "https://openai.com/index/gpt-5-mathematical-discovery",
     "tag": "News",
     "summary": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery."
-  },
-  {
-    "id": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
-    "company": "Meta AI",
-    "title": "How Conservation X Labs Is Using Segment Anything Model 3 for Endangered Wildlife Monitoring",
-    "date": "2025-11-24T00:00:00.000Z",
-    "url": "https://ai.meta.com/blog/segment-anything-conservation-x-wildlife-monitoring/",
-    "tag": "News",
-    "summary": "Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise.",
-    "image": "https://scontent-sin2-1.xx.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=M5YaYk8wufIQ7kNvwHGMQpP&_nc_oc=AdmfbqkIWQ7-620JFNF5Noki9l7WT9BEw5nclx2BR-3wQD0fBKVkqoHva1SlexMri1k&_nc_zt=14&_nc_ht=scontent-sin2-1.xx&_nc_gid=r_rnZrf8_axHr6RLCQF7CQ&_nc_ss=8&oh=00_Afyb7OjyjXIrQ6M2GD3GlylChy8kLU_QsbYo1E63q9k07A&oe=69CA74AB",
-    "title_ar": "How Conservation X Labs Is Using Segment Anything نموذج 3 for Endangered Wildlife Monitoring",
-    "summary_ar": "تحديث رسمي: Start-ups like Conservation X Labs are using Meta’s Segment Anything Models to bolster on-the-ground conservation expertise."
   },
   {
     "id": "https://huggingface.co/blog/rapidfireai",
