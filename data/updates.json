@@ -115,7 +115,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=FewaOqmQQn4Q7kNvwHjkG79&_nc_oc=AdmnUf46bdpwqha1krlXOZJqE-2_Xdi2DMkQ6ZK9GBdZMcZxBV9T7kfOTc25szVyjxE&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=Rq0bC-nulVgRKgpZS0CL7A&_nc_ss=8&oh=00_AfwOjefQ6XlFFfg_dbPnI5ZWSSliBYQSulOwzjUl__s4kQ&oe=69CAA746",
+    "image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=FewaOqmQQn4Q7kNvwHEVxnK&_nc_oc=Admd87WP7ENAuxOiVTcp8eX1mU2tKLoC5rGaJzdYisy-ddktsCPdQk6X6qmoyUcxS70&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=KCfMDOFnCFHtilr8G5Tz4g&_nc_ss=8&oh=00_AfxyUC0KGfkc-5-Te92K6-v68tUA5JVB16W-XB-jUCni_g&oe=69CAA746",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -536,15 +536,6 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/6qY7eyvVrPtwOMwQUPzqOO/55ab458c03157e061c83215cf215e51a/IMG_0185.png?w=1600&h=900&fit=fill",
     "title_ar": "تحديث رسمي: Ensuring AI use in education leads to opportunity",
     "summary_ar": "OpenAI shares جديد tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity."
-  },
-  {
-    "id": "https://openai.com/index/axios-allison-murphy",
-    "company": "OpenAI",
-    "title": "How Axios uses AI to help deliver high-impact local journalism ",
-    "date": "2026-03-04T00:00:00.000Z",
-    "url": "https://openai.com/index/axios-allison-murphy",
-    "tag": "Case Study",
-    "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local jou"
   },
   {
     "id": "https://openai.com/index/understanding-ai-and-learning-outcomes",
@@ -1569,7 +1560,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwGHaE9h&_nc_oc=AdlE-TVjbdCpNH4LMVyyZzc4R8DuHtCKlvyvfNz-dhSxTnDPRPuPeAdzE49LihL4kuE&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=ECBl0XwqnO7JPc_w9zH9GQ&_nc_ss=8&oh=00_Afy9Ez_EXUm09XvTEPPEsrBHEleBLk5LwmulYghb34mHCw&oe=69CA9C3F",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwEVuuwT&_nc_oc=AdmhBdDIeApswZpoVHPhvLiiiUcul5jgTmmktrq2ucdu_lXQmMIfGGiFpUQ1iZdw-9g&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=9UyLXIlqKNTRKYvoFDdEIg&_nc_ss=8&oh=00_AfyLK7pzWxCztdQpcMNiQTONS50sV1P4IcQ6fBtoKdgJbw&oe=69CA9C3F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -1705,6 +1696,18 @@
     "url": "https://openai.com/index/unlocking-the-codex-harness",
     "tag": "Engineering",
     "summary": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diff"
+  },
+  {
+    "id": "https://openai.com/index/axios-allison-murphy",
+    "company": "OpenAI",
+    "title": "How Axios uses AI to help deliver high-impact local journalism",
+    "date": "2026-02-04T00:00:00.000Z",
+    "url": "https://openai.com/index/axios-allison-murphy",
+    "tag": "Case Study",
+    "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4Sy9STpO47cS5wGOZDCUeo/e16403170cddc3cf8608d39ed2fbb250/EF_Ep19_16.9.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: How Axios uses AI to help deliver high-impact local journalism",
+    "summary_ar": "تقرير جديد حول Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism..."
   },
   {
     "id": "https://openai.com/index/vfl-wolfsburg",
@@ -2710,7 +2713,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwH1qwb8&_nc_oc=Adnm2axzRjNJq7kKJjlL3bx7xv3Meq6APetxOrrPpdwJBsafCD12r5gU0UG3jN4z8Jg&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=Ho3BqznvTtptq22ZHSLzbA&_nc_ss=8&oh=00_AfyT1_lzwnOKnMLr_yrVFrKZSNJ3Z9RgTtPRt4po3U1wiQ&oe=69CAA577",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwHuae1a&_nc_oc=Adlf4MyHJHViexfvKNGzNtcH5i5VUz7yYdOnsLQ1fn-n-Ws_8nK_QyokBMZ9da6PHYM&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=zy0wxKZTBjIrnlrUFE49Nw&_nc_ss=8&oh=00_AfybEY8zKzcQE860iVcc8RuNHCHITaafwdJOPhLsYGgd2g&oe=69CAA577",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2722,7 +2725,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwGyHJG3&_nc_oc=AdnI0IRCe-XKBhpXTrS3Qisk1ONPVPDGkWUfgLKS1wMK0LLr7tFJF5xTDEjEzomY3e0&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=3kwDErpgDjnEUHeEk0z6gQ&_nc_ss=8&oh=00_AfzA6NpiQfRprMulgZWbQcEp5QO-iadyrsk8-cgUtwvbSQ&oe=69CAC1D7",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwGnFpGX&_nc_oc=Adm3BFMDZXa2tF8I4kHaUFBiOA3zNt3eI1yhQHyE7SvVkYQT-uUw02RnARIpOwNqmYA&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=o6jdFGBQMUBhuBCgXZMjdA&_nc_ss=8&oh=00_Afy-Za2Mo4_BSOxxqV7GSCX0TyAQWLikWYlttxKfezl6-w&oe=69CAC1D7",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2906,7 +2909,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwEUe8cg&_nc_oc=AdnRGBd1AM70NfAyGZCleL-2iHgOHtycOEMmnpVo9AJUpNhx5T3B__SXlS9rQNtN5s0&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=X96-dV7GE2tfukbIfyv2lw&_nc_ss=8&oh=00_Afw9ZLuaXhHFIHJPOXzcKZBE9sjr9b2UXGpIfu1YK3nm9w&oe=69CABF9B",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwFzqEGy&_nc_oc=AdnnEKAdoJIwIGo5BlvLisuk4_1UqhVgRdLYAYkKpHT_D-MmnoMT4ZE02i46fjxdfb8&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=JG2mz_9odfXZ-4R04_NYfg&_nc_ss=8&oh=00_AfwGauaHpkM40UX6gBpVqpXvRW8EeuTDT2aGMyHLtkG4LQ&oe=69CABF9B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
