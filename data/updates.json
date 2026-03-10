@@ -115,7 +115,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=FewaOqmQQn4Q7kNvwGhzoWA&_nc_oc=AdkFXt50h2QtNvoFT8UhJj37LjaDKgmPoOsxJups_Cu36Hl_R1FT2GsuDa8h15vmsiI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ajTWfNRsZL5HX3v4o4nwqw&_nc_ss=8&oh=00_Afx_o_j3Ldovwjetu6jg9sotVdFHNRnGYHHtKeHjTA5trA&oe=69CAA746",
+    "image": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=FewaOqmQQn4Q7kNvwHo7diw&_nc_oc=AdljO0vrwlTBOb0qQLXm9fCxRavPDjTMRGheLjVayD3Oy5if6LDdcSv56pJZr_26U0c&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=eqCOXngv9oJWPn7Bj6KTkw&_nc_ss=8&oh=00_AfwIPrN_7DLtAj21uF7FMgUJFCRLA9C02TbaCDLCS1USzQ&oe=69CAA746",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -1172,18 +1172,6 @@
     "summary_ar": "تحديث رسمي: We have identified industrial-scale campaigns by three AI laboratories—DeepSeek, Moonshot, and MiniMax—to illicitly extract Claude’s capabilities to improve ..."
   },
   {
-    "id": "https://huggingface.co/blog/openenv-turing",
-    "company": "Hugging Face",
-    "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
-    "date": "2026-02-20T22:28:25.000Z",
-    "url": "https://huggingface.co/blog/openenv-turing",
-    "tag": "News",
-    "summary": "OpenEnv is an open-source framework from Meta and Hugging Face designed to address this challenge by standardizing how agents interact with real environments...",
-    "image": "https://huggingface.co/blog/assets/openenv-turing/thumbnail.png",
-    "title_ar": "OpenEnv in Practice: Evaluating أداة-Using Agents in Real-World Environments",
-    "summary_ar": "تحديث رسمي: OpenEnv is an open-source framework from Meta and Hugging Face designed to address this challenge by standardizing how agents interact with real environments..."
-  },
-  {
     "id": "https://huggingface.co/blog/ggml-joins-hf",
     "company": "Hugging Face",
     "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
@@ -1490,6 +1478,14 @@
     "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users."
   },
   {
+    "id": "https://huggingface.co/blog/openenv-turing",
+    "company": "Hugging Face",
+    "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+    "date": "2026-02-12T00:00:00.000Z",
+    "url": "https://huggingface.co/blog/openenv-turing",
+    "tag": "News"
+  },
+  {
     "id": "https://openai.com/index/harness-engineering",
     "company": "OpenAI",
     "title": "Harness engineering: leveraging Codex in an agent-first world",
@@ -1560,7 +1556,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwFmjDrK&_nc_oc=Adm2Yekt5OdJGM1tCMTZstdbkvdmJD1YWHPmU9txlcpLCUm2T3kobaF2mb1_hxBzqW4&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=DaN9jWTStjFmApdUud2GIg&_nc_ss=8&oh=00_AfyrJKVKDoFrS8HPpNmD8EQsMIC7A4ylP0wiS-mDFw1Thw&oe=69CA9C3F",
+    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwGwNmTV&_nc_oc=AdnEGWVVL9zGSTVSegu1dmdtsVcgIQZaDpU1yMiwUtUqUUi96Y94woWzOR9_iFuIW2E&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=LEm0mApAriwEJNjGOUXbqQ&_nc_ss=8&oh=00_Afy35JMwXpDB-RBHcH2ekuHtzsfsOXNFWw_frAc4m_dQ9w&oe=69CAD47F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2713,7 +2709,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwE675ox&_nc_oc=AdnOiGEoVtShkKTHfSbAPCy1ey3_2LWqSRmAwM_KK7ZMpl5trD16sqbZc8R_J5anXtc&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=6u6kxG4BVkv62LuivphcDQ&_nc_ss=8&oh=00_Afzeqq271OUqnfdXpcGVcj2XMU9k91C1ji1S46LmVcoxzg&oe=69CAA577",
+    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwEy9Qic&_nc_oc=Adkn5ILcDgYmZxoiKpiYeprbC9ttQgZlqQr_wZGq4ercY5vqieWQwtnvS8flg28CIBk&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=mw6svFvYgHHXOx2giYEyyA&_nc_ss=8&oh=00_AfyGJTnYMyEqjFCxO4BudgkhzUw_9OF2goDNdKbKtFI0gQ&oe=69CAA577",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2725,7 +2721,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwFRhdnX&_nc_oc=AdmF1ZG_krC1RfEm_OBr3l6uA3FgKO3z25TYSYP1b03COLCBGnhaU7iiW9XOhfqIA5c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Ou-_rLSvWzbPCNhe1H8JTw&_nc_ss=8&oh=00_AfxGxKheyCFw2B-WhbvZJOJuPBVZtGuOMnsOctiDaMAjWQ&oe=69CAC1D7",
+    "image": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=PSLQz_WNlscQ7kNvwF6rM12&_nc_oc=Adnhb2mbp-bnxrPEpMj6ZNydPau1XYD651v2bYd4W1XHncH2RClXFWFEPEB_nQ6An_A&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=mYzR2y8OmgS0psNbEvyltA&_nc_ss=8&oh=00_AfxXKitqL2D324W-0MHks-OtTCROiUOvYjijqtYZM1QTXg&oe=69CAC1D7",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2909,7 +2905,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwGpUlI-&_nc_oc=Adm3_EzVqYpJn1RPWkG-75cwD4G1RIYL_rXUhQxJ8qlJ7pcJGfLcl5k60Y9udgJKCLk&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=GETSzRqY8RNaMziK8JqHXQ&_nc_ss=8&oh=00_AfzMml7TWpv_mXE9S0Hq9n-v_HkKC4wriFSN4uv7DXuwaQ&oe=69CABF9B",
+    "image": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=ELbl-TnG39AQ7kNvwG47uN5&_nc_oc=AdkI12-g6omGYhWdfTz4Ddh81QWJPcNrSnM-GHLCOKPWvaIUKabDZCBOUkt-4TA5pJw&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=i5MfeR-FFxGWmKjz7KNKrw&_nc_ss=8&oh=00_AfzvpSW45cjpHW_LTYTgvJqyB3CipOzkXK1a10CYHk7_Nw&oe=69CABF9B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
