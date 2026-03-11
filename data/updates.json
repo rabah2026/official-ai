@@ -1,15 +1,15 @@
 [
   {
-    "id": "https://huggingface.co/blog/storage-buckets",
+    "id": "https://huggingface.co/blog/nvidia/open-data-for-ai",
     "company": "Hugging Face",
-    "title": "Introducing Storage Buckets on th",
-    "date": "2026-03-11T06:11:46.000Z",
-    "url": "https://huggingface.co/blog/storage-buckets",
-    "tag": "News",
-    "summary": "Storage Buckets are built exactly for this: mutable, S3-like object storage you can browse on the Hub, script from Python, or manage with the hf CLI. And bec...",
-    "image": "https://huggingface.co/blog/assets/storage-buckets/buckets-annoucement.png",
-    "title_ar": "نُقدم لكم تخزين Buckets on th",
-    "summary_ar": "تخزين Buckets are built exactly for this: mutable, S3-like object تخزين you can browse on the Hub, script from Python, or manage with the hf CLI. And bec..."
+    "title": "How NVIDIA Builds Open Data for AI",
+    "date": "2026-03-10T19:49:28.061Z",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-ai",
+    "tag": "Policy",
+    "summary": "AI progress is often framed in terms of model capability and efficiency. In reality, every training pipeline ultimately rests on a data layer that determines...",
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/open-data-for-ai.png",
+    "title_ar": "تحديث رسمي: How NVIDIA Builds Open Data for AI",
+    "summary_ar": "AI progress is often framed in terms of نموذج capability and efficiency. In reality, every تدريب pipeline ultimately rests on a data layer that determines..."
   },
   {
     "id": "1ddff6acbfc1624a0069de1d46fde1b3c0f3c404",
@@ -120,6 +120,30 @@
     "summary_ar": "OpenAI introduces ChatGPT for Excel and جديد financial app integrations, powered by GPT-5.4 to accelerate modeling, أبحاث, and analysis in regulated enviro..."
   },
   {
+    "id": "https://huggingface.co/blog/storage-buckets",
+    "company": "Hugging Face",
+    "title": "Introducing Storage Buckets on th",
+    "date": "2026-03-10T00:00:00.680Z",
+    "url": "https://huggingface.co/blog/storage-buckets",
+    "tag": "News",
+    "summary": "Storage Buckets are built exactly for this: mutable, S3-like object storage you can browse on the Hub, script from Python, or manage with the hf CLI. And bec...",
+    "image": "https://huggingface.co/blog/assets/storage-buckets/buckets-annoucement.png",
+    "title_ar": "نُقدم لكم تخزين Buckets on th",
+    "summary_ar": "تخزين Buckets are built exactly for this: mutable, S3-like object تخزين you can browse on the Hub, script from Python, or manage with the hf CLI. And bec..."
+  },
+  {
+    "id": "https://huggingface.co/blog/async-rl-training-landscape",
+    "company": "Hugging Face",
+    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+    "date": "2026-03-10T00:00:00.679Z",
+    "url": "https://huggingface.co/blog/async-rl-training-landscape",
+    "tag": "News",
+    "summary": "Async RL training has emerged as the dominant paradigm for post-training at scale. Several trends in modern post-training have made synchronous training loop...",
+    "image": "https://huggingface.co/blog/assets/async-rl-landscape/thumbnail.png",
+    "title_ar": "تحديث رسمي: Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+    "summary_ar": "Async RL تدريب has emerged as the dominant paradigm for post-تدريب at scale. Several trends in modern post-تدريب have made synchronous تدريب loop..."
+  },
+  {
     "id": "https://www.anthropic.com/news/the-anthropic-institute",
     "company": "Anthropic",
     "title": "Introducing Th",
@@ -151,7 +175,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwHs8YXS&_nc_oc=AdlgMx7d3vj8SfJgZkHFImJlNwzJVumypXn2mmRsTMk46KkwjvyT7-viuHBIiiTxVqs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=f3jNCvv2zqLQcG4HQkCjWQ&_nc_ss=8&oh=00_AfzwyZC0gh5pFuV6Ve56oM70hoXenAkSenxflZNr_pm_Kw&oe=69CB8846",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwGTsW4h&_nc_oc=AdkEYkXWtzMic6ZsrVgTllJjyKaHI1VpQ8Que1fLBtd007OwR4yCa4jFUBK93KvO4SM&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=vSIsp1UcFek4N7MOTE1lLw&_nc_ss=8&oh=00_AfwDUzjiS1B24lb35l5PpgNH7ir7tEC2Z2PFSP9Fbnxz2w&oe=69CBC086",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -204,6 +228,18 @@
     "summary_ar": "In the rapidly evolving landscape of large لغة نموذج (LLM) development, NVIDIA Megatron Core has emerged as the foundational framework for تدريب mass..."
   },
   {
+    "id": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+    "company": "Hugging Face",
+    "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+    "date": "2026-03-09T18:36:33.336Z",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+    "tag": "News",
+    "summary": "We’re excited to share Granite 4.0 1B Speech, the latest addition to IBM's Granite Speech collection. Designed for enterprise applications on resource-constr...",
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ibm-granite/granite-4-speech.png",
+    "title_ar": "تحديث رسمي: Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+    "summary_ar": "We’re excited to share Granite 4.0 1B Speech, the latest addition to IBM's Granite Speech collection. Designed for مؤسسات applications on resource-constr..."
+  },
+  {
     "id": "https://developer.nvidia.com/blog/enhancing-distributed-inference-performance-with-the-nvidia-inference-transfer-library/",
     "company": "NVIDIA",
     "title": "Enhancing Distributed Inference Performance with th",
@@ -228,28 +264,28 @@
     "summary_ar": "Deploying and optimizing large لغة models (LLMs) for high-أداء, cost-effective serving can be an overwhelming هندسة problem."
   },
   {
-    "id": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+    "id": "https://huggingface.co/blog/ulysses-sp",
     "company": "Hugging Face",
-    "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
-    "date": "2026-03-09T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
-    "tag": "News",
-    "summary": "We’re excited to share Granite 4.0 1B Speech, the latest addition to IBM's Granite Speech collection. Designed for enterprise applications on resource-constr...",
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ibm-granite/granite-4-speech.png",
-    "title_ar": "تحديث رسمي: Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
-    "summary_ar": "We’re excited to share Granite 4.0 1B Speech, the latest addition to IBM's Granite Speech collection. Designed for مؤسسات applications on resource-constr..."
+    "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+    "date": "2026-03-09T00:00:00.678Z",
+    "url": "https://huggingface.co/blog/ulysses-sp",
+    "tag": "Research",
+    "summary": "Ulysses Sequence Parallelism (part of the Arctic Long Sequence Training (ALST) protocol from Snowflake AI Research) provides an elegant solution by distribut...",
+    "image": "https://huggingface.co/blog/assets/ulysses/thumbnail.png",
+    "title_ar": "Ulysses Sequence Parallelism: تدريب with Million-Token Contexts",
+    "summary_ar": "Ulysses Sequence Parallelism (part of the Arctic Long Sequence تدريب (ALST) protocol from Snowflake AI أبحاث) provides an elegant solution by distribut..."
   },
   {
-    "id": "https://huggingface.co/blog/moe-transformers",
+    "id": "https://huggingface.co/blog/lerobot-release-v050",
     "company": "Hugging Face",
-    "title": "Mixture of Experts (MoEs) in Transformers",
-    "date": "2026-03-08T14:40:33.000Z",
-    "url": "https://huggingface.co/blog/moe-transformers",
+    "title": "LeRobot v0.5.0: Scaling Every Dimension",
+    "date": "2026-03-09T00:00:00.640Z",
+    "url": "https://huggingface.co/blog/lerobot-release-v050",
     "tag": "Engineering",
-    "summary": "Over the past few years, scaling dense language models has driven most progress in LLMs. From early models like the original ULMFiT (~30M parameters) or GPT-...",
-    "image": "https://huggingface.co/blog/assets/moe-transformers/thumbnail.png",
-    "title_ar": "تحديث رسمي: Mixture of Experts (MoEs) in Transformers",
-    "summary_ar": "Over the past few years, توسيع نطاق dense لغة models has driven most progress in LLMs. From early models like the original ULMFiT (~30M parameters) or GPT-..."
+    "summary": "LeRobot v0.5.0 adds full Unitree G1 humanoid support (whole-body control models), new policies –including Pi0-FAST autoregressive VLAs and Real-Time Chunking...",
+    "image": "https://huggingface.co/blog/assets/lerobot-release-v050/thumbnail.png",
+    "title_ar": "LeRobot v0.5.0: توسيع نطاق Every Dimension",
+    "summary_ar": "LeRobot v0.5.0 adds full Unitree G1 humanoid support (whole-body control models), جديد policies –including Pi0-FAST autoregressive VLAs and Real-Time Chunking..."
   },
   {
     "id": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
@@ -418,16 +454,16 @@
     "summary_ar": "This post demonstrates كيفية build custom نموذج parsers for Strands agents when working with LLMs hosted on SageMaker that don't natively support the Bedroc..."
   },
   {
-    "id": "https://huggingface.co/blog/modular-diffusers",
+    "id": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
     "company": "Hugging Face",
-    "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
-    "date": "2026-03-05T15:24:31.000Z",
-    "url": "https://huggingface.co/blog/modular-diffusers",
+    "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "date": "2026-03-05T14:16:49.022Z",
+    "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
     "tag": "Research",
-    "summary": "In this post, we'll walk through how Modular Diffusers works — from the familiar API to run a modular pipeline, to building fully custom blocks and composing...",
-    "image": "https://huggingface.co/blog/assets/modular-diffusers/thumbnail.png",
-    "title_ar": "نُقدم لكم Modular Diffusers - Composable بناء Blocks for Diffusion Pipelines",
-    "summary_ar": "In this post, we'll walk through how Modular Diffusers works — from the familiar API to run a modular pipeline, to بناء fully custom blocks and composing..."
+    "summary": "Recent advances in Large Language Models have enabled the transition from text-only reasoning to multimodal systems. First, with the integration of visual pe...",
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nxp/bringing-robotics-ai-to-embedded-platforms.png",
+    "title_ar": "تحديث رسمي: Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+    "summary_ar": "Recent advances in Large لغة Models have enabled the transition from text-only reasoning to متعدد الأنماط systems. First, with the integration of visual pe..."
   },
   {
     "id": "https://openai.com/index/instruction-hierarchy-challenge",
@@ -452,6 +488,18 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/5t4zXynvPxIHXdXQMxiAwm/917d03bceb6cc7513cd2b34b7df46fe5/5.4_Thinking_System_Card_SEO.png?w=1600&h=900&fit=fill",
     "title_ar": "GPT-5.4 Thinking نظام Card",
     "summary_ar": "GPT‑5.4 Thinking is the latest reasoning نموذج in the GPT‑5 series, and explained in our blog⁠. The comprehensive سلامة mitigation approach for this نموذج i..."
+  },
+  {
+    "id": "https://huggingface.co/blog/modular-diffusers",
+    "company": "Hugging Face",
+    "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+    "date": "2026-03-05T00:00:00.673Z",
+    "url": "https://huggingface.co/blog/modular-diffusers",
+    "tag": "Research",
+    "summary": "In this post, we'll walk through how Modular Diffusers works — from the familiar API to run a modular pipeline, to building fully custom blocks and composing...",
+    "image": "https://huggingface.co/blog/assets/modular-diffusers/thumbnail.png",
+    "title_ar": "نُقدم لكم Modular Diffusers - Composable بناء Blocks for Diffusion Pipelines",
+    "summary_ar": "In this post, we'll walk through how Modular Diffusers works — from the familiar API to run a modular pipeline, to بناء fully custom blocks and composing..."
   },
   {
     "id": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
@@ -488,18 +536,6 @@
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/faeb5935baa3fba4e4d4459637e83e14d218b648-2400x1260.png",
     "title_ar": "تحديث رسمي: Where things stand with the Department of War",
     "summary_ar": "تحديث رسمي: A statement from Dario Amodei"
-  },
-  {
-    "id": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
-    "company": "Hugging Face",
-    "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
-    "date": "2026-03-05T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
-    "tag": "Research",
-    "summary": "Recent advances in Large Language Models have enabled the transition from text-only reasoning to multimodal systems. First, with the integration of visual pe...",
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nxp/bringing-robotics-ai-to-embedded-platforms.png",
-    "title_ar": "تحديث رسمي: Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
-    "summary_ar": "Recent advances in Large لغة Models have enabled the transition from text-only reasoning to متعدد الأنماط systems. First, with the integration of visual pe..."
   },
   {
     "id": "77e9975639aa1edccbbacdedc087b5dc5a79898f",
@@ -550,18 +586,6 @@
     "summary_ar": "تحديث رسمي: Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools."
   },
   {
-    "id": "https://huggingface.co/blog/Photoroom/prx-part3",
-    "company": "Hugging Face",
-    "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
-    "date": "2026-03-04T14:25:47.000Z",
-    "url": "https://huggingface.co/blog/Photoroom/prx-part3",
-    "tag": "Research",
-    "summary": "In the last two posts (Part 1 and Part 2), we explored a wide range of architectural and training tricks for diffusion models. We tried to evaluate each idea...",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/68e529af513e724edd8702f6/zMyALdakGbN6SDG3ucmLd.jpeg",
-    "title_ar": "PRX Part 3 — تدريب a Text-to-Image نموذج in 24h!",
-    "summary_ar": "In the last two posts (Part 1 and Part 2), we explored a wide range of architectural and تدريب tricks for diffusion models. We tried to evaluate each idea..."
-  },
-  {
     "id": "https://openai.com/index/ai-education-opportunity",
     "company": "OpenAI",
     "title": "Ensuring AI use in education leads to opportunity",
@@ -605,6 +629,18 @@
     "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/JuliaHub.webp",
     "title_ar": "تحديث رسمي: cuTile.jl Bring",
     "summary_ar": "تحديث رسمي: NVIDIA CUDA Tile is one of the most significant additions to NVIDIA CUDA programming and unlocks automatic access to tensor cores and other specialized hardw..."
+  },
+  {
+    "id": "https://huggingface.co/blog/Photoroom/prx-part3",
+    "company": "Hugging Face",
+    "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+    "date": "2026-03-03T16:50:49.309Z",
+    "url": "https://huggingface.co/blog/Photoroom/prx-part3",
+    "tag": "Research",
+    "summary": "In the last two posts (Part 1 and Part 2), we explored a wide range of architectural and training tricks for diffusion models. We tried to evaluate each idea...",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/68e529af513e724edd8702f6/zMyALdakGbN6SDG3ucmLd.jpeg",
+    "title_ar": "PRX Part 3 — تدريب a Text-to-Image نموذج in 24h!",
+    "summary_ar": "In the last two posts (Part 1 and Part 2), we explored a wide range of architectural and تدريب tricks for diffusion models. We tried to evaluate each idea..."
   },
   {
     "id": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
@@ -1028,6 +1064,18 @@
     "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to i"
   },
   {
+    "id": "https://huggingface.co/blog/moe-transformers",
+    "company": "Hugging Face",
+    "title": "Mixture of Experts (MoEs) in Transformers",
+    "date": "2026-02-26T00:00:00.677Z",
+    "url": "https://huggingface.co/blog/moe-transformers",
+    "tag": "Engineering",
+    "summary": "Over the past few years, scaling dense language models has driven most progress in LLMs. From early models like the original ULMFiT (~30M parameters) or GPT-...",
+    "image": "https://huggingface.co/blog/assets/moe-transformers/thumbnail.png",
+    "title_ar": "تحديث رسمي: Mixture of Experts (MoEs) in Transformers",
+    "summary_ar": "Over the past few years, توسيع نطاق dense لغة models has driven most progress in LLMs. From early models like the original ULMFiT (~30M parameters) or GPT-..."
+  },
+  {
     "id": "61a60ca498d929c7ad189e9f5d619a92ba5ff859",
     "company": "Amazon",
     "title": "Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock",
@@ -1196,18 +1244,6 @@
     "summary_ar": "An تحديث to Anthropic's سياسة to mitigate catastrophic risks from AI"
   },
   {
-    "id": "https://huggingface.co/blog/ggml-joins-hf",
-    "company": "Hugging Face",
-    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
-    "date": "2026-02-20T15:41:15.000Z",
-    "url": "https://huggingface.co/blog/ggml-joins-hf",
-    "tag": "Engineering",
-    "summary": "Georgi Gerganov and team are joining HF with the goal of scaling and supporting the community behind ggml and llama.cpp as Local AI continues to make exponen...",
-    "image": "https://huggingface.co/blog/assets/ggml-joins-hf/ggml-joins-hf.png",
-    "title_ar": "تحديث رسمي: GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
-    "summary_ar": "Georgi Gerganov and team are joining HF with the goal of توسيع نطاق and supporting the community behind ggml and llama.cpp as Local AI continues to make exponen..."
-  },
-  {
     "id": "https://openai.com/index/first-proof-submissions",
     "company": "OpenAI",
     "title": "Our First Proof submissions",
@@ -1217,28 +1253,28 @@
     "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems."
   },
   {
+    "id": "https://huggingface.co/blog/ggml-joins-hf",
+    "company": "Hugging Face",
+    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "date": "2026-02-20T00:00:00.676Z",
+    "url": "https://huggingface.co/blog/ggml-joins-hf",
+    "tag": "Engineering",
+    "summary": "Georgi Gerganov and team are joining HF with the goal of scaling and supporting the community behind ggml and llama.cpp as Local AI continues to make exponen...",
+    "image": "https://huggingface.co/blog/assets/ggml-joins-hf/ggml-joins-hf.png",
+    "title_ar": "تحديث رسمي: GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "summary_ar": "Georgi Gerganov and team are joining HF with the goal of توسيع نطاق and supporting the community behind ggml and llama.cpp as Local AI continues to make exponen..."
+  },
+  {
     "id": "https://huggingface.co/blog/unsloth-jobs",
     "company": "Hugging Face",
     "title": "Train AI models with Unsloth an",
-    "date": "2026-02-20T12:11:13.000Z",
+    "date": "2026-02-20T00:00:00.675Z",
     "url": "https://huggingface.co/blog/unsloth-jobs",
     "tag": "Research",
     "summary": "Why a small model? Small language models like LFM2.5-1.2B-Instruct are ideal candidates for fine-tuning. They are cheap to train, fast to iterate on, and inc...",
     "image": "https://huggingface.co/blog/assets/unsloth-jobs/thumbnail.png",
     "title_ar": "تحديث رسمي: Train AI models with Unsloth an",
     "summary_ar": "Why a small نموذج? Small لغة models like LFM2.5-1.2B-Instruct are ideal candidates for fine-tuning. They are cheap to train, fast to iterate on, and inc..."
-  },
-  {
-    "id": "https://huggingface.co/blog/async-rl-training-landscape",
-    "company": "Hugging Face",
-    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
-    "date": "2026-02-20T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/async-rl-training-landscape",
-    "tag": "News",
-    "summary": "Async RL training has emerged as the dominant paradigm for post-training at scale. Several trends in modern post-training have made synchronous training loop...",
-    "image": "https://huggingface.co/blog/assets/async-rl-landscape/thumbnail.png",
-    "title_ar": "تحديث رسمي: Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
-    "summary_ar": "Async RL تدريب has emerged as the dominant paradigm for post-تدريب at scale. Several trends in modern post-تدريب have made synchronous تدريب loop..."
   },
   {
     "id": "https://developer.nvidia.com/blog/accelerating-data-processing-with-nvidia-multi-instance-gpu-and-numa-node-localization/",
@@ -1322,6 +1358,18 @@
     "summary": "Python dominates machine learning for its ergonomics, but writing truly fast GPU code has historically meant dropping into C++ to write custom kernels"
   },
   {
+    "id": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+    "company": "Hugging Face",
+    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+    "date": "2026-02-18T16:15:45.295Z",
+    "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+    "tag": "Research",
+    "summary": "ITBench HF Space\nITBench HF Dataset\nMAST HF Dataset\nITBench Github\nMAST Github",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/pcP8QgkPqNpcygSbT6p60.png",
+    "title_ar": "IBM and UC Berkeley Diagnose Why مؤسسات Agents Fail Using IT-Bench and MAST",
+    "summary_ar": "تحديث رسمي: ITBench HF Space\nITBench HF Dataset\nMAST HF Dataset\nITBench Github\nMAST Github"
+  },
+  {
     "id": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
     "company": "Google / Gemini",
     "title": "A new way to express yourself: Gemini can now create music",
@@ -1349,6 +1397,18 @@
     "summary": "An overview of Google’s new global partnerships and funding announcements at the AI Impact Summit in India."
   },
   {
+    "id": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+    "company": "Hugging Face",
+    "title": "One-Shot Any Web App with Gradio's gr.HTML",
+    "date": "2026-02-18T00:00:00.674Z",
+    "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+    "tag": "News",
+    "summary": "We tested this by building different types of apps. Each one is a single Python file, no build step, deployable to Hugging Face Spaces in seconds.",
+    "image": "https://huggingface.co/blog/assets/gradio-html-one-shot-apps/thumbnail.png",
+    "title_ar": "تحديث رسمي: One-Shot Any Web App with Gradio's gr.HTML",
+    "summary_ar": "We tested this by بناء different types of apps. Each one is a single Python file, no build step, deployable to Hugging Face Spaces in seconds."
+  },
+  {
     "id": "https://openai.com/index/introducing-evmbench",
     "company": "OpenAI",
     "title": "Introducing EVMbench",
@@ -1370,18 +1430,6 @@
     "summary_ar": "تحديث رسمي: Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images."
   },
   {
-    "id": "https://huggingface.co/blog/ibm-research/itbenchandmast",
-    "company": "Hugging Face",
-    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
-    "date": "2026-02-18T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
-    "tag": "Research",
-    "summary": "ITBench HF Space\nITBench HF Dataset\nMAST HF Dataset\nITBench Github\nMAST Github",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/pcP8QgkPqNpcygSbT6p60.png",
-    "title_ar": "IBM and UC Berkeley Diagnose Why مؤسسات Agents Fail Using IT-Bench and MAST",
-    "summary_ar": "تحديث رسمي: ITBench HF Space\nITBench HF Dataset\nMAST HF Dataset\nITBench Github\nMAST Github"
-  },
-  {
     "id": "https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/",
     "company": "Google / Gemini",
     "title": "Our 2026 Responsible AI Progress Report",
@@ -1398,18 +1446,6 @@
     "url": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
     "tag": "Engineering",
     "summary": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages,"
-  },
-  {
-    "id": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
-    "company": "Hugging Face",
-    "title": "Custom Kernels for All from Codex and Claude",
-    "date": "2026-02-16T07:43:49.000Z",
-    "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
-    "tag": "Engineering",
-    "summary": "tl;dr: We built an agent skill that teaches coding agents how to write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffu...",
-    "image": "https://huggingface.co/blog/assets/custom-cuda-kernels/meme.png",
-    "title_ar": "تحديث رسمي: Custom Kernels for All from Codex and Claude",
-    "summary_ar": "tl;dr: We built an وكيل skill that teaches coding agents كيفية write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffu..."
   },
   {
     "id": "https://www.anthropic.com/news/claude-sonnet-4-6",
@@ -1458,6 +1494,18 @@
     "url": "https://openai.com/index/beyond-rate-limits",
     "tag": "Engineering",
     "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex."
+  },
+  {
+    "id": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+    "company": "Hugging Face",
+    "title": "Custom Kernels for All from Codex and Claude",
+    "date": "2026-02-13T00:00:00.672Z",
+    "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+    "tag": "Engineering",
+    "summary": "tl;dr: We built an agent skill that teaches coding agents how to write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffu...",
+    "image": "https://huggingface.co/blog/assets/custom-cuda-kernels/meme.png",
+    "title_ar": "تحديث رسمي: Custom Kernels for All from Codex and Claude",
+    "summary_ar": "tl;dr: We built an وكيل skill that teaches coding agents كيفية write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffu..."
   },
   {
     "id": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
@@ -1568,7 +1616,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwH9zqkM&_nc_oc=AdkUoz0CsG8QPVbtgiplfH3rcymolxJZZ1TJs8y2dR2zogeKCU60IMwjMl3JJ0j1uTk&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=6UojL-lXVxmwx29hAnrPTw&_nc_ss=8&oh=00_AfydwzVnloFvRt6_8ybWQDJt7J8lyufK2levbMU63FHxIg&oe=69CBB57F",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwGIM5p8&_nc_oc=AdkQJ3zEMvrQnYARrFFolrAywVHD5d0aiXSa2TUZsUPs0o4MztbDni1eXkW7WGJEflg&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=n1U6-zY_4ePJpT-G82faDQ&_nc_ss=8&oh=00_AfwYt-6yztgOrTw0pGdK2YJGvPTjxnK3P9elXceboQ82CQ&oe=69CBB57F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2721,7 +2769,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwGeM0bP&_nc_oc=Adme_EJsvIwTnXKhIv1lkMUbeRjFHkn0kzFbOlSC9OtRFmcV5uwUQCoHB9Pro1RxwwE&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=ZVNCcHIyXeC8JLXoKgFX5A&_nc_ss=8&oh=00_AfyxwevinCOAcVd4uYKBQfLMNDBiw5lalxFy12l7Pz1XkQ&oe=69CBBEB7",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwHz-F1v&_nc_oc=Adkb7rv7wnVCesGCWElqaA7JSy5L128tu6lVu0sp097YKAZ4NQ-NPGXt1tfLmLXU_8I&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=sSKd3SIy2ly4ayNPp0ErxQ&_nc_ss=8&oh=00_AfymfvU5QETEtdaia98ODJmGYfapa5IB-B49utfj_bPmKQ&oe=69CBBEB7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2733,7 +2781,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwH3LrgK&_nc_oc=AdmIvPE4KP5zRt4_wyP0J7wPcgIWk8QbshQMwxjVgWN2_a9owWCGum_Skrvf2r0Oydw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=xyz4CGOLgdZC3dkZ8SYYBQ&_nc_ss=8&oh=00_AfxEFC4U7BACLnH7SbYTnx_9l1kad577Uwnoas6HSgBI8g&oe=69CBA2D7",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwFQD4KG&_nc_oc=AdlB3nBO9khHvZVFbA9TYpZF-c3-4TsnciZN5GTRaabGaNdQTvXVYIJr-5R_YTtFY_s&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=jfXrLr6gYAwQg0ke1iNnAA&_nc_ss=8&oh=00_AfyfifAf_KWE5V7zp5W0Pu-2Zb8nlBKtjlMl6eimvHiVzQ&oe=69CBA2D7",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2917,7 +2965,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=go-vhm2ZpkoQ7kNvwEO2rpm&_nc_oc=Adno1EM81Ra-mZj9BTSEpe6EmShpvqcBk6QG-RBtm0dlpJaWMDPXbuWfUieguAwuXe0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6Nc4Fe3WAAMcoLTBI-m-JQ&_nc_ss=8&oh=00_Afx_Z1KEZArUuy1up8eyJFGtA6LobB7qoDSjDnfZw7_eWw&oe=69CBA09B",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=go-vhm2ZpkoQ7kNvwGL7PSk&_nc_oc=AdnZkiajq2Yw_7NYDZhlT7M0Trawnh_whACYw-Pnd6ak1fMAYpfQ_OsxazrwsOnRYs8&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=fyCF7dazrYGQ0WgZtP8V7w&_nc_ss=8&oh=00_AfzcHAMDr74xaZonRihwBJ0ms2dokrF8r6gG4t-a-i6CaA&oe=69CBA09B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
@@ -3505,18 +3553,6 @@
     "image": "https://lh3.googleusercontent.com/YElycD2T8J2GDnFczuvtRJbPHGUMWPZiT-sLhQdv0ngl9hX0-Y4-KsOWaQxpUuwBCLrjW0FnWncfwgVP6TySgyUPjqyqd7x4czAJbGrRvTlhiV87sA=w1200-h630-n-nu-rw",
     "title_ar": "Google DeepMind Partnerships in India: توسيع نطاق AI in science and education",
     "summary_ar": "Google DeepMind announces جديد AI partnerships in India to advance scientific أبحاث, empower students with interactive Gemini-powered learning, and support..."
-  },
-  {
-    "id": "https://huggingface.co/blog/gradio-html-one-shot-apps",
-    "company": "Hugging Face",
-    "title": "One-Shot Any Web App with Gradio's gr.HTML",
-    "date": "2025-12-01T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
-    "tag": "News",
-    "summary": "We tested this by building different types of apps. Each one is a single Python file, no build step, deployable to Hugging Face Spaces in seconds.",
-    "image": "https://huggingface.co/blog/assets/gradio-html-one-shot-apps/thumbnail.png",
-    "title_ar": "تحديث رسمي: One-Shot Any Web App with Gradio's gr.HTML",
-    "summary_ar": "We tested this by بناء different types of apps. Each one is a single Python file, no build step, deployable to Hugging Face Spaces in seconds."
   },
   {
     "id": "https://huggingface.co/blog/transformers-v5",
@@ -4169,18 +4205,6 @@
     "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
     "tag": "Release",
     "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies."
-  },
-  {
-    "id": "https://huggingface.co/blog/lerobot-release-v050",
-    "company": "Hugging Face",
-    "title": "LeRobot v0.5.0: Scaling Every Dimension",
-    "date": "2025-10-29T00:00:00.000Z",
-    "url": "https://huggingface.co/blog/lerobot-release-v050",
-    "tag": "Engineering",
-    "summary": "LeRobot v0.5.0 adds full Unitree G1 humanoid support (whole-body control models), new policies –including Pi0-FAST autoregressive VLAs and Real-Time Chunking...",
-    "image": "https://huggingface.co/blog/assets/lerobot-release-v050/thumbnail.png",
-    "title_ar": "LeRobot v0.5.0: توسيع نطاق Every Dimension",
-    "summary_ar": "LeRobot v0.5.0 adds full Unitree G1 humanoid support (whole-body control models), جديد policies –including Pi0-FAST autoregressive VLAs and Real-Time Chunking..."
   },
   {
     "id": "https://huggingface.co/blog/lerobotxnvidia-healthcare",
