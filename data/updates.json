@@ -31,7 +31,7 @@
     "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
     "tag": "Engineering",
     "summary": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges...",
-    "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=qtHHUAd6cRMQ7kNvwHdCWiz&_nc_oc=AdkvHwvkMGFsiE8WKTWPpxizepEQuv8OWRQoQ1BDPL7sAC0SQ22Ca5bJGbWWDUVmP_E&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=6YFljhplckYkTT5hmslNIg&_nc_ss=8&oh=00_AfzYsen6TjWmTTBg0tWXceDYdT2vanSSWgBgcdmpNnq7tA&oe=69CBEE2C",
+    "image": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=qtHHUAd6cRMQ7kNvwG27jCl&_nc_oc=AdkA7bN4m5Yk_2WWkh3jQ0vDpfPm64Mytmtu4d5HDJC2MmaomPcCj4uWMX9FHT6Lvis&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=00xeTvIccrvgJ5QpnP3t0w&_nc_ss=8&oh=00_Afy-_sWY7FwIgU4xKdqkMyGvMQcITaZmskg8Jcbkyifi8A&oe=69CBEE2C",
     "title_ar": "Four MTIA Chips in Two Years: توسيع نطاق AI Experiences for Billions",
     "summary_ar": "Serving a wide range of AI models on a عالمي scale, while maintaining the lowest possible costs, is one of the most demanding بنية تحتية challenges..."
   },
@@ -199,7 +199,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwFAY8Wd&_nc_oc=AdkCOzaWyMl8FD3iYjrHCEdRlOKPh0iR8pw7f_xsuC5c3ZlwanTEuA_FdyUaIPiBzbY&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=OdFosO1IYtZzHxEhlzbxmw&_nc_ss=8&oh=00_Afx4UJEZq3B3O6-bACY8dJrncnJBXnLe3tOt1R0K5Kd1AA&oe=69CBF8C6",
+    "image": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwGbqZb9&_nc_oc=AdkiZwsSl1xEqX0sNfracSin9UQ6vwCxWgoVUb8t-TRYnrF-ZPoBTKbMp0MGjiMZnP8&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=sk3e_plTeKyMHfRllWpoig&_nc_ss=8&oh=00_AfxEo9RvDykF47aRCl-wGrMRzd06vqilrEd--w_PDtlmlw&oe=69CBF8C6",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -420,18 +420,6 @@
     "summary_ar": "تحديث رسمي: Learn more about AI Mode in Search’s query fan-out method for visual search."
   },
   {
-    "id": "https://developer.nvidia.com/blog/controlling-floating-point-determinism-in-nvidia-cccl/",
-    "company": "NVIDIA",
-    "title": "Controlling Floating-Point Determinism i",
-    "date": "2026-03-05T17:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/controlling-floating-point-determinism-in-nvidia-cccl/",
-    "tag": "Engineering",
-    "summary": "A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Floating-Point-CUB.webp",
-    "title_ar": "تحديث رسمي: Controlling Floating-Point Determinism i",
-    "summary_ar": "تحديث رسمي: A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property…"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
     "company": "NVIDIA",
     "title": "Tuning Flash Attention for Peak Performance i",
@@ -442,6 +430,18 @@
     "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/CUDA-Tile-Flash-Attention.webp",
     "title_ar": "Tuning Flash Attention for Peak أداء i",
     "summary_ar": "تحديث رسمي: In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: Environment requirements: See the quickstart…"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/controlling-floating-point-determinism-in-nvidia-cccl/",
+    "company": "NVIDIA",
+    "title": "Controlling Floating-Point Determinism i",
+    "date": "2026-03-05T17:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/controlling-floating-point-determinism-in-nvidia-cccl/",
+    "tag": "Engineering",
+    "summary": "A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Floating-Point-CUB.webp",
+    "title_ar": "تحديث رسمي: Controlling Floating-Point Determinism i",
+    "summary_ar": "تحديث رسمي: A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property…"
   },
   {
     "id": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
@@ -839,18 +839,6 @@
     "summary_ar": "In this post, we will show you كيفية configure Amazon Bedrock Guardrails for efficient أداء, implement best practices to protect your applications, a..."
   },
   {
-    "id": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
-    "company": "NVIDIA",
-    "title": "Building Telco Reasoning Models for Autonomous Networks wit",
-    "date": "2026-03-01T07:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
-    "tag": "Engineering",
-    "summary": "Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/ai-reasoning-networking.webp",
-    "title_ar": "بناء Telco Reasoning Models for Autonomous Networks wit",
-    "summary_ar": "تحديث رسمي: Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications…"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/5-new-digital-twin-products-developers-can-use-to-build-6g-networks/",
     "company": "NVIDIA",
     "title": "5 New Digital Twin Products Developers Can Use to Build 6G Networks",
@@ -861,6 +849,18 @@
     "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/image6.webp",
     "title_ar": "5 جديد Digital Twin Products Developers Can Use to Build 6G Networks",
     "summary_ar": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: كيفية design, train, and validate AI-native networks that are too complex to…"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
+    "company": "NVIDIA",
+    "title": "Building Telco Reasoning Models for Autonomous Networks wit",
+    "date": "2026-03-01T07:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
+    "tag": "Engineering",
+    "summary": "Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/ai-reasoning-networking.webp",
+    "title_ar": "بناء Telco Reasoning Models for Autonomous Networks wit",
+    "summary_ar": "تحديث رسمي: Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications…"
   },
   {
     "id": "https://openai.com/index/openai-to-acquire-promptfoo",
@@ -1649,7 +1649,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwHPKmc7&_nc_oc=AdlOz9093dfrh7vMx_e-WyhNimbqtqYI_vTMA2QBaKpT3ZWGN0fqRc0TmNsluYuAws8&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=mceIUzVUDQVfbL-Ql15Yvg&_nc_ss=8&oh=00_AfxXIELTd9iIMc3fwAHP7Yimxu4WxIIDGJ9pwsjfvxK8GA&oe=69CBEDBF",
+    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwHlqbUo&_nc_oc=Admc5JCNbPVF5MxH6MVCX5hiPrvEXT-sqfYYZm2ijEqI97Q5gTutKryOlCgL4EpPT2o&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=5EDlhBKbKAVitOU9TY9UCw&_nc_ss=8&oh=00_AfyGMqtWotdJEyxiCKOSkp-kWO7bJmOGMY_715QoJ9cRLw&oe=69CBEDBF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2790,7 +2790,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwGgS2LT&_nc_oc=AdlpbN_d8yqPoqraH81zDibJnIZNc45LfiRaLFeid-fyrBscno9RqaxhilNfzZaeVNQ&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=ZCPZ5nJZV-bj-Jg2C_qCVA&_nc_ss=8&oh=00_AfyoOyJNr4Xj0ldGD0Sj_T0026K2lF0reY7_CaCW3TeTlQ&oe=69CBF6F7",
+    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwEE-JWv&_nc_oc=AdmQjbZoXoVBZHQ0y7cn127BQOdcrKAI25Xkq6H0Q0xIhmUlGxZKTwbpXiS-1nRXfAc&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=O5ZJVl3yu1z6R1GUjv2d8Q&_nc_ss=8&oh=00_Afzq0Bs-WvPh2sW7JyMKesSzUS224a9GVYSi4Wpx7TCg5Q&oe=69CBF6F7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2974,7 +2974,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=go-vhm2ZpkoQ7kNvwGrHSji&_nc_oc=AdkfD-1ren0FOCS6iuRewAjzpg2T5fC4BHaUpe3-rAvr9E6ssDPyKkIMiOhDoKVnKY4&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=NDHwwpF31biGyCcDEcIpTw&_nc_ss=8&oh=00_Afz8NHHPwaAVaOeeDq-ndWcawq5M0o5IdYkPwtluX1-Xig&oe=69CBD8DB",
+    "image": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=go-vhm2ZpkoQ7kNvwEuprDc&_nc_oc=AdntgkluyeXuXdTwmb3S_ppkpbld0kggO_DfxqBOC70otX3ysqqS4XKw1NLd7LQg6ic&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=Re2Xsgu0HuIutDneyC2fNw&_nc_ss=8&oh=00_AfzGOHfdldz99R-ojCg3gw7qlMKfJuKeB7zOkOsYDvsb6Q&oe=69CBD8DB",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
