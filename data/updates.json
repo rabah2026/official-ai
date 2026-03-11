@@ -1,5 +1,17 @@
 [
   {
+    "id": "50a7172014425784fb45675c33833391e64c8ebb",
+    "company": "Amazon",
+    "title": "Operationalizing Agentic AI Part 1: A Stakeholder’s Guide",
+    "date": "2026-03-11T20:52:23.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/",
+    "tag": "Docs",
+    "summary": "The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this po...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/11/ml-20583-1-1120x630.png",
+    "title_ar": "تحديث رسمي: Operationalizing Agentic AI Part 1: A Stakeholder’s Guide",
+    "summary_ar": "تحديث رسمي: The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this po..."
+  },
+  {
     "id": "https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/",
     "company": "NVIDIA",
     "title": "Introducing Nemotron 3 Super: An Open Hybrid Mamba-Transformer MoE for Agentic Reasoning",
@@ -22,6 +34,42 @@
     "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/synthetic-code-concepts.png",
     "title_ar": "تحديث رسمي: Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
     "summary_ar": "In large-scale LLM development, improving نموذج quality depends not only on data quantity but also on data quality and specificity. While pretraining dataset..."
+  },
+  {
+    "id": "https://openai.com/index/wayfair",
+    "company": "OpenAI",
+    "title": "Wayfair boosts catalog accuracy and support speed wit",
+    "date": "2026-03-11T13:00:00.000Z",
+    "url": "https://openai.com/index/wayfair",
+    "tag": "News",
+    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes a...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2BwLsAc9CDgCMWPnvMG6zT/88486652ebb56e9410a9949bfb4938f8/oai_wayfair_SEO.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: Wayfair boosts catalog accuracy and support speed wit",
+    "summary_ar": "تحديث رسمي: Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes a..."
+  },
+  {
+    "id": "https://openai.com/index/descript",
+    "company": "OpenAI",
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "date": "2026-03-11T13:00:00.000Z",
+    "url": "https://openai.com/index/descript",
+    "tag": "Case Study",
+    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across l...",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3Wuw2Ti0DpqP7rKkFvpjbQ/e7e4e8d01c2c36e853da359422ccfe26/oai_descript_SEO.png?w=1600&h=900&fit=fill",
+    "title_ar": "How Descript enables multilingual فيديو dubbing at scale",
+    "summary_ar": "Descript uses OpenAI models to scale multilingual فيديو dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across l..."
+  },
+  {
+    "id": "https://openai.com/index/balyasny-asset-management",
+    "company": "OpenAI",
+    "title": "How Balyasny Asset Management built an AI research engine for investing",
+    "date": "2026-03-11T13:00:00.000Z",
+    "url": "https://openai.com/index/balyasny-asset-management",
+    "tag": "Research",
+    "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/382VlVZkaBExAEgbStv48/c153600f543d4c65cf209cfdf83ca854/oai_Balyasny_SEO.png?w=1600&h=900&fit=fill",
+    "title_ar": "How Balyasny Asset Management built an AI أبحاث engine for investing",
+    "summary_ar": "See how Balyasny built an AI أبحاث نظام with GPT-5.4, rigorous نموذج evaluation, and وكيل workflows to transform investment analysis at scale."
   },
   {
     "id": "https://openai.com/index/codex-security-now-in-research-preview",
@@ -48,30 +96,6 @@
     "summary_ar": "Rakuten uses Codex, the coding وكيل from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack b..."
   },
   {
-    "id": "https://openai.com/index/descript",
-    "company": "OpenAI",
-    "title": "How Descript enables multilingual video dubbing at scale",
-    "date": "2026-03-11T11:00:00.000Z",
-    "url": "https://openai.com/index/descript",
-    "tag": "Case Study",
-    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across l...",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/3Wuw2Ti0DpqP7rKkFvpjbQ/e7e4e8d01c2c36e853da359422ccfe26/oai_descript_SEO.png?w=1600&h=900&fit=fill",
-    "title_ar": "How Descript enables multilingual فيديو dubbing at scale",
-    "summary_ar": "Descript uses OpenAI models to scale multilingual فيديو dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across l..."
-  },
-  {
-    "id": "https://openai.com/index/balyasny-asset-management",
-    "company": "OpenAI",
-    "title": "How Balyasny Asset Management built an AI research engine for investing",
-    "date": "2026-03-11T11:00:00.000Z",
-    "url": "https://openai.com/index/balyasny-asset-management",
-    "tag": "Research",
-    "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/382VlVZkaBExAEgbStv48/c153600f543d4c65cf209cfdf83ca854/oai_Balyasny_SEO.png?w=1600&h=900&fit=fill",
-    "title_ar": "How Balyasny Asset Management built an AI أبحاث engine for investing",
-    "summary_ar": "See how Balyasny built an AI أبحاث نظام with GPT-5.4, rigorous نموذج evaluation, and وكيل workflows to transform investment analysis at scale."
-  },
-  {
     "id": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
     "company": "Meta AI",
     "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions",
@@ -79,7 +103,7 @@
     "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
     "tag": "Engineering",
     "summary": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges...",
-    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=qtHHUAd6cRMQ7kNvwHWSUz2&_nc_oc=AdktFTqVs2-z6vGcH4_wmFusaOfJkz3NbwzPgwThQVMEx9DH8QANcT6Onmzwurtzy74&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=lmiwPonfTta-iunapyVZqg&_nc_ss=8&oh=00_AfyxSKFT2GteHIViGy7nlDxCEMdp5WHnz_BKcSRTZdTxuQ&oe=69CC266C",
+    "image": "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=qtHHUAd6cRMQ7kNvwHFsnLW&_nc_oc=Adm6Oteic62y7sZ-lMoRt7gCMCiOQBdkz7azOMy7LKTlFAT_a8OEofff2h4AqoccgYk&_nc_zt=14&_nc_ht=scontent-lhr8-2.xx&_nc_gid=8rIQXbgJMZt751fhtJrxMw&_nc_ss=8&oh=00_AfwHT5ZX3T1SbCzbBtoySVI-WbwpatR2YxXPqWUqmdlFIQ&oe=69CC266C",
     "title_ar": "Four MTIA Chips in Two Years: توسيع نطاق AI Experiences for Billions",
     "summary_ar": "Serving a wide range of AI models on a عالمي scale, while maintaining the lowest possible costs, is one of the most demanding بنية تحتية challenges..."
   },
@@ -223,7 +247,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwH8nfuS&_nc_oc=Adk7Ke0OprXhjVySAMG0o-pCrfizqMPOR7rGCmsacwoHguk1fXOx2sZtIOevBP1ZCVE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=PWxgZ6BE2H4KrFI3ByJmjw&_nc_ss=8&oh=00_AfzyHoU-oXCwW4ZFZieJmdL3dTu1IPDa2Yc75ZShvyXGyA&oe=69CBF8C6",
+    "image": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwHh4SOV&_nc_oc=AdmqpKeHkhUgwxWA91YAh5ZRWFYCfSu8kzf0wtLlennN4EhLxToj4iWHXPl6QfhsS1w&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=AQUq46Bad4A8fNsxe1TmqQ&_nc_ss=8&oh=00_AfyJK0d3FCdAyAP0m5ZCtzR0QO-PeuPVlGqhsjdhPAUYgQ&oe=69CC3106",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -358,18 +382,6 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/7vwwEVWeYVswN8KAIIRiAZ/3b21f7147ba40289879f844649d6897e/OAI_Designing_AI_agentsto_resist_prompt_injection_SEO_16x9.png?w=1600&h=900&fit=fill",
     "title_ar": "تحديث رسمي: Designing AI agents to resist prompt injection",
     "summary_ar": "How ChatGPT defends against prompt injection and social هندسة by constraining risky actions and protecting sensitive data in وكيل workflows."
-  },
-  {
-    "id": "https://openai.com/index/wayfair",
-    "company": "OpenAI",
-    "title": "Wayfair boosts catalog accuracy and support speed wit",
-    "date": "2026-03-06T10:00:00.000Z",
-    "url": "https://openai.com/index/wayfair",
-    "tag": "News",
-    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes a...",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/2BwLsAc9CDgCMWPnvMG6zT/88486652ebb56e9410a9949bfb4938f8/oai_wayfair_SEO.png?w=1600&h=900&fit=fill",
-    "title_ar": "تحديث رسمي: Wayfair boosts catalog accuracy and support speed wit",
-    "summary_ar": "تحديث رسمي: Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes a..."
   },
   {
     "id": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
@@ -1051,14 +1063,11 @@
   {
     "id": "56b7071fcad978cd7a0b21f92935baa1b153cbfd",
     "company": "Amazon",
-    "title": "Reinforcement fine-tuning fo",
+    "title": "Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback",
     "date": "2026-02-26T17:48:37.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/",
     "tag": "Research",
-    "summary": "In this post, we explore reinforcement fine-tuning (RFT) for Amazon Nova models, which can be a powerful customization technique that learns through evaluati...",
-    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/26/ml-20340-1120x630.png",
-    "title_ar": "تحديث رسمي: Reinforcement fine-tuning fo",
-    "summary_ar": "تحديث رسمي: In this post, we explore reinforcement fine-tuning (RFT) for Amazon Nova models, which can be a powerful customization technique that learns through evaluati..."
+    "summary": "In this post, we explore reinforcement fine-tuning (RFT) for Amazon Nova models, which can be a powerful customization technique that learns through e"
   },
   {
     "id": "d3037eba588da28f924207de615e7ed509228ce3",
@@ -1242,15 +1251,6 @@
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
     "title_ar": "A.R.I.S.: Automated Recycling Identification نظام for E-Waste Classification Using Deep Learning",
     "summary_ar": "تحديث رسمي: Traditional electronic recycling processes suffer from significant resource loss due to inadequate material separation and identification…"
-  },
-  {
-    "id": "5a530267af19ba99525397189d16214bb54387f6",
-    "company": "Amazon",
-    "title": "Build an intelligent photo search using Amazon Rekognition, Amazon Neptune, and Amazon Bedrock",
-    "date": "2026-02-24T18:22:26.000Z",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-photo-search-using-amazon-rekognition-amazon-neptune-and-amazon-bedrock/",
-    "tag": "News",
-    "summary": "In this post, we show you how to build a comprehensive photo search system using the AWS Cloud Development Kit (AWS CDK) that integrates Amazon Rekogn"
   },
   {
     "id": "https://openai.com/index/arvind-kc-chief-people-officer",
@@ -1685,7 +1685,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwHqZJne&_nc_oc=AdnrNTQfRTw4xzLLCeKx1yPkNumUOhQ8qAFpzAwv1wRTfgpwn_dhpVJfg_BsVNVc8d8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=EQVClFiZxtDXabDSUkveKw&_nc_ss=8&oh=00_AfyDqxp_mCw_t0xRgXMin6axfIWQ2_l-OZroW4cGeKMztw&oe=69CC25FF",
+    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwFKU6Mq&_nc_oc=Adnb58xxzsu46EabKaCwmKrkQD51B2OgznCu5xd15pOJz-aIa9oQ3oyvO74sp2ygpCU&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=bz1PTissMOyqdTg5Hl6vkg&_nc_ss=8&oh=00_AfxSshcjFWbKe9_ntzsUrO79BJeKx0nif5UN0u0EZBhd1g&oe=69CC25FF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2826,7 +2826,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwH9wRVR&_nc_oc=AdklkrJ028Y8gsYGdk6tJfz34fGPeql8mtc9kRgLN65MMvaA2t02-cpm_aSYx2APL3Y&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=5DhvN-7L6SFyz5SRrLbfHg&_nc_ss=8&oh=00_AfycmuX4XomstJPBx9hbHLLbfEygnyOm7T2dDbMXuyIr1w&oe=69CBF6F7",
+    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwH9hba7&_nc_oc=Adl9dZJLBlatlFenh9sagHJvF-Uk5Zwf3N42t2E4MjqbSkcqKMzXp5kwGyEjIqys76I&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=QV_e2jKT74yVSlhhlOTI0Q&_nc_ss=8&oh=00_AfyhjsFZu8oh-fjhMoOvYCui9_uIr_lkARly9Ic94tdTXA&oe=69CC2F37",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2838,7 +2838,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwHsqPru&_nc_oc=AdkQRdYzfQ_MP7gBYZdTItQAqBdeAkXVDFQdYD1bsU43W85VOqAMCn6oJDAa7axtN40&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=pWnob1EKsO0eO2GtSA46HA&_nc_ss=8&oh=00_AfxKTaw2ndux-g0qBEx4d3GWDcsLRnUszWI_elDPA-pFOg&oe=69CC1357",
+    "image": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwHp04DK&_nc_oc=AdkDOAh2DdUJzN_YYbFcv1mEDv27sz4y5tLRqkvi59-kcFKhpTaLPo8GO1EtS2Zmeko&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=4liwxgbLuY-BxnsSsRtCHQ&_nc_ss=8&oh=00_AfxqxFA3fIugMEWHfxzRcwMax81DfcjnFAYJ85ZikyAxqQ&oe=69CC1357",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
