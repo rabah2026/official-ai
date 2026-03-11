@@ -7,7 +7,7 @@
     "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
     "tag": "Engineering",
     "summary": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges...",
-    "image": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=qtHHUAd6cRMQ7kNvwHXljVT&_nc_oc=Adkqwnl0F-3e4kBtTscuQj9mBnPhBJA74fU0JXo9mJFIZZ37-oCgom4OvPwdsrG0DDw&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=ZxSTB9xDjS7I-UFGLPf9iQ&_nc_ss=8&oh=00_AfwFYb4CRBovev-xZAvdIZvQC3pS1MRYzRakLIy_D3lHBw&oe=69CBB5EC",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=qtHHUAd6cRMQ7kNvwGD7ujv&_nc_oc=AdmObx8AuzUWUd7waEgl84UXrBR_AqNMhiuqFQ69kFOFfX9QmeH23inJSAIM4bRPPUM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=gCiWWVxO4MhgPnmIPybiAA&_nc_ss=8&oh=00_Afza9Xgkhfi4Er2tJzVYAxJi6duZTLscHx3SWqa4CLm6gg&oe=69CBB5EC",
     "title_ar": "تحديث رسمي: Meta's Race to Scale AI Chips for Billions: Four Chips in Two Years",
     "summary_ar": "Serving a wide range of AI models on a عالمي scale, while maintaining the lowest possible costs, is one of the most demanding بنية تحتية challenges..."
   },
@@ -187,7 +187,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwEQsDoG&_nc_oc=Adk75x5C_TWak6xAKRLLIPrdHc1sS3SHqs6HPThPUSQGXKnpMMkPi7hrf8xDnIv4JYE&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=Xw64pk4uro1d9rm5aCewrA&_nc_ss=8&oh=00_Afz6T4_dwwioJJzhagLtfIi01aVqkzj_5r--nvaGG3jnhA&oe=69CBC086",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwGFsjDg&_nc_oc=AdkQWkRkQXauAowu86PT-2sSD2H3ZpiUtxZEgkAG3touRlCgObUtnLJRy202DVDl8CU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=POQnj5TKO_B7pLtU7sSSow&_nc_ss=8&oh=00_AfwARrfuzJNmJdAhCg7qdZWOJ5V-96zhUM2PAuvxKGNGMw&oe=69CBC086",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -274,15 +274,6 @@
     "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/genai-mixture-of-experts-blog-3105601-1920x1080-1.webp",
     "title_ar": "تحديث رسمي: Removing the Guesswork from Disaggregated Serving",
     "summary_ar": "Deploying and optimizing large لغة models (LLMs) for high-أداء, cost-effective serving can be an overwhelming هندسة problem."
-  },
-  {
-    "id": "https://openai.com/index/openai-to-acquire-promptfoo",
-    "company": "OpenAI",
-    "title": "OpenAI to acquire Promptfoo",
-    "date": "2026-03-09T10:00:00.000Z",
-    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
-    "tag": "News",
-    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development."
   },
   {
     "id": "https://huggingface.co/blog/ulysses-sp",
@@ -848,6 +839,18 @@
     "summary_ar": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: كيفية design, train, and validate AI-native networks that are too complex to…"
   },
   {
+    "id": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "company": "OpenAI",
+    "title": "OpenAI to acquire Promptfoo",
+    "date": "2026-02-28T12:30:00.000Z",
+    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "tag": "Security",
+    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2l5nfItID8KM3c99MpQSbH/e0e585f9f8c924b6a95d2fda52def6c4/Promptfoo__3_.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: OpenAI to acquire Promptfoo",
+    "summary_ar": "OpenAI is acquiring Promptfoo, an AI أمن منصة that helps enterprises identify and remediate vulnerabilities in AI systems during development."
+  },
+  {
     "id": "https://openai.com/index/our-agreement-with-the-department-of-war",
     "company": "OpenAI",
     "title": "Our agreement with the Department of War",
@@ -1158,18 +1161,6 @@
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/1864442e2d581ffc8242e7c57e2c4e2309351f49-1200x630.png",
     "title_ar": "تحديث رسمي: Statement from Dario Amodei on our discussions with the Department of War",
     "summary_ar": "A statement from our CEO on national أمن uses of AI"
-  },
-  {
-    "id": "https://www.anthropic.com/news/acquires-vercept",
-    "company": "Anthropic",
-    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
-    "date": "2026-02-25T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/acquires-vercept",
-    "tag": "Research",
-    "summary": "People are using Claude for increasingly complex work—writing and running code across entire repositories, synthesizing research from dozens of sources, and ...",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&backgroundColor=coral",
-    "title_ar": "تحديث رسمي: Anthropic acquires Vercept to advance Claude's computer use capabilities",
-    "summary_ar": "People are using Claude for increasingly complex work—writing and running code across entire repositories, synthesizing أبحاث from dozens of sources, and ..."
   },
   {
     "id": "constructive-circuit-amplification",
@@ -1625,7 +1616,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwHFhA54&_nc_oc=AdmBQa8Hmg61ZLw1FL9pGDjZe5xWCayis6ToT1tmvmX6ym18FDYDkPDEzGfl7ASz47o&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=ytGty4ZYKU2sdVRIA7wp5A&_nc_ss=8&oh=00_AfwALTrKn_c52SwUliyHoEx0Jy61ePcgo-TBOjAEO_4XXQ&oe=69CBB57F",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwHEPkIE&_nc_oc=AdnrWKqmPxHmGhI7RNQhfl0o6NLZmMGZ0NZlsBH7R9XU8WAfUUlDIVF8AIhT88uYU7c&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=8JPdamSx0TXF3SbdVojnWg&_nc_ss=8&oh=00_Afz_aHYbT-voUE5j8echdYWLBiiLiKlBZI_30FdNpeyStg&oe=69CBB57F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2778,7 +2769,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwELJj45&_nc_oc=AdkPODrl-Gpmh4Ml4zW4kP-IvoVUvXYdJIL0Wn47JjE-C145ZC6JB11oG59wEikvMV0&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=cv4iV62CCAyCCOq4Wn5AYA&_nc_ss=8&oh=00_AfyCAIWe5ksjX4cBIANgv1ZBrmYUtHWF5lr2eRbNEfXuPg&oe=69CBBEB7",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwGu-KYJ&_nc_oc=Admn4rQ10xF8WIzp5E2LUmS53mVT-oiJSOVa09qrYDpGvDw4eK-S8xkjpItNWePvOB8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=7Q_CzW2B6-ZhBbOezy-DQQ&_nc_ss=8&oh=00_AfzZvvZPUwVP4qomyjDIaQXxTiERnPoJQgnJuXXnnc-lqQ&oe=69CBBEB7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2962,7 +2953,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=go-vhm2ZpkoQ7kNvwG2Ta_w&_nc_oc=Adk0TvHFV96WU38On0kZFC9F1M9HUDFamjcjXo5mXWsUrgC2U39AbDGYlkvW5faokGI&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=TohcyySZ5U-OLLz_lvksDQ&_nc_ss=8&oh=00_AfxWtCFiVrl_VKP2_X5j6ohVviLEAg8wzzTy2m_ONNCQ8w&oe=69CBD8DB",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=go-vhm2ZpkoQ7kNvwH6bzSO&_nc_oc=AdlI7OyPqmW1PQSCT4AiO2hMTeJko3jTf6MbkDDjOzoKYjbF4CmRexKBy8a1ZZ_tOC8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=T6CSfc5qY3d7JE98Jq1C2A&_nc_ss=8&oh=00_AfxPQnAY44SOdht3zmIsZ0TQ2aHwBOaqAaTBvLWezHqVfw&oe=69CBD8DB",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
