@@ -120,6 +120,18 @@
     "summary_ar": "OpenAI introduces ChatGPT for Excel and جديد financial app integrations, powered by GPT-5.4 to accelerate modeling, أبحاث, and analysis in regulated enviro..."
   },
   {
+    "id": "https://www.anthropic.com/news/the-anthropic-institute",
+    "company": "Anthropic",
+    "title": "Introducing Th",
+    "date": "2026-03-10T00:00:00.000Z",
+    "url": "https://www.anthropic.com/news/the-anthropic-institute",
+    "tag": "Release",
+    "summary": "We’re launching The Anthropic Institute, a new effort to confront the most significant challenges that powerful AI will pose to our societies.",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Book&backgroundColor=oat",
+    "title_ar": "نُقدم لكم Th",
+    "summary_ar": "We’re launching The Anthropic Institute, a جديد effort to confront the most significant challenges that powerful AI will pose to our societies."
+  },
+  {
     "id": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
     "company": "Anthropic",
     "title": "Sydney will becom",
@@ -139,7 +151,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwH1icVO&_nc_oc=Adnf7UzhjCA2VObIvRZBI2iIYbpuCDkWaOdSEqj7JhNAPK8JHBiZ1cuOhSJgVrQ2wJI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=VdkvmmDB7eyK6_Zgucacxw&_nc_ss=8&oh=00_Afxv17MV59_DTWr7Zc47qiimLiHhS28IAUf9tHDv-TxK1g&oe=69CB8846",
+    "image": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwFrZFA8&_nc_oc=AdltoUGcW00rerQCuh45fQ72nqRwnGc1qh_qx7ceO4foCUh36qkKE1utpmg5iguWTtU&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=HmeamgBYjj2iagUQTNIhkg&_nc_ss=8&oh=00_AfxcVAdBEcs0tBiEgRAQg1DdHri1Tyb7SnBYNHFTuceuVg&oe=69CB8846",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -1184,18 +1196,6 @@
     "summary_ar": "An تحديث to Anthropic's سياسة to mitigate catastrophic risks from AI"
   },
   {
-    "id": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
-    "company": "Anthropic",
-    "title": "Detecting and preventing distillation attacks",
-    "date": "2026-02-23T00:00:00.000Z",
-    "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
-    "tag": "News",
-    "summary": "We have identified industrial-scale campaigns by three AI laboratories—DeepSeek, Moonshot, and MiniMax—to illicitly extract Claude’s capabilities to improve ...",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Lock&backgroundColor=fig",
-    "title_ar": "تحديث رسمي: Detecting and preventing distillation attacks",
-    "summary_ar": "تحديث رسمي: We have identified industrial-scale campaigns by three AI laboratories—DeepSeek, Moonshot, and MiniMax—to illicitly extract Claude’s capabilities to improve ..."
-  },
-  {
     "id": "https://huggingface.co/blog/ggml-joins-hf",
     "company": "Hugging Face",
     "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
@@ -1568,7 +1568,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwE1crV8&_nc_oc=AdlGcuw6b5Cs04LaPzKsF36P44-rqzr-kvE6SIOINbExXXYDt80deSQ_Sz9atU5OD4M&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=mGjjh9f_b452XuWoZBaGlg&_nc_ss=8&oh=00_AfyyHQHcT2WT4Y7s_YRPaqHArtH0k_O-6vz-OpyV7qgSQg&oe=69CB7D3F",
+    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwFTJaHV&_nc_oc=AdmwYel8sRwRkSoggoMNgAfB9yAGaJs4_9SjE8-ip8j9m0_OGBYe2zlvyns6Gcg238w&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=dnkGg0hhuMA9f48p04Y7tw&_nc_ss=8&oh=00_Afz-uLOzaeUH5Oc4dVvhpeqBWzHbHsSnI3-xMBA_tAHP1A&oe=69CB7D3F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2721,7 +2721,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwFF0uPE&_nc_oc=AdmpuKLKSFe3xOGgaHTEaBtBhy6_Q_vkhQ194vOxQkn4YKZ51gzZoLSfniPZJlUfTJY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=RQoSWTsCos9ClfgNNBVFtg&_nc_ss=8&oh=00_Afz6dfZ3-_2nCdnVYphAaHHDYqoXvW559FU_2uHw8v4R-Q&oe=69CB8677",
+    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwGvI9qr&_nc_oc=Adn5Ca38bcvwlSBLuSy0u8ZxS0X21vzjmcyhd9bJRDOJj2CVQeUrOR2dqV9Lbvh5hh0&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=tZ_2MMcCwXHBF4WYy8LYRg&_nc_ss=8&oh=00_AfyIiz1GuQLN2m7jGA23Ter-wIPpxMayyviXs6NGcGYgew&oe=69CB8677",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2733,7 +2733,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwGKsmhC&_nc_oc=AdmAVmlcLnpKyjz0T9dadfFWhgKdyCIl0nyH1ul3bfJMvTsQPwqo6jp6a4SucXOwk7M&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=veXI4O4vpETlEggUgQGHXQ&_nc_ss=8&oh=00_AfwfxFcebKOPOqC5ojvkDT7AtVBZkKR3Vfk5oVrakBcfcA&oe=69CB6A97",
+    "image": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwFeKyFQ&_nc_oc=AdmndxjgaT8ugBgOgqccyUr0lgbxzA5j2_DhzY7MQPsVxmF4f-axrH7HSDIcClfmvOY&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=1BekcPyIbTlNEVmbiBzbAw&_nc_ss=8&oh=00_AfxrRl5PbDK8o3uOdNWScR5Z81ICMBHvbSlzOgTkGKOFbg&oe=69CB6A97",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2917,7 +2917,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=go-vhm2ZpkoQ7kNvwFENbwf&_nc_oc=AdnLo3oK3xZ7xiU09GTdllm6mSE7T7Wn_R2T2jg06imGNzKy8dRqMjvThLxFOWLk21s&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=16Yz_L6aamou3NczjzzMAw&_nc_ss=8&oh=00_AfyZRJXjeufUKeyNH7vhzRkhbDL6cFa3ZPanTd5gccYfig&oe=69CB685B",
+    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=go-vhm2ZpkoQ7kNvwHtswQE&_nc_oc=AdmJpnbpHdnVAcD2Pu6wphSXxtPKqU25zqEIf-CHe4qDe1Dz2Kd1OYsoo8zELEfalCE&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=wR1FniNESsd6znONgG1Rrg&_nc_ss=8&oh=00_Afx0qljohRGnFrJu3xgO3pWpLkU2sa9W0JL6GlyVOlJtMg&oe=69CB685B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
