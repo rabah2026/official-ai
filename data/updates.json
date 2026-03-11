@@ -151,7 +151,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwHV9jFq&_nc_oc=AdmJyYAOI24RmTYlHdiX862ixz7YkH4kQ9Djm2qWwDJoJR_W2YSCM24GkkI-xF_Gnfo&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=lRk8H2bXnpUO9SvzhLdgOQ&_nc_ss=8&oh=00_AfzodrLd0jeEeX7SN6g3FvFAHP4jwUGkgRVmUfX4j31Ybw&oe=69CB8846",
+    "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwGtFxZ_&_nc_oc=AdlFXqj03uNzsvwsZ1AqjHekhCed4bPLeAi7hcsoY8O2iK7aZQsHjsw-AgOho-00X6Y&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=a1b5_eBymxz_XBzYWKJKkw&_nc_ss=8&oh=00_AfxEpEwwkQWc4HIJ1Fwq278kg27JIa-jSsLQ0ByJsFPd4Q&oe=69CB8846",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -226,15 +226,6 @@
     "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/genai-mixture-of-experts-blog-3105601-1920x1080-1.webp",
     "title_ar": "تحديث رسمي: Removing the Guesswork from Disaggregated Serving",
     "summary_ar": "Deploying and optimizing large لغة models (LLMs) for high-أداء, cost-effective serving can be an overwhelming هندسة problem."
-  },
-  {
-    "id": "https://openai.com/index/openai-to-acquire-promptfoo",
-    "company": "OpenAI",
-    "title": "OpenAI to acquire Promptfoo",
-    "date": "2026-03-09T10:00:00.000Z",
-    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
-    "tag": "News",
-    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development."
   },
   {
     "id": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
@@ -798,6 +789,18 @@
     "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/image6.webp",
     "title_ar": "5 جديد Digital Twin Products Developers Can Use to Build 6G Networks",
     "summary_ar": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: كيفية design, train, and validate AI-native networks that are too complex to…"
+  },
+  {
+    "id": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "company": "OpenAI",
+    "title": "OpenAI to acquire Promptfoo",
+    "date": "2026-02-28T12:30:00.000Z",
+    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "tag": "Security",
+    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2l5nfItID8KM3c99MpQSbH/e0e585f9f8c924b6a95d2fda52def6c4/Promptfoo__3_.png?w=1600&h=900&fit=fill",
+    "title_ar": "تحديث رسمي: OpenAI to acquire Promptfoo",
+    "summary_ar": "OpenAI is acquiring Promptfoo, an AI أمن منصة that helps enterprises identify and remediate vulnerabilities in AI systems during development."
   },
   {
     "id": "https://openai.com/index/our-agreement-with-the-department-of-war",
@@ -1565,7 +1568,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwGQuH6Y&_nc_oc=Adn9LcrQUFs4S1460gRXyNpBn5hp6p07ewKNR-edbxciwF_oq_Ucmyahz5fQ6Et19YE&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=NVT6Oqrttb08RkaCz5uBbQ&_nc_ss=8&oh=00_AfwP2JOCt1EinYifZLHrIndCiLFMfbpWG268QiJYs1A2gg&oe=69CB7D3F",
+    "image": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwFnNyWz&_nc_oc=AdnV24Sb5sHRfVWd5lzFVuzLaUyFoeF1M49z4aKCmSuD490fDQSjfLDJLJyNSCb6Scg&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=5tJYNObyXKO2-5WLPlxzlw&_nc_ss=8&oh=00_Afxg6zVedvfw0YCW-PHwhA_5dMNT2MwNTOcdPdzDmfu6PQ&oe=69CB7D3F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2718,7 +2721,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwEzuokm&_nc_oc=AdkENkAjlSI-ZeptoYoF0FNOWforHUYi1a6skw35VZB4nVDyetqrr9BthHFjTrwBhS0&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=Lbh1QQGVwI87gmfn5zVA9Q&_nc_ss=8&oh=00_Afz4-tfHjc08CVQgaFMfML4pc01XMl4YBYFrJ0nRPZ-09A&oe=69CB8677",
+    "image": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwHWT8Es&_nc_oc=AdnDlxNgFdusfZJhZqzkKL9Yc42b9xgNjpArde7aj4oRWQ1eXHXRhMSrKGcxOoMffIE&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=p6d_ILE8VqlPejy7rQfcIw&_nc_ss=8&oh=00_Afz7HyRC-CdH7rxba8YBUl68LPYkiEa_avkswOmFpHYJYA&oe=69CB8677",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2730,7 +2733,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwG_XZM4&_nc_oc=Adm5P9qER5AKgJKtXjEoCTpYDu1dgm4qm2mg3k-zlvocwkh4JdfR6P7ls5xSoHuuFUA&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=rWIWDXX3SnemFl9cSDa4_w&_nc_ss=8&oh=00_AfxHxlZOecQWTUo5GYP0SycZZbqCCuWpzSiwujx2uEIdvA&oe=69CB6A97",
+    "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwHWGstu&_nc_oc=AdnMqPth70M2I0eUXMwrUvQHRiCP4JNiyQgLjYcxrL6Z6eobkbNj_4YYQWPvweVNzWM&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=OJoo0jWoUEynZdmYG6pPFQ&_nc_ss=8&oh=00_AfwD37mVsrLgQj-ri3Ja5F488-lRgT4ZsYwajq_8bIRwKA&oe=69CBA2D7",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -2914,7 +2917,7 @@
     "url": "https://ai.meta.com/blog/sam-audio/",
     "tag": "News",
     "summary": "SAM Audio transforms audio processing by making it easy to isolate any sound from complex audio mixtures using natural, multimodal prompts — whether...",
-    "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=go-vhm2ZpkoQ7kNvwEGJCci&_nc_oc=AdkwDmTt9z1FSCfOJwlQ7gV35YxA4l7oBfd4QRvECoHKLo6_f9X3Rt1JLLLPj-wvLsg&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=2ZyyjHoq3xCQBFoBajRUkg&_nc_ss=8&oh=00_AfzEJTN1LOmWbu41Y47tPRaUCsWuu6UbUvN6WbfwQHEoMQ&oe=69CBA09B",
+    "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=go-vhm2ZpkoQ7kNvwGiemad&_nc_oc=AdkRZ3-0PrY7LSCHeHwVKkrUC3gjysRgLonZnj8SDE0OXLnqht5KtXLNXZUa6Al2U28&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=8gsKqRreyfvQDfBifPaV-w&_nc_ss=8&oh=00_AfwxXD1O4ev7EAjYnbGngQhQwvi8qhS_Te7XHUb_14UJrA&oe=69CBA09B",
     "title_ar": "نُقدم لكم SAM صوت: The First Unified متعدد الأنماط نموذج for صوت Separation",
     "summary_ar": "SAM صوت transforms صوت processing by making it easy to isolate any sound from complex صوت mixtures using natural, متعدد الأنماط prompts — whether..."
   },
