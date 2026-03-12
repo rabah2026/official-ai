@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/validate-kubernetes-for-gpu-infrastructure-with-layered-reproducible-recipes/",
+    "company": "NVIDIA",
+    "title": "Validate Kubernetes for GPU Infrastructure with Layered, Reproducible Recipes",
+    "date": "2026-03-12T16:30:00.000Z",
+    "url": "https://developer.nvidia.com/blog/validate-kubernetes-for-gpu-infrastructure-with-layered-reproducible-recipes/",
+    "tag": "Engineering",
+    "summary": "Every AI cluster running on Kubernetes requires a full software stack that works together, from low-level driver and kernel settings to high-level operator and…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/security-social-cve-workflow-3882621-1200x628-1-e1772213795405.webp",
+    "title_ar": "Validate Kubernetes for GPU بنية تحتية with Layered, Reproducible Recipes",
+    "summary_ar": "تحديث رسمي: Every AI cluster running on Kubernetes requires a full software stack that works together, from low-level driver and kernel settings to high-level operator and…"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/build-next-gen-physical-ai-with-edge%e2%80%91first-llms-for-autonomous-vehicles-and-robotics/",
+    "company": "NVIDIA",
+    "title": "Build Next-Gen Physical AI with Edge‑First LLMs for Autonomous Vehicles and Robotics",
+    "date": "2026-03-12T16:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/build-next-gen-physical-ai-with-edge%e2%80%91first-llms-for-autonomous-vehicles-and-robotics/",
+    "tag": "Engineering",
+    "summary": "Physical AI is rapidly evolving, from next-generation software-defined autonomous vehicles (AVs) to humanoid robots. The challenge is no longer how to run a…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/autonomous-vehicle-backseat-view.webp",
+    "title_ar": "تحديث رسمي: Build Next-Gen Physical AI with Edge‑First LLMs for Autonomous Vehicles and Robotics",
+    "summary_ar": "Physical AI is rapidly evolving, from next-generation software-defined autonomous vehicles (AVs) to humanoid robots. The challenge is no longer كيفية run a…"
+  },
+  {
+    "id": "7c994dfa1981d115f890c8cc3d61c771d540e9f6",
+    "company": "Amazon",
+    "title": "Multimodal embeddings at scale: AI data lake for media and entertainment workloads",
+    "date": "2026-03-12T15:59:35.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/",
+    "tag": "News",
+    "summary": "This post shows you how to build a scalable multimodal video search system that enables natural language search across large video datasets using Amazon Nova...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/09/l-ml-20012-featured.png",
+    "title_ar": "متعدد الأنماط embeddings at scale: AI data lake for media and entertainment workloads",
+    "summary_ar": "This post shows you كيفية build a scalable متعدد الأنماط فيديو search نظام that enables natural لغة search across large فيديو datasets using Amazon Nova..."
+  },
+  {
+    "id": "f3b0210d594f74ddd852777305c2ba74342070c8",
+    "company": "Amazon",
+    "title": "Fine-tuning NVIDIA Nemotron Speech ASR o",
+    "date": "2026-03-12T15:57:22.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-nvidia-nemotron-speech-asr-on-amazon-ec2-for-domain-adaptation/",
+    "tag": "Research",
+    "summary": "In this post, we explore how to fine-tune a leaderboard-topping, NVIDIA Nemotron Speech Automatic Speech Recognition (ASR) model; Parakeet TDT 0.6B V2. Using...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/12/ml-19906-1120x630.png",
+    "title_ar": "تحديث رسمي: Fine-tuning NVIDIA Nemotron Speech ASR o",
+    "summary_ar": "In this post, we explore كيفية fine-tune a leaderboard-topping, NVIDIA Nemotron Speech Automatic Speech Recognition (ASR) نموذج; Parakeet TDT 0.6B V2. Using..."
+  },
+  {
     "id": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
     "company": "Google / Gemini",
     "title": "How AI is helping improve heart health in rural Australia",
@@ -115,7 +163,7 @@
     "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
     "tag": "Engineering",
     "summary": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges...",
-    "image": "https://scontent-sin2-2.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=qtHHUAd6cRMQ7kNvwGusmlx&_nc_oc=AdnSdibxi-poDTLXPY4Jjcxqahwh2Ik02e8kmZWJYQADPe4KjmW2-BNjuvN3WWT-kJk&_nc_zt=14&_nc_ht=scontent-sin2-2.xx&_nc_gid=zsprkvRi83D6WvMQ_tAGSg&_nc_ss=8&oh=00_Afx2KrZzriOtmxGE8Ibyif3Z7gTtAXFnpM25D0mPiULpSQ&oe=69CD076C",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=qtHHUAd6cRMQ7kNvwF4J7s4&_nc_oc=Admf0PoDAI2KB-ile4qOo18qJ-EU9uHiyv8JYuG9HzSnQx_EvpV0e0D2SCMoG3mNcIk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=1UBRWSzyfp86ibI6Cl7mbw&_nc_ss=8&oh=00_Afwx7YFZoeKgAwsKk_za6Y2rr51OI4G5tT2ejOdcQ_DMWA&oe=69CD3FAC",
     "title_ar": "Four MTIA Chips in Two Years: توسيع نطاق AI Experiences for Billions",
     "summary_ar": "Serving a wide range of AI models on a عالمي scale, while maintaining the lowest possible costs, is one of the most demanding بنية تحتية challenges..."
   },
@@ -259,7 +307,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-sin6-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwEDXoye&_nc_oc=AdmnzR13VLr0dy8Jzkj_XOnp5NE7EIPhzqJmGJrhfs3oOF0bvoLcdCtVt51XPeY35M4&_nc_zt=14&_nc_ht=scontent-sin6-1.xx&_nc_gid=pQB6IO_t8sQV8m0KNow_5w&_nc_ss=8&oh=00_AfyLk2YcVkFLJtqinn2xjBtr5nNyFou_ujvipfhycs8xWA&oe=69CD1206",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwFdlDVV&_nc_oc=AdlhwGPxBDwe4QfFaOoEzgyxsRSlsUX_b3l0W3LedTE0zGUc5PhkF-gJqPELASNFrCU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Wuyk93682P30e0V6YIJnNA&_nc_ss=8&oh=00_Afz38PdXUOjSjNl652aKi5OM2FwGAjTv9dmHORJNPcFc9Q&oe=69CD1206",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -468,18 +516,6 @@
     "summary_ar": "تحديث رسمي: Learn more about AI Mode in Search’s query fan-out method for visual search."
   },
   {
-    "id": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
-    "company": "NVIDIA",
-    "title": "Tuning Flash Attention for Peak Performance i",
-    "date": "2026-03-05T17:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
-    "tag": "Engineering",
-    "summary": "In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: Environment requirements: See the quickstart…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/CUDA-Tile-Flash-Attention.webp",
-    "title_ar": "Tuning Flash Attention for Peak أداء i",
-    "summary_ar": "تحديث رسمي: In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: Environment requirements: See the quickstart…"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/controlling-floating-point-determinism-in-nvidia-cccl/",
     "company": "NVIDIA",
     "title": "Controlling Floating-Point Determinism i",
@@ -490,6 +526,18 @@
     "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Floating-Point-CUB.webp",
     "title_ar": "تحديث رسمي: Controlling Floating-Point Determinism i",
     "summary_ar": "تحديث رسمي: A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property…"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
+    "company": "NVIDIA",
+    "title": "Tuning Flash Attention for Peak Performance i",
+    "date": "2026-03-05T17:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
+    "tag": "Engineering",
+    "summary": "In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: Environment requirements: See the quickstart…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/CUDA-Tile-Flash-Attention.webp",
+    "title_ar": "Tuning Flash Attention for Peak أداء i",
+    "summary_ar": "تحديث رسمي: In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: Environment requirements: See the quickstart…"
   },
   {
     "id": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
@@ -877,14 +925,11 @@
   {
     "id": "9fb138a73f395d36161642896dfce021092df571",
     "company": "Amazon",
-    "title": "Build safe generative AI applications like a Pro: Best Practices wit",
+    "title": "Build safe generative AI applications like a Pro: Best Practices with Amazon Bedrock Guardrails",
     "date": "2026-03-02T18:48:25.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/",
-    "tag": "Engineering",
-    "summary": "In this post, we will show you how to configure Amazon Bedrock Guardrails for efficient performance, implement best practices to protect your applications, a...",
-    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/02/ML-20338-1120x630.png",
-    "title_ar": "تحديث رسمي: Build safe generative AI applications like a Pro: Best Practices wit",
-    "summary_ar": "In this post, we will show you كيفية configure Amazon Bedrock Guardrails for efficient أداء, implement best practices to protect your applications, a..."
+    "tag": "News",
+    "summary": "In this post, we will show you how to configure Amazon Bedrock Guardrails for efficient performance, implement best practices to protect your applicat"
   },
   {
     "id": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
@@ -934,26 +979,20 @@
   {
     "id": "https://developer.nvidia.com/blog/develop-native-multimodal-agents-with-qwen3-5-vlm-using-nvidia-gpu-accelerated-endpoints/",
     "company": "NVIDIA",
-    "title": "Develop Native Multimodal Agents with Qwen3.5 VLM Usin",
+    "title": "Develop Native Multimodal Agents with Qwen3.5 VLM Using NVIDIA GPU-Accelerated Endpoints",
     "date": "2026-02-27T17:30:00.000Z",
     "url": "https://developer.nvidia.com/blog/develop-native-multimodal-agents-with-qwen3-5-vlm-using-nvidia-gpu-accelerated-endpoints/",
     "tag": "Engineering",
-    "summary": "Alibaba has introduced the new open source Qwen3.5 series built for native multimodal agents. The first model in this series is a ~400B parameter native vision…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/qwen3-5.png",
-    "title_ar": "Develop Native متعدد الأنماط Agents with Qwen3.5 VLM Usin",
-    "summary_ar": "Alibaba has introduced the جديد مصدر مفتوح Qwen3.5 series built for native متعدد الأنماط agents. The first نموذج in this series is a ~400B parameter native رؤية…"
+    "summary": "Alibaba has introduced the new open source Qwen3.5 series built for native multimodal agents. The first model in this series is a ~400B parameter nati"
   },
   {
     "id": "https://developer.nvidia.com/blog/maximizing-gpu-utilization-with-nvidia-runai-and-nvidia-nim/",
     "company": "NVIDIA",
-    "title": "Maximizing GPU Utilization wit",
+    "title": "Maximizing GPU Utilization with NVIDIA Run:ai and NVIDIA NIM",
     "date": "2026-02-27T17:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/maximizing-gpu-utilization-with-nvidia-runai-and-nvidia-nim/",
     "tag": "Engineering",
-    "summary": "Organizations deploying LLMs are challenged by inference workloads with different resource requirements. A small embedding model might use only a few gigabytes…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/genai-visual-mixture-of-experts-3105423-e1772062206929.webp",
-    "title_ar": "تحديث رسمي: Maximizing GPU Utilization wit",
-    "summary_ar": "Organizations deploying LLMs are challenged by استنتاج workloads with different resource requirements. A small embedding نموذج might use only a few gigabytes…"
+    "summary": "Organizations deploying LLMs are challenged by inference workloads with different resource requirements. A small embedding model might use only a few "
   },
   {
     "id": "https://openai.com/index/continuing-microsoft-partnership",
@@ -1055,10 +1094,7 @@
     "date": "2026-02-26T18:16:43.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/",
     "tag": "News",
-    "summary": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help th...",
-    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/26/2026_featuredimages_20620.png",
-    "title_ar": "تحديث رسمي: Learnings from COBOL modernization in the real world",
-    "summary_ar": "تحديث رسمي: Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help th..."
+    "summary": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and "
   },
   {
     "id": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
@@ -1155,24 +1191,6 @@
     "image": "https://huggingface.co/blog/assets/moe-transformers/thumbnail.png",
     "title_ar": "تحديث رسمي: Mixture of Experts (MoEs) in Transformers",
     "summary_ar": "Over the past few years, توسيع نطاق dense لغة models has driven most progress in LLMs. From early models like the original ULMFiT (~30M parameters) or GPT-..."
-  },
-  {
-    "id": "61a60ca498d929c7ad189e9f5d619a92ba5ff859",
-    "company": "Amazon",
-    "title": "Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock",
-    "date": "2026-02-25T20:56:13.000Z",
-    "url": "https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/",
-    "tag": "News",
-    "summary": "In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations "
-  },
-  {
-    "id": "a924887ed9c94798cb934925ac949c00aea76df4",
-    "company": "Amazon",
-    "title": "Building intelligent event agents using Amazon Bedrock AgentCore and Amazon Bedrock Knowledge Bases",
-    "date": "2026-02-25T19:51:08.000Z",
-    "url": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/",
-    "tag": "Engineering",
-    "summary": "This post demonstrates how to quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intel"
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
@@ -1685,7 +1703,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwHuke5F&_nc_oc=AdnK4sejZsAG6ZLDExaGAhZaEE5U1bmpp8dtWbY7CiVS8X1XT6-TmMIvk7p9dGxGyJw&_nc_zt=14&_nc_ht=scontent-sin6-2.xx&_nc_gid=DOotlb_ER55STrsYWqxOSA&_nc_ss=8&oh=00_AfwOsdIa6XavpjoKsEPTO0RzoT6dp0s604z-Zv5rB9UmKA&oe=69CD06FF",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwHSH4uU&_nc_oc=AdnIVkLbH99zxmfaHZT5JDS9s4U9COWo620CoD42sJeEjGAQIAbaMbJ6dsjP8vDiAN8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=iQA5SS9KIoGh5KK6tPjzUA&_nc_ss=8&oh=00_AfzEAPn5OBHTkPlzW6-6wx8Ns4GXTdZoHdMDJrH4ymR5Lg&oe=69CD3F3F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2826,7 +2844,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-sin6-2.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwFCYroc&_nc_oc=Adn7l17y2K3DoxaT9jqfxnIR1pJ4tUW8QOGNz7uAg9vaM4UCWZqPZPa2DXhnZhSjnJg&_nc_zt=14&_nc_ht=scontent-sin6-2.xx&_nc_gid=j1irooiBXEe3PlPUWf-_VQ&_nc_ss=8&oh=00_AfxfHTdxrHLLEVA6k34tNcJXm6PbexOD3xlmxZ60bz22aw&oe=69CD1037",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwGTT6AP&_nc_oc=AdkDtsFPYS8NRu9yQAJmF-4a4xaDS-ZH43m47NP6OIfDapaPglL4xciutMSP-0E0zGc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=f8uK-Ew_Tb8cNLJxy13yOA&_nc_ss=8&oh=00_Afym333sqtd_iOs30wyIh1C7hyQlNWOgYJkJ52jHmBhKhA&oe=69CD4877",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2838,7 +2856,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-sin6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwGDI1sO&_nc_oc=Adn9Dm-ozKNDDR2m1UvNAEFhPWHwty1n0lNNypTad7KroSkKluh0T1u1j3Oh6_M1kOE&_nc_zt=14&_nc_ht=scontent-sin6-1.xx&_nc_gid=NJnU6u5lrrhQhydMSQaQRA&_nc_ss=8&oh=00_Afyx_4fc-D4vdVomy847NKVaye8J8iXwnYVNo-wlHvaJUw&oe=69CD2C97",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwFXEa8F&_nc_oc=Adnb07gktnJGK-6A-9XBAq6y0v8K5uX2g56gz_dKYfSMvwcm42hszODygMUvuhTLgmA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=u5We75gp2Jr28M7RFB7ioA&_nc_ss=8&oh=00_AfzGuLcNbxLd0nWTalHenvSuLRMWSCK9d3IpjPiKw80rdQ&oe=69CD2C97",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -3455,15 +3473,6 @@
     "summary": "The release of NVIDIA CUDA 13.1 introduces tile-based programming for GPUs, making it one of the most fundamental additions to GPU programming since C"
   },
   {
-    "id": "https://developer.nvidia.com/blog/focus-on-your-algorithm-nvidia-cuda-tile-handles-the-hardware/",
-    "company": "NVIDIA",
-    "title": "Focus on Your Algorithm—NVIDIA CUDA Tile Handles the Hardware",
-    "date": "2025-12-04T22:20:42.000Z",
-    "url": "https://developer.nvidia.com/blog/focus-on-your-algorithm-nvidia-cuda-tile-handles-the-hardware/",
-    "tag": "Engineering",
-    "summary": "With its largest advancement since the NVIDIA CUDA platform was invented in 2006, CUDA 13.1 is launching NVIDIA CUDA Tile. This exciting innovation in"
-  },
-  {
     "id": "https://openai.com/global-affairs/openai-for-australia",
     "company": "OpenAI",
     "title": "Introducing OpenAI for Australia",
@@ -3471,15 +3480,6 @@
     "url": "https://openai.com/global-affairs/openai-for-australia",
     "tag": "News",
     "summary": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across"
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/optimize-data-center-efficiency-for-ai-and-hpc-workloads-with-power-profiles/",
-    "company": "NVIDIA",
-    "title": "Optimize Data Center Efficiency for AI and HPC Workloads with Power Profiles",
-    "date": "2025-12-04T17:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/optimize-data-center-efficiency-for-ai-and-hpc-workloads-with-power-profiles/",
-    "tag": "Engineering",
-    "summary": "Exponentially growing computational demand is driving power usage higher and pushing data centers to their limits. With facilities power constrained, "
   },
   {
     "id": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
