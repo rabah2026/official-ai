@@ -175,7 +175,7 @@
     "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
     "tag": "Engineering",
     "summary": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges...",
-    "image": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=qtHHUAd6cRMQ7kNvwGOm6wG&_nc_oc=AdmDSNVGiNOR0IAg2jEfhORU_oSLz9NOooDJ1pzucc9p5HKcEXLMrRJ-hsRuO0LBmAk&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=Ach-KVlKIhL_iJCTCfStAA&_nc_ss=8&oh=00_AfwpuchKM4pyR33LDhOl8JUAtBWtpebvRKOCiNh92eRFRw&oe=69CD3FAC",
+    "image": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=qtHHUAd6cRMQ7kNvwHpSFg8&_nc_oc=AdmASweeSY_Pw0ClRNIWbdezi3MJg8-6sd_VQa2EyY4i9sc6CjoIQOkwdVUfhzGIZWg&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=a5bPnjvrAHjipmTdZ0iJoA&_nc_ss=8&oh=00_AfwCB7X4Rt13sz9HKarTPbZiw1iol_CrwkwIPTHlw2Rk5g&oe=69CD3FAC",
     "title_ar": "Four MTIA Chips in Two Years: توسيع نطاق AI Experiences for Billions",
     "summary_ar": "Serving a wide range of AI models on a عالمي scale, while maintaining the lowest possible costs, is one of the most demanding بنية تحتية challenges..."
   },
@@ -307,7 +307,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwGfdBnX&_nc_oc=AdnMxfygE-uggdTAdseI5SqRv1n-Z2HfZSuCYGRk-e40UUdOj_eFMaHjtnmR3wcFwX8&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=pQF8d7GdfsyEFV5tVI29Eg&_nc_ss=8&oh=00_AfwlBEFId1rSjJFhG2Q5c828teoeS8UQFl1zViy9_lfwmQ&oe=69CD4A46",
+    "image": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwGO5gZy&_nc_oc=Adn66E9FMOvY2XVaDzZDs5-yqWvNGrS3H-qBNE9XQ3IpEYOZSW6tYpOokhp0YH54rw0&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=reUxH0c5F6EYyHnuIcYLdA&_nc_ss=8&oh=00_Afyovi-iXhNTRyxwQHiVGMPGUkTbLYTaoLJkDDpVCFlnOw&oe=69CD4A46",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -944,25 +944,25 @@
     "summary": "In this post, we will show you how to configure Amazon Bedrock Guardrails for efficient performance, implement best practices to protect your applicat"
   },
   {
+    "id": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
+    "company": "NVIDIA",
+    "title": "Building Telco Reasoning Models for Autonomous Networks wit",
+    "date": "2026-03-01T07:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
+    "tag": "Engineering",
+    "summary": "Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/ai-reasoning-networking.webp",
+    "title_ar": "بناء Telco Reasoning Models for Autonomous Networks wit",
+    "summary_ar": "تحديث رسمي: Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications…"
+  },
+  {
     "id": "https://developer.nvidia.com/blog/5-new-digital-twin-products-developers-can-use-to-build-6g-networks/",
     "company": "NVIDIA",
     "title": "5 New Digital Twin Products Developers Can Use to Build 6G Networks",
     "date": "2026-03-01T07:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/5-new-digital-twin-products-developers-can-use-to-build-6g-networks/",
     "tag": "Engineering",
-    "summary": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: how to design, train, and validate AI-native networks that are too complex to…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/image6.webp",
-    "title_ar": "5 جديد Digital Twin Products Developers Can Use to Build 6G Networks",
-    "summary_ar": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: كيفية design, train, and validate AI-native networks that are too complex to…"
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
-    "company": "NVIDIA",
-    "title": "Building Telco Reasoning Models for Autonomous Networks with NVIDIA NeMo",
-    "date": "2026-03-01T07:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
-    "tag": "Engineering",
-    "summary": "Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunicat"
+    "summary": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: how to design, train, and validate AI-native networks that are too c"
   },
   {
     "id": "https://openai.com/index/openai-to-acquire-promptfoo",
@@ -1712,7 +1712,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwH4Uu1W&_nc_oc=Adk4LKr5a7Qt21FZ5epVRmwHiPy-1jJdu8WZo9v2p096LXavnEV27VZLhLz9KLzm0lo&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=XUn6HDB8Sf_wffduE1IVMQ&_nc_ss=8&oh=00_AfwvKyguLFf9T7b70n-Su8O-C-8SXSxpt2dP1s_0Je0w3Q&oe=69CD3F3F",
+    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwHE64b-&_nc_oc=AdkRTg7wP-ozhqoGkh9BGMD7I-rpR9N4BliC1MwFbppDSJnCRUag-EqROkKIfqR8nMc&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=jaYeXEy9vjgskWldzj01AQ&_nc_ss=8&oh=00_Afy_9h0pAgsML-jn5coNb6NJbYHhgN2e0p90Ub-8WJz8iw&oe=69CD3F3F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2853,7 +2853,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwFKNX09&_nc_oc=AdlebCYyJow9FmNtMhe3H-tso-lV2dw3FuBKYyz_nzBGMcYg0GXbOqpzIUvBm7GP7QY&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=FoCir6Jleg1N6EBz8raCQQ&_nc_ss=8&oh=00_Afw3vXHt1FH2EjqUtum7Z9PSH1OXQbNKnlLVMgHG17qxig&oe=69CD4877",
+    "image": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwFNgM4K&_nc_oc=AdnmooQEkNB2Nn6tf2pCSW1RK8eMM-3LM5jZqxiuSDOSQf2CSUQt_OXRYdnrvutjzOU&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=d0vsJDk5MpdxcMTme9JFrg&_nc_ss=8&oh=00_AfzxMfZiYo5VzOyRVs9IHqwcnjkCdNRXWyWIEbPadQCJNA&oe=69CD4877",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2865,7 +2865,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwH-c5Kt&_nc_oc=Adms05EZxkQ1DL6uVKb-gwP1Iaw5hu9-Oia9wY_Q1SrNW8fIC0EVxwLrg0Y1jO1K4Jo&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=0wf5WeSQ6-RSa0d2CRq_FQ&_nc_ss=8&oh=00_AfxztVR7ytITlCQI_3-tOt0f6p2V-5zJ2b146DYbVEeQxw&oe=69CD2C97",
+    "image": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwFttZ5b&_nc_oc=AdksNyTOo18du_XllID1J8hnkCpER9-MR6B8ywyIbaPzVUu4p4zSU9KxU6Fa77Yj5lk&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=YMLloAxIblLwK5FLjAghwQ&_nc_ss=8&oh=00_Afzcg-AjIL1TbMl6p-4pEo6n2XBI3-E8C38jDbqzlVrQxw&oe=69CD2C97",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
