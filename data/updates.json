@@ -223,7 +223,7 @@
     "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
     "tag": "Engineering",
     "summary": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges...",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwECrFRd&_nc_oc=Admc7YMuwr-YwrKL5hCxBFTlbwqvAp5d0gWS2OkyPoHgsCzbs8ClgLjBUqlD9RwcJQQ&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=o9gFzBoCejQ5tdZjW7FhNQ&_nc_ss=8&oh=00_Afz0kbq78EqshcL5LfxF9K0EkYC1gfGCbAOesD_0Js65WA&oe=69CD77EC",
+    "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwH0waAu&_nc_oc=AdlvCXJ15p4ciPkvjhT_Nd2Loz0xFbjtKgsZpPtbxGuP28ZsT0TOz2UX9H3MtkaksLY&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=xGg929Fp2op4Wh31Mxgg3w&_nc_ss=8&oh=00_Afybvptv5sINQEpgIn9ecLCBAz_rfATPfOg-LR0txJjTdA&oe=69CD77EC",
     "title_ar": "Four MTIA Chips in Two Years: توسيع نطاق AI Experiences for Billions",
     "summary_ar": "Serving a wide range of AI models on a عالمي scale, while maintaining the lowest possible costs, is one of the most demanding بنية تحتية challenges..."
   },
@@ -355,7 +355,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwFT3yPk&_nc_oc=Adm53rjJb9gCb9tmLltKx5k5vdreq7Nme2cSyfadMkVzEOMrY6oSnV9e22p3Zv-zCX0&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=ChP3kx536SKRJOBtYq_fsw&_nc_ss=8&oh=00_Afwt62cN8JWTMAgmlOfoX1xWLrE36uHyqrVbC8ot72HLaQ&oe=69CD8286",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwEr5Stc&_nc_oc=AdktdBWulRE07n9nUgTq8p051qgD31hR1cOMAfiE7UdwXN6NvuXHnvY4l3VRn3Yi8uE&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=xDoU8Imt7go1se7t-gw1NQ&_nc_ss=8&oh=00_AfxWunU1NVMlCiV9FtWfLoQzH7WlCCizr7XHKc7YOxGFXg&oe=69CD8286",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -534,7 +534,10 @@
     "date": "2026-03-06T00:00:00.000Z",
     "url": "https://machinelearning.apple.com/research/multi-frequency-fusion",
     "tag": "Research",
-    "summary": "Current face video forgery detectors use wide or dual-stream backbones. We show that a single, lightweight fusion of two handcrafted cues can achieve "
+    "summary": "Current face video forgery detectors use wide or dual-stream backbones. We show that a single, lightweight fusion of two handcrafted cues…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "Multi-Frequency Fusion for Robust فيديو Face Forgery Detection",
+    "summary_ar": "Current face فيديو forgery detectors use wide or dual-stream backbones. We show that a single, lightweight fusion of two handcrafted cues…"
   },
   {
     "id": "semidiscrete-couplings",
@@ -1106,7 +1109,10 @@
     "date": "2026-02-27T00:00:00.000Z",
     "url": "https://machinelearning.apple.com/research/augmenting-app",
     "tag": "Research",
-    "summary": "Large-scale commercial search systems optimize for relevance to drive successful sessions that help users find what they are looking for. To maximize "
+    "summary": "Large-scale commercial search systems optimize for relevance to drive successful sessions that help users find what they are looking for. To…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "توسيع نطاق Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments",
+    "summary_ar": "تحديث رسمي: Large-scale commercial search systems optimize for relevance to drive successful sessions that help users find what they are looking for. To…"
   },
   {
     "id": "we-notice",
@@ -1706,7 +1712,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwFT4Lm7&_nc_oc=AdmHZlft2tOuZyNSoy1IvnW0kG0Tbp8_Mg6KfoS0lxm5GNjNW3FkoY8qBlXeDOLIFsI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=OZRmtz6_Wf19kWYaI0Gkww&_nc_ss=8&oh=00_AfxAb2uVH0FSUERU6nadAVsNc-PaI1JKr0kQr0PydHUHDw&oe=69CD777F",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwG_m8b4&_nc_oc=Admd84c5moTbB3mc0BWSUwWKRbyakhtKuBvutdkDnKqA2RsF-A2l1IlgvGh9ejm5Zek&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=61li7AuIE1bXeO4rW_Ecxw&_nc_ss=8&oh=00_Afx-Ef3S5XHzRxDi4tXPiyAi0CVqBZVl39XfEu7kPYlFAA&oe=69CD777F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2847,7 +2853,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwGzMqA-&_nc_oc=AdlpKKcfQR3DsDB6QtVazdqg7Ki2velUGuz3yQ3htiGiudJnZtAxFiwiasSkTK04krg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=TIETftdqfTchCfAFmWH_yA&_nc_ss=8&oh=00_AfyWEE01N_h6LBcmjI_YnGoaN1nz7fc4GXM-fNRV1QS0zg&oe=69CD80B7",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwHrkyqr&_nc_oc=AdlIpDcIzOUjXpmOTUfrCbgVeNzgxZk4W7yVhq1Gc7VXlO63zVWST3F2Qm7XXM9leAw&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=YOiMW9-AvFd5fq9eguPnZQ&_nc_ss=8&oh=00_Afzni4CtTHof4GgBCXGPJKhPRNTxPbrw_xONDOkdKiugag&oe=69CD80B7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2859,7 +2865,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwGU0uM2&_nc_oc=AdmoxaK9AZzg7jiluHDtzwXXf14TSjEXGaY9cqsaqKlLQrfPSaha7UbZWZ_P4nWtdxM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=eleDm6iR5bSgzXUPXWS1VA&_nc_ss=8&oh=00_Afylhs2pJRG7cst2RuZtd_oUkv8SNOK-Vc9YhPywyHzDIg&oe=69CD9D17",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwFwh5Gh&_nc_oc=AdkavK0G7jIPbINZt652JlP7f9uBPCw_uV5ANYRu4-BJiYuXd5lgLjxH9KAbUFMxQGM&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=bkGw2IenisCbdB9pb2rRPw&_nc_ss=8&oh=00_AfwpxzL6XRstmmhiPnMfkvUa91tdJUWml0X3rUOhveDTLQ&oe=69CD9D17",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
