@@ -12,6 +12,18 @@
     "summary_ar": "A جديد Google AI initiative aims to improve heart health outcomes for people living in remote Australian communities."
   },
   {
+    "id": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
+    "company": "Hugging Face",
+    "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
+    "date": "2026-03-12T03:53:34.635Z",
+    "url": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
+    "tag": "Research",
+    "summary": "NVIDIA AI-Q deep research agent recently achieved first place on both DeepResearch Bench (55.95) and DeepResearch Bench II (54.50), the two primary benchmark...",
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/how-nvidia-won-deepresearch-bench.png",
+    "title_ar": "تحديث رسمي: How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
+    "summary_ar": "NVIDIA AI-Q deep أبحاث وكيل recently achieved first place on both DeepResearch Bench (55.95) and DeepResearch Bench II (54.50), the two primary benchmark..."
+  },
+  {
     "id": "50a7172014425784fb45675c33833391e64c8ebb",
     "company": "Amazon",
     "title": "Operationalizing Agentic AI Part 1: A Stakeholder’s Guide",
@@ -34,18 +46,6 @@
     "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Copy-of-genai-social-nemotron-3-4643900-1920x1080-1.webp",
     "title_ar": "نُقدم لكم Nemotron 3 Super: An Open Hybrid Mamba-Transformer MoE for Agentic Reasoning",
     "summary_ar": "تحديث رسمي: Agentic AI systems need models with the specialized depth to solve dense technical problems autonomously. They must excel at reasoning, coding…"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
-    "company": "Hugging Face",
-    "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
-    "date": "2026-03-11T15:50:15.533Z",
-    "url": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
-    "tag": "Research",
-    "summary": "In large-scale LLM development, improving model quality depends not only on data quantity but also on data quality and specificity. While pretraining dataset...",
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/synthetic-code-concepts.png",
-    "title_ar": "تحديث رسمي: Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
-    "summary_ar": "In large-scale LLM development, improving نموذج quality depends not only on data quantity but also on data quality and specificity. While pretraining dataset..."
   },
   {
     "id": "https://openai.com/index/wayfair",
@@ -115,7 +115,7 @@
     "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
     "tag": "Engineering",
     "summary": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges...",
-    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=qtHHUAd6cRMQ7kNvwHzE0DQ&_nc_oc=Adm-JFPJplG9BnJi8y2Tkl1hTqWt5UCXD2qNmuIlh_9-eS7J6R4M6Ueq_ujO9GBxbEc&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=9NCAC54D4ovyd0e01DOxNQ&_nc_ss=8&oh=00_AfzvqQfzyjTgK0NmHtvHxr0ahUu2Geb-RpYT0oeI-0o67g&oe=69CC5EAC",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=qtHHUAd6cRMQ7kNvwHp0hrH&_nc_oc=AdkGoGWpToE_P0T0Iu7rx3YLyBM2g8WTIrjKzDJN59wnxolBXLxL1Y90ckKIEsDju7M&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=3AqnUK2T9XOO4czc_zN8bA&_nc_ss=8&oh=00_AfxyQrATwy6kKtrAOAtvgKh-eLVv2cigCn-BsuF8xd726w&oe=69CC96EC",
     "title_ar": "Four MTIA Chips in Two Years: توسيع نطاق AI Experiences for Billions",
     "summary_ar": "Serving a wide range of AI models on a عالمي scale, while maintaining the lowest possible costs, is one of the most demanding بنية تحتية challenges..."
   },
@@ -259,7 +259,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwGdXxR4&_nc_oc=Adk4kxji0VaYbDkdhVhZSn8BjD6DrqZDGHU0lmR8x16DEq-R47nO3pFof2OFvhfmVVQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Gndq5y3YiWCunNg60GPvbA&_nc_ss=8&oh=00_AfwPBSaokk1bkl6a43Uw3aeNiUgYpIEBC9fSh_bqniaLDg&oe=69CC6946",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwHFXAiM&_nc_oc=AdnN8CJI-V8g4rSU4u5fDp7C2476BGHQWdIXoZEDcV0YW2-sClm2BB3QTv2Vpd_DLUM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=yV0xlBroXCr1X0e0QHPp7A&_nc_ss=8&oh=00_Afy5oTamaqTJhOFDI_hMCXDPjWNiQ4VS9H6URkw7L57fww&oe=69CC6946",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -1685,7 +1685,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwFcFxIm&_nc_oc=AdmJHqoDbRZihUubqCU6EUVWASLfqyB8siEB1Az7WLakuJ3omFNwcZxxW9wqn0a60q8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_NTXsV5DGPqDsgvGvfNNQA&_nc_ss=8&oh=00_Afz5k4VWMIacY9lmGuRv1OMuIDKq1qVygDBl0OjzhmNVBg&oe=69CC5E3F",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwFroBUS&_nc_oc=AdkPOwgQCcGp6NRO0xNPxw8stN8uSqazBZK1_j7e5hY53CN60iMZrBANMPEM9eqFWn4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=tsIVy-yiVoNArfphbygTNQ&_nc_ss=8&oh=00_Afz2EizS9wYTvZyy-FOyIzYK-Htj31ycdWQV4VIMNmIYvw&oe=69CC967F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2826,7 +2826,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwFl8Foc&_nc_oc=Adm6VJEUOhKiEunaZmNjM3Y8dJfCN6Z4yNlaF58dOTGrS8gkLo4tESEOCu1gCExxbE8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=uuWUOV7yzIXVez2pCoBYEA&_nc_ss=8&oh=00_Afz2bBQKDpISp9Fer53oNhTxQ1AnYWBIfr91mx-x5alc7w&oe=69CC6777",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwFB5XJu&_nc_oc=AdnOdPcpFj9ZaGxge7mxI4fHr4fOSKEjMkBo700q3kkI45p8Ghsi3M6BcuBP5_5jQTs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=U-dgzJ5E1ybBDR9cn2TyWw&_nc_ss=8&oh=00_AfzHIx5WmWmD0KjOETB7bksKPWZgreO_Hzepx4nH9aMQ_w&oe=69CC6777",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2838,7 +2838,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwHUlsMb&_nc_oc=Adl-v4WZ9c7h3t-IuGFNXxketuK8_LC3_sGoAnqxJMrIBsuBEtqR2kTw29Vmq6-dr1I&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ygABjfKGarAwtN0Rb_fTbw&_nc_ss=8&oh=00_AfyaP74GtJiTzMtMOg3lqNvFmL6NpvdkuPfayu1S58AGcA&oe=69CC83D7",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwG12w6z&_nc_oc=AdlCwx_XXF4garvExAdLLoa9Gubv8JbFAXlgHgLt7RJN0kXbPrU4hBIYCPVtri0gwBo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=qJVkz8hQkwCkLNkA-xePHw&_nc_ss=8&oh=00_AfyHOizUrlT8Pfw2N-Uzu3XCAoucOWEpqCvI55sgKMvaZg&oe=69CC83D7",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
