@@ -96,6 +96,18 @@
     "summary_ar": "We’re launching the Claude Partner شبكة, a program for partner organizations helping enterprises adopt Claude."
   },
   {
+    "id": "lito",
+    "company": "Apple",
+    "title": "LiTo: Surface Light Field Tokenization",
+    "date": "2026-03-12T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/lito",
+    "tag": "Research",
+    "summary": "We propose a 3D latent representation that jointly models object geometry and view-dependent appearance. Most prior works focus on either…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: LiTo: Surface Light Field Tokenization",
+    "summary_ar": "تحديث رسمي: We propose a 3D latent representation that jointly models object geometry and view-dependent appearance. Most prior works focus on either…"
+  },
+  {
     "id": "50a7172014425784fb45675c33833391e64c8ebb",
     "company": "Amazon",
     "title": "Operationalizing Agentic AI Part 1: A Stakeholder’s Guide",
@@ -187,7 +199,7 @@
     "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
     "tag": "Engineering",
     "summary": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges...",
-    "image": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwH4tU7m&_nc_oc=Adk_yO6xsiQ6_K0rQ_VwaIBAZ_VkE1bc0qMJ0Qx0iNaWLM0V2n7VgTN53t8bGBLfV9A&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=qjDRIwY9aJI57CtrP0wMBw&_nc_ss=8&oh=00_AfxGKThdG9ZRz2eGnLKwNHdc-SN11L62vgUULLfk_yhY0Q&oe=69CD77EC",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwHxT8XB&_nc_oc=AdlovkICiAew3OzPo_Oq4VoVpuw_reCWP1UZi2aCI3glb_QNEUD1LI7jppT7tRrU0Fw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=UqWNsd292U9YUZpkUlCR5Q&_nc_ss=8&oh=00_AfwvSUKxfW2KvxsZMzWhMOzkR3i69hoAGKdt9hb6D5t2Hg&oe=69CD77EC",
     "title_ar": "Four MTIA Chips in Two Years: توسيع نطاق AI Experiences for Billions",
     "summary_ar": "Serving a wide range of AI models on a عالمي scale, while maintaining the lowest possible costs, is one of the most demanding بنية تحتية challenges..."
   },
@@ -319,7 +331,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwEo2otY&_nc_oc=Adm6wplxJtcm85kHjtUh9hOYkao-sQnKwo84OdvC5rC_IssNd7bspfp_0PxMN9m5UZQ&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=-wwa9VyK5e5yYBBOnF0f8w&_nc_ss=8&oh=00_Afyo_rIjAzi6kyyoGxU4hMZZ6GT3sX-UrLk8-j6srgkgZQ&oe=69CD4A46",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwGdPRjw&_nc_oc=Adn23orD1dgFscnao0LnrlRcj9edImu5Op4vvs6A9_GLDJoPtL7yThHonifPyKhaB0w&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=VTkOC8i-o-TSTYi2cIfI5g&_nc_ss=8&oh=00_Afw5z3WXJkD-1qElUB4qarHoMlMLItPUX-SoAZuBEDwHuA&oe=69CD8286",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -480,18 +492,6 @@
     "summary_ar": "تحديث رسمي: AI models can now independently identify high-severity vulnerabilities in complex software. As we recently documented, Claude found more than 500 zero-day vu..."
   },
   {
-    "id": "multi-frequency-fusion",
-    "company": "Apple",
-    "title": "Multi-Frequency Fusion for Robust Video Face Forgery Detection",
-    "date": "2026-03-06T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/multi-frequency-fusion",
-    "tag": "Research",
-    "summary": "Current face video forgery detectors use wide or dual-stream backbones. We show that a single, lightweight fusion of two handcrafted cues…",
-    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-    "title_ar": "Multi-Frequency Fusion for Robust فيديو Face Forgery Detection",
-    "summary_ar": "Current face فيديو forgery detectors use wide or dual-stream backbones. We show that a single, lightweight fusion of two handcrafted cues…"
-  },
-  {
     "id": "genctrl",
     "company": "Apple",
     "title": "GenCtrl — A Formal Controllability Toolkit for Generative Models",
@@ -502,6 +502,18 @@
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
     "title_ar": "GenCtrl — A Formal Controllability مجموعة أدوات for Generative Models",
     "summary_ar": "تحديث رسمي: As generative models become ubiquitous, there is a critical need for fine-grained control over the generation process. Yet, while controlled…"
+  },
+  {
+    "id": "multi-frequency-fusion",
+    "company": "Apple",
+    "title": "Multi-Frequency Fusion for Robust Video Face Forgery Detection",
+    "date": "2026-03-06T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/multi-frequency-fusion",
+    "tag": "Research",
+    "summary": "Current face video forgery detectors use wide or dual-stream backbones. We show that a single, lightweight fusion of two handcrafted cues…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "Multi-Frequency Fusion for Robust فيديو Face Forgery Detection",
+    "summary_ar": "Current face فيديو forgery detectors use wide or dual-stream backbones. We show that a single, lightweight fusion of two handcrafted cues…"
   },
   {
     "id": "semidiscrete-couplings",
@@ -887,16 +899,16 @@
     "summary_ar": "Learn more about Google DeepMind’s Project Genie and كيفية write prompts to create your own worlds."
   },
   {
-    "id": "hallucination-span-detection",
+    "id": "embridge",
     "company": "Apple",
-    "title": "Learning to Reason for Hallucination Span Detection",
+    "title": "EMBridge: Enhancing Gesture Generalization from EMG Signals through Cross-Modal Representation Learning",
     "date": "2026-03-03T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/hallucination-span-detection",
+    "url": "https://machinelearning.apple.com/research/embridge",
     "tag": "Research",
-    "summary": "Large language models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…",
+    "summary": "Hand gesture classification using high-quality structured data such as videos, im-\nages, and hand skeletons is a well-explored problem in…",
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-    "title_ar": "تحديث رسمي: Learning to Reason for Hallucination Span Detection",
-    "summary_ar": "Large لغة models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…"
+    "title_ar": "تحديث رسمي: EMBridge: Enhancing Gesture Generalization from EMG Signals through Cross-Modal Representation Learning",
+    "summary_ar": "تحديث رسمي: Hand gesture classification using high-quality structured data such as videos, im-\nages, and hand skeletons is a well-explored problem in…"
   },
   {
     "id": "separating-intelligence",
@@ -911,16 +923,16 @@
     "summary_ar": "With the increased deployment of large لغة models (LLMs), one concern is their potential misuse for generating harmful content. Our…"
   },
   {
-    "id": "embridge",
+    "id": "hallucination-span-detection",
     "company": "Apple",
-    "title": "EMBridge: Enhancing Gesture Generalization from EMG Signals through Cross-Modal Representation Learning",
+    "title": "Learning to Reason for Hallucination Span Detection",
     "date": "2026-03-03T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/embridge",
+    "url": "https://machinelearning.apple.com/research/hallucination-span-detection",
     "tag": "Research",
-    "summary": "Hand gesture classification using high-quality structured data such as videos, im-\nages, and hand skeletons is a well-explored problem in…",
+    "summary": "Large language models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…",
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-    "title_ar": "تحديث رسمي: EMBridge: Enhancing Gesture Generalization from EMG Signals through Cross-Modal Representation Learning",
-    "summary_ar": "تحديث رسمي: Hand gesture classification using high-quality structured data such as videos, im-\nages, and hand skeletons is a well-explored problem in…"
+    "title_ar": "تحديث رسمي: Learning to Reason for Hallucination Span Detection",
+    "summary_ar": "Large لغة models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…"
   },
   {
     "id": "f9440a66ce67c0bf41d017c8b67e1c92a3d5d6b5",
@@ -956,25 +968,25 @@
     "summary": "In this post, we will show you how to configure Amazon Bedrock Guardrails for efficient performance, implement best practices to protect your applicat"
   },
   {
-    "id": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
-    "company": "NVIDIA",
-    "title": "Building Telco Reasoning Models for Autonomous Networks wit",
-    "date": "2026-03-01T07:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
-    "tag": "Engineering",
-    "summary": "Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/ai-reasoning-networking.webp",
-    "title_ar": "بناء Telco Reasoning Models for Autonomous Networks wit",
-    "summary_ar": "تحديث رسمي: Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications…"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/5-new-digital-twin-products-developers-can-use-to-build-6g-networks/",
     "company": "NVIDIA",
     "title": "5 New Digital Twin Products Developers Can Use to Build 6G Networks",
     "date": "2026-03-01T07:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/5-new-digital-twin-products-developers-can-use-to-build-6g-networks/",
     "tag": "Engineering",
-    "summary": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: how to design, train, and validate AI-native networks that are too c"
+    "summary": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: how to design, train, and validate AI-native networks that are too complex to…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/image6.webp",
+    "title_ar": "5 جديد Digital Twin Products Developers Can Use to Build 6G Networks",
+    "summary_ar": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: كيفية design, train, and validate AI-native networks that are too complex to…"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
+    "company": "NVIDIA",
+    "title": "Building Telco Reasoning Models for Autonomous Networks with NVIDIA NeMo",
+    "date": "2026-03-01T07:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
+    "tag": "Engineering",
+    "summary": "Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunicat"
   },
   {
     "id": "https://openai.com/index/openai-to-acquire-promptfoo",
@@ -1073,18 +1085,6 @@
     "summary_ar": "تحديث رسمي: Anthropic's response to the Secretary of War and advice for customers"
   },
   {
-    "id": "we-notice",
-    "company": "Apple",
-    "title": "The Way We Notice, That’s What Really Matters: Instantiating UI Components with Distinguishing Variations",
-    "date": "2026-02-27T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/we-notice",
-    "tag": "Research",
-    "summary": "Front-end developers author UI components to be broadly reusable by parameterizing visual and behavioral properties. While flexible, this…",
-    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-    "title_ar": "تحديث رسمي: The Way We Notice, That’s What Really Matters: Instantiating UI Components with Distinguishing Variations",
-    "summary_ar": "تحديث رسمي: Front-end developers author UI components to be broadly reusable by parameterizing visual and behavioral properties. While flexible, this…"
-  },
-  {
     "id": "augmenting-app",
     "company": "Apple",
     "title": "Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments",
@@ -1095,6 +1095,18 @@
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
     "title_ar": "توسيع نطاق Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments",
     "summary_ar": "تحديث رسمي: Large-scale commercial search systems optimize for relevance to drive successful sessions that help users find what they are looking for. To…"
+  },
+  {
+    "id": "we-notice",
+    "company": "Apple",
+    "title": "The Way We Notice, That’s What Really Matters: Instantiating UI Components with Distinguishing Variations",
+    "date": "2026-02-27T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/we-notice",
+    "tag": "Research",
+    "summary": "Front-end developers author UI components to be broadly reusable by parameterizing visual and behavioral properties. While flexible, this…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: The Way We Notice, That’s What Really Matters: Instantiating UI Components with Distinguishing Variations",
+    "summary_ar": "تحديث رسمي: Front-end developers author UI components to be broadly reusable by parameterizing visual and behavioral properties. While flexible, this…"
   },
   {
     "id": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
@@ -1280,28 +1292,16 @@
     "summary_ar": "People are using Claude for increasingly complex work—writing and running code across entire repositories, synthesizing أبحاث from dozens of sources, and ..."
   },
   {
-    "id": "constructive-circuit-amplification",
+    "id": "closing-the-gap",
     "company": "Apple",
-    "title": "Constructive Circuit Amplification: Improving Math Reasoning in LLMs via Targeted Sub-Network Updates",
+    "title": "Closing the Gap Between Text and Speech Understanding in LLMs",
     "date": "2026-02-25T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/constructive-circuit-amplification",
+    "url": "https://machinelearning.apple.com/research/closing-the-gap",
     "tag": "Research",
-    "summary": "Prior studies investigating the internal workings of LLMs have uncovered sparse subnetworks, often referred to as circuits, that are…",
+    "summary": "Large Language Models (LLMs) can be adapted to extend their text capabilities to speech inputs. However, these speech-adapted LLMs…",
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-    "title_ar": "Constructive Circuit Amplification: Improving Math Reasoning in LLMs via Targeted Sub-شبكة Updates",
-    "summary_ar": "تحديث رسمي: Prior studies investigating the internal workings of LLMs have uncovered sparse subnetworks, often referred to as circuits, that are…"
-  },
-  {
-    "id": "automated-recycling-identification-system",
-    "company": "Apple",
-    "title": "A.R.I.S.: Automated Recycling Identification System for E-Waste Classification Using Deep Learning",
-    "date": "2026-02-25T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/automated-recycling-identification-system",
-    "tag": "Research",
-    "summary": "Traditional electronic recycling processes suffer from significant resource loss due to inadequate material separation and identification…",
-    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-    "title_ar": "A.R.I.S.: Automated Recycling Identification نظام for E-Waste Classification Using Deep Learning",
-    "summary_ar": "تحديث رسمي: Traditional electronic recycling processes suffer from significant resource loss due to inadequate material separation and identification…"
+    "title_ar": "تحديث رسمي: Closing the Gap Between Text and Speech Understanding in LLMs",
+    "summary_ar": "Large لغة Models (LLMs) can be adapted to extend their text capabilities to speech inputs. However, these speech-adapted LLMs…"
   },
   {
     "id": "https://openai.com/index/arvind-kc-chief-people-officer",
@@ -1712,7 +1712,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwFQr1LS&_nc_oc=AdnE9-hllx0-_mJGEUGu562zPWWciS8fdx_REKsEtYiHuV5NwAJnEL-Y74BEgPyCqXA&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=49bB23Bhsa7r3liy5IJ2Hw&_nc_ss=8&oh=00_AfztZmste2pHEDiqv7Be9j-wmLJFQiM8M8v-EdUGDy8LuA&oe=69CD777F",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwEGWr3Q&_nc_oc=Adl0Vko9hZu42TnVsx7-_mW0p8rfm7-OJaMJ5bNFy0l15bApsRWfnuvC_M5GoVvK5R4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=no7Bfe9omHhOEr-nUGvlyg&_nc_ss=8&oh=00_AfzB6e2-aMQoRDc4Qawq8DMEpm0FrBgecjOQsldijjZEAA&oe=69CD777F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2853,7 +2853,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwGpabLP&_nc_oc=AdkcasWFzZao0cgiwYt78WGeeC6pVxScyK1V3PMH5Q0QRZEyNnev9Vb8_0iG2YZCILI&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=hzoh1uPfnFjeT9rBwjzyjA&_nc_ss=8&oh=00_Afxbzf_tD2Z4tKNjry26BIv9owEy1hzhPDNMBku0kCKqnQ&oe=69CD4877",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwEPIIdp&_nc_oc=AdmyXdpdZTLzBf3KgjTCjkRzNDXsCXVEr6pnM3M7QKNVretBHCj2IDxU5abKx01jySY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=eoA65nbKRMjl2qZIKvvfjA&_nc_ss=8&oh=00_AfzTCRUA4CSdD6T9mwQBAujEw4zwP6KHeiIC-PPVhEd-Cg&oe=69CD80B7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2865,7 +2865,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwGvUrf3&_nc_oc=AdlPHIyfRs_LCLUHExXByOVvLEKSkgG3hb3bq74Pa1V7oNDZA4JarJ0lfSitry8GX-I&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=O6lDTZJ0i9zb3JvjSbuzTw&_nc_ss=8&oh=00_AfyGE9-2YnRKcQ0erW4bm0-l5XBZ9rplQPeY1-O1LaW5uw&oe=69CD64D7",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwFYiQPz&_nc_oc=AdkzVF8JC0BUw6KlAFi2jJKUHa1eNfQfAO5DXzi6g7xe1s72qrsfHAhXqvjxIOqnX3M&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Teu7ule5LcUxls9Ppzc1tQ&_nc_ss=8&oh=00_AfxROGZpBgS9LkSR8G_-8y3OBwEmmJ8Ims5Fn0X0XDTEqA&oe=69CD64D7",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
