@@ -1,5 +1,29 @@
 [
   {
+    "id": "2c48931233f251a9d27ea54990998190f1b7559b",
+    "company": "Amazon",
+    "title": "Improve operational visibility for inference workloads o",
+    "date": "2026-03-12T21:20:17.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/improve-operational-visibility-for-inference-workloads-on-amazon-bedrock-with-new-cloudwatch-metrics-for-ttft-and-estimated-quota-consumption/",
+    "tag": "Engineering",
+    "summary": "Today, we’re announcing two new Amazon CloudWatch metrics for Amazon Bedrock, TimeToFirstToken and EstimatedTPMQuotaUsage. In this post, we cover how these w...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/12/ml-20654-1120x630.png",
+    "title_ar": "Improve operational visibility for استنتاج workloads o",
+    "summary_ar": "Today, we’re إعلان عن two جديد Amazon CloudWatch metrics for Amazon Bedrock, TimeToFirstToken and EstimatedTPMQuotaUsage. In this post, we cover how these w..."
+  },
+  {
+    "id": "349e4d8ef89a737bc650988a2a05d99ddc08b363",
+    "company": "Amazon",
+    "title": "Secure AI agents with Policy i",
+    "date": "2026-03-12T21:16:50.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/",
+    "tag": "Policy",
+    "summary": "In this post, you will understand how Policy in Amazon Bedrock AgentCore creates a deterministic enforcement layer that operates independently of the agent's...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/12/ml-20050-1120x630.png",
+    "title_ar": "Secure AI agents with سياسة i",
+    "summary_ar": "In this post, you will understand how سياسة in Amazon Bedrock AgentCore creates a deterministic enforcement layer that operates independently of the وكيل's..."
+  },
+  {
     "id": "https://developer.nvidia.com/blog/build-accelerated-differentiable-computational-physics-code-for-ai-with-nvidia-warp/",
     "company": "NVIDIA",
     "title": "Build Accelerated, Differentiable Computational Physics Code for AI wit",
@@ -199,7 +223,7 @@
     "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
     "tag": "Engineering",
     "summary": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges...",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwHxT8XB&_nc_oc=AdlovkICiAew3OzPo_Oq4VoVpuw_reCWP1UZi2aCI3glb_QNEUD1LI7jppT7tRrU0Fw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=UqWNsd292U9YUZpkUlCR5Q&_nc_ss=8&oh=00_AfwvSUKxfW2KvxsZMzWhMOzkR3i69hoAGKdt9hb6D5t2Hg&oe=69CD77EC",
+    "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwG_Z06X&_nc_oc=AdlTIqCQ0Rye_hae_-0gn_b1AfS-p48CBz_T4X3-7gyWnZjIuZ9ip2RicGtFr7CmY6Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=kmSLAw-J0HKc-po2uJMUiw&_nc_ss=8&oh=00_Afzdwl4ifpzg5xBYgjmm6em2wl4bXiapjzdxW00DIddo0A&oe=69CD77EC",
     "title_ar": "Four MTIA Chips in Two Years: توسيع نطاق AI Experiences for Billions",
     "summary_ar": "Serving a wide range of AI models on a عالمي scale, while maintaining the lowest possible costs, is one of the most demanding بنية تحتية challenges..."
   },
@@ -331,7 +355,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwGdPRjw&_nc_oc=Adn23orD1dgFscnao0LnrlRcj9edImu5Op4vvs6A9_GLDJoPtL7yThHonifPyKhaB0w&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=VTkOC8i-o-TSTYi2cIfI5g&_nc_ss=8&oh=00_Afw5z3WXJkD-1qElUB4qarHoMlMLItPUX-SoAZuBEDwHuA&oe=69CD8286",
+    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwH1LSKc&_nc_oc=AdkPsxYfAtVtFZsFqszeMfKPUZ23AJsCxQTqpcm5nePcQO4lKVAFNQDaQX0rRpBHxWY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PSEgVJOjziY7hRMxLlkopQ&_nc_ss=8&oh=00_AfzRFDmHPLrhpBrRs2xIsZ1fsDerYb8tmHUZANmSDbziKQ&oe=69CD8286",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -940,23 +964,17 @@
     "title": "Building specialized AI without sacrificing intelligence: Nova Forge data mixing in action",
     "date": "2026-03-02T19:32:47.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/building-specialized-ai-without-sacrificing-intelligence-nova-forge-data-mixing-in-action/",
-    "tag": "Research",
-    "summary": "In this post, we share results from the AWS China Applied Science team's comprehensive evaluation of Nova Forge using a challenging Voice of Customer (VOC) c...",
-    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/02/ml-20456-1120x630.png",
-    "title_ar": "بناء specialized AI without sacrificing ذكاء: Nova Forge data mixing in action",
-    "summary_ar": "تحديث رسمي: In this post, we share results from the AWS China Applied Science team's comprehensive evaluation of Nova Forge using a challenging Voice of Customer (VOC) c..."
+    "tag": "Engineering",
+    "summary": "In this post, we share results from the AWS China Applied Science team's comprehensive evaluation of Nova Forge using a challenging Voice of Customer "
   },
   {
     "id": "214078cbb945cc88c6457194d6d9c3916f460755",
     "company": "Amazon",
-    "title": "Build a serverless conversational AI agent using Claude with LangGraph and managed MLflow o",
+    "title": "Build a serverless conversational AI agent using Claude with LangGraph and managed MLflow on Amazon SageMaker AI",
     "date": "2026-03-02T18:51:43.000Z",
     "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-conversational-ai-agent-using-claude-with-langgraph-and-managed-mlflow-on-amazon-sagemaker-ai/",
     "tag": "News",
-    "summary": "This post explores how to build an intelligent conversational agent using Amazon Bedrock, LangGraph, and managed MLflow on Amazon SageMaker AI.",
-    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/02/ml-18704-1120x630.png",
-    "title_ar": "Build a serverless conversational AI وكيل using Claude with LangGraph and managed MLflow o",
-    "summary_ar": "This post explores كيفية build an intelligent conversational وكيل using Amazon Bedrock, LangGraph, and managed MLflow on Amazon SageMaker AI."
+    "summary": "This post explores how to build an intelligent conversational agent using Amazon Bedrock, LangGraph, and managed MLflow on Amazon SageMaker AI."
   },
   {
     "id": "9fb138a73f395d36161642896dfce021092df571",
@@ -1140,24 +1158,6 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_TextTranslate_1920x1080_Still_01.max-1440x810.png",
     "title_ar": "Get more context and understand translations more deeply with جديد AI-powered updates in Translate.",
     "summary_ar": "جديد alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural لغة."
-  },
-  {
-    "id": "56b7071fcad978cd7a0b21f92935baa1b153cbfd",
-    "company": "Amazon",
-    "title": "Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback",
-    "date": "2026-02-26T17:48:37.000Z",
-    "url": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/",
-    "tag": "Research",
-    "summary": "In this post, we explore reinforcement fine-tuning (RFT) for Amazon Nova models, which can be a powerful customization technique that learns through e"
-  },
-  {
-    "id": "d3037eba588da28f924207de615e7ed509228ce3",
-    "company": "Amazon",
-    "title": "Large model inference container – latest capabilities and performance enhancements",
-    "date": "2026-02-26T17:45:59.000Z",
-    "url": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
-    "tag": "Engineering",
-    "summary": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded mo"
   },
   {
     "id": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
@@ -1712,7 +1712,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwEGWr3Q&_nc_oc=Adl0Vko9hZu42TnVsx7-_mW0p8rfm7-OJaMJ5bNFy0l15bApsRWfnuvC_M5GoVvK5R4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=no7Bfe9omHhOEr-nUGvlyg&_nc_ss=8&oh=00_AfzB6e2-aMQoRDc4Qawq8DMEpm0FrBgecjOQsldijjZEAA&oe=69CD777F",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwGRwFKY&_nc_oc=Admgim3ResKtbi7Stb3Gp4SgxOrkuFpgwr_4J-NpU9Xs9AKIaILriPMd1RiofO1DxEY&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=OjByE1lJJeLrp7q17eJ33A&_nc_ss=8&oh=00_AfwnxHe4L1ruCKOpGdATArocjEzSJxNKBsYCK7J-BIl1Pg&oe=69CD777F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2853,7 +2853,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwEPIIdp&_nc_oc=AdmyXdpdZTLzBf3KgjTCjkRzNDXsCXVEr6pnM3M7QKNVretBHCj2IDxU5abKx01jySY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=eoA65nbKRMjl2qZIKvvfjA&_nc_ss=8&oh=00_AfzTCRUA4CSdD6T9mwQBAujEw4zwP6KHeiIC-PPVhEd-Cg&oe=69CD80B7",
+    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwE8JMtY&_nc_oc=AdlWQPC3H82G0wEHquKL4QV0lw19JOwxh-VWglam26A1B0r-K4KOJoJ7X_yx_V89zrs&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=qZcDX_Gfj6yn__746Y0moQ&_nc_ss=8&oh=00_Afx-YKx-nDQBpZZC6A8FmANMyCY2K8er5QBQA8RRKXVmUw&oe=69CD80B7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2865,7 +2865,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwFYiQPz&_nc_oc=AdkzVF8JC0BUw6KlAFi2jJKUHa1eNfQfAO5DXzi6g7xe1s72qrsfHAhXqvjxIOqnX3M&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Teu7ule5LcUxls9Ppzc1tQ&_nc_ss=8&oh=00_AfxROGZpBgS9LkSR8G_-8y3OBwEmmJ8Ims5Fn0X0XDTEqA&oe=69CD64D7",
+    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwGjVfiJ&_nc_oc=Adkj9TE7ZZ-JGxrm6qRKD9gj_h73oPiCPvjt5UzFswuhqM8rU1afWypll43JibYtk2A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iCVMDnaMnoNJcRVTNVAzSA&_nc_ss=8&oh=00_Afz5l_PkaUbgwkxCKrzEICFF9X2sCrpTvYZqdssVt9HpMA&oe=69CD64D7",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
