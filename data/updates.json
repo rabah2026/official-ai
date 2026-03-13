@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
+    "company": "Hugging Face",
+    "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
+    "date": "2026-03-13T01:02:47.101Z",
+    "url": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
+    "tag": "Research",
+    "summary": "The success of the multi-phase approach on the challenging DABStep benchmark validates the strategy of separating foundational knowledge building from rapid ...",
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place.png",
+    "title_ar": "Build an وكيل That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable أداة Generation",
+    "summary_ar": "The success of the multi-phase approach on the challenging DABStep benchmark validates the strategy of separating foundational knowledge بناء from rapid ..."
+  },
+  {
     "id": "2c48931233f251a9d27ea54990998190f1b7559b",
     "company": "Amazon",
     "title": "Improve operational visibility for inference workloads o",
@@ -94,18 +106,6 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIHealth_v2_2096x1182_02.width-1300.jpg",
     "title_ar": "تحديث رسمي: How AI is helping improve heart health in rural Australia",
     "summary_ar": "A جديد Google AI initiative aims to improve heart health outcomes for people living in remote Australian communities."
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
-    "company": "Hugging Face",
-    "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
-    "date": "2026-03-12T03:53:34.635Z",
-    "url": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
-    "tag": "Research",
-    "summary": "NVIDIA AI-Q deep research agent recently achieved first place on both DeepResearch Bench (55.95) and DeepResearch Bench II (54.50), the two primary benchmark...",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/6972e0ac2ef5ed3b506c731f/0Pj1joFkWDX6nrQrZ-Yt8.png",
-    "title_ar": "تحديث رسمي: How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
-    "summary_ar": "NVIDIA AI-Q deep أبحاث وكيل recently achieved first place on both DeepResearch Bench (55.95) and DeepResearch Bench II (54.50), the two primary benchmark..."
   },
   {
     "id": "https://www.anthropic.com/news/claude-partner-network",
@@ -223,7 +223,7 @@
     "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
     "tag": "Engineering",
     "summary": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges...",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwGGpQA7&_nc_oc=AdlXj-4taE_uxeRV7U9k6MABgGTs_krbSxik1ImKwCHyUDsLUDBlY9tcrgkcnOfYgdc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=OKmXiUnKhYFMXZY0SEE-Rg&_nc_ss=8&oh=00_AfyXk6pt8CVrG1iJmG5vyJpGKRcnGxIVmnCwZOLrPryTgQ&oe=69CDB02C",
+    "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwEgfRHY&_nc_oc=AdmSu9kgxLzvRloo7m1QWA9yxdTEPzRIjBR_qxlL1UinDP_zaCpZfjT3iBcsxez5d2o&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=NhcMNeIpftHp3C7VCtVwjQ&_nc_ss=8&oh=00_AfxtQNKFdvoM_s02TD2lVJYASMu_8JqH_79dAHC1MfGn5A&oe=69CDB02C",
     "title_ar": "Four MTIA Chips in Two Years: توسيع نطاق AI Experiences for Billions",
     "summary_ar": "Serving a wide range of AI models on a عالمي scale, while maintaining the lowest possible costs, is one of the most demanding بنية تحتية challenges..."
   },
@@ -355,7 +355,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwEEMU09&_nc_oc=AdnupY9qm26Los4lajIf9cXDAOuhbVDkURqgbYxU-3LhxLhZ-SyKWX5W1LcpWYDM0Ho&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=r7UxgDp8ZERkoRznluEQNA&_nc_ss=8&oh=00_AfxIUFfSMiJr-cA2_Ne3hqCheuhIZSAmjeIB-Z8jdee9wQ&oe=69CDBAC6",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwHNiSI8&_nc_oc=AdleeQmC5P3eUDerG9Btg4bfbdD8ClOJkESAV9tPuBLWQYWOl0UvUs11zL2T5KmbVWc&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=iEnVYAtduPDGPpLL0WcZnw&_nc_ss=8&oh=00_AfwqCxHXjc_kEVOZaNB0j0FyQSRHoT8mrAcMSqLx2IbdPQ&oe=69CDBAC6",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -1712,7 +1712,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwEkbUaA&_nc_oc=AdlXWKWbIs3RNiRBDBEt-Xqm5zs2nz2wP811zwe4l5xhMrZn3sptVY-4-EljiEX-7y8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=NK1R7z8Sy3zI--YNev4gQw&_nc_ss=8&oh=00_Afwsaa5uMQoN75rLqbGxPLbJB-pFNy6KMfelONbCYkNL7g&oe=69CDAFBF",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=W-LduWeqrUgQ7kNvwE3MRu4&_nc_oc=AdkYOetUVnyRmmWGpCf9sHVzL877AadbHCMuSjjxhW1tJmsQT5OT3GjWjbanXKh4O8w&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=7MLlf2XnYqy4yyAmJJ9gvQ&_nc_ss=8&oh=00_AfzcZpZ4y0wc_TWz-RvHmHP8KAoMhaFjp28ZpVx2gGjR7Q&oe=69CDAFBF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2853,7 +2853,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwG_E19I&_nc_oc=AdkRPu3uSrl8g-2erRSIL1TLPNCO4Va5bE3ecFgt8ez4Rx1JuUYglPxUPg-OPBovsAI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Ty2LJygoSgoALxe6zr6B2A&_nc_ss=8&oh=00_AfyM2Qsr3xCcFh_JSIkhzelBF9VVjsm1tzql6ruDtLghDw&oe=69CDB8F7",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=2dRVdJ6zPX4Q7kNvwGKiV2H&_nc_oc=AdlQmNluSICUP2408qM0HBrJEg1J3Ih6Rj4Z_c2OmBuhcUQUJcNko-iDGwP7ggOfzIU&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=BPTRlVODUoBL32IpO3SCcg&_nc_ss=8&oh=00_AfxvehX8QTVC8QsWBzzgX22prQqoTj8ASDZosBCp7Q4aSg&oe=69CDB8F7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2865,7 +2865,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwHRXC3X&_nc_oc=Adlfvd-bJnkOrkuchCp7kSfigiYmxwB7rnFLihtoqmnRlDnS4jt1MakDfCURdE-jCQ4&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=dsZD6-IpHfQzskf7kSBkig&_nc_ss=8&oh=00_Afxgbu_Dfx3eN8kP8ueit7oFDmXZIYbs0Csf_dcFvCaAiw&oe=69CD9D17",
+    "image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwF8BHhd&_nc_oc=AdmwtMM_fUggbJsDit3DA-q2CYJxkMU3zj5PIOBjqHabVp_liFZYEgcqhpz5t8nj4Z8&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=YS91nvfldLk5ZUHTFBr8lQ&_nc_ss=8&oh=00_AfxAkrPqI1TRnKdP8imHoohyA17vZWMajAsTu2NAM77xow&oe=69CD9D17",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
