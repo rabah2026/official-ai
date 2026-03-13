@@ -12,15 +12,6 @@
     "summary_ar": "The next generation of AI-driven robots like humanoids and autonomous vehicles depends on high-fidelity, physics-aware تدريب data."
   },
   {
-    "id": "https://developer.nvidia.com/blog/scale-synthetic-data-and-physical-ai-reasoning-with-nvidia-cosmos-world-foundation-models-2/",
-    "company": "NVIDIA",
-    "title": "Scale Synthetic Data and Physical AI Reasoning with NVIDIA Cosmos World Foundation Models",
-    "date": "2026-03-13T16:00:47.000Z",
-    "url": "https://developer.nvidia.com/blog/scale-synthetic-data-and-physical-ai-reasoning-with-nvidia-cosmos-world-foundation-models-2/",
-    "tag": "Engineering",
-    "summary": "The next generation of AI-driven robots like humanoids and autonomous vehicles depends on high-fidelity, physics-aware training data. Without diverse "
-  },
-  {
     "id": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
     "company": "Hugging Face",
     "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
@@ -31,6 +22,18 @@
     "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place.png",
     "title_ar": "Build an وكيل That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable أداة Generation",
     "summary_ar": "The success of the multi-phase approach on the challenging DABStep benchmark validates the strategy of separating foundational knowledge بناء from rapid ..."
+  },
+  {
+    "id": "multilingual-reasoning-gym",
+    "company": "Apple",
+    "title": "Multilingual Reasoning Gym: Multilingual Scaling of Procedural Reasoning Environments",
+    "date": "2026-03-13T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/multilingual-reasoning-gym",
+    "tag": "Research",
+    "summary": "We present the Multilingual Reasoning Gym, an extension of Reasoning Gym (Stojanovski et al., 2025), that procedurally generates verifiable…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "Multilingual Reasoning Gym: Multilingual توسيع نطاق of Procedural Reasoning Environments",
+    "summary_ar": "تحديث رسمي: We present the Multilingual Reasoning Gym, an extension of Reasoning Gym (Stojanovski et al., 2025), that procedurally generates verifiable…"
   },
   {
     "id": "macereason-math",
@@ -256,7 +259,7 @@
     "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
     "tag": "Engineering",
     "summary": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges...",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwFbgWq4&_nc_oc=Adm49KVUjbv6X1D8xfXraVUgq_xg9-_hvqLU_GNG0gVs3xLe7eVKYRsYTBHGVnSWVGU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=fDikCSli21uTzpYK55PA-g&_nc_ss=8&oh=00_AfxkXr_XI5GgKtV--PWwIwCdMOWy7lMG7lY5Q-U_s5Zvrg&oe=69CE912C",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwH0--DB&_nc_oc=AdlknZm1vWs0MjylraWi9xyZTcQ8_pCtVZsQS6S0rNBsY9KmqYSFiDqsFLRij0uFzmc&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=Nl_YjHVRViacYFL-WGhNwA&_nc_ss=8&oh=00_AfzwQyNyMqDYi8qs0_7PIWG_AdzdNfW13XAbvh0yuZueAQ&oe=69CE912C",
     "title_ar": "Four MTIA Chips in Two Years: توسيع نطاق AI Experiences for Billions",
     "summary_ar": "Serving a wide range of AI models on a عالمي scale, while maintaining the lowest possible costs, is one of the most demanding بنية تحتية challenges..."
   },
@@ -388,7 +391,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwFhyzff&_nc_oc=AdlnkUb-iI7NasBYCO9mXPIln8T6k4Vgk6bW8Kl9g3iBgmZhcWbiDBijxFAknPRa1eU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=2eD3QC-568fB0Q_eNnGcIw&_nc_ss=8&oh=00_AfwckqdHaGFDRjmcPq8-1bbSqoFLTVs9lxIcBEZiV8FqNw&oe=69CE9BC6",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwGIov9s&_nc_oc=Adn19ANkBRvkB6dCrNBQj-UWPKt8Ls9BYTOOq3b-YZMR9jjeJ2UXqq3h_Lk80yYpdyY&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=hihE40VgeIBOWbQc2Wr7IQ&_nc_ss=8&oh=00_AfzuNJL3hUi07iLSUOF5wqgLIa0nEzTkSCL-nOTR0F6CEQ&oe=69CE9BC6",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -549,18 +552,6 @@
     "summary_ar": "تحديث رسمي: AI models can now independently identify high-severity vulnerabilities in complex software. As we recently documented, Claude found more than 500 zero-day vu..."
   },
   {
-    "id": "semidiscrete-couplings",
-    "company": "Apple",
-    "title": "Flow Matching with Semidiscrete Couplings",
-    "date": "2026-03-06T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/semidiscrete-couplings",
-    "tag": "Research",
-    "summary": "Flow models parameterized as time-dependent velocity fields can generate data from noise by integrating an ODE. These models are often…",
-    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-    "title_ar": "تحديث رسمي: Flow Matching with Semidiscrete Couplings",
-    "summary_ar": "تحديث رسمي: Flow models parameterized as time-dependent velocity fields can generate data from noise by integrating an ODE. These models are often…"
-  },
-  {
     "id": "genctrl",
     "company": "Apple",
     "title": "GenCtrl — A Formal Controllability Toolkit for Generative Models",
@@ -571,6 +562,18 @@
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
     "title_ar": "GenCtrl — A Formal Controllability مجموعة أدوات for Generative Models",
     "summary_ar": "تحديث رسمي: As generative models become ubiquitous, there is a critical need for fine-grained control over the generation process. Yet, while controlled…"
+  },
+  {
+    "id": "semidiscrete-couplings",
+    "company": "Apple",
+    "title": "Flow Matching with Semidiscrete Couplings",
+    "date": "2026-03-06T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/semidiscrete-couplings",
+    "tag": "Research",
+    "summary": "Flow models parameterized as time-dependent velocity fields can generate data from noise by integrating an ODE. These models are often…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: Flow Matching with Semidiscrete Couplings",
+    "summary_ar": "تحديث رسمي: Flow models parameterized as time-dependent velocity fields can generate data from noise by integrating an ODE. These models are often…"
   },
   {
     "id": "multi-frequency-fusion",
@@ -846,11 +849,14 @@
   {
     "id": "https://developer.nvidia.com/blog/cutile-jl-brings-nvidia-cuda-tile-based-programming-to-julia/",
     "company": "NVIDIA",
-    "title": "cuTile.jl Brings NVIDIA CUDA Tile-Based Programming to Julia",
+    "title": "cuTile.jl Bring",
     "date": "2026-03-03T19:48:16.000Z",
     "url": "https://developer.nvidia.com/blog/cutile-jl-brings-nvidia-cuda-tile-based-programming-to-julia/",
     "tag": "Engineering",
-    "summary": "NVIDIA CUDA Tile is one of the most significant additions to NVIDIA CUDA programming and unlocks automatic access to tensor cores and other specialize"
+    "summary": "NVIDIA CUDA Tile is one of the most significant additions to NVIDIA CUDA programming and unlocks automatic access to tensor cores and other specialized hardw...",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/JuliaHub.webp",
+    "title_ar": "تحديث رسمي: cuTile.jl Bring",
+    "summary_ar": "تحديث رسمي: NVIDIA CUDA Tile is one of the most significant additions to NVIDIA CUDA programming and unlocks automatic access to tensor cores and other specialized hardw..."
   },
   {
     "id": "https://huggingface.co/blog/Photoroom/prx-part3",
@@ -953,6 +959,18 @@
     "summary_ar": "Learn more about Google DeepMind’s Project Genie and كيفية write prompts to create your own worlds."
   },
   {
+    "id": "hallucination-span-detection",
+    "company": "Apple",
+    "title": "Learning to Reason for Hallucination Span Detection",
+    "date": "2026-03-03T00:00:00.000Z",
+    "url": "https://machinelearning.apple.com/research/hallucination-span-detection",
+    "tag": "Research",
+    "summary": "Large language models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…",
+    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+    "title_ar": "تحديث رسمي: Learning to Reason for Hallucination Span Detection",
+    "summary_ar": "Large لغة models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…"
+  },
+  {
     "id": "separating-intelligence",
     "company": "Apple",
     "title": "On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment",
@@ -975,18 +993,6 @@
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
     "title_ar": "تحديث رسمي: EMBridge: Enhancing Gesture Generalization from EMG Signals through Cross-Modal Representation Learning",
     "summary_ar": "تحديث رسمي: Hand gesture classification using high-quality structured data such as videos, im-\nages, and hand skeletons is a well-explored problem in…"
-  },
-  {
-    "id": "hallucination-span-detection",
-    "company": "Apple",
-    "title": "Learning to Reason for Hallucination Span Detection",
-    "date": "2026-03-03T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/hallucination-span-detection",
-    "tag": "Research",
-    "summary": "Large language models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…",
-    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-    "title_ar": "تحديث رسمي: Learning to Reason for Hallucination Span Detection",
-    "summary_ar": "Large لغة models (LLMs) often generate hallucinations — unsupported content that undermines reliability. While most prior works frame…"
   },
   {
     "id": "f9440a66ce67c0bf41d017c8b67e1c92a3d5d6b5",
@@ -1140,18 +1146,6 @@
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
     "title_ar": "تحديث رسمي: The Way We Notice, That’s What Really Matters: Instantiating UI Components with Distinguishing Variations",
     "summary_ar": "تحديث رسمي: Front-end developers author UI components to be broadly reusable by parameterizing visual and behavioral properties. While flexible, this…"
-  },
-  {
-    "id": "augmenting-app",
-    "company": "Apple",
-    "title": "Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments",
-    "date": "2026-02-27T00:00:00.000Z",
-    "url": "https://machinelearning.apple.com/research/augmenting-app",
-    "tag": "Research",
-    "summary": "Large-scale commercial search systems optimize for relevance to drive successful sessions that help users find what they are looking for. To…",
-    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-    "title_ar": "توسيع نطاق Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments",
-    "summary_ar": "تحديث رسمي: Large-scale commercial search systems optimize for relevance to drive successful sessions that help users find what they are looking for. To…"
   },
   {
     "id": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
@@ -1727,7 +1721,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=r6T8tDoLqOQQ7kNvwGsaLkV&_nc_oc=AdnYgyrWRWekJPXfTovSvybu8mHHa_ii2pYaLmGqi3WoVQTTakRsRhTkrjzdH6dAU7k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hroFuQYvz7oJtzn0i0DG0Q&_nc_ss=8&oh=00_AfxfzzzTKvAWK4pnXdPAfGb_OLG2DA6W4_cVOnSJbM7APA&oe=69CE90BF",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=r6T8tDoLqOQQ7kNvwE1ECcj&_nc_oc=Adltd5Vk3Vmyg5h8wGtYn5ArN6AN5OxO1pwxTESyZY6GaY-9qcoxmHU7NyCOADZBzOQ&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=70HgYf2cRhDcOBst0TBzLA&_nc_ss=8&oh=00_Afz8hor56-fLcTAhDdeE4kL797xSD44fG-k7PjDTvgu2ng&oe=69CE90BF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2674,7 +2668,7 @@
   {
     "id": "https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/",
     "company": "NVIDIA",
-    "title": "Inside the NVIDIA Rubin Platform: Six New Chips, One AI Supercomputer",
+    "title": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer",
     "date": "2026-01-05T22:20:12.000Z",
     "url": "https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/",
     "tag": "Engineering",
@@ -2868,7 +2862,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=FT1eKgblb2QQ7kNvwGxhpBU&_nc_oc=Adkef7b92_1wMzdCldNawiU3lsfS0vjon2py3VA94OhmO1UpOjv7zs03wlE8eDi8KZ8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=ueljnmvGkl2OPlxLSg0rXw&_nc_ss=8&oh=00_AfxB7dcrr50M6QUVLmdx6WRA8Y82brEOAoSizPzioW3cPA&oe=69CE99F7",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=FT1eKgblb2QQ7kNvwE5Eqrg&_nc_oc=AdkyGa3CpCjyY655LUKMbMY1zvqLKptCxUfjyoByxjcW6lIUR8cSXOrm79zkib32p60&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=LvMnnyxNK7n8sn2irKFC5Q&_nc_ss=8&oh=00_AfzGfqe0kMnIULfXSHKo39_kloqXIgweKLoV5r_0RPEbgA&oe=69CE99F7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2880,7 +2874,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwHgpnb5&_nc_oc=AdneXnnzx4DFt5g3JDuQwbm0zbZBUcumROzvrI1tffgRuCtb5O2PIUuZHlvLJRKj0Hg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Yh5p5DZl_BRnxW5BfYlSnQ&_nc_ss=8&oh=00_Afz8t9ZlXHej7lVuORbgGU3q_viziQKZhRcS2iyMTvq8dw&oe=69CE7E17",
+    "image": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwGsFm8S&_nc_oc=AdmE72qk9StWEX0qhvD39mCYSfvztw1X-1NM7SxQu20D6K7lBBc-t4HYKuebC1bgS7c&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=ZGni4R1YV82fQgrzAKRRHQ&_nc_ss=8&oh=00_AfzbkkGlXBBE1t_uX74awLOdkd3hWbXPVMVIQlpPrJ0Rzw&oe=69CE7E17",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -3460,6 +3454,15 @@
     "url": "https://developer.nvidia.com/blog/nvidia-kaggle-grandmasters-win-artificial-general-intelligence-competition/",
     "tag": "Engineering",
     "summary": "NVIDIA researchers on Friday won a key Kaggle competition many in the field treat as a real-time pulse check on humanity’s progress toward artificial "
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/nvidia-grace-cpu-delivers-high-bandwidth-and-efficiency-for-modern-data-centers/",
+    "company": "NVIDIA",
+    "title": "NVIDIA Grace CPU Delivers High Bandwidth and Efficiency for Modern Data Centers",
+    "date": "2025-12-05T17:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/nvidia-grace-cpu-delivers-high-bandwidth-and-efficiency-for-modern-data-centers/",
+    "tag": "Engineering",
+    "summary": "Since its debut in 2023, the NVIDIA Grace CPU has experienced rapid adoption across data centers, setting new benchmarks for performance efficiency ac"
   },
   {
     "id": "https://huggingface.co/blog/swift-huggingface",
