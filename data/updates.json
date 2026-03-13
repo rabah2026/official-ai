@@ -223,7 +223,7 @@
     "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
     "tag": "Engineering",
     "summary": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges...",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwEQuggB&_nc_oc=Adkxd5uL5vpPfGMtk_0GsiQHURRGwm20wTyJn7bQHPgD5MfXO8PyhcFqrUdzu9fpVTs&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Y45Q0c2vHNQhe7-0z6i9hw&_nc_ss=8&oh=00_Afw0pynFdkS_n3sK4qvmz_Q1E0-sAIiK1gbGjEY2LkbDdQ&oe=69CE20AC",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwGJJHIh&_nc_oc=AdluzQKBsNN79ohkN7ahvoqEFdGQgyZsX9ogisKJAQbOf2w4vfQLLueGjlpEgUaZuFg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=5GPStXYisYErFjxvWohLYw&_nc_ss=8&oh=00_AfxmiyA9cVrqAr-GtiqA6UzcCAY5cLW6YEC7b5umR2Dr0g&oe=69CE20AC",
     "title_ar": "Four MTIA Chips in Two Years: توسيع نطاق AI Experiences for Billions",
     "summary_ar": "Serving a wide range of AI models on a عالمي scale, while maintaining the lowest possible costs, is one of the most demanding بنية تحتية challenges..."
   },
@@ -355,7 +355,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwGTHd6m&_nc_oc=Adl_-ltQz9u3batsivKEdlosZkYtaT95EHIeRLuCi3SkxNaTXCy6eOoLagzNAhMPBRw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=4dllcZlv3gvlpfDqtE4ZaA&_nc_ss=8&oh=00_Afye0Gc5S6jMyEYjzObwarKNNRXi75_i2oBmQvWV1gSOWA&oe=69CE2B46",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwFEBha3&_nc_oc=AdkihGfOktEiKN_BJJwDtyXpyWFtqNOHjKZO3SG9ZwwQvUc6GoTjGW_BY63XEqn3rkI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=C0Hr_Y1xdjlzW61FAhkKVA&_nc_ss=8&oh=00_Afwn1dBXgqUMGJKNCvZbnBfY5oQqoH0he_XS-KLwSQYLXw&oe=69CE2B46",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -518,14 +518,11 @@
   {
     "id": "genctrl",
     "company": "Apple",
-    "title": "GenCtrl — A Formal Controllability Toolkit for Generative Models",
+    "title": "GenCtrl -- A Formal Controllability Toolkit for Generative Models",
     "date": "2026-03-06T00:00:00.000Z",
     "url": "https://machinelearning.apple.com/research/genctrl",
     "tag": "Research",
-    "summary": "As generative models become ubiquitous, there is a critical need for fine-grained control over the generation process. Yet, while controlled…",
-    "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-    "title_ar": "GenCtrl — A Formal Controllability مجموعة أدوات for Generative Models",
-    "summary_ar": "تحديث رسمي: As generative models become ubiquitous, there is a critical need for fine-grained control over the generation process. Yet, while controlled…"
+    "summary": "As generative models become ubiquitous, there is a critical need for fine-grained control over the generation process. Yet, while controlled generatio"
   },
   {
     "id": "multi-frequency-fusion",
@@ -1712,7 +1709,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=r6T8tDoLqOQQ7kNvwF-l_LW&_nc_oc=AdmwV6F-wsTf5cHI0JHwVAqKbED2XWgrhUOUAldZg4MlRmjwzRCnwNePoCbA8q-FfB8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=50kg5TMWHtInJ9AZQPadpg&_nc_ss=8&oh=00_AfxVkmlpvznWs6M3ZDso9TAum5XtDJ0Rw87MXnq2smIkug&oe=69CE203F",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=r6T8tDoLqOQQ7kNvwGNhOZb&_nc_oc=AdmbJ5l3Nucd_DneMznAYS4ufpc5UZkMwXAmXNCqEBg2nraZljMWSyIL6AdTUDQXdRE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=T0v3z5qNTox3uX48Q4IVMg&_nc_ss=8&oh=00_AfwUQcN4WCHUkiD8gLQDAOK-i_zt9IuQiaWLYN3HGrZEsw&oe=69CE203F",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2853,7 +2850,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=FT1eKgblb2QQ7kNvwFuqnXO&_nc_oc=AdlR9dIHPp-xnJ3HBUMlmZ8d75K67J_-cFY_0HNif4s7wzP0KA9Bx7KnsNe_DJueXkA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=PBSqj1UxdqKFJQ-GvI7MXw&_nc_ss=8&oh=00_AfxFvA5VHwR7clslqiKJnWJC2WvGnU6Qmr-UdZPSa414eg&oe=69CE2977",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=FT1eKgblb2QQ7kNvwGxJcsu&_nc_oc=AdkJilJRql9iImfkErRdLeUDorK6tH4Mj6XzyUXumWjUL-uth5O_h9ROpYRiGwHjgjE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=2IhMqUpffQ3tUOKIDc_9xA&_nc_ss=8&oh=00_Afy9QVSa7BjlMZuh6CSayapJKudf21TMBIx88pxdU__mGg&oe=69CE2977",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2865,7 +2862,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwHv9VEB&_nc_oc=Adm8pkzMAI6S3hzBVerkhYc23WGcuBljLAAMRQF34FRUzO9aeAGsaUZvoOj1ZJFcPZw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=EW7nDlbBBF7PCcCvKlTRXQ&_nc_ss=8&oh=00_AfzibWSAK945wbPNtC5oRSLnH6LXOeYu73jhAzJPzLfhkA&oe=69CE0D97",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwHeo9gY&_nc_oc=AdkBncN8iOSW9cUVhRN51_qfcqlUpBs4yIFc6PISmCpnL0ru_nP8gL2S2anwXKfJclE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=8oo7qSTrgQ9tCxg03Fa2cw&_nc_ss=8&oh=00_Afw8hqodjXfJKtBBkrAByKgJxqR9DuaWPgS-O069_k8ZFw&oe=69CE0D97",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
