@@ -1,5 +1,26 @@
 [
   {
+    "id": "https://developer.nvidia.com/blog/scale-synthetic-data-and-physical-ai-reasoning-with-nvidia-cosmos-world-foundation-models/",
+    "company": "NVIDIA",
+    "title": "Scale Synthetic Data and Physical AI Reasoning wit",
+    "date": "2026-03-13T16:00:47.000Z",
+    "url": "https://developer.nvidia.com/blog/scale-synthetic-data-and-physical-ai-reasoning-with-nvidia-cosmos-world-foundation-models/",
+    "tag": "Engineering",
+    "summary": "The next generation of AI-driven robots like humanoids and autonomous vehicles depends on high-fidelity, physics-aware training data.",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/03/virtual-simulation-625x344.gif",
+    "title_ar": "تحديث رسمي: Scale Synthetic Data and Physical AI Reasoning wit",
+    "summary_ar": "The next generation of AI-driven robots like humanoids and autonomous vehicles depends on high-fidelity, physics-aware تدريب data."
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/scale-synthetic-data-and-physical-ai-reasoning-with-nvidia-cosmos-world-foundation-models-2/",
+    "company": "NVIDIA",
+    "title": "Scale Synthetic Data and Physical AI Reasoning with NVIDIA Cosmos World Foundation Models",
+    "date": "2026-03-13T16:00:47.000Z",
+    "url": "https://developer.nvidia.com/blog/scale-synthetic-data-and-physical-ai-reasoning-with-nvidia-cosmos-world-foundation-models-2/",
+    "tag": "Engineering",
+    "summary": "The next generation of AI-driven robots like humanoids and autonomous vehicles depends on high-fidelity, physics-aware training data. Without diverse "
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
     "company": "Hugging Face",
     "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
@@ -223,7 +244,7 @@
     "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
     "tag": "Engineering",
     "summary": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges...",
-    "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwGTHz_F&_nc_oc=AdkRh0AwdQ7KBSvBzBnUXUEO49xxKkFyr85Q1wUo-AfBjfADn52vKQOK6n-fRXSphow&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4caF1DHpynzH2Fin1FHUgg&_nc_ss=8&oh=00_Afz3_tP2dy0BZ-bmjoo9w7DvSbXqoidFdEXw-dEFPqxKyQ&oe=69CE912C",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwGkhYL1&_nc_oc=AdkmNfa56y9UXsXsXziJ0C1cXSQKoc_QdyrVHfqNoKihbI3ZKFFCzC2AJPOcWjQplvY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5phrAsIur7yo1Pf1uNidGg&_nc_ss=8&oh=00_AfwppDZ5UvN84volsx0sEbD_UnAxDyabRM3toNo_jZjOfg&oe=69CE912C",
     "title_ar": "Four MTIA Chips in Two Years: توسيع نطاق AI Experiences for Billions",
     "summary_ar": "Serving a wide range of AI models on a عالمي scale, while maintaining the lowest possible costs, is one of the most demanding بنية تحتية challenges..."
   },
@@ -367,7 +388,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwHrH6gb&_nc_oc=AdnHb7mAjqU7SfdGaQX-4dJqSDZLNRqrbS3se8WssIGa3Pe97HeJcyezGm54HEZ7umQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=uHqma2-Px9G8I7dw81jsRQ&_nc_ss=8&oh=00_AfzkZW84cTkcKZkVKV1EnVcOlUIWB1VwRfO-8H5cxTgSDw&oe=69CE6386",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=IOTwx1ANw8QQ7kNvwGm4kn8&_nc_oc=AdlhwUla56KLLG4dLZ1kuUCp9DyCiFMtk_prkF3NXdFsK4poyXbIDPjdzhR0lpnx15s&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Ry--xJbUQTkOqaYbY_TY8Q&_nc_ss=8&oh=00_AfxCOYGjfvuhLEUVRORBsdTUAVCjmU7cfz_HUiswtR5H8g&oe=69CE6386",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -576,18 +597,6 @@
     "summary_ar": "تحديث رسمي: Learn more about AI Mode in Search’s query fan-out method for visual search."
   },
   {
-    "id": "https://developer.nvidia.com/blog/controlling-floating-point-determinism-in-nvidia-cccl/",
-    "company": "NVIDIA",
-    "title": "Controlling Floating-Point Determinism i",
-    "date": "2026-03-05T17:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/controlling-floating-point-determinism-in-nvidia-cccl/",
-    "tag": "Engineering",
-    "summary": "A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Floating-Point-CUB.webp",
-    "title_ar": "تحديث رسمي: Controlling Floating-Point Determinism i",
-    "summary_ar": "تحديث رسمي: A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property…"
-  },
-  {
     "id": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
     "company": "NVIDIA",
     "title": "Tuning Flash Attention for Peak Performance i",
@@ -598,6 +607,18 @@
     "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/CUDA-Tile-Flash-Attention.webp",
     "title_ar": "Tuning Flash Attention for Peak أداء i",
     "summary_ar": "تحديث رسمي: In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: Environment requirements: See the quickstart…"
+  },
+  {
+    "id": "https://developer.nvidia.com/blog/controlling-floating-point-determinism-in-nvidia-cccl/",
+    "company": "NVIDIA",
+    "title": "Controlling Floating-Point Determinism i",
+    "date": "2026-03-05T17:00:00.000Z",
+    "url": "https://developer.nvidia.com/blog/controlling-floating-point-determinism-in-nvidia-cccl/",
+    "tag": "Engineering",
+    "summary": "A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property…",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Floating-Point-CUB.webp",
+    "title_ar": "تحديث رسمي: Controlling Floating-Point Determinism i",
+    "summary_ar": "تحديث رسمي: A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property…"
   },
   {
     "id": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
@@ -813,14 +834,11 @@
   {
     "id": "https://developer.nvidia.com/blog/cutile-jl-brings-nvidia-cuda-tile-based-programming-to-julia/",
     "company": "NVIDIA",
-    "title": "cuTile.jl Bring",
+    "title": "cuTile.jl Brings NVIDIA CUDA Tile-Based Programming to Julia",
     "date": "2026-03-03T19:48:16.000Z",
     "url": "https://developer.nvidia.com/blog/cutile-jl-brings-nvidia-cuda-tile-based-programming-to-julia/",
     "tag": "Engineering",
-    "summary": "NVIDIA CUDA Tile is one of the most significant additions to NVIDIA CUDA programming and unlocks automatic access to tensor cores and other specialized hardw...",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/JuliaHub.webp",
-    "title_ar": "تحديث رسمي: cuTile.jl Bring",
-    "summary_ar": "تحديث رسمي: NVIDIA CUDA Tile is one of the most significant additions to NVIDIA CUDA programming and unlocks automatic access to tensor cores and other specialized hardw..."
+    "summary": "NVIDIA CUDA Tile is one of the most significant additions to NVIDIA CUDA programming and unlocks automatic access to tensor cores and other specialize"
   },
   {
     "id": "https://huggingface.co/blog/Photoroom/prx-part3",
@@ -988,14 +1006,11 @@
   {
     "id": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
     "company": "NVIDIA",
-    "title": "Building Telco Reasoning Models for Autonomous Networks wit",
+    "title": "Building Telco Reasoning Models for Autonomous Networks with NVIDIA NeMo",
     "date": "2026-03-01T07:00:00.000Z",
     "url": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
     "tag": "Engineering",
-    "summary": "Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications…",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/ai-reasoning-networking.webp",
-    "title_ar": "بناء Telco Reasoning Models for Autonomous Networks wit",
-    "summary_ar": "تحديث رسمي: Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications…"
+    "summary": "Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunicat"
   },
   {
     "id": "https://developer.nvidia.com/blog/5-new-digital-twin-products-developers-can-use-to-build-6g-networks/",
@@ -1712,7 +1727,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=r6T8tDoLqOQQ7kNvwG2gQOw&_nc_oc=AdlzI3rYY_0S5qz8ZpO-ywZgdCtGGWwwwlDMHxuV6T5dRdvrjieWLd7WdkmVlh3Y7U8&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=Bp9bsE3Qhq2CZl75BYlKXQ&_nc_ss=8&oh=00_AfwUIevhVFUr9y1loR6dm4KYE_GsXzY0LxrdiWkLD009pA&oe=69CE90BF",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=r6T8tDoLqOQQ7kNvwFP8Q6K&_nc_oc=Adl2Ed3mAK8Fk745eQ8Rzmwda_SueyNt6Q-Ne1EZVEsPvipc7-gUZy1OKkOKS3_ey_s&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XFiKWcprf-LggGKQHLaRqQ&_nc_ss=8&oh=00_Afxxe4tFsGTL8aGGCpFCt0FEy3W5LkIPazOF8nxTVNd6iQ&oe=69CE90BF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2853,7 +2868,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=FT1eKgblb2QQ7kNvwF2580Q&_nc_oc=AdnsnhH2Gd2bd5q60q72izxsT86R3vJyOo7DvYCxItilPX96QuyZti5PjNi-Aa1vKhI&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=TsAYPFFrp-67WRFSfe9dYw&_nc_ss=8&oh=00_Afwx2e3CTfMKJrZaQdd5qEdnzZE4pf19M1OwehStBShNCg&oe=69CE61B7",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=FT1eKgblb2QQ7kNvwFBWFDv&_nc_oc=AdmtnO2U304-Dnd6FEYtTjlo1LJDVJnPOzVxWocO3RZj4goLETbuiVn33SpHxw5JLUY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=pOIPIiHFTtxL-GfWjzcwFQ&_nc_ss=8&oh=00_AfwSTi7ihVaAaMVuOF3D7k6UzLDvNA0FycnxFQbvDcWTBw&oe=69CE61B7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2865,7 +2880,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwE2g_2Q&_nc_oc=Adk4onpXBVcjRf-KB9EDdJLRlH9Rb0VzEw1S2FJCN7JUHH2HGwFzFpZNSx4rPaWJApU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=bjscHSDDma_0_3rN0kE6oQ&_nc_ss=8&oh=00_Afwsx2kbZsu_vKhR4uTv8uzBxGfeXzPXXbjyqMkQF4oeuw&oe=69CE7E17",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=p8zl-5gZ7tQQ7kNvwGSlk-c&_nc_oc=AdmgvfQR8COq2A3sDkidloZKFARV7L19LOqxXDpH6jmjfXrVEPf3xtVuJA7rgdpIw14&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Thvsvgg9bX9P54BcAuYSsw&_nc_ss=8&oh=00_AfxGpqyX5T0GanwYmr5Rm8CfgkdhKjQcOp6n5Khrwwwftg&oe=69CE7E17",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
@@ -3447,30 +3462,12 @@
     "summary": "NVIDIA researchers on Friday won a key Kaggle competition many in the field treat as a real-time pulse check on humanity’s progress toward artificial "
   },
   {
-    "id": "https://developer.nvidia.com/blog/nvidia-grace-cpu-delivers-high-bandwidth-and-efficiency-for-modern-data-centers/",
-    "company": "NVIDIA",
-    "title": "NVIDIA Grace CPU Delivers High Bandwidth and Efficiency for Modern Data Centers",
-    "date": "2025-12-05T17:00:00.000Z",
-    "url": "https://developer.nvidia.com/blog/nvidia-grace-cpu-delivers-high-bandwidth-and-efficiency-for-modern-data-centers/",
-    "tag": "Engineering",
-    "summary": "Since its debut in 2023, the NVIDIA Grace CPU has experienced rapid adoption across data centers, setting new benchmarks for performance efficiency ac"
-  },
-  {
     "id": "https://huggingface.co/blog/swift-huggingface",
     "company": "Hugging Face",
     "title": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
     "date": "2025-12-05T00:00:00.000Z",
     "url": "https://huggingface.co/blog/swift-huggingface",
     "tag": "News"
-  },
-  {
-    "id": "https://developer.nvidia.com/blog/nvidia-cuda-13-1-powers-next-gen-gpu-programming-with-nvidia-cuda-tile-and-performance-gains/",
-    "company": "NVIDIA",
-    "title": "NVIDIA CUDA 13.1 Powers Next-Gen GPU Programming with NVIDIA CUDA Tile and Performance Gains",
-    "date": "2025-12-04T22:20:56.000Z",
-    "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-1-powers-next-gen-gpu-programming-with-nvidia-cuda-tile-and-performance-gains/",
-    "tag": "Engineering",
-    "summary": "NVIDIA CUDA 13.1 introduces the largest and most comprehensive update to the CUDA platform since it was invented two decades ago.  In this release,..."
   },
   {
     "id": "https://openai.com/global-affairs/openai-for-australia",
