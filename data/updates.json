@@ -12,6 +12,18 @@
     "summary_ar": "تحديث رسمي: In the rapidly evolving landscape of AI retrieval, many solutions are highly specialized, engineered to perform exceptionally well on specific, narrow tasks...."
   },
   {
+    "id": "b35f8e9d8c8db43a7d889abe56bb50d7bc4e70bd",
+    "company": "Amazon",
+    "title": "P-EAGLE: Faster LLM inference with Parallel Speculative Decoding in vLLM",
+    "date": "2026-03-13T19:27:04.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/p-eagle-faster-llm-inference-with-parallel-speculative-decoding-in-vllm/",
+    "tag": "Engineering",
+    "summary": "In this post, we explain how P-EAGLE works, how we integrated it into vLLM starting from v0.16.0 (PR#32887), and how to serve it with our pre-trained checkpo...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/13/ml-20619-1120x630.png",
+    "title_ar": "P-EAGLE: Faster LLM استنتاج with Parallel Speculative Decoding in vLLM",
+    "summary_ar": "In this post, we explain how P-EAGLE works, how we integrated it into vLLM starting from v0.16.0 (PR#32887), and كيفية serve it with our pre-trained checkpo..."
+  },
+  {
     "id": "https://developer.nvidia.com/blog/scale-synthetic-data-and-physical-ai-reasoning-with-nvidia-cosmos-world-foundation-models/",
     "company": "NVIDIA",
     "title": "Scale Synthetic Data and Physical AI Reasoning wit",
@@ -46,6 +58,30 @@
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
     "title_ar": "تحديث رسمي: mAceReason-Math: A Dataset of High-Quality Multilingual Math Problems Ready For RLVR",
     "summary_ar": "تحديث رسمي: Reinforcement Learning with Verifiable Rewards (RLVR) has been successfully applied to significantly boost the capabilities of pretrained…"
+  },
+  {
+    "id": "2c48931233f251a9d27ea54990998190f1b7559b",
+    "company": "Amazon",
+    "title": "Improve operational visibility for inference workloads o",
+    "date": "2026-03-12T21:20:17.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/improve-operational-visibility-for-inference-workloads-on-amazon-bedrock-with-new-cloudwatch-metrics-for-ttft-and-estimated-quota-consumption/",
+    "tag": "Engineering",
+    "summary": "Today, we’re announcing two new Amazon CloudWatch metrics for Amazon Bedrock, TimeToFirstToken and EstimatedTPMQuotaUsage. In this post, we cover how these w...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/12/ml-20654-1120x630.png",
+    "title_ar": "Improve operational visibility for استنتاج workloads o",
+    "summary_ar": "Today, we’re إعلان عن two جديد Amazon CloudWatch metrics for Amazon Bedrock, TimeToFirstToken and EstimatedTPMQuotaUsage. In this post, we cover how these w..."
+  },
+  {
+    "id": "349e4d8ef89a737bc650988a2a05d99ddc08b363",
+    "company": "Amazon",
+    "title": "Secure AI agents with Policy i",
+    "date": "2026-03-12T21:16:50.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/",
+    "tag": "Policy",
+    "summary": "In this post, you will understand how Policy in Amazon Bedrock AgentCore creates a deterministic enforcement layer that operates independently of the agent's...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/12/ml-20050-1120x630.png",
+    "title_ar": "Secure AI agents with سياسة i",
+    "summary_ar": "In this post, you will understand how سياسة in Amazon Bedrock AgentCore creates a deterministic enforcement layer that operates independently of the وكيل's..."
   },
   {
     "id": "https://developer.nvidia.com/blog/build-accelerated-differentiable-computational-physics-code-for-ai-with-nvidia-warp/",
@@ -84,6 +120,30 @@
     "summary_ar": "Physical AI is rapidly evolving, from next-generation software-defined autonomous vehicles (AVs) to humanoid robots. The challenge is no longer كيفية run a…"
   },
   {
+    "id": "7c994dfa1981d115f890c8cc3d61c771d540e9f6",
+    "company": "Amazon",
+    "title": "Multimodal embeddings at scale: AI data lake for media and entertainment workloads",
+    "date": "2026-03-12T15:59:35.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/",
+    "tag": "News",
+    "summary": "This post shows you how to build a scalable multimodal video search system that enables natural language search across large video datasets using Amazon Nova...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/09/l-ml-20012-featured.png",
+    "title_ar": "متعدد الأنماط embeddings at scale: AI data lake for media and entertainment workloads",
+    "summary_ar": "This post shows you كيفية build a scalable متعدد الأنماط فيديو search نظام that enables natural لغة search across large فيديو datasets using Amazon Nova..."
+  },
+  {
+    "id": "f3b0210d594f74ddd852777305c2ba74342070c8",
+    "company": "Amazon",
+    "title": "Fine-tuning NVIDIA Nemotron Speech ASR o",
+    "date": "2026-03-12T15:57:22.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-nvidia-nemotron-speech-asr-on-amazon-ec2-for-domain-adaptation/",
+    "tag": "Research",
+    "summary": "In this post, we explore how to fine-tune a leaderboard-topping, NVIDIA Nemotron Speech Automatic Speech Recognition (ASR) model; Parakeet TDT 0.6B V2. Using...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/12/ml-19906-1120x630.png",
+    "title_ar": "تحديث رسمي: Fine-tuning NVIDIA Nemotron Speech ASR o",
+    "summary_ar": "In this post, we explore كيفية fine-tune a leaderboard-topping, NVIDIA Nemotron Speech Automatic Speech Recognition (ASR) نموذج; Parakeet TDT 0.6B V2. Using..."
+  },
+  {
     "id": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
     "company": "Google / Gemini",
     "title": "How AI is helping improve heart health in rural Australia",
@@ -118,6 +178,18 @@
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
     "title_ar": "تحديث رسمي: LiTo: Surface Light Field Tokenization",
     "summary_ar": "تحديث رسمي: We propose a 3D latent representation that jointly models object geometry and view-dependent appearance. Most prior works focus on either…"
+  },
+  {
+    "id": "50a7172014425784fb45675c33833391e64c8ebb",
+    "company": "Amazon",
+    "title": "Operationalizing Agentic AI Part 1: A Stakeholder’s Guide",
+    "date": "2026-03-11T20:52:23.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/",
+    "tag": "Docs",
+    "summary": "The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this po...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/11/ml-20583-1-1120x630.png",
+    "title_ar": "تحديث رسمي: Operationalizing Agentic AI Part 1: A Stakeholder’s Guide",
+    "summary_ar": "تحديث رسمي: The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this po..."
   },
   {
     "id": "https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/",
@@ -199,9 +271,21 @@
     "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
     "tag": "Engineering",
     "summary": "Serving a wide range of AI models on a global scale, while maintaining the lowest possible costs, is one of the most demanding infrastructure challenges...",
-    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwExnfU2&_nc_oc=AdlgTFqne0dy2hXTyn8eizuopeDLy2EhBFl9hZwIXDxdiYu6PqIu8OgIu6c0fQY94EI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=usir88BuxZoG0WSKhdNlHg&_nc_ss=8&oh=00_AfxMGfkIhWbCVMrewGVwP5lQldrmcwSvamsAcL34MM9oQw&oe=69D01AEC",
+    "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/649719916_2147323009439466_6866394022243367245_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=2uLMWii0PXEQ7kNvwEyNp5i&_nc_oc=AdmkIqLDK7wKOlnAzcW7zcgHE1cwdFFh7FdO3lJyt-3sewB-IdyUcGInwwkH0VdzwRc&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sW6Ogl-Hex9CBvpTuU8ZeA&_nc_ss=8&oh=00_AfyzvybjacSojmy_S0ziNreCd8AxdstrNwhhX7k8G1vn5Q&oe=69D0532C",
     "title_ar": "Four MTIA Chips in Two Years: توسيع نطاق AI Experiences for Billions",
     "summary_ar": "Serving a wide range of AI models on a عالمي scale, while maintaining the lowest possible costs, is one of the most demanding بنية تحتية challenges..."
+  },
+  {
+    "id": "1ddff6acbfc1624a0069de1d46fde1b3c0f3c404",
+    "company": "Amazon",
+    "title": "Accelerate custom LLM deployment: Fine-tune with Oumi and deploy t",
+    "date": "2026-03-10T15:42:16.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-custom-llm-deployment-fine-tune-with-oumi-and-deploy-to-amazon-bedrock/",
+    "tag": "Engineering",
+    "summary": "In this post, we show how to fine-tune a Llama model using Oumi on Amazon EC2 (with the option to create synthetic data using Oumi), store artifacts in Amazo...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/10/ML-19994-1120x630.png",
+    "title_ar": "تحديث رسمي: Accelerate custom LLM deployment: Fine-tune with Oumi and deploy t",
+    "summary_ar": "In this post, we show كيفية fine-tune a Llama نموذج using Oumi on Amazon EC2 (with the option to create synthetic data using Oumi), store artifacts in Amazo..."
   },
   {
     "id": "https://developer.nvidia.com/blog/nvidia-rtx-innovations-are-powering-the-next-era-of-game-development/",
@@ -331,7 +415,7 @@
     "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
     "tag": "Corporate",
     "summary": "Today, in partnership with the World Resources Institute, we’re announcing Canopy Height Maps v2 (CHMv2): an open source model and world-scale maps...",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=OQ_5WeSNvBEQ7kNvwE5RUnY&_nc_oc=AdlCnp7gVfC5dUdSotvAvL5HmTO9JCTi6XY2xtse9fVc40Je5vExm7BOG5sF9MSDK_E&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=V7YBKf775LLBR6Q5K7PE5w&_nc_ss=8&oh=00_AfwU_JINTo1z_FBVAoH-d3pQzOEDQoA0vfzKjpbzj1EfuQ&oe=69D02586",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=OQ_5WeSNvBEQ7kNvwF7Vgbo&_nc_oc=AdkaIMeR9HTcRf5qvsbgzqEoCnfHzT0meJ3dmBof6OB18tBEaOoEFMTbEXDvFRsOsR0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=EWVp_aVaSVN9-hja-HTi7w&_nc_ss=8&oh=00_AfzMHIGUJ5s_pBvRc4Nvy9lDLValNaC5yWLMtwkNsZCeJw&oe=69D02586",
     "title_ar": "Mapping the World's Forests with Greater Precision: نُقدم لكم Canopy Height Maps v2",
     "summary_ar": "Today, in شراكة with the World Resources Institute, we’re إعلان عن Canopy Height Maps v2 (CHMv2): an مصدر مفتوح نموذج and world-scale maps..."
   },
@@ -346,6 +430,30 @@
     "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/cube.png",
     "title_ar": "CUDA 13.2 Introduces Enhanced CUDA Tile Support and جديد Python Features",
     "summary_ar": "CUDA 13.2 arrives with a major تحديث: NVIDIA CUDA Tile is now supported on devices of حوسبة capability 8.X architectures (NVIDIA Ampere and NVIDIA Ada)…"
+  },
+  {
+    "id": "0033d79c2e4120d07a0a30ce63e53ccca50a2414",
+    "company": "Amazon",
+    "title": "Run NVIDIA Nemotron 3 Nano as a fully managed serverless model o",
+    "date": "2026-03-09T20:48:46.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-nano-as-a-fully-managed-serverless-model-on-amazon-bedrock/",
+    "tag": "Release",
+    "summary": "We are excited to announce that NVIDIA’s Nemotron 3 Nano is now available as a fully managed and serverless model in Amazon Bedrock. This follows our earlier...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/09/ML-20305-1120x630.png",
+    "title_ar": "Run NVIDIA Nemotron 3 Nano as a fully managed serverless نموذج o",
+    "summary_ar": "We are excited to announce that NVIDIA’s Nemotron 3 Nano is now available as a fully managed and serverless نموذج in Amazon Bedrock. This follows our earlier..."
+  },
+  {
+    "id": "801637a0574ee0f1a31ce0533191d56ed5333501",
+    "company": "Amazon",
+    "title": "Access Anthropic Claude models in India o",
+    "date": "2026-03-09T20:44:13.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/access-anthropic-claude-models-in-india-on-amazon-bedrock-with-global-cross-region-inference/",
+    "tag": "Docs",
+    "summary": "In this post, you will discover how to use Amazon Bedrock's Global cross-Region Inference for Claude models in India. We will guide you through the capabilit...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/09/ml-20095-1120x630.png",
+    "title_ar": "تحديث رسمي: Access Anthropic Claude models in India o",
+    "summary_ar": "In this post, you will discover كيفية use Amazon Bedrock's عالمي cross-Region استنتاج for Claude models in India. We will guide you through the capabilit..."
   },
   {
     "id": "https://developer.nvidia.com/blog/implementing-falcon-h1-hybrid-architecture-in-nvidia-megatron-core/",
@@ -552,6 +660,28 @@
     "summary_ar": "تحديث رسمي: Here are Google’s latest AI updates from February 2026"
   },
   {
+    "id": "59f9abbdd3547603ba5e15348c7045c9c55f7963",
+    "company": "Amazon",
+    "title": "Drive organizational growth with Amazon Lex multi-developer CI/CD pipeline",
+    "date": "2026-03-05T16:20:13.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/",
+    "tag": "News",
+    "summary": "In this post, we walk through a multi-developer CI/CD pipeline for Amazon Lex that enables isolated development environments, automated testing, and s",
+    "image": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-16626/Lex+at+Scale+Demo.mp4"
+  },
+  {
+    "id": "8f03aeacf5a71d099ced2682e99809acc3a16821",
+    "company": "Amazon",
+    "title": "Building custom model provider for Strands Agents with LLMs hosted on SageMaker AI endpoints",
+    "date": "2026-03-05T16:15:41.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-custom-model-provider-for-strands-agents-with-llms-hosted-on-sagemaker-ai-endpoints/",
+    "tag": "Engineering",
+    "summary": "This post demonstrates how to build custom model parsers for Strands agents when working with LLMs hosted on SageMaker that don't natively support the Bedroc...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/05/ml-19611-1120x630.png",
+    "title_ar": "بناء custom نموذج provider for Strands Agents with LLMs hosted on SageMaker AI endpoints",
+    "summary_ar": "This post demonstrates كيفية build custom نموذج parsers for Strands agents when working with LLMs hosted on SageMaker that don't natively support the Bedroc..."
+  },
+  {
     "id": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
     "company": "Hugging Face",
     "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
@@ -628,6 +758,42 @@
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/faeb5935baa3fba4e4d4459637e83e14d218b648-2400x1260.png",
     "title_ar": "تحديث رسمي: Where things stand with the Department of War",
     "summary_ar": "تحديث رسمي: A statement from Dario Amodei"
+  },
+  {
+    "id": "77e9975639aa1edccbbacdedc087b5dc5a79898f",
+    "company": "Amazon",
+    "title": "Embe",
+    "date": "2026-03-04T21:20:58.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/embed-amazon-quick-suite-chat-agents-in-enterprise-applications/",
+    "tag": "News",
+    "summary": "Organizations find it challenging to implement a secure embedded chat in their applications and can require weeks of development to build authentication, tok...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/04/ml-20358-1120x630.png",
+    "title_ar": "تحديث رسمي: Embe",
+    "summary_ar": "تحديث رسمي: Organizations find it challenging to implement a secure embedded chat in their applications and can require weeks of development to build authentication, tok..."
+  },
+  {
+    "id": "5489ab671f7ce328e4b8422c1b3cd33d12f51e9c",
+    "company": "Amazon",
+    "title": "Unlock powerful call center analytics wit",
+    "date": "2026-03-04T21:16:59.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/unlock-powerful-call-center-analytics-with-amazon-nova-foundation-models/",
+    "tag": "Case Study",
+    "summary": "In this post, we discuss how Amazon Nova demonstrates capabilities in conversational analytics, call classification, and other use cases often relevant to co...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/04/ml-18030-1120x630.png",
+    "title_ar": "تحديث رسمي: Unlock powerful call center analytics wit",
+    "summary_ar": "تحديث رسمي: In this post, we discuss how Amazon Nova demonstrates capabilities in conversational analytics, call classification, and other use cases often relevant to co..."
+  },
+  {
+    "id": "fb0905ad6886947e18542d876e8c2133d0ba5f89",
+    "company": "Amazon",
+    "title": "How Ricoh built a scalable intelligent document processing solution on AWS",
+    "date": "2026-03-04T20:42:45.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-ricoh-built-a-scalable-intelligent-document-processing-solution-on-aws/",
+    "tag": "News",
+    "summary": "This post explores how Ricoh built a standardized, multi-tenant solution for automated document classification and extraction using the AWS GenAI IDP Acceler...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/04/ml-19747-1120x630.png",
+    "title_ar": "تحديث رسمي: How Ricoh built a scalable intelligent document processing solution on AWS",
+    "summary_ar": "تحديث رسمي: This post explores how Ricoh built a standardized, multi-tenant solution for automated document classification and extraction using the AWS GenAI IDP Acceler..."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
@@ -741,6 +907,39 @@
     "summary_ar": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series نموذج yet."
   },
   {
+    "id": "4474a7de670873c4ce044cd6293375ae874eeddb",
+    "company": "Amazon",
+    "title": "Building a scalable virtual try-on solution usin",
+    "date": "2026-03-03T16:23:30.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/",
+    "tag": "Engineering",
+    "summary": "In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to help get...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/03/ml-19300-1120x630.png",
+    "title_ar": "بناء a scalable virtual try-on solution usin",
+    "summary_ar": "تحديث رسمي: In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to help get..."
+  },
+  {
+    "id": "bac610ff2bd913d55f3af2f907c355be87542443",
+    "company": "Amazon",
+    "title": "How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks usin",
+    "date": "2026-03-03T16:18:30.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/",
+    "tag": "Engineering",
+    "summary": "This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they implemente...",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/03/ml-19734-1120x630.png",
+    "title_ar": "تحديث رسمي: How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks usin",
+    "summary_ar": "تحديث رسمي: This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they implemente..."
+  },
+  {
+    "id": "09209e0e7d7a52416b2d2a4398f50bc3380a5b00",
+    "company": "Amazon",
+    "title": "How Tines enhances security analysis with Amazon Quick Suite",
+    "date": "2026-03-03T16:15:06.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-tines-enhances-security-analysis-with-amazon-quick-suite/",
+    "tag": "Security",
+    "summary": "In this post, we show you how to connect Quick Suite with Tines to securely retrieve, analyze, and visualize enterprise data from any security or IT s"
+  },
+  {
     "id": "https://openai.com/index/gpt-5-3-instant-system-card",
     "company": "OpenAI",
     "title": "GPT-5.3 Instant System Card",
@@ -803,6 +1002,33 @@
     "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
     "title_ar": "تحديث رسمي: EMBridge: Enhancing Gesture Generalization from EMG Signals through Cross-Modal Representation Learning",
     "summary_ar": "تحديث رسمي: Hand gesture classification using high-quality structured data such as videos, im-\nages, and hand skeletons is a well-explored problem in…"
+  },
+  {
+    "id": "f9440a66ce67c0bf41d017c8b67e1c92a3d5d6b5",
+    "company": "Amazon",
+    "title": "Building specialized AI without sacrificing intelligence: Nova Forge data mixing in action",
+    "date": "2026-03-02T19:32:47.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-specialized-ai-without-sacrificing-intelligence-nova-forge-data-mixing-in-action/",
+    "tag": "Engineering",
+    "summary": "In this post, we share results from the AWS China Applied Science team's comprehensive evaluation of Nova Forge using a challenging Voice of Customer "
+  },
+  {
+    "id": "214078cbb945cc88c6457194d6d9c3916f460755",
+    "company": "Amazon",
+    "title": "Build a serverless conversational AI agent using Claude with LangGraph and managed MLflow on Amazon SageMaker AI",
+    "date": "2026-03-02T18:51:43.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-conversational-ai-agent-using-claude-with-langgraph-and-managed-mlflow-on-amazon-sagemaker-ai/",
+    "tag": "News",
+    "summary": "This post explores how to build an intelligent conversational agent using Amazon Bedrock, LangGraph, and managed MLflow on Amazon SageMaker AI."
+  },
+  {
+    "id": "9fb138a73f395d36161642896dfce021092df571",
+    "company": "Amazon",
+    "title": "Build safe generative AI applications like a Pro: Best Practices with Amazon Bedrock Guardrails",
+    "date": "2026-03-02T18:48:25.000Z",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/",
+    "tag": "News",
+    "summary": "In this post, we will show you how to configure Amazon Bedrock Guardrails for efficient performance, implement best practices to protect your applicat"
   },
   {
     "id": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
@@ -1495,7 +1721,7 @@
     "url": "https://ai.meta.com/blog/forest-research-dino/",
     "tag": "Research",
     "summary": "Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase...",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=r6T8tDoLqOQQ7kNvwHMb5QL&_nc_oc=Admuyw5we3Gc8_i6WL4vdBeSvFVHD-Pf9ow-d82F0_bTaLVFbv27U7X-4kwWRjcBoZ0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=xpapJLvJRW8PLCmp2itQuQ&_nc_ss=8&oh=00_Afy8ACHsNyj-t6a1-OmMu9lLJrP9AuFEi2Lwh-I652Orxg&oe=69D01A7F",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=r6T8tDoLqOQQ7kNvwGZsfuy&_nc_oc=AdkKlJ2kRMi5ZPCV7oxOFN4RuJeooI3zOenHbas5RV2_Y9Zg0QJo4f7Idp0UD4GocKQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=9fMpUPfBk2PSbinvq5ArZQ&_nc_ss=8&oh=00_Afzu-oYE-2tWbDW5PsET0c6dNgkzVywxM8ZpGjQTsDEW1g&oe=69D052BF",
     "title_ar": "تحديث رسمي: Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO",
     "summary_ar": "Meta's DINOv2 نموذج is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase..."
   },
@@ -2636,7 +2862,7 @@
     "url": "https://ai.meta.com/blog/upenn-dino-sam-helping-medical-triage/",
     "tag": "News",
     "summary": "By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response.",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=FT1eKgblb2QQ7kNvwEipqtC&_nc_oc=AdkUBLVAY0k4vUznPqH7PTXZLaar-77t9bPD0K4sSK4yZxNXUYfwvtJ0-gTGpww3KPs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=s32MbAbo5kgb57B5_fOjfw&_nc_ss=8&oh=00_AfzvwK73a3oSloPqoCYxX3gHWNnHb6f5fLcNLZS0fOyusQ&oe=69D023B7",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=FT1eKgblb2QQ7kNvwGmoa7a&_nc_oc=AdnNNGwOY1pYVQW_BduA_nim7DN0k43FVX82IeQEiQuYBz2NyB4tE_yG3Gwqtsqsb2s&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=09ecsH4hYWjo4mTkwUfHqQ&_nc_ss=8&oh=00_AfyzNhnUKIve0NhaU13GuRRA3zyt7XFUXJvbRJAm2ewStQ&oe=69D023B7",
     "title_ar": "تحديث رسمي: How DINO and SAM are Helping Modernize Essential Medical Triage Practices",
     "summary_ar": "تحديث رسمي: By leveraging advanced AI models, teams at the University of Pennsylvania are aiming to bring cutting-edge automation to emergency response."
   },
@@ -2648,7 +2874,7 @@
     "url": "https://ai.meta.com/blog/usra-sam-flood-emergencies/",
     "tag": "Research",
     "summary": "The Universities Space Research Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey.",
-    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=bXRFTrnSbloQ7kNvwGKppYi&_nc_oc=AdnfiPWcyy_htM-xqpZjLduOFv8H28XRHypcqKhvcjXy4meJFocIy4tF7rqAuKBdPYE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=O1MvC9QRC0f5Yi3knvEkBw&_nc_ss=8&oh=00_Afx0vMVXFplZaZ3X65KLycsGo6ekeJDdBhsTo5wNrRZJLQ&oe=69D04017",
+    "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e280be&_nc_ohc=bXRFTrnSbloQ7kNvwFX47JD&_nc_oc=Adm5Gk5iiO8CZs2NS4v8rgTa27Ogz8tQwBk9OlignanKC-f9QNRVww3YMr6Qr0RKTqU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Pp2E7P3gMIkwdGaHrFF4Ew&_nc_ss=8&oh=00_Afy6RisR_TgEGL9HEzDoO-fjjnKC1ZMpUFWDFySSj9z43w&oe=69D04017",
     "title_ar": "The Universities Space أبحاث Association Applies Segment Anything نموذج for Responding to Flood Emergencies",
     "summary_ar": "The Universities Space أبحاث Association and Meta are collaborating to help support water observing systems set up by the U.S. Geological Survey."
   },
